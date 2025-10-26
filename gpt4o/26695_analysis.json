@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "decline",
+        "confidence": 90
+      },
+      {
+        "word": "controversy",
+        "confidence": 85
+      },
+      {
+        "word": "challenging",
+        "confidence": 82
+      },
+      {
+        "word": "expensive",
+        "confidence": 78
+      },
+      {
+        "word": "symbolic",
+        "confidence": 75
+      },
+      {
+        "word": "limited",
+        "confidence": 80
+      }
+    ]
+  }
+}

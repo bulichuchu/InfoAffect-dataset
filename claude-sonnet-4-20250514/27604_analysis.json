@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "enthusiastic",
+        "confidence": 95
+      },
+      {
+        "word": "passionate",
+        "confidence": 88
+      },
+      {
+        "word": "exciting",
+        "confidence": 82
+      },
+      {
+        "word": "proud",
+        "confidence": 78
+      },
+      {
+        "word": "thrilling",
+        "confidence": 75
+      },
+      {
+        "word": "energetic",
+        "confidence": 72
+      },
+      {
+        "word": "devoted",
+        "confidence": 70
+      },
+      {
+        "word": "legendary",
+        "confidence": 68
+      }
+    ]
+  }
+}

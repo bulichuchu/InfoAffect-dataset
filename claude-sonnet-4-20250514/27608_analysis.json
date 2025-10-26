@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "optimistic",
+        "confidence": 85
+      },
+      {
+        "word": "hopeful",
+        "confidence": 82
+      },
+      {
+        "word": "transformative",
+        "confidence": 78
+      },
+      {
+        "word": "progressive",
+        "confidence": 75
+      },
+      {
+        "word": "ambitious",
+        "confidence": 72
+      },
+      {
+        "word": "critical",
+        "confidence": 68
+      },
+      {
+        "word": "innovative",
+        "confidence": 65
+      }
+    ]
+  }
+}

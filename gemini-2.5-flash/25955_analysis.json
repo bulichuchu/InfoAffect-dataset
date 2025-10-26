@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "exclusive",
+        "confidence": 95
+      },
+      {
+        "word": "dominant",
+        "confidence": 90
+      },
+      {
+        "word": "staggering",
+        "confidence": 88
+      },
+      {
+        "word": "disparate",
+        "confidence": 85
+      },
+      {
+        "word": "controversial",
+        "confidence": 80
+      },
+      {
+        "word": "precarious",
+        "confidence": 75
+      }
+    ]
+  }
+}

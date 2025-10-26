@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerning",
+        "confidence": 90
+      },
+      {
+        "word": "worrying",
+        "confidence": 88
+      },
+      {
+        "word": "archaic",
+        "confidence": 85
+      },
+      {
+        "word": "unlawful",
+        "confidence": 82
+      },
+      {
+        "word": "outdated",
+        "confidence": 78
+      },
+      {
+        "word": "cautionary",
+        "confidence": 75
+      }
+    ]
+  }
+}

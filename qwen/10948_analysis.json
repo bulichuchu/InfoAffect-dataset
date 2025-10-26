@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "victorious",
+        "confidence": 90
+      },
+      {
+        "word": "confident",
+        "confidence": 85
+      },
+      {
+        "word": "dominant",
+        "confidence": 80
+      },
+      {
+        "word": "desperate",
+        "confidence": 75
+      },
+      {
+        "word": "competitive",
+        "confidence": 70
+      },
+      {
+        "word": "decisive",
+        "confidence": 65
+      },
+      {
+        "word": "authoritative",
+        "confidence": 60
+      },
+      {
+        "word": "pressured",
+        "confidence": 55
+      }
+    ]
+  }
+}

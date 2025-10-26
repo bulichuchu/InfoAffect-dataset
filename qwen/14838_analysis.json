@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unrelenting",
+        "confidence": 85
+      },
+      {
+        "word": "sizzling",
+        "confidence": 80
+      },
+      {
+        "word": "sweltering",
+        "confidence": 75
+      },
+      {
+        "word": "surprising",
+        "confidence": 70
+      },
+      {
+        "word": "alarming",
+        "confidence": 65
+      },
+      {
+        "word": "intense",
+        "confidence": 72
+      },
+      {
+        "word": "noteworthy",
+        "confidence": 68
+      },
+      {
+        "word": "unusual",
+        "confidence": 73
+      }
+    ]
+  }
+}

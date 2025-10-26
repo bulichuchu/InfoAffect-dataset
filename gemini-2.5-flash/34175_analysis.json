@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dependent",
+        "confidence": 95
+      },
+      {
+        "word": "aspiring",
+        "confidence": 90
+      },
+      {
+        "word": "progressive",
+        "confidence": 90
+      },
+      {
+        "word": "complex",
+        "confidence": 85
+      },
+      {
+        "word": "evolving",
+        "confidence": 80
+      },
+      {
+        "word": "nuanced",
+        "confidence": 75
+      }
+    ]
+  }
+}

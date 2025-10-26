@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "apprehensive",
+        "confidence": 88
+      },
+      {
+        "word": "cautious",
+        "confidence": 85
+      },
+      {
+        "word": "avoidant",
+        "confidence": 82
+      },
+      {
+        "word": "uncomfortable",
+        "confidence": 80
+      },
+      {
+        "word": "united",
+        "confidence": 75
+      },
+      {
+        "word": "reluctant",
+        "confidence": 78
+      },
+      {
+        "word": "wary",
+        "confidence": 72
+      }
+    ]
+  }
+}

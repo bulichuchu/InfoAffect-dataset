@@ -1,0 +1,28 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "important",
+          "confidence": 90
+        },
+        {
+          "word": "increased",
+          "confidence": 85
+        },
+        {
+          "word": "instrumental",
+          "confidence": 80
+        },
+        {
+          "word": "back-track",
+          "confidence": 75
+        },
+        {
+          "word": "enmity",
+          "confidence": 70
+        }
+      ]
+    }
+  }
+]

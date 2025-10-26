@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "indulgent",
+        "confidence": 85
+      },
+      {
+        "word": "alarming",
+        "confidence": 88
+      },
+      {
+        "word": "irresistible",
+        "confidence": 80
+      },
+      {
+        "word": "excessive",
+        "confidence": 82
+      },
+      {
+        "word": "celebratory",
+        "confidence": 76
+      },
+      {
+        "word": "concerning",
+        "confidence": 79
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surprising",
+        "confidence": 90
+      },
+      {
+        "word": "uncertain",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 80
+      },
+      {
+        "word": "serious",
+        "confidence": 75
+      },
+      {
+        "word": "paradoxical",
+        "confidence": 70
+      },
+      {
+        "word": "thought-provoking",
+        "confidence": 65
+      }
+    ]
+  }
+}

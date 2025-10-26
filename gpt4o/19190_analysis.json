@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "tension",
+        "confidence": 90
+      },
+      {
+        "word": "unease",
+        "confidence": 88
+      },
+      {
+        "word": "fear",
+        "confidence": 85
+      },
+      {
+        "word": "concern",
+        "confidence": 82
+      },
+      {
+        "word": "risk",
+        "confidence": 80
+      },
+      {
+        "word": "collapse",
+        "confidence": 78
+      },
+      {
+        "word": "exodus",
+        "confidence": 75
+      }
+    ]
+  }
+}

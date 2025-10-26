@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "celebratory",
+        "confidence": 85
+      },
+      {
+        "word": "indulgent",
+        "confidence": 80
+      },
+      {
+        "word": "appetizing",
+        "confidence": 75
+      },
+      {
+        "word": "joyful",
+        "confidence": 70
+      },
+      {
+        "word": "festive",
+        "confidence": 78
+      },
+      {
+        "word": "tempting",
+        "confidence": 65
+      },
+      {
+        "word": "abundant",
+        "confidence": 60
+      }
+    ]
+  }
+}

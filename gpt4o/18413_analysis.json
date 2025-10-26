@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anticipation",
+        "confidence": 90
+      },
+      {
+        "word": "surprise",
+        "confidence": 85
+      },
+      {
+        "word": "significant",
+        "confidence": 80
+      },
+      {
+        "word": "concern",
+        "confidence": 78
+      },
+      {
+        "word": "growth",
+        "confidence": 75
+      },
+      {
+        "word": "impact",
+        "confidence": 70
+      },
+      {
+        "word": "inevitable",
+        "confidence": 68
+      }
+    ]
+  }
+}

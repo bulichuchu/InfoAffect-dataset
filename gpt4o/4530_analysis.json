@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "nostalgic",
+        "confidence": 90
+      },
+      {
+        "word": "disappointed",
+        "confidence": 85
+      },
+      {
+        "word": "hopeful",
+        "confidence": 80
+      },
+      {
+        "word": "accepting",
+        "confidence": 75
+      },
+      {
+        "word": "comparative",
+        "confidence": 78
+      },
+      {
+        "word": "realistic",
+        "confidence": 82
+      }
+    ]
+  }
+}

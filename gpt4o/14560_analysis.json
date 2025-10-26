@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "optimism",
+        "confidence": 88
+      },
+      {
+        "word": "belief",
+        "confidence": 84
+      },
+      {
+        "word": "irony",
+        "confidence": 75
+      },
+      {
+        "word": "anticipation",
+        "confidence": 77
+      },
+      {
+        "word": "rivalry",
+        "confidence": 70
+      },
+      {
+        "word": "excitement",
+        "confidence": 80
+      }
+    ]
+  }
+}

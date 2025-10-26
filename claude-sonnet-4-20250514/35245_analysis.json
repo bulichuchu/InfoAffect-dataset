@@ -1,0 +1,40 @@
+```json
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarming",
+        "confidence": 90
+      },
+      {
+        "word": "concerning",
+        "confidence": 88
+      },
+      {
+        "word": "sobering",
+        "confidence": 85
+      },
+      {
+        "word": "overwhelming",
+        "confidence": 82
+      },
+      {
+        "word": "urgent",
+        "confidence": 78
+      },
+      {
+        "word": "distressing",
+        "confidence": 75
+      },
+      {
+        "word": "informative",
+        "confidence": 70
+      },
+      {
+        "word": "cautionary",
+        "confidence": 68
+      }
+    ]
+  }
+}
+```

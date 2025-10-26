@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "improved",
+        "confidence": 80
+      },
+      {
+        "word": "grim",
+        "confidence": 85
+      },
+      {
+        "word": "bleak",
+        "confidence": 87
+      },
+      {
+        "word": "alarming",
+        "confidence": 78
+      },
+      {
+        "word": "serious",
+        "confidence": 76
+      },
+      {
+        "word": "concern",
+        "confidence": 70
+      }
+    ]
+  }
+}

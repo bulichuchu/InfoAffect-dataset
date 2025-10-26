@@ -1,0 +1,28 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "solemn",
+          "confidence": 90
+        },
+        {
+          "word": "reverent",
+          "confidence": 85
+        },
+        {
+          "word": "valued",
+          "confidence": 80
+        },
+        {
+          "word": "significant",
+          "confidence": 75
+        },
+        {
+          "word": "reasonable",
+          "confidence": 70
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "divisive",
+        "confidence": 90
+      },
+      {
+        "word": "concerning",
+        "confidence": 85
+      },
+      {
+        "word": "polarizing",
+        "confidence": 88
+      },
+      {
+        "word": "troubling",
+        "confidence": 82
+      },
+      {
+        "word": "tense",
+        "confidence": 78
+      },
+      {
+        "word": "dangerous",
+        "confidence": 80
+      },
+      {
+        "word": "conflicted",
+        "confidence": 75
+      }
+    ]
+  }
+}

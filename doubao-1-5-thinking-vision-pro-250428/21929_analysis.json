@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "pessimistic",
+        "confidence": 90
+      },
+      {
+        "word": "distressing",
+        "confidence": 88
+      },
+      {
+        "word": "chaotic",
+        "confidence": 85
+      },
+      {
+        "word": "somber",
+        "confidence": 82
+      },
+      {
+        "word": "alarming",
+        "confidence": 80
+      },
+      {
+        "word": "unstable",
+        "confidence": 78
+      },
+      {
+        "word": "turmoil-ridden",
+        "confidence": 75
+      }
+    ]
+  }
+}

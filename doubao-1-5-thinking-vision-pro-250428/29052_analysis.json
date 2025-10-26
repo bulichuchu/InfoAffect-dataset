@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "longevity",
+        "confidence": 90
+      },
+      {
+        "word": "record-breaking",
+        "confidence": 85
+      },
+      {
+        "word": "historical",
+        "confidence": 80
+      },
+      {
+        "word": "remarkable",
+        "confidence": 75
+      },
+      {
+        "word": "notable",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "significant",
+        "confidence": 95
+      },
+      {
+        "word": "challenging",
+        "confidence": 90
+      },
+      {
+        "word": "alienating",
+        "confidence": 95
+      },
+      {
+        "word": "misunderstood",
+        "confidence": 90
+      },
+      {
+        "word": "reverent",
+        "confidence": 80
+      },
+      {
+        "word": "concerned",
+        "confidence": 75
+      }
+    ]
+  }
+}

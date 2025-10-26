@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "nostalgic",
+        "confidence": 90
+      },
+      {
+        "word": "trendy",
+        "confidence": 85
+      },
+      {
+        "word": "influential",
+        "confidence": 80
+      },
+      {
+        "word": "diverse",
+        "confidence": 75
+      },
+      {
+        "word": "timeless",
+        "confidence": 78
+      },
+      {
+        "word": "evolutionary",
+        "confidence": 82
+      }
+    ]
+  }
+}

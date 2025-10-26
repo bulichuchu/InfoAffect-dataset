@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "crucial",
+        "confidence": 90
+      },
+      {
+        "word": "tense",
+        "confidence": 85
+      },
+      {
+        "word": "uncertain",
+        "confidence": 80
+      },
+      {
+        "word": "strategic",
+        "confidence": 75
+      },
+      {
+        "word": "volatile",
+        "confidence": 70
+      },
+      {
+        "word": "polarized",
+        "confidence": 65
+      },
+      {
+        "word": "high-stakes",
+        "confidence": 82
+      },
+      {
+        "word": "cautious",
+        "confidence": 68
+      }
+    ]
+  }
+}

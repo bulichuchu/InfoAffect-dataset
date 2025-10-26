@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "discrepant",
+        "confidence": 90
+      },
+      {
+        "word": "misrepresentative",
+        "confidence": 88
+      },
+      {
+        "word": "revealing",
+        "confidence": 85
+      },
+      {
+        "word": "unbalanced",
+        "confidence": 82
+      },
+      {
+        "word": "biased",
+        "confidence": 80
+      },
+      {
+        "word": "concerning",
+        "confidence": 78
+      }
+    ]
+  }
+}

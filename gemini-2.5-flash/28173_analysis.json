@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "joy",
+        "confidence": 90
+      },
+      {
+        "word": "ambition",
+        "confidence": 88
+      },
+      {
+        "word": "competitive",
+        "confidence": 85
+      },
+      {
+        "word": "enthusiasm",
+        "confidence": 82
+      },
+      {
+        "word": "aspirational",
+        "confidence": 80
+      },
+      {
+        "word": "persistent",
+        "confidence": 75
+      }
+    ]
+  }
+}

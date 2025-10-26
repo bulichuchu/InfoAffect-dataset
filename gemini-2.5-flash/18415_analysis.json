@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "extreme",
+        "confidence": 95
+      },
+      {
+        "word": "divisive",
+        "confidence": 90
+      },
+      {
+        "word": "alarming",
+        "confidence": 88
+      },
+      {
+        "word": "resolute",
+        "confidence": 82
+      },
+      {
+        "word": "reckless",
+        "confidence": 78
+      },
+      {
+        "word": "uncompromising",
+        "confidence": 75
+      }
+    ]
+  }
+}

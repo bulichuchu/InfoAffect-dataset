@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "devastating",
+        "confidence": 90
+      },
+      {
+        "word": "staggering",
+        "confidence": 85
+      },
+      {
+        "word": "alarming",
+        "confidence": 82
+      },
+      {
+        "word": "impactful",
+        "confidence": 78
+      },
+      {
+        "word": "disruptive",
+        "confidence": 75
+      },
+      {
+        "word": "consequential",
+        "confidence": 70
+      }
+    ]
+  }
+}

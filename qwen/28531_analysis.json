@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 90
+      },
+      {
+        "word": "uncertain",
+        "confidence": 85
+      },
+      {
+        "word": "skeptical",
+        "confidence": 80
+      },
+      {
+        "word": "resigned",
+        "confidence": 75
+      },
+      {
+        "word": "historic",
+        "confidence": 70
+      },
+      {
+        "word": "underwhelming",
+        "confidence": 65
+      },
+      {
+        "word": "polarized",
+        "confidence": 78
+      },
+      {
+        "word": "reluctant",
+        "confidence": 60
+      }
+    ]
+  }
+}

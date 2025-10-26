@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "vulnerable",
+        "confidence": 90
+      },
+      {
+        "word": "urgent",
+        "confidence": 88
+      },
+      {
+        "word": "opportunity",
+        "confidence": 85
+      },
+      {
+        "word": "resilient",
+        "confidence": 80
+      },
+      {
+        "word": "challenging",
+        "confidence": 75
+      },
+      {
+        "word": "hopeful",
+        "confidence": 70
+      },
+      {
+        "word": "potential",
+        "confidence": 65
+      }
+    ]
+  }
+}

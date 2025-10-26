@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "urgent",
+        "confidence": 90
+      },
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "determined",
+        "confidence": 80
+      },
+      {
+        "word": "alarmed",
+        "confidence": 75
+      },
+      {
+        "word": "resolute",
+        "confidence": 78
+      },
+      {
+        "word": "anxious",
+        "confidence": 72
+      },
+      {
+        "word": "solidarity",
+        "confidence": 82
+      },
+      {
+        "word": "grave",
+        "confidence": 76
+      }
+    ]
+  }
+}

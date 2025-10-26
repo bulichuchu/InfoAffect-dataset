@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "competitive",
+        "confidence": 85
+      },
+      {
+        "word": "dramatic",
+        "confidence": 80
+      },
+      {
+        "word": "surprising",
+        "confidence": 78
+      },
+      {
+        "word": "disappointing",
+        "confidence": 75
+      },
+      {
+        "word": "hopeful",
+        "confidence": 72
+      },
+      {
+        "word": "tense",
+        "confidence": 70
+      },
+      {
+        "word": "transformative",
+        "confidence": 68
+      },
+      {
+        "word": "uncertain",
+        "confidence": 65
+      }
+    ]
+  }
+}

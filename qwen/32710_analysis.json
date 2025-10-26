@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "volatile",
+        "confidence": 80
+      },
+      {
+        "word": "elevated",
+        "confidence": 78
+      },
+      {
+        "word": "stabilized",
+        "confidence": 75
+      },
+      {
+        "word": "pressured",
+        "confidence": 72
+      },
+      {
+        "word": "persistent",
+        "confidence": 70
+      },
+      {
+        "word": "costly",
+        "confidence": 76
+      },
+      {
+        "word": "resilient",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declined",
+        "confidence": 90
+      },
+      {
+        "word": "sharply",
+        "confidence": 85
+      },
+      {
+        "word": "weakness",
+        "confidence": 82
+      },
+      {
+        "word": "disruption",
+        "confidence": 80
+      },
+      {
+        "word": "marginal",
+        "confidence": 75
+      },
+      {
+        "word": "positive",
+        "confidence": 70
+      }
+    ]
+  }
+}

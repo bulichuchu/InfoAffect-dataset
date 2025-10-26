@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transformative",
+        "confidence": 90
+      },
+      {
+        "word": "decline",
+        "confidence": 85
+      },
+      {
+        "word": "accelerated",
+        "confidence": 80
+      },
+      {
+        "word": "shift",
+        "confidence": 75
+      },
+      {
+        "word": "comeback",
+        "confidence": 70
+      },
+      {
+        "word": "negative",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "perilous",
+        "confidence": 90
+      },
+      {
+        "word": "shocking",
+        "confidence": 88
+      },
+      {
+        "word": "grave",
+        "confidence": 85
+      },
+      {
+        "word": "injustice",
+        "confidence": 82
+      },
+      {
+        "word": "threatening",
+        "confidence": 80
+      },
+      {
+        "word": "deceptive",
+        "confidence": 75
+      }
+    ]
+  }
+}

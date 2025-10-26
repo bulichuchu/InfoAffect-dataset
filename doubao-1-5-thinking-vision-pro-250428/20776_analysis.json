@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surprising",
+        "confidence": 90
+      },
+      {
+        "word": "disruptive",
+        "confidence": 85
+      },
+      {
+        "word": "frustrated",
+        "confidence": 80
+      },
+      {
+        "word": "disillusioned",
+        "confidence": 75
+      },
+      {
+        "word": "transformative",
+        "confidence": 70
+      },
+      {
+        "word": "unexpected",
+        "confidence": 88
+      }
+    ]
+  }
+}

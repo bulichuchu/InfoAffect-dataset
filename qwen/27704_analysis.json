@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "sacrificial",
+        "confidence": 85
+      },
+      {
+        "word": "burdened",
+        "confidence": 80
+      },
+      {
+        "word": "resolute",
+        "confidence": 75
+      },
+      {
+        "word": "anxious",
+        "confidence": 78
+      },
+      {
+        "word": "divided",
+        "confidence": 72
+      },
+      {
+        "word": "pressured",
+        "confidence": 76
+      },
+      {
+        "word": "determined",
+        "confidence": 70
+      },
+      {
+        "word": "concerned",
+        "confidence": 74
+      }
+    ]
+  }
+}

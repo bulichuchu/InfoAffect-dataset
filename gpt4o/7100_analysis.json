@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "inspiring",
+        "confidence": 95
+      },
+      {
+        "word": "admired",
+        "confidence": 90
+      },
+      {
+        "word": "creative",
+        "confidence": 88
+      },
+      {
+        "word": "visionary",
+        "confidence": 85
+      },
+      {
+        "word": "tenacity",
+        "confidence": 80
+      },
+      {
+        "word": "revolutionizing",
+        "confidence": 78
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "compassionate",
+        "confidence": 88
+      },
+      {
+        "word": "reformative",
+        "confidence": 85
+      },
+      {
+        "word": "hopeful",
+        "confidence": 80
+      },
+      {
+        "word": "redemptive",
+        "confidence": 78
+      },
+      {
+        "word": "progressive",
+        "confidence": 75
+      },
+      {
+        "word": "supportive",
+        "confidence": 72
+      },
+      {
+        "word": "resolute",
+        "confidence": 68
+      },
+      {
+        "word": "inclusive",
+        "confidence": 65
+      }
+    ]
+  }
+}

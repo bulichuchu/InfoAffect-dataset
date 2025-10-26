@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "expensive",
+        "confidence": 90
+      },
+      {
+        "word": "comparison",
+        "confidence": 85
+      },
+      {
+        "word": "surprised",
+        "confidence": 80
+      },
+      {
+        "word": "concerned",
+        "confidence": 75
+      },
+      {
+        "word": "informative",
+        "confidence": 70
+      },
+      {
+        "word": "contrast",
+        "confidence": 68
+      },
+      {
+        "word": "insightful",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "damning",
+        "confidence": 90
+      },
+      {
+        "word": "unpopular",
+        "confidence": 85
+      },
+      {
+        "word": "struggling",
+        "confidence": 80
+      },
+      {
+        "word": "unstable",
+        "confidence": 75
+      },
+      {
+        "word": "divisive",
+        "confidence": 78
+      },
+      {
+        "word": "controversial",
+        "confidence": 82
+      },
+      {
+        "word": "rhetoric",
+        "confidence": 70
+      },
+      {
+        "word": "tense",
+        "confidence": 65
+      }
+    ]
+  }
+}

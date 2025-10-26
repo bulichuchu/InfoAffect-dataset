@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "growth",
+        "confidence": 85
+      },
+      {
+        "word": "profit",
+        "confidence": 80
+      },
+      {
+        "word": "reliance",
+        "confidence": 72
+      },
+      {
+        "word": "freedom",
+        "confidence": 75
+      },
+      {
+        "word": "sustainability",
+        "confidence": 70
+      },
+      {
+        "word": "hazardous",
+        "confidence": 68
+      },
+      {
+        "word": "unsolved",
+        "confidence": 66
+      }
+    ]
+  }
+}

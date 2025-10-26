@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "determination",
+        "confidence": 90
+      },
+      {
+        "word": "solidarity",
+        "confidence": 88
+      },
+      {
+        "word": "gratitude",
+        "confidence": 85
+      },
+      {
+        "word": "leadership",
+        "confidence": 83
+      },
+      {
+        "word": "support",
+        "confidence": 82
+      },
+      {
+        "word": "responsibility",
+        "confidence": 78
+      },
+      {
+        "word": "stability",
+        "confidence": 75
+      }
+    ]
+  }
+}

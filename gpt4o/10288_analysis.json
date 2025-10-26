@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concern",
+        "confidence": 90
+      },
+      {
+        "word": "loss",
+        "confidence": 85
+      },
+      {
+        "word": "uncertainty",
+        "confidence": 80
+      },
+      {
+        "word": "impact",
+        "confidence": 78
+      },
+      {
+        "word": "cost",
+        "confidence": 82
+      },
+      {
+        "word": "risk",
+        "confidence": 75
+      },
+      {
+        "word": "change",
+        "confidence": 73
+      }
+    ]
+  }
+}

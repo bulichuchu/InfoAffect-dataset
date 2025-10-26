@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "controversial",
+        "confidence": 85
+      },
+      {
+        "word": "significant",
+        "confidence": 80
+      },
+      {
+        "word": "industrial",
+        "confidence": 75
+      },
+      {
+        "word": "expansive",
+        "confidence": 70
+      },
+      {
+        "word": "technical",
+        "confidence": 65
+      },
+      {
+        "word": "neutral",
+        "confidence": 60
+      },
+      {
+        "word": "informative",
+        "confidence": 72
+      },
+      {
+        "word": "authoritative",
+        "confidence": 68
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "optimistic",
+        "confidence": 88
+      },
+      {
+        "word": "struggling",
+        "confidence": 82
+      },
+      {
+        "word": "confident",
+        "confidence": 78
+      },
+      {
+        "word": "strained",
+        "confidence": 75
+      },
+      {
+        "word": "positive",
+        "confidence": 85
+      },
+      {
+        "word": "gloomy",
+        "confidence": 70
+      },
+      {
+        "word": "improved",
+        "confidence": 80
+      },
+      {
+        "word": "strong",
+        "confidence": 83
+      }
+    ]
+  }
+}

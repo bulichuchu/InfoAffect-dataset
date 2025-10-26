@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unjust",
+        "confidence": 92
+      },
+      {
+        "word": "concerned",
+        "confidence": 90
+      },
+      {
+        "word": "serious",
+        "confidence": 88
+      },
+      {
+        "word": "disappointing",
+        "confidence": 85
+      },
+      {
+        "word": "critical",
+        "confidence": 82
+      },
+      {
+        "word": "challenging",
+        "confidence": 78
+      }
+    ]
+  }
+}

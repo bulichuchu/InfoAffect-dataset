@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "compassionate",
+        "confidence": 90
+      },
+      {
+        "word": "uncompromising",
+        "confidence": 85
+      },
+      {
+        "word": "lucrative",
+        "confidence": 80
+      },
+      {
+        "word": "controversy",
+        "confidence": 75
+      },
+      {
+        "word": "prestigious",
+        "confidence": 82
+      },
+      {
+        "word": "criticism",
+        "confidence": 78
+      }
+    ]
+  }
+}

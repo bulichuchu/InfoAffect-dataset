@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "guilty",
+        "confidence": 88
+      },
+      {
+        "word": "conflicted",
+        "confidence": 82
+      },
+      {
+        "word": "analytical",
+        "confidence": 85
+      },
+      {
+        "word": "informative",
+        "confidence": 90
+      },
+      {
+        "word": "cautionary",
+        "confidence": 78
+      },
+      {
+        "word": "balanced",
+        "confidence": 75
+      },
+      {
+        "word": "investigative",
+        "confidence": 72
+      }
+    ]
+  }
+}

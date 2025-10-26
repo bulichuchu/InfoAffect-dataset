@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "inequality",
+        "confidence": 90
+      },
+      {
+        "word": "disconnection",
+        "confidence": 85
+      },
+      {
+        "word": "urgency",
+        "confidence": 80
+      },
+      {
+        "word": "reliance",
+        "confidence": 75
+      },
+      {
+        "word": "scrutiny",
+        "confidence": 72
+      },
+      {
+        "word": "prominence",
+        "confidence": 70
+      }
+    ]
+  }
+}

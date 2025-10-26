@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "conflict",
+        "confidence": 90
+      },
+      {
+        "word": "aggression",
+        "confidence": 85
+      },
+      {
+        "word": "tension",
+        "confidence": 80
+      },
+      {
+        "word": "retaliation",
+        "confidence": 78
+      },
+      {
+        "word": "mobilization",
+        "confidence": 75
+      },
+      {
+        "word": "escalation",
+        "confidence": 70
+      },
+      {
+        "word": "militarization",
+        "confidence": 68
+      }
+    ]
+  }
+}

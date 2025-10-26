@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "financial",
+        "confidence": 85
+      },
+      {
+        "word": "hefty",
+        "confidence": 80
+      },
+      {
+        "word": "burden",
+        "confidence": 78
+      },
+      {
+        "word": "expensive",
+        "confidence": 82
+      },
+      {
+        "word": "substantial",
+        "confidence": 75
+      },
+      {
+        "word": "demand",
+        "confidence": 70
+      }
+    ]
+  }
+}

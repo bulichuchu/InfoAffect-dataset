@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "respectful",
+        "confidence": 90
+      },
+      {
+        "word": "admiring",
+        "confidence": 88
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 82
+      },
+      {
+        "word": "inspiring",
+        "confidence": 85
+      },
+      {
+        "word": "reverent",
+        "confidence": 80
+      },
+      {
+        "word": "appreciative",
+        "confidence": 78
+      },
+      {
+        "word": "dignified",
+        "confidence": 75
+      },
+      {
+        "word": "bittersweet",
+        "confidence": 70
+      }
+    ]
+  }
+}

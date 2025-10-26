@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "optimistic",
+        "confidence": 85
+      },
+      {
+        "word": "efficient",
+        "confidence": 80
+      },
+      {
+        "word": "liberating",
+        "confidence": 78
+      },
+      {
+        "word": "unpopular",
+        "confidence": 76
+      },
+      {
+        "word": "promising",
+        "confidence": 75
+      },
+      {
+        "word": "affordable",
+        "confidence": 70
+      }
+    ]
+  }
+}

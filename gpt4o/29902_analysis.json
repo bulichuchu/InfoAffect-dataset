@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "stabilizing",
+        "confidence": 90
+      },
+      {
+        "word": "criticism",
+        "confidence": 85
+      },
+      {
+        "word": "dominant",
+        "confidence": 82
+      },
+      {
+        "word": "urgent",
+        "confidence": 79
+      },
+      {
+        "word": "panicky",
+        "confidence": 75
+      },
+      {
+        "word": "consolidation",
+        "confidence": 78
+      }
+    ]
+  }
+}

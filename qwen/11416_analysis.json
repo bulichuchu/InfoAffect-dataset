@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "competitive",
+        "confidence": 90
+      },
+      {
+        "word": "rivalrous",
+        "confidence": 85
+      },
+      {
+        "word": "volatile",
+        "confidence": 78
+      },
+      {
+        "word": "resilient",
+        "confidence": 75
+      },
+      {
+        "word": "tense",
+        "confidence": 70
+      },
+      {
+        "word": "fluctuating",
+        "confidence": 68
+      },
+      {
+        "word": "recovery",
+        "confidence": 65
+      },
+      {
+        "word": "declining",
+        "confidence": 60
+      }
+    ]
+  }
+}

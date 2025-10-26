@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "luxurious",
+        "confidence": 85
+      },
+      {
+        "word": "status-seeking",
+        "confidence": 80
+      },
+      {
+        "word": "business-focused",
+        "confidence": 75
+      },
+      {
+        "word": "exclusive",
+        "confidence": 70
+      },
+      {
+        "word": "affluent",
+        "confidence": 75
+      },
+      {
+        "word": "profitable",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "shifted",
+        "confidence": 85
+      },
+      {
+        "word": "adaptive",
+        "confidence": 80
+      },
+      {
+        "word": "resilient",
+        "confidence": 75
+      },
+      {
+        "word": "domestic",
+        "confidence": 70
+      },
+      {
+        "word": "comfortable",
+        "confidence": 65
+      },
+      {
+        "word": "normalized",
+        "confidence": 60
+      },
+      {
+        "word": "trendy",
+        "confidence": 55
+      },
+      {
+        "word": "familiar",
+        "confidence": 50
+      }
+    ]
+  }
+}

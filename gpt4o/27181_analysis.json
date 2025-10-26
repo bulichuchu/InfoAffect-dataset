@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "endangered",
+        "confidence": 92
+      },
+      {
+        "word": "dependent",
+        "confidence": 85
+      },
+      {
+        "word": "shortages",
+        "confidence": 88
+      },
+      {
+        "word": "conflict",
+        "confidence": 80
+      },
+      {
+        "word": "severe",
+        "confidence": 78
+      },
+      {
+        "word": "resurgence",
+        "confidence": 75
+      },
+      {
+        "word": "crucial",
+        "confidence": 82
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "divisive",
+        "confidence": 90
+      },
+      {
+        "word": "polarizing",
+        "confidence": 85
+      },
+      {
+        "word": "contentious",
+        "confidence": 82
+      },
+      {
+        "word": "apathetic",
+        "confidence": 78
+      },
+      {
+        "word": "conflicted",
+        "confidence": 75
+      },
+      {
+        "word": "disenchanted",
+        "confidence": 70
+      },
+      {
+        "word": "indifferent",
+        "confidence": 68
+      }
+    ]
+  }
+}

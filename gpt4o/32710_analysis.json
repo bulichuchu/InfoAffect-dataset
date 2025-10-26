@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "stability",
+        "confidence": 85
+      },
+      {
+        "word": "concern",
+        "confidence": 80
+      },
+      {
+        "word": "fluctuations",
+        "confidence": 75
+      },
+      {
+        "word": "expensive",
+        "confidence": 78
+      },
+      {
+        "word": "high",
+        "confidence": 82
+      },
+      {
+        "word": "demand",
+        "confidence": 77
+      }
+    ]
+  }
+}

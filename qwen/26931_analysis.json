@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "defiant",
+        "confidence": 85
+      },
+      {
+        "word": "repressive",
+        "confidence": 90
+      },
+      {
+        "word": "resistant",
+        "confidence": 80
+      },
+      {
+        "word": "somber",
+        "confidence": 75
+      },
+      {
+        "word": "urgent",
+        "confidence": 78
+      },
+      {
+        "word": "distressing",
+        "confidence": 82
+      },
+      {
+        "word": "courageous",
+        "confidence": 70
+      },
+      {
+        "word": "oppressed",
+        "confidence": 76
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concern",
+        "confidence": 85
+      },
+      {
+        "word": "accusation",
+        "confidence": 82
+      },
+      {
+        "word": "dependency",
+        "confidence": 80
+      },
+      {
+        "word": "captive",
+        "confidence": 78
+      },
+      {
+        "word": "aggression",
+        "confidence": 75
+      },
+      {
+        "word": "extreme",
+        "confidence": 70
+      },
+      {
+        "word": "political",
+        "confidence": 68
+      }
+    ]
+  }
+}

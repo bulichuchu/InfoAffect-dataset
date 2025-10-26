@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "protest",
+        "confidence": 90
+      },
+      {
+        "word": "inadequate",
+        "confidence": 85
+      },
+      {
+        "word": "haphazard",
+        "confidence": 80
+      },
+      {
+        "word": "symbolic",
+        "confidence": 75
+      },
+      {
+        "word": "inequitable",
+        "confidence": 82
+      },
+      {
+        "word": "boycott",
+        "confidence": 88
+      }
+    ]
+  }
+}

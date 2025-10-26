@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "setback",
+        "confidence": 90
+      },
+      {
+        "word": "defeat",
+        "confidence": 85
+      },
+      {
+        "word": "dominated",
+        "confidence": 75
+      },
+      {
+        "word": "recession",
+        "confidence": 88
+      },
+      {
+        "word": "soar",
+        "confidence": 65
+      },
+      {
+        "word": "vigorously",
+        "confidence": 70
+      },
+      {
+        "word": "referendum",
+        "confidence": 78
+      }
+    ]
+  }
+}

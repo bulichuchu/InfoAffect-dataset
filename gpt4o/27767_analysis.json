@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "devastating",
+        "confidence": 90
+      },
+      {
+        "word": "lingering",
+        "confidence": 85
+      },
+      {
+        "word": "hindering",
+        "confidence": 80
+      },
+      {
+        "word": "setback",
+        "confidence": 78
+      },
+      {
+        "word": "disparity",
+        "confidence": 75
+      },
+      {
+        "word": "struggle",
+        "confidence": 72
+      },
+      {
+        "word": "gap",
+        "confidence": 70
+      }
+    ]
+  }
+}

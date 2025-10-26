@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anticipation",
+        "confidence": 90
+      },
+      {
+        "word": "optimism",
+        "confidence": 85
+      },
+      {
+        "word": "uncertainty",
+        "confidence": 80
+      },
+      {
+        "word": "risk",
+        "confidence": 75
+      },
+      {
+        "word": "rewarding",
+        "confidence": 78
+      },
+      {
+        "word": "disappointment",
+        "confidence": 70
+      },
+      {
+        "word": "turnaround",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dreaming",
+        "confidence": 88
+      },
+      {
+        "word": "chilly",
+        "confidence": 82
+      },
+      {
+        "word": "hopeful",
+        "confidence": 78
+      },
+      {
+        "word": "escapist",
+        "confidence": 85
+      },
+      {
+        "word": "longing",
+        "confidence": 80
+      },
+      {
+        "word": "uncomfortable",
+        "confidence": 75
+      },
+      {
+        "word": "anticipatory",
+        "confidence": 70
+      }
+    ]
+  }
+}

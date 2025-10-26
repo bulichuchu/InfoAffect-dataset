@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "uncertain",
+        "confidence": 30
+      },
+      {
+        "word": "neutral",
+        "confidence": 20
+      },
+      {
+        "word": "anticipatory",
+        "confidence": 15
+      },
+      {
+        "word": "undefined",
+        "confidence": 25
+      },
+      {
+        "word": "formal",
+        "confidence": 10
+      },
+      {
+        "word": "incomplete",
+        "confidence": 20
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "staggering",
+        "confidence": 90
+      },
+      {
+        "word": "critical",
+        "confidence": 85
+      },
+      {
+        "word": "disproportionate",
+        "confidence": 88
+      },
+      {
+        "word": "alarming",
+        "confidence": 82
+      },
+      {
+        "word": "controversial",
+        "confidence": 78
+      },
+      {
+        "word": "concerned",
+        "confidence": 75
+      },
+      {
+        "word": "questioning",
+        "confidence": 70
+      },
+      {
+        "word": "unfair",
+        "confidence": 77
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "defeat",
+        "confidence": 90
+      },
+      {
+        "word": "opposition",
+        "confidence": 85
+      },
+      {
+        "word": "tense",
+        "confidence": 80
+      },
+      {
+        "word": "critical",
+        "confidence": 75
+      },
+      {
+        "word": "conflict",
+        "confidence": 70
+      },
+      {
+        "word": "decisive",
+        "confidence": 65
+      }
+    ]
+  }
+}

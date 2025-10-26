@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 88
+      },
+      {
+        "word": "disproportionate",
+        "confidence": 85
+      },
+      {
+        "word": "alarming",
+        "confidence": 82
+      },
+      {
+        "word": "deteriorating",
+        "confidence": 78
+      },
+      {
+        "word": "frustrated",
+        "confidence": 75
+      },
+      {
+        "word": "unequal",
+        "confidence": 73
+      },
+      {
+        "word": "tense",
+        "confidence": 70
+      },
+      {
+        "word": "worrisome",
+        "confidence": 68
+      }
+    ]
+  }
+}

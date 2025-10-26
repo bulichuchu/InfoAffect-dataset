@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "daunting",
+        "confidence": 88
+      },
+      {
+        "word": "intriguing",
+        "confidence": 82
+      },
+      {
+        "word": "concerning",
+        "confidence": 85
+      },
+      {
+        "word": "ambitious",
+        "confidence": 78
+      },
+      {
+        "word": "impressive",
+        "confidence": 72
+      },
+      {
+        "word": "complex",
+        "confidence": 80
+      },
+      {
+        "word": "fascinating",
+        "confidence": 75
+      },
+      {
+        "word": "uncertain",
+        "confidence": 68
+      }
+    ]
+  }
+}

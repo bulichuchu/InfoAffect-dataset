@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "competitive",
+        "confidence": 90
+      },
+      {
+        "word": "intense",
+        "confidence": 85
+      },
+      {
+        "word": "enthusiastic",
+        "confidence": 82
+      },
+      {
+        "word": "partisan",
+        "confidence": 78
+      },
+      {
+        "word": "divided",
+        "confidence": 75
+      },
+      {
+        "word": "visionary",
+        "confidence": 70
+      }
+    ]
+  }
+}

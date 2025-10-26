@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "diverse",
+        "confidence": 85
+      },
+      {
+        "word": "openness",
+        "confidence": 80
+      },
+      {
+        "word": "preference",
+        "confidence": 78
+      },
+      {
+        "word": "contrast",
+        "confidence": 75
+      },
+      {
+        "word": "variation",
+        "confidence": 72
+      },
+      {
+        "word": "acceptance",
+        "confidence": 70
+      },
+      {
+        "word": "hesitation",
+        "confidence": 65
+      }
+    ]
+  }
+}

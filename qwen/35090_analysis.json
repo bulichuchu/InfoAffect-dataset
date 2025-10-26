@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "plunge",
+        "confidence": 90
+      },
+      {
+        "word": "steep",
+        "confidence": 85
+      },
+      {
+        "word": "disarray",
+        "confidence": 80
+      },
+      {
+        "word": "struggle",
+        "confidence": 75
+      },
+      {
+        "word": "crash",
+        "confidence": 82
+      },
+      {
+        "word": "concerned",
+        "confidence": 70
+      },
+      {
+        "word": "resilient",
+        "confidence": 65
+      },
+      {
+        "word": "pressured",
+        "confidence": 78
+      }
+    ]
+  }
+}

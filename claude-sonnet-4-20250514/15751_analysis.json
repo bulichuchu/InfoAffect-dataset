@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "empowering",
+        "confidence": 88
+      },
+      {
+        "word": "privileged",
+        "confidence": 85
+      },
+      {
+        "word": "disparate",
+        "confidence": 82
+      },
+      {
+        "word": "restrictive",
+        "confidence": 80
+      },
+      {
+        "word": "comparative",
+        "confidence": 75
+      },
+      {
+        "word": "fortunate",
+        "confidence": 73
+      },
+      {
+        "word": "informative",
+        "confidence": 70
+      },
+      {
+        "word": "sobering",
+        "confidence": 68
+      }
+    ]
+  }
+}

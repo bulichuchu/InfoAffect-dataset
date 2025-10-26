@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "divisive",
+        "confidence": 85
+      },
+      {
+        "word": "strategic",
+        "confidence": 80
+      },
+      {
+        "word": "conflicted",
+        "confidence": 75
+      },
+      {
+        "word": "competitive",
+        "confidence": 72
+      },
+      {
+        "word": "cautious",
+        "confidence": 68
+      },
+      {
+        "word": "opportunistic",
+        "confidence": 65
+      },
+      {
+        "word": "tense",
+        "confidence": 60
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 70
+      }
+    ]
+  }
+}

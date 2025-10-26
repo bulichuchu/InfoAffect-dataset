@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "protectionist",
+        "confidence": 85
+      },
+      {
+        "word": "emergency",
+        "confidence": 82
+      },
+      {
+        "word": "pressure",
+        "confidence": 78
+      },
+      {
+        "word": "concern",
+        "confidence": 77
+      },
+      {
+        "word": "relief",
+        "confidence": 75
+      },
+      {
+        "word": "debate",
+        "confidence": 72
+      }
+    ]
+  }
+}

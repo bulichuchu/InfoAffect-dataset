@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "discontent",
+        "confidence": 90
+      },
+      {
+        "word": "skeptical",
+        "confidence": 85
+      },
+      {
+        "word": "tensions",
+        "confidence": 88
+      },
+      {
+        "word": "frustration",
+        "confidence": 82
+      },
+      {
+        "word": "dissatisfaction",
+        "confidence": 80
+      },
+      {
+        "word": "censorship",
+        "confidence": 75
+      },
+      {
+        "word": "oppressive",
+        "confidence": 78
+      }
+    ]
+  }
+}

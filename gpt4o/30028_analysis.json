@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "affordable",
+        "confidence": 90
+      },
+      {
+        "word": "costly",
+        "confidence": 85
+      },
+      {
+        "word": "awareness",
+        "confidence": 80
+      },
+      {
+        "word": "disparity",
+        "confidence": 75
+      },
+      {
+        "word": "connectivity",
+        "confidence": 70
+      },
+      {
+        "word": "global",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "tense",
+        "confidence": 85
+      },
+      {
+        "word": "strategic",
+        "confidence": 80
+      },
+      {
+        "word": "protective",
+        "confidence": 75
+      },
+      {
+        "word": "discriminatory",
+        "confidence": 70
+      },
+      {
+        "word": "calculated",
+        "confidence": 65
+      },
+      {
+        "word": "contentious",
+        "confidence": 72
+      },
+      {
+        "word": "economic",
+        "confidence": 60
+      },
+      {
+        "word": "nationalistic",
+        "confidence": 68
+      }
+    ]
+  }
+}

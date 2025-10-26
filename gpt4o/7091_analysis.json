@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "impressive",
+        "confidence": 90
+      },
+      {
+        "word": "magnificent",
+        "confidence": 85
+      },
+      {
+        "word": "awareness",
+        "confidence": 80
+      },
+      {
+        "word": "celebrate",
+        "confidence": 75
+      },
+      {
+        "word": "supportive",
+        "confidence": 78
+      },
+      {
+        "word": "camaraderie",
+        "confidence": 72
+      }
+    ]
+  }
+}

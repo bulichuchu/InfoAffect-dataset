@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dominant",
+        "confidence": 90
+      },
+      {
+        "word": "concerned",
+        "confidence": 75
+      },
+      {
+        "word": "resurgent",
+        "confidence": 80
+      },
+      {
+        "word": "controversial",
+        "confidence": 70
+      },
+      {
+        "word": "competitive",
+        "confidence": 65
+      },
+      {
+        "word": "scrutinized",
+        "confidence": 78
+      },
+      {
+        "word": "robust",
+        "confidence": 68
+      },
+      {
+        "word": "anecdotal",
+        "confidence": 60
+      }
+    ]
+  }
+}

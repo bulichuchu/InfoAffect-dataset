@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "ambiguous",
+        "confidence": 85
+      },
+      {
+        "word": "unwillingness",
+        "confidence": 80
+      },
+      {
+        "word": "misunderstood",
+        "confidence": 75
+      },
+      {
+        "word": "perceived",
+        "confidence": 70
+      },
+      {
+        "word": "rage",
+        "confidence": 65
+      },
+      {
+        "word": "confusion",
+        "confidence": 60
+      },
+      {
+        "word": "trend",
+        "confidence": 55
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "exciting",
+        "confidence": 90
+      },
+      {
+        "word": "surprising",
+        "confidence": 85
+      },
+      {
+        "word": "joyful",
+        "confidence": 80
+      },
+      {
+        "word": "proud",
+        "confidence": 75
+      },
+      {
+        "word": "celebratory",
+        "confidence": 78
+      },
+      {
+        "word": "traditional",
+        "confidence": 72
+      },
+      {
+        "word": "affectionate",
+        "confidence": 70
+      },
+      {
+        "word": "honoring",
+        "confidence": 65
+      }
+    ]
+  }
+}

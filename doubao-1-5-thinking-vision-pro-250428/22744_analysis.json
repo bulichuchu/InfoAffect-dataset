@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "informative",
+        "confidence": 85
+      },
+      {
+        "word": "professional",
+        "confidence": 82
+      },
+      {
+        "word": "optimistic",
+        "confidence": 78
+      },
+      {
+        "word": "strategic",
+        "confidence": 75
+      },
+      {
+        "word": "growth - oriented",
+        "confidence": 72
+      },
+      {
+        "word": "data - driven",
+        "confidence": 70
+      }
+    ]
+  }
+}

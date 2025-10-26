@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "exciting",
+        "confidence": 85
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 80
+      },
+      {
+        "word": "wonderful",
+        "confidence": 75
+      },
+      {
+        "word": "adventurous",
+        "confidence": 78
+      },
+      {
+        "word": "celebratory",
+        "confidence": 72
+      },
+      {
+        "word": "curious",
+        "confidence": 70
+      },
+      {
+        "word": "playful",
+        "confidence": 65
+      },
+      {
+        "word": "inspiring",
+        "confidence": 68
+      }
+    ]
+  }
+}

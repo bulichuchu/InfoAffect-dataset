@@ -1,0 +1,36 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "effective",
+          "confidence": 95
+        },
+        {
+          "word": "attractive",
+          "confidence": 90
+        },
+        {
+          "word": "loyal",
+          "confidence": 90
+        },
+        {
+          "word": "successful",
+          "confidence": 85
+        },
+        {
+          "word": "growing",
+          "confidence": 85
+        },
+        {
+          "word": "beneficial",
+          "confidence": 80
+        },
+        {
+          "word": "profitable",
+          "confidence": 75
+        }
+      ]
+    }
+  }
+]

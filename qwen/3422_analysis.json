@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "overworked",
+        "confidence": 88
+      },
+      {
+        "word": "exhausting",
+        "confidence": 82
+      },
+      {
+        "word": "disproportionate",
+        "confidence": 79
+      },
+      {
+        "word": "concerning",
+        "confidence": 76
+      },
+      {
+        "word": "surprising",
+        "confidence": 73
+      },
+      {
+        "word": "stressful",
+        "confidence": 70
+      },
+      {
+        "word": "unfair",
+        "confidence": 68
+      },
+      {
+        "word": "revealing",
+        "confidence": 65
+      }
+    ]
+  }
+}

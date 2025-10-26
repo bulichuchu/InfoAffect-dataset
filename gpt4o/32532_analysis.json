@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "inspiring",
+        "confidence": 90
+      },
+      {
+        "word": "courageous",
+        "confidence": 88
+      },
+      {
+        "word": "determined",
+        "confidence": 85
+      },
+      {
+        "word": "somber",
+        "confidence": 83
+      },
+      {
+        "word": "resilient",
+        "confidence": 82
+      },
+      {
+        "word": "tragic",
+        "confidence": 80
+      },
+      {
+        "word": "momentous",
+        "confidence": 78
+      },
+      {
+        "word": "hopeful",
+        "confidence": 75
+      }
+    ]
+  }
+}

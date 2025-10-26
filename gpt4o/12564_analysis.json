@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "trustworthy",
+        "confidence": 90
+      },
+      {
+        "word": "contentious",
+        "confidence": 85
+      },
+      {
+        "word": "fractured",
+        "confidence": 80
+      },
+      {
+        "word": "accurate",
+        "confidence": 78
+      },
+      {
+        "word": "divisions",
+        "confidence": 75
+      },
+      {
+        "word": "concerns",
+        "confidence": 70
+      },
+      {
+        "word": "trust",
+        "confidence": 68
+      }
+    ]
+  }
+}

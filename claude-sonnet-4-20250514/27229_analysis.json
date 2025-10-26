@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "suspicious",
+        "confidence": 90
+      },
+      {
+        "word": "alarming",
+        "confidence": 85
+      },
+      {
+        "word": "tragic",
+        "confidence": 88
+      },
+      {
+        "word": "deceptive",
+        "confidence": 82
+      },
+      {
+        "word": "concerning",
+        "confidence": 87
+      },
+      {
+        "word": "exploitative",
+        "confidence": 80
+      },
+      {
+        "word": "manipulative",
+        "confidence": 78
+      },
+      {
+        "word": "threatening",
+        "confidence": 75
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "retaliation",
+        "confidence": 85
+      },
+      {
+        "word": "attack",
+        "confidence": 90
+      },
+      {
+        "word": "alleged",
+        "confidence": 75
+      },
+      {
+        "word": "ongoing",
+        "confidence": 80
+      },
+      {
+        "word": "doubt",
+        "confidence": 70
+      },
+      {
+        "word": "destroyed",
+        "confidence": 80
+      },
+      {
+        "word": "directly",
+        "confidence": 75
+      },
+      {
+        "word": "chemical",
+        "confidence": 70
+      }
+    ]
+  }
+}

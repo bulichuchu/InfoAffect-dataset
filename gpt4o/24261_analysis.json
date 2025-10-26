@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frustration",
+        "confidence": 90
+      },
+      {
+        "word": "inequality",
+        "confidence": 85
+      },
+      {
+        "word": "disparity",
+        "confidence": 82
+      },
+      {
+        "word": "challenge",
+        "confidence": 80
+      },
+      {
+        "word": "barrier",
+        "confidence": 78
+      },
+      {
+        "word": "inconvenience",
+        "confidence": 75
+      },
+      {
+        "word": "affordability",
+        "confidence": 70
+      }
+    ]
+  }
+}

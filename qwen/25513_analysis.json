@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "respectful",
+        "confidence": 90
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 85
+      },
+      {
+        "word": "admiring",
+        "confidence": 82
+      },
+      {
+        "word": "steady",
+        "confidence": 78
+      },
+      {
+        "word": "enduring",
+        "confidence": 75
+      },
+      {
+        "word": "resilient",
+        "confidence": 73
+      },
+      {
+        "word": "authoritative",
+        "confidence": 70
+      },
+      {
+        "word": "transitional",
+        "confidence": 65
+      }
+    ]
+  }
+}

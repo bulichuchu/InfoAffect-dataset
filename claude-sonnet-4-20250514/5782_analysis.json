@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "nostalgic",
+        "confidence": 88
+      },
+      {
+        "word": "disruptive",
+        "confidence": 85
+      },
+      {
+        "word": "dramatic",
+        "confidence": 82
+      },
+      {
+        "word": "evolutionary",
+        "confidence": 78
+      },
+      {
+        "word": "competitive",
+        "confidence": 75
+      },
+      {
+        "word": "transformative",
+        "confidence": 73
+      },
+      {
+        "word": "inevitable",
+        "confidence": 70
+      },
+      {
+        "word": "progressive",
+        "confidence": 68
+      }
+    ]
+  }
+}

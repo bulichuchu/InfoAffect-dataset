@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "gloomy",
+        "confidence": 90
+      },
+      {
+        "word": "polarized",
+        "confidence": 85
+      },
+      {
+        "word": "tensions",
+        "confidence": 80
+      },
+      {
+        "word": "challenges",
+        "confidence": 75
+      },
+      {
+        "word": "division",
+        "confidence": 78
+      },
+      {
+        "word": "catastrophes",
+        "confidence": 88
+      },
+      {
+        "word": "risks",
+        "confidence": 82
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disillusioned",
+        "confidence": 85
+      },
+      {
+        "word": "uncertain",
+        "confidence": 80
+      },
+      {
+        "word": "divided",
+        "confidence": 78
+      },
+      {
+        "word": "skeptical",
+        "confidence": 75
+      },
+      {
+        "word": "pessimistic",
+        "confidence": 72
+      },
+      {
+        "word": "critical",
+        "confidence": 70
+      },
+      {
+        "word": "weak",
+        "confidence": 65
+      },
+      {
+        "word": "fragmented",
+        "confidence": 60
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "wavering",
+        "confidence": 85
+      },
+      {
+        "word": "unsatisfied",
+        "confidence": 90
+      },
+      {
+        "word": "distrust",
+        "confidence": 88
+      },
+      {
+        "word": "alarming",
+        "confidence": 84
+      },
+      {
+        "word": "collapse",
+        "confidence": 86
+      },
+      {
+        "word": "crisis",
+        "confidence": 82
+      },
+      {
+        "word": "consequences",
+        "confidence": 80
+      }
+    ]
+  }
+}

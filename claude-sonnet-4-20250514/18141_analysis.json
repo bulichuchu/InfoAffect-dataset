@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "struggling",
+        "confidence": 88
+      },
+      {
+        "word": "recovering",
+        "confidence": 82
+      },
+      {
+        "word": "hopeful",
+        "confidence": 75
+      },
+      {
+        "word": "resilient",
+        "confidence": 72
+      },
+      {
+        "word": "concerning",
+        "confidence": 78
+      },
+      {
+        "word": "optimistic",
+        "confidence": 68
+      },
+      {
+        "word": "challenging",
+        "confidence": 85
+      },
+      {
+        "word": "determined",
+        "confidence": 65
+      }
+    ]
+  }
+}

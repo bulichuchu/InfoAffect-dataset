@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unsuccessful",
+        "confidence": 90
+      },
+      {
+        "word": "oppositional",
+        "confidence": 85
+      },
+      {
+        "word": "misleading",
+        "confidence": 80
+      },
+      {
+        "word": "skeptical",
+        "confidence": 75
+      },
+      {
+        "word": "ambitious",
+        "confidence": 70
+      },
+      {
+        "word": "stagnant",
+        "confidence": 68
+      }
+    ]
+  }
+}

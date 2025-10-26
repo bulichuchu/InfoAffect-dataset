@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "hopeful",
+        "confidence": 88
+      },
+      {
+        "word": "disappointed",
+        "confidence": 82
+      },
+      {
+        "word": "ambitious",
+        "confidence": 78
+      },
+      {
+        "word": "triumphant",
+        "confidence": 75
+      },
+      {
+        "word": "stinging",
+        "confidence": 70
+      },
+      {
+        "word": "dominant",
+        "confidence": 73
+      },
+      {
+        "word": "record-breaking",
+        "confidence": 80
+      },
+      {
+        "word": "steadily growing",
+        "confidence": 68
+      }
+    ]
+  }
+}

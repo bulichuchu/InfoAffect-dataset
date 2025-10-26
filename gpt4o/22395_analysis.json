@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "hope",
+        "confidence": 90
+      },
+      {
+        "word": "security",
+        "confidence": 85
+      },
+      {
+        "word": "vital",
+        "confidence": 80
+      },
+      {
+        "word": "crucial",
+        "confidence": 78
+      },
+      {
+        "word": "difficult",
+        "confidence": 75
+      },
+      {
+        "word": "unprecedented",
+        "confidence": 70
+      },
+      {
+        "word": "essential",
+        "confidence": 65
+      }
+    ]
+  }
+}

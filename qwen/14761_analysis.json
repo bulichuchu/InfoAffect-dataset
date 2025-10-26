@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dramatic",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 80
+      },
+      {
+        "word": "strategic",
+        "confidence": 75
+      },
+      {
+        "word": "tense",
+        "confidence": 70
+      },
+      {
+        "word": "shifting",
+        "confidence": 78
+      },
+      {
+        "word": "protective",
+        "confidence": 65
+      },
+      {
+        "word": "urgent",
+        "confidence": 60
+      },
+      {
+        "word": "calculated",
+        "confidence": 68
+      }
+    ]
+  }
+}

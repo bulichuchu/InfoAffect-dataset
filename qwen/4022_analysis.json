@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "pivotal",
+        "confidence": 85
+      },
+      {
+        "word": "momentous",
+        "confidence": 82
+      },
+      {
+        "word": "ubiquitous",
+        "confidence": 78
+      },
+      {
+        "word": "transformative",
+        "confidence": 80
+      },
+      {
+        "word": "astonishing",
+        "confidence": 75
+      },
+      {
+        "word": "celebratory",
+        "confidence": 70
+      },
+      {
+        "word": "competitive",
+        "confidence": 65
+      },
+      {
+        "word": "remarkable",
+        "confidence": 73
+      }
+    ]
+  }
+}

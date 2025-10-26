@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "skeptical",
+        "confidence": 85
+      },
+      {
+        "word": "defensive",
+        "confidence": 80
+      },
+      {
+        "word": "dismissive",
+        "confidence": 75
+      },
+      {
+        "word": "confident",
+        "confidence": 70
+      },
+      {
+        "word": "indifferent",
+        "confidence": 65
+      },
+      {
+        "word": "controversial",
+        "confidence": 78
+      },
+      {
+        "word": "polarized",
+        "confidence": 72
+      }
+    ]
+  }
+}

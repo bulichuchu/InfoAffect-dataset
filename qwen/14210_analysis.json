@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disparaging",
+        "confidence": 85
+      },
+      {
+        "word": "isolated",
+        "confidence": 82
+      },
+      {
+        "word": "deprived",
+        "confidence": 78
+      },
+      {
+        "word": "frustrating",
+        "confidence": 75
+      },
+      {
+        "word": "stark",
+        "confidence": 70
+      },
+      {
+        "word": "repressive",
+        "confidence": 68
+      },
+      {
+        "word": "delayed",
+        "confidence": 65
+      },
+      {
+        "word": "hopeful",
+        "confidence": 55
+      }
+    ]
+  }
+}

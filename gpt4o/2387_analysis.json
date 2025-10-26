@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "decline",
+        "confidence": 90
+      },
+      {
+        "word": "disruption",
+        "confidence": 85
+      },
+      {
+        "word": "plummet",
+        "confidence": 88
+      },
+      {
+        "word": "nosedived",
+        "confidence": 82
+      },
+      {
+        "word": "falling",
+        "confidence": 75
+      }
+    ]
+  }
+}

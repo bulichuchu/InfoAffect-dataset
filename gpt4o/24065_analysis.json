@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "controversial",
+        "confidence": 85
+      },
+      {
+        "word": "restrictive",
+        "confidence": 82
+      },
+      {
+        "word": "oppressive",
+        "confidence": 80
+      },
+      {
+        "word": "hostile",
+        "confidence": 78
+      },
+      {
+        "word": "secular",
+        "confidence": 75
+      },
+      {
+        "word": "mandated",
+        "confidence": 70
+      },
+      {
+        "word": "cultural",
+        "confidence": 65
+      }
+    ]
+  }
+}

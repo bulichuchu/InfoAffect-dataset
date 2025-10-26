@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "contested",
+        "confidence": 90
+      },
+      {
+        "word": "resilient",
+        "confidence": 85
+      },
+      {
+        "word": "assertive",
+        "confidence": 80
+      },
+      {
+        "word": "vigilant",
+        "confidence": 75
+      },
+      {
+        "word": "concerned",
+        "confidence": 70
+      },
+      {
+        "word": "strategic",
+        "confidence": 65
+      }
+    ]
+  }
+}

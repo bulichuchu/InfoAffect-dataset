@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "aggressive",
+        "confidence": 88
+      },
+      {
+        "word": "militaristic",
+        "confidence": 85
+      },
+      {
+        "word": "retaliation",
+        "confidence": 82
+      },
+      {
+        "word": "domination",
+        "confidence": 80
+      },
+      {
+        "word": "historical",
+        "confidence": 75
+      },
+      {
+        "word": "decisive",
+        "confidence": 70
+      },
+      {
+        "word": "persistent",
+        "confidence": 65
+      }
+    ]
+  }
+}

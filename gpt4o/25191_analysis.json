@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "conflict",
+        "confidence": 90
+      },
+      {
+        "word": "tension",
+        "confidence": 85
+      },
+      {
+        "word": "polarization",
+        "confidence": 82
+      },
+      {
+        "word": "division",
+        "confidence": 78
+      },
+      {
+        "word": "strain",
+        "confidence": 75
+      },
+      {
+        "word": "contrast",
+        "confidence": 72
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dominant",
+        "confidence": 85
+      },
+      {
+        "word": "competitive",
+        "confidence": 80
+      },
+      {
+        "word": "transition",
+        "confidence": 75
+      },
+      {
+        "word": "emergent",
+        "confidence": 70
+      },
+      {
+        "word": "independent",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frustration",
+        "confidence": 90
+      },
+      {
+        "word": "opposition",
+        "confidence": 88
+      },
+      {
+        "word": "disappointment",
+        "confidence": 85
+      },
+      {
+        "word": "ambitious",
+        "confidence": 82
+      },
+      {
+        "word": "supportive",
+        "confidence": 78
+      },
+      {
+        "word": "collaborative",
+        "confidence": 75
+      },
+      {
+        "word": "enraged",
+        "confidence": 70
+      }
+    ]
+  }
+}

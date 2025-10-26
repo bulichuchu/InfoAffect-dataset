@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "awe-inspiring",
+        "confidence": 88
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 82
+      },
+      {
+        "word": "impressive",
+        "confidence": 85
+      },
+      {
+        "word": "melancholic",
+        "confidence": 76
+      },
+      {
+        "word": "grand",
+        "confidence": 80
+      },
+      {
+        "word": "historical",
+        "confidence": 78
+      },
+      {
+        "word": "declining",
+        "confidence": 70
+      },
+      {
+        "word": "vast",
+        "confidence": 75
+      }
+    ]
+  }
+}

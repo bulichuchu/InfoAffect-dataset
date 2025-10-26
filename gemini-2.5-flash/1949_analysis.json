@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "admiring",
+        "confidence": 90
+      },
+      {
+        "word": "awe",
+        "confidence": 85
+      },
+      {
+        "word": "respectful",
+        "confidence": 80
+      },
+      {
+        "word": "celebratory",
+        "confidence": 75
+      },
+      {
+        "word": "acknowledging",
+        "confidence": 70
+      },
+      {
+        "word": "appreciative",
+        "confidence": 65
+      }
+    ]
+  }
+}

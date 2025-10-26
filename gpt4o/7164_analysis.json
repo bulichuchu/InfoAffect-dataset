@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "underrepresented",
+        "confidence": 90
+      },
+      {
+        "word": "disparity",
+        "confidence": 85
+      },
+      {
+        "word": "inequality",
+        "confidence": 82
+      },
+      {
+        "word": "notable",
+        "confidence": 75
+      },
+      {
+        "word": "overlooked",
+        "confidence": 78
+      },
+      {
+        "word": "highlight",
+        "confidence": 70
+      }
+    ]
+  }
+}

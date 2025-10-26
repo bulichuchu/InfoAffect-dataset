@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "inspiring",
+        "confidence": 90
+      },
+      {
+        "word": "exciting",
+        "confidence": 85
+      },
+      {
+        "word": "impressive",
+        "confidence": 88
+      },
+      {
+        "word": "historic",
+        "confidence": 82
+      },
+      {
+        "word": "triumphant",
+        "confidence": 78
+      },
+      {
+        "word": "determined",
+        "confidence": 75
+      },
+      {
+        "word": "awe-inspiring",
+        "confidence": 80
+      },
+      {
+        "word": "groundbreaking",
+        "confidence": 83
+      }
+    ]
+  }
+}

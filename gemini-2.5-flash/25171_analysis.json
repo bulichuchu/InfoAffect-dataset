@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rivalrous",
+        "confidence": 95
+      },
+      {
+        "word": "apprehensive",
+        "confidence": 90
+      },
+      {
+        "word": "anticipatory",
+        "confidence": 88
+      },
+      {
+        "word": "disappointed",
+        "confidence": 85
+      },
+      {
+        "word": "triumphant",
+        "confidence": 80
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      }
+    ]
+  }
+}

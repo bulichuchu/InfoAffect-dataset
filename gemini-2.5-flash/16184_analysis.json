@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anticipatory",
+        "confidence": 90
+      },
+      {
+        "word": "excited",
+        "confidence": 88
+      },
+      {
+        "word": "eager",
+        "confidence": 85
+      },
+      {
+        "word": "bustling",
+        "confidence": 82
+      },
+      {
+        "word": "strategic",
+        "confidence": 78
+      },
+      {
+        "word": "value-conscious",
+        "confidence": 70
+      }
+    ]
+  }
+}

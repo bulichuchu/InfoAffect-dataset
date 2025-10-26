@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "successful",
+        "confidence": 90
+      },
+      {
+        "word": "record-breaking",
+        "confidence": 85
+      },
+      {
+        "word": "growth",
+        "confidence": 80
+      },
+      {
+        "word": "competitive",
+        "confidence": 75
+      },
+      {
+        "word": "dominant",
+        "confidence": 82
+      },
+      {
+        "word": "consolidation",
+        "confidence": 70
+      }
+    ]
+  }
+}

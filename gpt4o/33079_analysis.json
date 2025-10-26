@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frustration",
+        "confidence": 88
+      },
+      {
+        "word": "concern",
+        "confidence": 84
+      },
+      {
+        "word": "disparity",
+        "confidence": 81
+      },
+      {
+        "word": "impatience",
+        "confidence": 77
+      },
+      {
+        "word": "urgency",
+        "confidence": 75
+      },
+      {
+        "word": "inefficiency",
+        "confidence": 73
+      },
+      {
+        "word": "variability",
+        "confidence": 70
+      }
+    ]
+  }
+}

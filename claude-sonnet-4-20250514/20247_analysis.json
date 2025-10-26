@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "stark",
+        "confidence": 90
+      },
+      {
+        "word": "glaring",
+        "confidence": 88
+      },
+      {
+        "word": "striking",
+        "confidence": 85
+      },
+      {
+        "word": "measly",
+        "confidence": 82
+      },
+      {
+        "word": "forgotten",
+        "confidence": 78
+      },
+      {
+        "word": "critical",
+        "confidence": 75
+      },
+      {
+        "word": "disparate",
+        "confidence": 72
+      }
+    ]
+  }
+}

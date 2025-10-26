@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "challenging",
+        "confidence": 90
+      },
+      {
+        "word": "resilient",
+        "confidence": 85
+      },
+      {
+        "word": "exhausted",
+        "confidence": 80
+      },
+      {
+        "word": "strained",
+        "confidence": 75
+      },
+      {
+        "word": "determined",
+        "confidence": 78
+      },
+      {
+        "word": "weary",
+        "confidence": 72
+      },
+      {
+        "word": "heroic",
+        "confidence": 65
+      },
+      {
+        "word": "isolated",
+        "confidence": 70
+      }
+    ]
+  }
+}

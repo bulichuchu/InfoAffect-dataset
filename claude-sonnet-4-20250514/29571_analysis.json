@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "content",
+        "confidence": 88
+      },
+      {
+        "word": "peaceful",
+        "confidence": 85
+      },
+      {
+        "word": "fulfilling",
+        "confidence": 82
+      },
+      {
+        "word": "comforting",
+        "confidence": 80
+      },
+      {
+        "word": "engaging",
+        "confidence": 78
+      },
+      {
+        "word": "nurturing",
+        "confidence": 75
+      },
+      {
+        "word": "satisfying",
+        "confidence": 73
+      },
+      {
+        "word": "enriching",
+        "confidence": 70
+      }
+    ]
+  }
+}

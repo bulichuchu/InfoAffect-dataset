@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "nostalgic",
+        "confidence": 82
+      },
+      {
+        "word": "declining",
+        "confidence": 78
+      },
+      {
+        "word": "analytical",
+        "confidence": 75
+      },
+      {
+        "word": "informative",
+        "confidence": 88
+      },
+      {
+        "word": "observational",
+        "confidence": 70
+      },
+      {
+        "word": "factual",
+        "confidence": 85
+      },
+      {
+        "word": "reflective",
+        "confidence": 65
+      }
+    ]
+  }
+}

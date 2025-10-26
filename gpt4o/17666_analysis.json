@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "diverse",
+        "confidence": 90
+      },
+      {
+        "word": "contrast",
+        "confidence": 85
+      },
+      {
+        "word": "underrepresentation",
+        "confidence": 80
+      },
+      {
+        "word": "gender-disparity",
+        "confidence": 87
+      },
+      {
+        "word": "noninclusive",
+        "confidence": 82
+      },
+      {
+        "word": "imbalanced",
+        "confidence": 78
+      }
+    ]
+  }
+}

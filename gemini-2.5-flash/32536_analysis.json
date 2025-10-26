@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "tense",
+        "confidence": 90
+      },
+      {
+        "word": "aspirational",
+        "confidence": 85
+      },
+      {
+        "word": "uncertain",
+        "confidence": 80
+      },
+      {
+        "word": "dynamic",
+        "confidence": 75
+      },
+      {
+        "word": "significant",
+        "confidence": 70
+      },
+      {
+        "word": "complex",
+        "confidence": 65
+      }
+    ]
+  }
+}

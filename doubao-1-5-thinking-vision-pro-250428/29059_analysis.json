@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "daunting",
+        "confidence": 85
+      },
+      {
+        "word": "challenging",
+        "confidence": 80
+      },
+      {
+        "word": "impressive",
+        "confidence": 75
+      },
+      {
+        "word": "accomplished",
+        "confidence": 70
+      },
+      {
+        "word": "dominant",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "innovative",
+        "confidence": 90
+      },
+      {
+        "word": "useful",
+        "confidence": 85
+      },
+      {
+        "word": "convenient",
+        "confidence": 80
+      },
+      {
+        "word": "efficient",
+        "confidence": 78
+      },
+      {
+        "word": "empowering",
+        "confidence": 75
+      },
+      {
+        "word": "transformative",
+        "confidence": 73
+      },
+      {
+        "word": "popular",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "undervalued",
+        "confidence": 90
+      },
+      {
+        "word": "disappointing",
+        "confidence": 85
+      },
+      {
+        "word": "puzzling",
+        "confidence": 80
+      },
+      {
+        "word": "skeptical",
+        "confidence": 75
+      },
+      {
+        "word": "unfair",
+        "confidence": 70
+      },
+      {
+        "word": "anticipatory",
+        "confidence": 65
+      }
+    ]
+  }
+}

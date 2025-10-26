@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surprise",
+        "confidence": 85
+      },
+      {
+        "word": "relief",
+        "confidence": 80
+      },
+      {
+        "word": "positive",
+        "confidence": 78
+      },
+      {
+        "word": "courteous",
+        "confidence": 75
+      },
+      {
+        "word": "change",
+        "confidence": 72
+      },
+      {
+        "word": "appreciation",
+        "confidence": 70
+      }
+    ]
+  }
+}

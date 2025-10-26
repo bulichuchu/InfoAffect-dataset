@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "progress",
+        "confidence": 85
+      },
+      {
+        "word": "concern",
+        "confidence": 80
+      },
+      {
+        "word": "achievement",
+        "confidence": 78
+      },
+      {
+        "word": "inequality",
+        "confidence": 75
+      },
+      {
+        "word": "fragility",
+        "confidence": 70
+      },
+      {
+        "word": "collaboration",
+        "confidence": 68
+      },
+      {
+        "word": "urgent",
+        "confidence": 72
+      }
+    ]
+  }
+}

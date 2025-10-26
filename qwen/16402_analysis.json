@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "controversial",
+        "confidence": 88
+      },
+      {
+        "word": "tense",
+        "confidence": 82
+      },
+      {
+        "word": "compromising",
+        "confidence": 78
+      },
+      {
+        "word": "strategic",
+        "confidence": 75
+      },
+      {
+        "word": "regretful",
+        "confidence": 70
+      },
+      {
+        "word": "resilient",
+        "confidence": 65
+      },
+      {
+        "word": "cautious",
+        "confidence": 68
+      },
+      {
+        "word": "ambivalent",
+        "confidence": 72
+      }
+    ]
+  }
+}

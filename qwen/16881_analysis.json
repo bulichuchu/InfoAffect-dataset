@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disheartening",
+        "confidence": 88
+      },
+      {
+        "word": "concerning",
+        "confidence": 85
+      },
+      {
+        "word": "imbalanced",
+        "confidence": 82
+      },
+      {
+        "word": "frustrating",
+        "confidence": 78
+      },
+      {
+        "word": "unequal",
+        "confidence": 76
+      },
+      {
+        "word": "alarming",
+        "confidence": 74
+      },
+      {
+        "word": "discouraging",
+        "confidence": 72
+      },
+      {
+        "word": "systemic",
+        "confidence": 68
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anxious",
+        "confidence": 90
+      },
+      {
+        "word": "depressed",
+        "confidence": 88
+      },
+      {
+        "word": "suicidal",
+        "confidence": 85
+      },
+      {
+        "word": "worryingly",
+        "confidence": 80
+      },
+      {
+        "word": "startlingly",
+        "confidence": 75
+      }
+    ]
+  }
+}

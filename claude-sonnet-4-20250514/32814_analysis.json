@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "stark",
+        "confidence": 90
+      },
+      {
+        "word": "disturbing",
+        "confidence": 88
+      },
+      {
+        "word": "exploitative",
+        "confidence": 85
+      },
+      {
+        "word": "unjust",
+        "confidence": 82
+      },
+      {
+        "word": "degrading",
+        "confidence": 80
+      },
+      {
+        "word": "concerning",
+        "confidence": 78
+      },
+      {
+        "word": "inequitable",
+        "confidence": 75
+      },
+      {
+        "word": "revealing",
+        "confidence": 70
+      }
+    ]
+  }
+}

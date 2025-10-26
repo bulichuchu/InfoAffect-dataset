@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "decent",
+        "confidence": 85
+      },
+      {
+        "word": "on par",
+        "confidence": 80
+      },
+      {
+        "word": "lack",
+        "confidence": 75
+      },
+      {
+        "word": "problem",
+        "confidence": 70
+      },
+      {
+        "word": "interesting",
+        "confidence": 65
+      },
+      {
+        "word": "anticipatory",
+        "confidence": 60
+      },
+      {
+        "word": "balanced",
+        "confidence": 72
+      },
+      {
+        "word": "cautious",
+        "confidence": 68
+      }
+    ]
+  }
+}

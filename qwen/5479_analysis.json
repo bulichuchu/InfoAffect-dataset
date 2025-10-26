@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "impressive",
+        "confidence": 85
+      },
+      {
+        "word": "dominant",
+        "confidence": 80
+      },
+      {
+        "word": "powerful",
+        "confidence": 78
+      },
+      {
+        "word": "wealthy",
+        "confidence": 90
+      },
+      {
+        "word": "competitive",
+        "confidence": 75
+      },
+      {
+        "word": "aspirational",
+        "confidence": 70
+      },
+      {
+        "word": "global",
+        "confidence": 65
+      },
+      {
+        "word": "celebratory",
+        "confidence": 60
+      }
+    ]
+  }
+}

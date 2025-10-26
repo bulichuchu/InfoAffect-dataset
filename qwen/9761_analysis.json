@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transformative",
+        "confidence": 85
+      },
+      {
+        "word": "disruptive",
+        "confidence": 80
+      },
+      {
+        "word": "surprising",
+        "confidence": 75
+      },
+      {
+        "word": "significant",
+        "confidence": 82
+      },
+      {
+        "word": "ominous",
+        "confidence": 68
+      },
+      {
+        "word": "inevitable",
+        "confidence": 70
+      },
+      {
+        "word": "provocative",
+        "confidence": 73
+      },
+      {
+        "word": "concerning",
+        "confidence": 65
+      }
+    ]
+  }
+}

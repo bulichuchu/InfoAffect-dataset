@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "tensions",
+        "confidence": 90
+      },
+      {
+        "word": "conflict",
+        "confidence": 88
+      },
+      {
+        "word": "concern",
+        "confidence": 85
+      },
+      {
+        "word": "imperiling",
+        "confidence": 82
+      },
+      {
+        "word": "dependence",
+        "confidence": 80
+      },
+      {
+        "word": "threat",
+        "confidence": 78
+      },
+      {
+        "word": "critical",
+        "confidence": 75
+      }
+    ]
+  }
+}

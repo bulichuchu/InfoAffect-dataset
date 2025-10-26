@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "persistent",
+        "confidence": 90
+      },
+      {
+        "word": "habitual",
+        "confidence": 88
+      },
+      {
+        "word": "contentment",
+        "confidence": 85
+      },
+      {
+        "word": "stagnant",
+        "confidence": 78
+      },
+      {
+        "word": "resistant",
+        "confidence": 72
+      },
+      {
+        "word": "subtle concern",
+        "confidence": 65
+      }
+    ]
+  }
+}

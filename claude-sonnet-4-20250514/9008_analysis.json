@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "chaotic",
+        "confidence": 88
+      },
+      {
+        "word": "uncertain",
+        "confidence": 85
+      },
+      {
+        "word": "disruptive",
+        "confidence": 82
+      },
+      {
+        "word": "controversial",
+        "confidence": 78
+      },
+      {
+        "word": "tense",
+        "confidence": 75
+      },
+      {
+        "word": "impactful",
+        "confidence": 72
+      },
+      {
+        "word": "concerning",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "acceptable",
+        "confidence": 90
+      },
+      {
+        "word": "tolerant",
+        "confidence": 85
+      },
+      {
+        "word": "supportive",
+        "confidence": 80
+      },
+      {
+        "word": "divided",
+        "confidence": 75
+      },
+      {
+        "word": "controversial",
+        "confidence": 70
+      },
+      {
+        "word": "empowering",
+        "confidence": 65
+      },
+      {
+        "word": "respectful",
+        "confidence": 60
+      },
+      {
+        "word": "inclusive",
+        "confidence": 55
+      }
+    ]
+  }
+}

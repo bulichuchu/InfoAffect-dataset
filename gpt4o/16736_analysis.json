@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "improvement",
+        "confidence": 90
+      },
+      {
+        "word": "rebound",
+        "confidence": 85
+      },
+      {
+        "word": "settled",
+        "confidence": 80
+      },
+      {
+        "word": "shock",
+        "confidence": 75
+      },
+      {
+        "word": "volatility",
+        "confidence": 70
+      },
+      {
+        "word": "recovery",
+        "confidence": 75
+      },
+      {
+        "word": "uncertainty",
+        "confidence": 65
+      }
+    ]
+  }
+}

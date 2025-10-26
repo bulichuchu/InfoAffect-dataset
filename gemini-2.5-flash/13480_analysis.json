@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "obsolete",
+        "confidence": 92
+      },
+      {
+        "word": "threatened",
+        "confidence": 90
+      },
+      {
+        "word": "declining",
+        "confidence": 88
+      },
+      {
+        "word": "anxious",
+        "confidence": 85
+      },
+      {
+        "word": "melancholy",
+        "confidence": 80
+      },
+      {
+        "word": "disruptive",
+        "confidence": 78
+      }
+    ]
+  }
+}

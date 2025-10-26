@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dispute",
+        "confidence": 85
+      },
+      {
+        "word": "threatened",
+        "confidence": 82
+      },
+      {
+        "word": "challenging",
+        "confidence": 80
+      },
+      {
+        "word": "criticism",
+        "confidence": 78
+      },
+      {
+        "word": "unfair",
+        "confidence": 76
+      },
+      {
+        "word": "remedied",
+        "confidence": 70
+      }
+    ]
+  }
+}

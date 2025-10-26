@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "inefficient",
+        "confidence": 90
+      },
+      {
+        "word": "excessive",
+        "confidence": 85
+      },
+      {
+        "word": "wasteful",
+        "confidence": 80
+      },
+      {
+        "word": "concern",
+        "confidence": 75
+      },
+      {
+        "word": "efficient",
+        "confidence": 70
+      }
+    ]
+  }
+}

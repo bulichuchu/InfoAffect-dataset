@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "controversial",
+        "confidence": 90
+      },
+      {
+        "word": "concerning",
+        "confidence": 85
+      },
+      {
+        "word": "serious",
+        "confidence": 82
+      },
+      {
+        "word": "uncertain",
+        "confidence": 78
+      },
+      {
+        "word": "alarming",
+        "confidence": 75
+      },
+      {
+        "word": "polarizing",
+        "confidence": 70
+      }
+    ]
+  }
+}

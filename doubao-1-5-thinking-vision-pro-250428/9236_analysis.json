@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "confident",
+        "confidence": 80
+      },
+      {
+        "word": "triumphant",
+        "confidence": 75
+      },
+      {
+        "word": "pressing",
+        "confidence": 85
+      },
+      {
+        "word": "discrepant",
+        "confidence": 70
+      },
+      {
+        "word": "contentious",
+        "confidence": 70
+      }
+    ]
+  }
+}

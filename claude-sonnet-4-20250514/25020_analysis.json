@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "reluctant",
+        "confidence": 90
+      },
+      {
+        "word": "embraced",
+        "confidence": 85
+      },
+      {
+        "word": "optimistic",
+        "confidence": 78
+      },
+      {
+        "word": "conflicted",
+        "confidence": 82
+      },
+      {
+        "word": "liberated",
+        "confidence": 75
+      },
+      {
+        "word": "resistant",
+        "confidence": 80
+      },
+      {
+        "word": "empowered",
+        "confidence": 72
+      },
+      {
+        "word": "determined",
+        "confidence": 68
+      }
+    ]
+  }
+}

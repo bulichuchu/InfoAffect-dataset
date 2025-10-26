@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "historic",
+        "confidence": 90
+      },
+      {
+        "word": "dissenting",
+        "confidence": 85
+      },
+      {
+        "word": "insufficient",
+        "confidence": 82
+      },
+      {
+        "word": "accountability",
+        "confidence": 78
+      },
+      {
+        "word": "deterrent",
+        "confidence": 73
+      },
+      {
+        "word": "controversial",
+        "confidence": 70
+      }
+    ]
+  }
+}

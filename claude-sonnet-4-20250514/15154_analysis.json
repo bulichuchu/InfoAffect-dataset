@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "brutal",
+        "confidence": 95
+      },
+      {
+        "word": "crippling",
+        "confidence": 92
+      },
+      {
+        "word": "harsh",
+        "confidence": 88
+      },
+      {
+        "word": "turbulent",
+        "confidence": 85
+      },
+      {
+        "word": "somber",
+        "confidence": 82
+      },
+      {
+        "word": "burdensome",
+        "confidence": 78
+      },
+      {
+        "word": "hopeful",
+        "confidence": 65
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      }
+    ]
+  }
+}

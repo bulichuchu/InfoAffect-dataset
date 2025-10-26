@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unsustainable",
+        "confidence": 90
+      },
+      {
+        "word": "concerning",
+        "confidence": 85
+      },
+      {
+        "word": "burdensome",
+        "confidence": 80
+      },
+      {
+        "word": "disproportionate",
+        "confidence": 75
+      },
+      {
+        "word": "problematic",
+        "confidence": 70
+      }
+    ]
+  }
+}

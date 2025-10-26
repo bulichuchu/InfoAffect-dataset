@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "corruption",
+        "confidence": 95
+      },
+      {
+        "word": "scandal",
+        "confidence": 90
+      },
+      {
+        "word": "suspicions",
+        "confidence": 85
+      },
+      {
+        "word": "influence",
+        "confidence": 80
+      },
+      {
+        "word": "widespread",
+        "confidence": 88
+      },
+      {
+        "word": "surprise",
+        "confidence": 60
+      }
+    ]
+  }
+}

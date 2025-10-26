@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unexpected",
+        "confidence": 85
+      },
+      {
+        "word": "interesting",
+        "confidence": 90
+      },
+      {
+        "word": "community",
+        "confidence": 80
+      },
+      {
+        "word": "culinary",
+        "confidence": 75
+      },
+      {
+        "word": "explore",
+        "confidence": 78
+      },
+      {
+        "word": "diverse",
+        "confidence": 70
+      },
+      {
+        "word": "unusual",
+        "confidence": 82
+      }
+    ]
+  }
+}

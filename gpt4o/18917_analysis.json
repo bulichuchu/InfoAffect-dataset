@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "trust",
+        "confidence": 90
+      },
+      {
+        "word": "relief",
+        "confidence": 85
+      },
+      {
+        "word": "confident",
+        "confidence": 80
+      },
+      {
+        "word": "divide",
+        "confidence": 75
+      },
+      {
+        "word": "exacerbated",
+        "confidence": 70
+      },
+      {
+        "word": "distrust",
+        "confidence": 68
+      }
+    ]
+  }
+}

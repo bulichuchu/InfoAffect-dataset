@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "yearning",
+        "confidence": 90
+      },
+      {
+        "word": "tiresome",
+        "confidence": 85
+      },
+      {
+        "word": "hopeful",
+        "confidence": 80
+      },
+      {
+        "word": "restless",
+        "confidence": 78
+      },
+      {
+        "word": "optimistic",
+        "confidence": 75
+      },
+      {
+        "word": "frustrated",
+        "confidence": 72
+      },
+      {
+        "word": "anxious",
+        "confidence": 68
+      },
+      {
+        "word": "relieved",
+        "confidence": 65
+      }
+    ]
+  }
+}

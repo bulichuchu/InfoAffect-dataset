@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "tense",
+        "confidence": 85
+      },
+      {
+        "word": "confrontational",
+        "confidence": 80
+      },
+      {
+        "word": "skeptical",
+        "confidence": 75
+      },
+      {
+        "word": "serious",
+        "confidence": 82
+      },
+      {
+        "word": "concerned",
+        "confidence": 78
+      },
+      {
+        "word": "retaliatory",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "controversial",
+        "confidence": 90
+      },
+      {
+        "word": "scandalous",
+        "confidence": 85
+      },
+      {
+        "word": "unethical",
+        "confidence": 82
+      },
+      {
+        "word": "secretive",
+        "confidence": 80
+      },
+      {
+        "word": "alarming",
+        "confidence": 78
+      },
+      {
+        "word": "disturbing",
+        "confidence": 75
+      },
+      {
+        "word": "deceptive",
+        "confidence": 72
+      }
+    ]
+  }
+}

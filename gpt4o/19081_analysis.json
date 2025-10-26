@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "scandal",
+        "confidence": 90
+      },
+      {
+        "word": "bleak",
+        "confidence": 88
+      },
+      {
+        "word": "frightening",
+        "confidence": 85
+      },
+      {
+        "word": "alarming",
+        "confidence": 80
+      },
+      {
+        "word": "distressing",
+        "confidence": 78
+      },
+      {
+        "word": "appalling",
+        "confidence": 76
+      }
+    ]
+  }
+}

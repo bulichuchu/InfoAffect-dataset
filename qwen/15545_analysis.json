@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "perplexed",
+        "confidence": 85
+      },
+      {
+        "word": "skeptical",
+        "confidence": 80
+      },
+      {
+        "word": "amused",
+        "confidence": 75
+      },
+      {
+        "word": "surprised",
+        "confidence": 70
+      },
+      {
+        "word": "indifferent",
+        "confidence": 65
+      },
+      {
+        "word": "curious",
+        "confidence": 60
+      },
+      {
+        "word": "dismissive",
+        "confidence": 55
+      }
+    ]
+  }
+}

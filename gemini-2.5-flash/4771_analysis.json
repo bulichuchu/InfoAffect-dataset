@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transitional",
+        "confidence": 95
+      },
+      {
+        "word": "apprehensive",
+        "confidence": 90
+      },
+      {
+        "word": "hopeful",
+        "confidence": 88
+      },
+      {
+        "word": "empowering",
+        "confidence": 85
+      },
+      {
+        "word": "evolving",
+        "confidence": 82
+      },
+      {
+        "word": "reflective",
+        "confidence": 75
+      }
+    ]
+  }
+}

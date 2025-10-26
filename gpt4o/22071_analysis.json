@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "abysmal",
+        "confidence": 90
+      },
+      {
+        "word": "optimism",
+        "confidence": 85
+      },
+      {
+        "word": "loss",
+        "confidence": 88
+      },
+      {
+        "word": "burning",
+        "confidence": 75
+      },
+      {
+        "word": "uncertain",
+        "confidence": 80
+      },
+      {
+        "word": "cut",
+        "confidence": 78
+      },
+      {
+        "word": "hard-hit",
+        "confidence": 82
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "sobering",
+        "confidence": 95
+      },
+      {
+        "word": "disillusioning",
+        "confidence": 88
+      },
+      {
+        "word": "cynical",
+        "confidence": 82
+      },
+      {
+        "word": "suspicious",
+        "confidence": 78
+      },
+      {
+        "word": "disappointing",
+        "confidence": 85
+      },
+      {
+        "word": "skeptical",
+        "confidence": 80
+      },
+      {
+        "word": "concerning",
+        "confidence": 75
+      }
+    ]
+  }
+}

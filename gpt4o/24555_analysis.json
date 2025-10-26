@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "generous",
+        "confidence": 85
+      },
+      {
+        "word": "nationalism",
+        "confidence": 80
+      },
+      {
+        "word": "altruism",
+        "confidence": 75
+      },
+      {
+        "word": "hesitation",
+        "confidence": 65
+      },
+      {
+        "word": "tug-of-war",
+        "confidence": 70
+      },
+      {
+        "word": "competition",
+        "confidence": 78
+      }
+    ]
+  }
+}

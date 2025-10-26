@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "relentless",
+        "confidence": 90
+      },
+      {
+        "word": "concerning",
+        "confidence": 85
+      },
+      {
+        "word": "alarming",
+        "confidence": 82
+      },
+      {
+        "word": "persistent",
+        "confidence": 78
+      },
+      {
+        "word": "ominous",
+        "confidence": 75
+      },
+      {
+        "word": "unsettling",
+        "confidence": 72
+      },
+      {
+        "word": "troubling",
+        "confidence": 70
+      },
+      {
+        "word": "factual",
+        "confidence": 68
+      }
+    ]
+  }
+}

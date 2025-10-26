@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "impressive",
+        "confidence": 88
+      },
+      {
+        "word": "celebratory",
+        "confidence": 82
+      },
+      {
+        "word": "affluent",
+        "confidence": 79
+      },
+      {
+        "word": "successful",
+        "confidence": 85
+      },
+      {
+        "word": "lucrative",
+        "confidence": 76
+      },
+      {
+        "word": "competitive",
+        "confidence": 70
+      },
+      {
+        "word": "prestigious",
+        "confidence": 74
+      },
+      {
+        "word": "enviable",
+        "confidence": 72
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "ambitious",
+        "confidence": 95
+      },
+      {
+        "word": "serious",
+        "confidence": 92
+      },
+      {
+        "word": "determined",
+        "confidence": 90
+      },
+      {
+        "word": "confident",
+        "confidence": 85
+      },
+      {
+        "word": "strategic",
+        "confidence": 80
+      },
+      {
+        "word": "progressive",
+        "confidence": 75
+      }
+    ]
+  }
+}

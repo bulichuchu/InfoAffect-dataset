@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "astronomical",
+        "confidence": 90
+      },
+      {
+        "word": "criticism",
+        "confidence": 85
+      },
+      {
+        "word": "violation",
+        "confidence": 80
+      },
+      {
+        "word": "dangerous",
+        "confidence": 78
+      },
+      {
+        "word": "expensive",
+        "confidence": 92
+      },
+      {
+        "word": "starkly",
+        "confidence": 75
+      }
+    ]
+  }
+}

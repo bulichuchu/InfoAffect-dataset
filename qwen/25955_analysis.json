@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "exclusive",
+        "confidence": 90
+      },
+      {
+        "word": "dominant",
+        "confidence": 85
+      },
+      {
+        "word": "obscenely",
+        "confidence": 80
+      },
+      {
+        "word": "elite",
+        "confidence": 75
+      },
+      {
+        "word": "impressive",
+        "confidence": 70
+      },
+      {
+        "word": "disruptive",
+        "confidence": 65
+      },
+      {
+        "word": "formidable",
+        "confidence": 60
+      },
+      {
+        "word": "intimidating",
+        "confidence": 55
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "constrained",
+        "confidence": 90
+      },
+      {
+        "word": "vulnerable",
+        "confidence": 88
+      },
+      {
+        "word": "tense",
+        "confidence": 85
+      },
+      {
+        "word": "serious",
+        "confidence": 83
+      },
+      {
+        "word": "intertwined",
+        "confidence": 80
+      },
+      {
+        "word": "compromised",
+        "confidence": 78
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "predictable",
+        "confidence": 85
+      },
+      {
+        "word": "divisive",
+        "confidence": 80
+      },
+      {
+        "word": "generational",
+        "confidence": 78
+      },
+      {
+        "word": "polarized",
+        "confidence": 75
+      },
+      {
+        "word": "clear",
+        "confidence": 72
+      },
+      {
+        "word": "deterministic",
+        "confidence": 68
+      },
+      {
+        "word": "analytical",
+        "confidence": 65
+      },
+      {
+        "word": "revealing",
+        "confidence": 63
+      }
+    ]
+  }
+}

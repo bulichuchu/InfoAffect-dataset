@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "shocked",
+        "confidence": 90
+      },
+      {
+        "word": "regretful",
+        "confidence": 85
+      },
+      {
+        "word": "uncertain",
+        "confidence": 82
+      },
+      {
+        "word": "hopeful",
+        "confidence": 75
+      },
+      {
+        "word": "reflective",
+        "confidence": 78
+      },
+      {
+        "word": "divided",
+        "confidence": 80
+      },
+      {
+        "word": "momentous",
+        "confidence": 72
+      },
+      {
+        "word": "doubtful",
+        "confidence": 70
+      }
+    ]
+  }
+}

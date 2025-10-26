@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "inequality",
+        "confidence": 90
+      },
+      {
+        "word": "underrepresentation",
+        "confidence": 85
+      },
+      {
+        "word": "stereotypes",
+        "confidence": 82
+      },
+      {
+        "word": "disparity",
+        "confidence": 80
+      },
+      {
+        "word": "disheartening",
+        "confidence": 75
+      },
+      {
+        "word": "sexualizing",
+        "confidence": 70
+      },
+      {
+        "word": "rarety",
+        "confidence": 65
+      }
+    ]
+  }
+}

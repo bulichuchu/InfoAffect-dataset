@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "revealing",
+        "confidence": 90
+      },
+      {
+        "word": "shifting",
+        "confidence": 88
+      },
+      {
+        "word": "observational",
+        "confidence": 85
+      },
+      {
+        "word": "insightful",
+        "confidence": 82
+      },
+      {
+        "word": "contemporary",
+        "confidence": 75
+      },
+      {
+        "word": "cultural",
+        "confidence": 70
+      }
+    ]
+  }
+}

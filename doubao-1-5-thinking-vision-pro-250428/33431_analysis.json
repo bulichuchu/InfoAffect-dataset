@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "analytical",
+        "confidence": 85
+      },
+      {
+        "word": "frustrated",
+        "confidence": 80
+      },
+      {
+        "word": "controversial",
+        "confidence": 80
+      },
+      {
+        "word": "polarized",
+        "confidence": 75
+      },
+      {
+        "word": "observant",
+        "confidence": 75
+      },
+      {
+        "word": "divided",
+        "confidence": 70
+      }
+    ]
+  }
+}

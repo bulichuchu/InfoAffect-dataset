@@ -1,0 +1,28 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "pessimism",
+          "confidence": 90
+        },
+        {
+          "word": "polarization",
+          "confidence": 85
+        },
+        {
+          "word": "concern",
+          "confidence": 80
+        },
+        {
+          "word": "alarming",
+          "confidence": 78
+        },
+        {
+          "word": "resolute",
+          "confidence": 75
+        }
+      ]
+    }
+  }
+]

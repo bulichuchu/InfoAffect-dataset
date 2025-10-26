@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "hostile",
+        "confidence": 90
+      },
+      {
+        "word": "dehumanizing",
+        "confidence": 88
+      },
+      {
+        "word": "aggressive",
+        "confidence": 85
+      },
+      {
+        "word": "fearful",
+        "confidence": 82
+      },
+      {
+        "word": "divisive",
+        "confidence": 78
+      },
+      {
+        "word": "alarming",
+        "confidence": 75
+      },
+      {
+        "word": "confrontational",
+        "confidence": 73
+      },
+      {
+        "word": "provocative",
+        "confidence": 70
+      }
+    ]
+  }
+}

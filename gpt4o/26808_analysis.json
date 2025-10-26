@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "interested",
+        "confidence": 90
+      },
+      {
+        "word": "positive",
+        "confidence": 85
+      },
+      {
+        "word": "growth",
+        "confidence": 80
+      },
+      {
+        "word": "excited",
+        "confidence": 75
+      },
+      {
+        "word": "protects",
+        "confidence": 70
+      },
+      {
+        "word": "legalization",
+        "confidence": 65
+      }
+    ]
+  }
+}

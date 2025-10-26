@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "undisputed",
+        "confidence": 85
+      },
+      {
+        "word": "unfortunate",
+        "confidence": 75
+      },
+      {
+        "word": "struggling",
+        "confidence": 78
+      },
+      {
+        "word": "opportunity",
+        "confidence": 90
+      },
+      {
+        "word": "happy",
+        "confidence": 65
+      },
+      {
+        "word": "crisis",
+        "confidence": 80
+      }
+    ]
+  }
+}

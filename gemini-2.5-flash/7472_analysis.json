@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "historic",
+        "confidence": 95
+      },
+      {
+        "word": "controversial",
+        "confidence": 98
+      },
+      {
+        "word": "skeptical",
+        "confidence": 88
+      },
+      {
+        "word": "reassuring",
+        "confidence": 82
+      },
+      {
+        "word": "witty",
+        "confidence": 78
+      },
+      {
+        "word": "challenging",
+        "confidence": 70
+      }
+    ]
+  }
+}

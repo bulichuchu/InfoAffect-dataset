@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "lonely",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 80
+      },
+      {
+        "word": "disappointed",
+        "confidence": 75
+      },
+      {
+        "word": "anxious",
+        "confidence": 78
+      },
+      {
+        "word": "regretful",
+        "confidence": 72
+      },
+      {
+        "word": "isolated",
+        "confidence": 70
+      },
+      {
+        "word": "resigned",
+        "confidence": 65
+      },
+      {
+        "word": "cautious",
+        "confidence": 73
+      }
+    ]
+  }
+}

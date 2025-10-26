@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerning",
+        "confidence": 88
+      },
+      {
+        "word": "troubling",
+        "confidence": 85
+      },
+      {
+        "word": "sobering",
+        "confidence": 82
+      },
+      {
+        "word": "systemic",
+        "confidence": 78
+      },
+      {
+        "word": "frustrating",
+        "confidence": 75
+      },
+      {
+        "word": "exclusionary",
+        "confidence": 72
+      },
+      {
+        "word": "revealing",
+        "confidence": 70
+      },
+      {
+        "word": "inequitable",
+        "confidence": 68
+      }
+    ]
+  }
+}

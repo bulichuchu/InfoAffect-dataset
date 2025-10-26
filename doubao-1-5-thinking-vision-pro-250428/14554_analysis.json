@@ -1,0 +1,32 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "favorite",
+          "confidence": 90
+        },
+        {
+          "word": "celebratory",
+          "confidence": 88
+        },
+        {
+          "word": "indulgent",
+          "confidence": 85
+        },
+        {
+          "word": "communal",
+          "confidence": 80
+        },
+        {
+          "word": "enjoyable",
+          "confidence": 75
+        },
+        {
+          "word": "prominent",
+          "confidence": 70
+        }
+      ]
+    }
+  }
+]

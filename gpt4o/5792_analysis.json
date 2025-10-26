@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concern",
+        "confidence": 90
+      },
+      {
+        "word": "buzzing",
+        "confidence": 85
+      },
+      {
+        "word": "confident",
+        "confidence": 80
+      },
+      {
+        "word": "pricey",
+        "confidence": 75
+      },
+      {
+        "word": "lost",
+        "confidence": 70
+      },
+      {
+        "word": "gamble",
+        "confidence": 65
+      },
+      {
+        "word": "perspective",
+        "confidence": 60
+      }
+    ]
+  }
+}

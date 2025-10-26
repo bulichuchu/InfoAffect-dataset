@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frustrating",
+        "confidence": 90
+      },
+      {
+        "word": "gridlocked",
+        "confidence": 85
+      },
+      {
+        "word": "entrenched",
+        "confidence": 80
+      },
+      {
+        "word": "stalemate",
+        "confidence": 75
+      },
+      {
+        "word": "obstructive",
+        "confidence": 78
+      },
+      {
+        "word": "urgent",
+        "confidence": 72
+      },
+      {
+        "word": "helpless",
+        "confidence": 68
+      },
+      {
+        "word": "tense",
+        "confidence": 70
+      }
+    ]
+  }
+}

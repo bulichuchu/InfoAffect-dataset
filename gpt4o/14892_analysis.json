@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "altruistic",
+        "confidence": 90
+      },
+      {
+        "word": "civic-minded",
+        "confidence": 85
+      },
+      {
+        "word": "helpful",
+        "confidence": 80
+      },
+      {
+        "word": "committed",
+        "confidence": 75
+      },
+      {
+        "word": "surprising",
+        "confidence": 70
+      },
+      {
+        "word": "low",
+        "confidence": 65
+      }
+    ]
+  }
+}

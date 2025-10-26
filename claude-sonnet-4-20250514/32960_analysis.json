@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "vital",
+        "confidence": 90
+      },
+      {
+        "word": "impressive",
+        "confidence": 85
+      },
+      {
+        "word": "resilient",
+        "confidence": 82
+      },
+      {
+        "word": "essential",
+        "confidence": 88
+      },
+      {
+        "word": "significant",
+        "confidence": 78
+      },
+      {
+        "word": "optimistic",
+        "confidence": 75
+      },
+      {
+        "word": "empowering",
+        "confidence": 70
+      },
+      {
+        "word": "supportive",
+        "confidence": 72
+      }
+    ]
+  }
+}

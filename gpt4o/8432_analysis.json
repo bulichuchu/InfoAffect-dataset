@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "struggle",
+        "confidence": 90
+      },
+      {
+        "word": "inequality",
+        "confidence": 85
+      },
+      {
+        "word": "disagreement",
+        "confidence": 80
+      },
+      {
+        "word": "injustice",
+        "confidence": 75
+      },
+      {
+        "word": "hopeful",
+        "confidence": 70
+      }
+    ]
+  }
+}

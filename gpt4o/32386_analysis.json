@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "important",
+        "confidence": 90
+      },
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "emphasis",
+        "confidence": 80
+      },
+      {
+        "word": "profitable",
+        "confidence": 75
+      },
+      {
+        "word": "variability",
+        "confidence": 70
+      }
+    ]
+  }
+}

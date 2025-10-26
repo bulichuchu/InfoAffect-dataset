@@ -1,0 +1,32 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "booming",
+          "confidence": 90
+        },
+        {
+          "word": "convenient",
+          "confidence": 85
+        },
+        {
+          "word": "sky-high",
+          "confidence": 80
+        },
+        {
+          "word": "notable",
+          "confidence": 75
+        },
+        {
+          "word": "competitive",
+          "confidence": 70
+        },
+        {
+          "word": "impressive",
+          "confidence": 65
+        }
+      ]
+    }
+  }
+]

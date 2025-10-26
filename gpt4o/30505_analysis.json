@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "technological",
+        "confidence": 90
+      },
+      {
+        "word": "innovative",
+        "confidence": 85
+      },
+      {
+        "word": "modern",
+        "confidence": 83
+      },
+      {
+        "word": "adaptive",
+        "confidence": 75
+      },
+      {
+        "word": "advanced",
+        "confidence": 80
+      },
+      {
+        "word": "futuristic",
+        "confidence": 78
+      }
+    ]
+  }
+}

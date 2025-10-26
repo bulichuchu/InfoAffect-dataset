@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "connected",
+        "confidence": 85
+      },
+      {
+        "word": "overwhelmed",
+        "confidence": 80
+      },
+      {
+        "word": "desire",
+        "confidence": 75
+      },
+      {
+        "word": "frustrated",
+        "confidence": 70
+      },
+      {
+        "word": "hopeful",
+        "confidence": 65
+      },
+      {
+        "word": "addicted",
+        "confidence": 78
+      },
+      {
+        "word": "relieved",
+        "confidence": 60
+      },
+      {
+        "word": "pressured",
+        "confidence": 68
+      }
+    ]
+  }
+}

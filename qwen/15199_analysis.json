@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "tense",
+        "confidence": 88
+      },
+      {
+        "word": "confrontational",
+        "confidence": 85
+      },
+      {
+        "word": "uncertain",
+        "confidence": 82
+      },
+      {
+        "word": "strained",
+        "confidence": 78
+      },
+      {
+        "word": "adversarial",
+        "confidence": 76
+      },
+      {
+        "word": "volatile",
+        "confidence": 74
+      },
+      {
+        "word": "frustrating",
+        "confidence": 70
+      },
+      {
+        "word": "resilient",
+        "confidence": 65
+      }
+    ]
+  }
+}

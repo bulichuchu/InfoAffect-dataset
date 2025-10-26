@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "remembrance",
+        "confidence": 90
+      },
+      {
+        "word": "somber",
+        "confidence": 85
+      },
+      {
+        "word": "legacy",
+        "confidence": 82
+      },
+      {
+        "word": "impactful",
+        "confidence": 78
+      },
+      {
+        "word": "enduring",
+        "confidence": 75
+      },
+      {
+        "word": "historical",
+        "confidence": 70
+      }
+    ]
+  }
+}

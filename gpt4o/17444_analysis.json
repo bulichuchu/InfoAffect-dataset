@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "positive",
+        "confidence": 90
+      },
+      {
+        "word": "criticism",
+        "confidence": 85
+      },
+      {
+        "word": "strengths",
+        "confidence": 80
+      },
+      {
+        "word": "popularity",
+        "confidence": 85
+      },
+      {
+        "word": "responsibility",
+        "confidence": 80
+      },
+      {
+        "word": "harsh",
+        "confidence": 75
+      },
+      {
+        "word": "negative",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "speculative",
+        "confidence": 85
+      },
+      {
+        "word": "disgruntled",
+        "confidence": 82
+      },
+      {
+        "word": "anguished",
+        "confidence": 80
+      },
+      {
+        "word": "uncertain",
+        "confidence": 78
+      },
+      {
+        "word": "shifting",
+        "confidence": 75
+      },
+      {
+        "word": "critical",
+        "confidence": 72
+      }
+    ]
+  }
+}

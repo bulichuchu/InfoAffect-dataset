@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "traditional",
+        "confidence": 85
+      },
+      {
+        "word": "revealing",
+        "confidence": 80
+      },
+      {
+        "word": "confirming",
+        "confidence": 75
+      },
+      {
+        "word": "insightful",
+        "confidence": 78
+      },
+      {
+        "word": "analytical",
+        "confidence": 72
+      },
+      {
+        "word": "nuanced",
+        "confidence": 68
+      },
+      {
+        "word": "informative",
+        "confidence": 82
+      },
+      {
+        "word": "balanced",
+        "confidence": 65
+      }
+    ]
+  }
+}

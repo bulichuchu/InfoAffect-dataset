@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "astonishing",
+        "confidence": 90
+      },
+      {
+        "word": "strict",
+        "confidence": 85
+      },
+      {
+        "word": "vigilant",
+        "confidence": 82
+      },
+      {
+        "word": "restrictive",
+        "confidence": 80
+      },
+      {
+        "word": "cautious",
+        "confidence": 78
+      },
+      {
+        "word": "isolating",
+        "confidence": 75
+      },
+      {
+        "word": "protective",
+        "confidence": 72
+      },
+      {
+        "word": "overwhelming",
+        "confidence": 68
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "annoyed",
+        "confidence": 90
+      },
+      {
+        "word": "frustrations",
+        "confidence": 85
+      },
+      {
+        "word": "threat",
+        "confidence": 80
+      },
+      {
+        "word": "unhappy",
+        "confidence": 78
+      },
+      {
+        "word": "spoiled",
+        "confidence": 72
+      }
+    ]
+  }
+}

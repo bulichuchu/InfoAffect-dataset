@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "attached",
+        "confidence": 85
+      },
+      {
+        "word": "disconnect",
+        "confidence": 80
+      },
+      {
+        "word": "wish",
+        "confidence": 75
+      },
+      {
+        "word": "attempt",
+        "confidence": 70
+      },
+      {
+        "word": "unplug",
+        "confidence": 78
+      },
+      {
+        "word": "distance",
+        "confidence": 73
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unfairness",
+        "confidence": 95
+      },
+      {
+        "word": "disadvantage",
+        "confidence": 90
+      },
+      {
+        "word": "concern",
+        "confidence": 88
+      },
+      {
+        "word": "inequality",
+        "confidence": 85
+      },
+      {
+        "word": "challenging",
+        "confidence": 80
+      },
+      {
+        "word": "underappreciated",
+        "confidence": 75
+      }
+    ]
+  }
+}

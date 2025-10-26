@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concern",
+        "confidence": 90
+      },
+      {
+        "word": "decline",
+        "confidence": 88
+      },
+      {
+        "word": "shrinking",
+        "confidence": 85
+      },
+      {
+        "word": "aging",
+        "confidence": 80
+      },
+      {
+        "word": "emigration",
+        "confidence": 75
+      },
+      {
+        "word": "challenge",
+        "confidence": 70
+      },
+      {
+        "word": "impact",
+        "confidence": 65
+      }
+    ]
+  }
+}

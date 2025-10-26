@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "competitive",
+        "confidence": 90
+      },
+      {
+        "word": "aggressive",
+        "confidence": 85
+      },
+      {
+        "word": "strategic",
+        "confidence": 80
+      },
+      {
+        "word": "dominant",
+        "confidence": 75
+      },
+      {
+        "word": "costly",
+        "confidence": 70
+      },
+      {
+        "word": "critical",
+        "confidence": 85
+      },
+      {
+        "word": "profit-driven",
+        "confidence": 78
+      },
+      {
+        "word": "intense",
+        "confidence": 72
+      }
+    ]
+  }
+}

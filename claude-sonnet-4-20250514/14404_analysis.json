@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "thrilling",
+        "confidence": 95
+      },
+      {
+        "word": "dramatic",
+        "confidence": 92
+      },
+      {
+        "word": "desperate",
+        "confidence": 88
+      },
+      {
+        "word": "stunning",
+        "confidence": 85
+      },
+      {
+        "word": "magical",
+        "confidence": 82
+      },
+      {
+        "word": "tense",
+        "confidence": 80
+      },
+      {
+        "word": "exhilarating",
+        "confidence": 78
+      },
+      {
+        "word": "climactic",
+        "confidence": 75
+      }
+    ]
+  }
+}

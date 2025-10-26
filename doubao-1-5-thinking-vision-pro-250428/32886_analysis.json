@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "compassionate",
+        "confidence": 85
+      },
+      {
+        "word": "sustainable",
+        "confidence": 90
+      },
+      {
+        "word": "encouraging",
+        "confidence": 80
+      },
+      {
+        "word": "informative",
+        "confidence": 75
+      },
+      {
+        "word": "conscious",
+        "confidence": 70
+      },
+      {
+        "word": "responsible",
+        "confidence": 80
+      },
+      {
+        "word": "hopeful",
+        "confidence": 75
+      }
+    ]
+  }
+}

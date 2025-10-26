@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "speculation",
+        "confidence": 85
+      },
+      {
+        "word": "embarrassment",
+        "confidence": 90
+      },
+      {
+        "word": "isolation",
+        "confidence": 88
+      },
+      {
+        "word": "crisis",
+        "confidence": 92
+      },
+      {
+        "word": "support",
+        "confidence": 80
+      },
+      {
+        "word": "trust",
+        "confidence": 75
+      }
+    ]
+  }
+}

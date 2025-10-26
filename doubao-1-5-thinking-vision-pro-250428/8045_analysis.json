@@ -1,0 +1,32 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "success",
+          "confidence": 90
+        },
+        {
+          "word": "disappointed",
+          "confidence": 85
+        },
+        {
+          "word": "overlooked",
+          "confidence": 80
+        },
+        {
+          "word": "puzzlement",
+          "confidence": 75
+        },
+        {
+          "word": "frustration",
+          "confidence": 70
+        },
+        {
+          "word": "competitive",
+          "confidence": 65
+        }
+      ]
+    }
+  }
+]

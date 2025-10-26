@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "punitive",
+        "confidence": 90
+      },
+      {
+        "word": "tense",
+        "confidence": 85
+      },
+      {
+        "word": "serious",
+        "confidence": 82
+      },
+      {
+        "word": "conflicted",
+        "confidence": 78
+      },
+      {
+        "word": "decisive",
+        "confidence": 75
+      },
+      {
+        "word": "analytical",
+        "confidence": 70
+      },
+      {
+        "word": "cautious",
+        "confidence": 68
+      },
+      {
+        "word": "concerned",
+        "confidence": 65
+      }
+    ]
+  }
+}

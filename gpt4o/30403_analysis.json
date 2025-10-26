@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "achievement",
+        "confidence": 90
+      },
+      {
+        "word": "historic",
+        "confidence": 85
+      },
+      {
+        "word": "pioneering",
+        "confidence": 80
+      },
+      {
+        "word": "inspiring",
+        "confidence": 78
+      },
+      {
+        "word": "optimistic",
+        "confidence": 75
+      },
+      {
+        "word": "progressive",
+        "confidence": 73
+      }
+    ]
+  }
+}

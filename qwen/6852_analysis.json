@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 88
+      },
+      {
+        "word": "alarming",
+        "confidence": 85
+      },
+      {
+        "word": "tense",
+        "confidence": 80
+      },
+      {
+        "word": "worrisome",
+        "confidence": 78
+      },
+      {
+        "word": "polarized",
+        "confidence": 75
+      },
+      {
+        "word": "authoritarian",
+        "confidence": 72
+      },
+      {
+        "word": "nationalistic",
+        "confidence": 70
+      },
+      {
+        "word": "divisive",
+        "confidence": 68
+      }
+    ]
+  }
+}

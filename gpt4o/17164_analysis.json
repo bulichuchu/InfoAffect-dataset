@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "high-stakes",
+        "confidence": 90
+      },
+      {
+        "word": "threatening",
+        "confidence": 88
+      },
+      {
+        "word": "hopeful",
+        "confidence": 75
+      },
+      {
+        "word": "critical",
+        "confidence": 85
+      },
+      {
+        "word": "historic",
+        "confidence": 80
+      },
+      {
+        "word": "modest",
+        "confidence": 78
+      }
+    ]
+  }
+}

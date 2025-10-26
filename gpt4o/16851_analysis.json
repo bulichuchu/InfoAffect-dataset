@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "bracing",
+        "confidence": 85
+      },
+      {
+        "word": "cold",
+        "confidence": 90
+      },
+      {
+        "word": "record-breaking",
+        "confidence": 88
+      },
+      {
+        "word": "warned",
+        "confidence": 80
+      },
+      {
+        "word": "frostbite",
+        "confidence": 75
+      },
+      {
+        "word": "hypothermia",
+        "confidence": 78
+      },
+      {
+        "word": "global warming",
+        "confidence": 70
+      }
+    ]
+  }
+}

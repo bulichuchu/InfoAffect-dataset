@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "strategic",
+        "confidence": 85
+      },
+      {
+        "word": "transitional",
+        "confidence": 80
+      },
+      {
+        "word": "reductive",
+        "confidence": 75
+      },
+      {
+        "word": "calculated",
+        "confidence": 78
+      },
+      {
+        "word": "downsizing",
+        "confidence": 72
+      },
+      {
+        "word": "shifting",
+        "confidence": 82
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 70
+      },
+      {
+        "word": "declining",
+        "confidence": 68
+      }
+    ]
+  }
+}

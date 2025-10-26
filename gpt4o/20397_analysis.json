@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "turmoil",
+        "confidence": 90
+      },
+      {
+        "word": "jeopardy",
+        "confidence": 85
+      },
+      {
+        "word": "broken",
+        "confidence": 80
+      },
+      {
+        "word": "record",
+        "confidence": 88
+      },
+      {
+        "word": "chaotic",
+        "confidence": 78
+      },
+      {
+        "word": "accusing",
+        "confidence": 82
+      },
+      {
+        "word": "outcry",
+        "confidence": 75
+      }
+    ]
+  }
+}

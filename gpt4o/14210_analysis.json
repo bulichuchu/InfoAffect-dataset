@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disconnected",
+        "confidence": 90
+      },
+      {
+        "word": "isolated",
+        "confidence": 88
+      },
+      {
+        "word": "outdated",
+        "confidence": 85
+      },
+      {
+        "word": "restricted",
+        "confidence": 83
+      },
+      {
+        "word": "disparity",
+        "confidence": 80
+      },
+      {
+        "word": "limited",
+        "confidence": 78
+      },
+      {
+        "word": "underprivileged",
+        "confidence": 75
+      }
+    ]
+  }
+}

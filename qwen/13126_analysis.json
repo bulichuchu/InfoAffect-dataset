@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frustrating",
+        "confidence": 90
+      },
+      {
+        "word": "alarming",
+        "confidence": 85
+      },
+      {
+        "word": "disproportionate",
+        "confidence": 80
+      },
+      {
+        "word": "urgent",
+        "confidence": 78
+      },
+      {
+        "word": "distressing",
+        "confidence": 75
+      },
+      {
+        "word": "neglected",
+        "confidence": 72
+      },
+      {
+        "word": "incomprehensible",
+        "confidence": 65
+      },
+      {
+        "word": "advocative",
+        "confidence": 60
+      }
+    ]
+  }
+}

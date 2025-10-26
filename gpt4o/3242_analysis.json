@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "complain",
+        "confidence": 90
+      },
+      {
+        "word": "pressure",
+        "confidence": 85
+      },
+      {
+        "word": "overwhelmed",
+        "confidence": 80
+      },
+      {
+        "word": "stress",
+        "confidence": 78
+      },
+      {
+        "word": "sacrifice",
+        "confidence": 75
+      },
+      {
+        "word": "intense",
+        "confidence": 72
+      },
+      {
+        "word": "burdened",
+        "confidence": 70
+      }
+    ]
+  }
+}

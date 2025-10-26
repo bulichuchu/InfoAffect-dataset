@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "consideration",
+        "confidence": 85
+      },
+      {
+        "word": "importance",
+        "confidence": 80
+      },
+      {
+        "word": "practicality",
+        "confidence": 75
+      },
+      {
+        "word": "preference",
+        "confidence": 70
+      },
+      {
+        "word": "rational",
+        "confidence": 68
+      },
+      {
+        "word": "attainability",
+        "confidence": 66
+      }
+    ]
+  }
+}

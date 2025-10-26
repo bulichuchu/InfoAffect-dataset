@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "enthusiasm",
+        "confidence": 90
+      },
+      {
+        "word": "progress",
+        "confidence": 85
+      },
+      {
+        "word": "sustainability",
+        "confidence": 82
+      },
+      {
+        "word": "ideological",
+        "confidence": 75
+      },
+      {
+        "word": "generational",
+        "confidence": 78
+      },
+      {
+        "word": "decarbonize",
+        "confidence": 80
+      }
+    ]
+  }
+}

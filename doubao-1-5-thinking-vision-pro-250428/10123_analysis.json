@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frustrating",
+        "confidence": 75
+      },
+      {
+        "word": "common",
+        "confidence": 80
+      },
+      {
+        "word": "procedural",
+        "confidence": 70
+      },
+      {
+        "word": "systematic",
+        "confidence": 65
+      },
+      {
+        "word": "annoying",
+        "confidence": 72
+      },
+      {
+        "word": "matter - of - fact",
+        "confidence": 85
+      }
+    ]
+  }
+}

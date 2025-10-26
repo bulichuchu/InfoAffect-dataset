@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "ironic",
+        "confidence": 90
+      },
+      {
+        "word": "cynical",
+        "confidence": 88
+      },
+      {
+        "word": "controversial",
+        "confidence": 85
+      },
+      {
+        "word": "sarcastic",
+        "confidence": 80
+      },
+      {
+        "word": "critical",
+        "confidence": 75
+      },
+      {
+        "word": "exposing",
+        "confidence": 70
+      },
+      {
+        "word": "wry",
+        "confidence": 65
+      }
+    ]
+  }
+}

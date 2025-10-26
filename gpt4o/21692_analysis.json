@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "resilience",
+        "confidence": 90
+      },
+      {
+        "word": "adaptability",
+        "confidence": 85
+      },
+      {
+        "word": "recovery",
+        "confidence": 80
+      },
+      {
+        "word": "investment",
+        "confidence": 75
+      },
+      {
+        "word": "security",
+        "confidence": 70
+      },
+      {
+        "word": "profit",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surprise",
+        "confidence": 90
+      },
+      {
+        "word": "mainstream",
+        "confidence": 80
+      },
+      {
+        "word": "frustration",
+        "confidence": 85
+      },
+      {
+        "word": "rise",
+        "confidence": 88
+      },
+      {
+        "word": "alternative",
+        "confidence": 75
+      },
+      {
+        "word": "crisis",
+        "confidence": 82
+      },
+      {
+        "word": "blame",
+        "confidence": 78
+      }
+    ]
+  }
+}

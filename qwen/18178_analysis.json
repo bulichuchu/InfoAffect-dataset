@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "exciting",
+        "confidence": 85
+      },
+      {
+        "word": "popular",
+        "confidence": 90
+      },
+      {
+        "word": "crowded",
+        "confidence": 75
+      },
+      {
+        "word": "thrilling",
+        "confidence": 80
+      },
+      {
+        "word": "competitive",
+        "confidence": 70
+      },
+      {
+        "word": "fun",
+        "confidence": 82
+      },
+      {
+        "word": "overwhelming",
+        "confidence": 65
+      },
+      {
+        "word": "celebratory",
+        "confidence": 78
+      }
+    ]
+  }
+}

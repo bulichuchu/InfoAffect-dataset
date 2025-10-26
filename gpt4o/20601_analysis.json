@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "record",
+        "confidence": 90
+      },
+      {
+        "word": "surge",
+        "confidence": 85
+      },
+      {
+        "word": "popular",
+        "confidence": 80
+      },
+      {
+        "word": "projected",
+        "confidence": 75
+      },
+      {
+        "word": "tough",
+        "confidence": 70
+      },
+      {
+        "word": "crisis",
+        "confidence": 80
+      },
+      {
+        "word": "unemployment",
+        "confidence": 75
+      }
+    ]
+  }
+}

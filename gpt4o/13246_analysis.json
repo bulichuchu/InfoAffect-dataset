@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "important",
+        "confidence": 88
+      },
+      {
+        "word": "concern",
+        "confidence": 82
+      },
+      {
+        "word": "growth",
+        "confidence": 85
+      },
+      {
+        "word": "rebound",
+        "confidence": 80
+      },
+      {
+        "word": "potential",
+        "confidence": 77
+      },
+      {
+        "word": "persistent",
+        "confidence": 75
+      }
+    ]
+  }
+}

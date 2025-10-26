@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "proud",
+        "confidence": 95
+      },
+      {
+        "word": "elated",
+        "confidence": 90
+      },
+      {
+        "word": "historic",
+        "confidence": 88
+      },
+      {
+        "word": "celebratory",
+        "confidence": 85
+      },
+      {
+        "word": "triumphant",
+        "confidence": 82
+      },
+      {
+        "word": "long overdue",
+        "confidence": 78
+      },
+      {
+        "word": "inspiring",
+        "confidence": 75
+      },
+      {
+        "word": "grateful",
+        "confidence": 70
+      }
+    ]
+  }
+}

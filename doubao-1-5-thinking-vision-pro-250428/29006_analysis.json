@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "scrutinizing",
+        "confidence": 85
+      },
+      {
+        "word": "contentious",
+        "confidence": 82
+      },
+      {
+        "word": "fluctuating",
+        "confidence": 78
+      },
+      {
+        "word": "investigative",
+        "confidence": 80
+      },
+      {
+        "word": "tense",
+        "confidence": 75
+      },
+      {
+        "word": "complex",
+        "confidence": 72
+      }
+    ]
+  }
+}

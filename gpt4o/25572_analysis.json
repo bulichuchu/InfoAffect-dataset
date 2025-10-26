@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "changing",
+        "confidence": 85
+      },
+      {
+        "word": "growth",
+        "confidence": 80
+      },
+      {
+        "word": "decline",
+        "confidence": 78
+      },
+      {
+        "word": "important",
+        "confidence": 76
+      },
+      {
+        "word": "equal",
+        "confidence": 72
+      },
+      {
+        "word": "advantage",
+        "confidence": 70
+      }
+    ]
+  }
+}

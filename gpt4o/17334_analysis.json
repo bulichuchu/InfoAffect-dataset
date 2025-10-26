@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "populist",
+        "confidence": 85
+      },
+      {
+        "word": "unfairness",
+        "confidence": 90
+      },
+      {
+        "word": "regulation",
+        "confidence": 80
+      },
+      {
+        "word": "change",
+        "confidence": 75
+      },
+      {
+        "word": "consensus",
+        "confidence": 70
+      },
+      {
+        "word": "divide",
+        "confidence": 65
+      }
+    ]
+  }
+}

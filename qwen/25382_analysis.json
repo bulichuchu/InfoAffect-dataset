@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "competitive",
+        "confidence": 85
+      },
+      {
+        "word": "declining",
+        "confidence": 80
+      },
+      {
+        "word": "fragmented",
+        "confidence": 75
+      },
+      {
+        "word": "dominant",
+        "confidence": 70
+      },
+      {
+        "word": "evolving",
+        "confidence": 78
+      },
+      {
+        "word": "challenged",
+        "confidence": 65
+      },
+      {
+        "word": "dynamic",
+        "confidence": 72
+      },
+      {
+        "word": "resilient",
+        "confidence": 68
+      }
+    ]
+  }
+}

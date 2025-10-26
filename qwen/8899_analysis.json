@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "powerful",
+        "confidence": 85
+      },
+      {
+        "word": "dominant",
+        "confidence": 80
+      },
+      {
+        "word": "aggressive",
+        "confidence": 75
+      },
+      {
+        "word": "retaliatory",
+        "confidence": 78
+      },
+      {
+        "word": "intense",
+        "confidence": 72
+      },
+      {
+        "word": "sobering",
+        "confidence": 70
+      },
+      {
+        "word": "strategic",
+        "confidence": 65
+      },
+      {
+        "word": "formidable",
+        "confidence": 73
+      }
+    ]
+  }
+}

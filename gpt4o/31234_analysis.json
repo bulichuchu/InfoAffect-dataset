@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concern",
+        "confidence": 85
+      },
+      {
+        "word": "inequality",
+        "confidence": 82
+      },
+      {
+        "word": "disadvantage",
+        "confidence": 78
+      },
+      {
+        "word": "financial strain",
+        "confidence": 80
+      },
+      {
+        "word": "inequity",
+        "confidence": 75
+      },
+      {
+        "word": "accessibility",
+        "confidence": 70
+      }
+    ]
+  }
+}

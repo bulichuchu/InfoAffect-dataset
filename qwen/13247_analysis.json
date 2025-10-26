@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "tense",
+        "confidence": 85
+      },
+      {
+        "word": "disruptive",
+        "confidence": 80
+      },
+      {
+        "word": "unstable",
+        "confidence": 78
+      },
+      {
+        "word": "conflicted",
+        "confidence": 75
+      },
+      {
+        "word": "volatile",
+        "confidence": 72
+      },
+      {
+        "word": "unsettling",
+        "confidence": 70
+      },
+      {
+        "word": "contentious",
+        "confidence": 68
+      },
+      {
+        "word": "chaotic",
+        "confidence": 65
+      }
+    ]
+  }
+}

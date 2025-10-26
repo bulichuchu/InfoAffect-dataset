@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "thrilling",
+        "confidence": 85
+      },
+      {
+        "word": "suspenseful",
+        "confidence": 82
+      },
+      {
+        "word": "menacing",
+        "confidence": 78
+      },
+      {
+        "word": "exciting",
+        "confidence": 75
+      },
+      {
+        "word": "ominous",
+        "confidence": 72
+      },
+      {
+        "word": "intriguing",
+        "confidence": 70
+      },
+      {
+        "word": "dramatic",
+        "confidence": 68
+      }
+    ]
+  }
+}

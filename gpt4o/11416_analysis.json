@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rivalry",
+        "confidence": 90
+      },
+      {
+        "word": "competitive",
+        "confidence": 85
+      },
+      {
+        "word": "fluctuating",
+        "confidence": 70
+      },
+      {
+        "word": "economic",
+        "confidence": 65
+      },
+      {
+        "word": "receding",
+        "confidence": 60
+      },
+      {
+        "word": "recovery",
+        "confidence": 55
+      }
+    ]
+  }
+}

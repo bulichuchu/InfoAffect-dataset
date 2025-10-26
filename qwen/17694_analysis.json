@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "stagnant",
+        "confidence": 85
+      },
+      {
+        "word": "resilient",
+        "confidence": 80
+      },
+      {
+        "word": "flat",
+        "confidence": 78
+      },
+      {
+        "word": "steady",
+        "confidence": 75
+      },
+      {
+        "word": "surprising",
+        "confidence": 70
+      },
+      {
+        "word": "dominant",
+        "confidence": 65
+      },
+      {
+        "word": "consistent",
+        "confidence": 60
+      },
+      {
+        "word": "disappointing",
+        "confidence": 55
+      }
+    ]
+  }
+}

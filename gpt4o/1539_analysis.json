@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "clear",
+        "confidence": 90
+      },
+      {
+        "word": "dominant",
+        "confidence": 85
+      },
+      {
+        "word": "universal",
+        "confidence": 80
+      },
+      {
+        "word": "trailing",
+        "confidence": 75
+      },
+      {
+        "word": "obvious",
+        "confidence": 70
+      }
+    ]
+  }
+}

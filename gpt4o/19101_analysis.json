@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "traditional",
+        "confidence": 85
+      },
+      {
+        "word": "resistant",
+        "confidence": 80
+      },
+      {
+        "word": "preference",
+        "confidence": 75
+      },
+      {
+        "word": "appetite",
+        "confidence": 70
+      },
+      {
+        "word": "immune",
+        "confidence": 65
+      },
+      {
+        "word": "shuttering",
+        "confidence": 60
+      },
+      {
+        "word": "repercussions",
+        "confidence": 58
+      }
+    ]
+  }
+}

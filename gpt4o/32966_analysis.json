@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "challenging",
+        "confidence": 85
+      },
+      {
+        "word": "hopeful",
+        "confidence": 75
+      },
+      {
+        "word": "disadvantaged",
+        "confidence": 80
+      },
+      {
+        "word": "normative",
+        "confidence": 70
+      },
+      {
+        "word": "unsuitable",
+        "confidence": 78
+      },
+      {
+        "word": "uncertain",
+        "confidence": 77
+      },
+      {
+        "word": "pressured",
+        "confidence": 82
+      }
+    ]
+  }
+}

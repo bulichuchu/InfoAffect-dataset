@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "thriving",
+        "confidence": 90
+      },
+      {
+        "word": "proactive",
+        "confidence": 85
+      },
+      {
+        "word": "successful",
+        "confidence": 80
+      },
+      {
+        "word": "resilient",
+        "confidence": 78
+      },
+      {
+        "word": "hopeful",
+        "confidence": 75
+      },
+      {
+        "word": "growth-oriented",
+        "confidence": 72
+      }
+    ]
+  }
+}

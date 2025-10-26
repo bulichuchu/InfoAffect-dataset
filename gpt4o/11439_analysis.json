@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "revolutionary",
+        "confidence": 90
+      },
+      {
+        "word": "eager",
+        "confidence": 85
+      },
+      {
+        "word": "innovative",
+        "confidence": 83
+      },
+      {
+        "word": "busy",
+        "confidence": 78
+      },
+      {
+        "word": "intense",
+        "confidence": 75
+      },
+      {
+        "word": "driven",
+        "confidence": 80
+      },
+      {
+        "word": "propelling",
+        "confidence": 82
+      }
+    ]
+  }
+}

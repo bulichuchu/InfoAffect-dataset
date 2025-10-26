@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "melancholic",
+        "confidence": 88
+      },
+      {
+        "word": "dreary",
+        "confidence": 85
+      },
+      {
+        "word": "resigned",
+        "confidence": 80
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 75
+      },
+      {
+        "word": "anticipatory",
+        "confidence": 70
+      },
+      {
+        "word": "somber",
+        "confidence": 78
+      },
+      {
+        "word": "inevitable",
+        "confidence": 82
+      }
+    ]
+  }
+}

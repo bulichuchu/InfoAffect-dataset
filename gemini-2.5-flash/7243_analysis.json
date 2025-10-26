@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "significant",
+        "confidence": 95
+      },
+      {
+        "word": "tense",
+        "confidence": 90
+      },
+      {
+        "word": "influential",
+        "confidence": 88
+      },
+      {
+        "word": "conciliatory",
+        "confidence": 85
+      },
+      {
+        "word": "strategic",
+        "confidence": 80
+      },
+      {
+        "word": "pivotal",
+        "confidence": 75
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 88
+      },
+      {
+        "word": "dependent",
+        "confidence": 85
+      },
+      {
+        "word": "strategic",
+        "confidence": 78
+      },
+      {
+        "word": "vulnerable",
+        "confidence": 82
+      },
+      {
+        "word": "urgent",
+        "confidence": 75
+      },
+      {
+        "word": "cautious",
+        "confidence": 70
+      },
+      {
+        "word": "determined",
+        "confidence": 65
+      },
+      {
+        "word": "critical",
+        "confidence": 80
+      }
+    ]
+  }
+}

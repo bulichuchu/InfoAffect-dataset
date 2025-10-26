@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "scrambling",
+        "confidence": 88
+      },
+      {
+        "word": "anxious",
+        "confidence": 85
+      },
+      {
+        "word": "contentious",
+        "confidence": 82
+      },
+      {
+        "word": "precarious",
+        "confidence": 80
+      },
+      {
+        "word": "pressured",
+        "confidence": 78
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      },
+      {
+        "word": "divisive",
+        "confidence": 72
+      }
+    ]
+  }
+}

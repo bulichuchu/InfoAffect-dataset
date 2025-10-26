@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "outraged",
+        "confidence": 90
+      },
+      {
+        "word": "tragic",
+        "confidence": 88
+      },
+      {
+        "word": "disturbing",
+        "confidence": 85
+      },
+      {
+        "word": "injustice",
+        "confidence": 82
+      },
+      {
+        "word": "devastating",
+        "confidence": 78
+      },
+      {
+        "word": "systemic",
+        "confidence": 75
+      },
+      {
+        "word": "urgent",
+        "confidence": 72
+      },
+      {
+        "word": "inequitable",
+        "confidence": 70
+      }
+    ]
+  }
+}

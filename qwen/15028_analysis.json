@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "ambitious",
+        "confidence": 90
+      },
+      {
+        "word": "disruptive",
+        "confidence": 85
+      },
+      {
+        "word": "volatile",
+        "confidence": 80
+      },
+      {
+        "word": "controversial",
+        "confidence": 75
+      },
+      {
+        "word": "transformative",
+        "confidence": 70
+      },
+      {
+        "word": "speculative",
+        "confidence": 65
+      },
+      {
+        "word": "high-stakes",
+        "confidence": 78
+      },
+      {
+        "word": "dramatic",
+        "confidence": 72
+      }
+    ]
+  }
+}

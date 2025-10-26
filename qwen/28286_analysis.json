@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "breathtaking",
+        "confidence": 90
+      },
+      {
+        "word": "dominant",
+        "confidence": 85
+      },
+      {
+        "word": "transformative",
+        "confidence": 82
+      },
+      {
+        "word": "impressive",
+        "confidence": 78
+      },
+      {
+        "word": "competitive",
+        "confidence": 75
+      },
+      {
+        "word": "global",
+        "confidence": 70
+      },
+      {
+        "word": "revolutionary",
+        "confidence": 68
+      },
+      {
+        "word": "resilient",
+        "confidence": 65
+      }
+    ]
+  }
+}

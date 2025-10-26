@@ -1,0 +1,32 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "staggering",
+          "confidence": 90
+        },
+        {
+          "word": "criticism",
+          "confidence": 85
+        },
+        {
+          "word": "stark",
+          "confidence": 80
+        },
+        {
+          "word": "concern",
+          "confidence": 75
+        },
+        {
+          "word": "alarming",
+          "confidence": 70
+        },
+        {
+          "word": "disparity",
+          "confidence": 65
+        }
+      ]
+    }
+  }
+]

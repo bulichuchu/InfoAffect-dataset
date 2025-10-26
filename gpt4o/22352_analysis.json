@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "recovery",
+        "confidence": 90
+      },
+      {
+        "word": "optimism",
+        "confidence": 85
+      },
+      {
+        "word": "confident",
+        "confidence": 80
+      },
+      {
+        "word": "dampening",
+        "confidence": 75
+      },
+      {
+        "word": "warning",
+        "confidence": 70
+      },
+      {
+        "word": "resurgence",
+        "confidence": 68
+      },
+      {
+        "word": "worsened",
+        "confidence": 65
+      }
+    ]
+  }
+}

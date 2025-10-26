@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "cautionary",
+        "confidence": 95
+      },
+      {
+        "word": "sobering",
+        "confidence": 90
+      },
+      {
+        "word": "competitive",
+        "confidence": 88
+      },
+      {
+        "word": "neutral",
+        "confidence": 85
+      },
+      {
+        "word": "analytical",
+        "confidence": 80
+      },
+      {
+        "word": "anticipatory",
+        "confidence": 75
+      }
+    ]
+  }
+}

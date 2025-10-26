@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "controversial",
+        "confidence": 90
+      },
+      {
+        "word": "divisive",
+        "confidence": 85
+      },
+      {
+        "word": "furious",
+        "confidence": 80
+      },
+      {
+        "word": "questioning",
+        "confidence": 75
+      },
+      {
+        "word": "significant",
+        "confidence": 70
+      },
+      {
+        "word": "high-stakes",
+        "confidence": 65
+      },
+      {
+        "word": "polarized",
+        "confidence": 78
+      },
+      {
+        "word": "record-breaking",
+        "confidence": 72
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "enjoy",
+        "confidence": 85
+      },
+      {
+        "word": "frustration",
+        "confidence": 80
+      },
+      {
+        "word": "satisfaction",
+        "confidence": 78
+      },
+      {
+        "word": "barriers",
+        "confidence": 75
+      },
+      {
+        "word": "advances",
+        "confidence": 70
+      }
+    ]
+  }
+}

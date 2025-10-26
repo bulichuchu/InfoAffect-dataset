@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frustrating",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 80
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 75
+      },
+      {
+        "word": "declining",
+        "confidence": 78
+      },
+      {
+        "word": "inevitable",
+        "confidence": 72
+      },
+      {
+        "word": "costly",
+        "confidence": 82
+      },
+      {
+        "word": "obsolescent",
+        "confidence": 70
+      },
+      {
+        "word": "resigned",
+        "confidence": 65
+      }
+    ]
+  }
+}

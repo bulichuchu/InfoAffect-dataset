@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "intrigue",
+        "confidence": 85
+      },
+      {
+        "word": "curiosity",
+        "confidence": 80
+      },
+      {
+        "word": "disparity",
+        "confidence": 78
+      },
+      {
+        "word": "admiration",
+        "confidence": 70
+      },
+      {
+        "word": "debate",
+        "confidence": 75
+      },
+      {
+        "word": "transparency",
+        "confidence": 65
+      }
+    ]
+  }
+}

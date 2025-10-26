@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anticipation",
+        "confidence": 90
+      },
+      {
+        "word": "exciting",
+        "confidence": 85
+      },
+      {
+        "word": "dominant",
+        "confidence": 82
+      },
+      {
+        "word": "appealing",
+        "confidence": 78
+      },
+      {
+        "word": "popular",
+        "confidence": 75
+      },
+      {
+        "word": "leadership",
+        "confidence": 70
+      }
+    ]
+  }
+}

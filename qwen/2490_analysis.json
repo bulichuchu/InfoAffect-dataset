@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "optimistic",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 78
+      },
+      {
+        "word": "surging",
+        "confidence": 82
+      },
+      {
+        "word": "slumping",
+        "confidence": 76
+      },
+      {
+        "word": "record-breaking",
+        "confidence": 80
+      },
+      {
+        "word": "resilient",
+        "confidence": 70
+      },
+      {
+        "word": "disappointing",
+        "confidence": 74
+      },
+      {
+        "word": "profitable",
+        "confidence": 72
+      }
+    ]
+  }
+}

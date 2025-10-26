@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unexpected",
+        "confidence": 85
+      },
+      {
+        "word": "revival",
+        "confidence": 88
+      },
+      {
+        "word": "viral",
+        "confidence": 82
+      },
+      {
+        "word": "momentum",
+        "confidence": 80
+      },
+      {
+        "word": "boom",
+        "confidence": 78
+      },
+      {
+        "word": "strong",
+        "confidence": 75
+      }
+    ]
+  }
+}

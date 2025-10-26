@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "competitive",
+        "confidence": 85
+      },
+      {
+        "word": "surprising",
+        "confidence": 80
+      },
+      {
+        "word": "unpredictable",
+        "confidence": 75
+      },
+      {
+        "word": "dynamic",
+        "confidence": 78
+      },
+      {
+        "word": "crowded",
+        "confidence": 72
+      },
+      {
+        "word": "volatile",
+        "confidence": 70
+      },
+      {
+        "word": "influential",
+        "confidence": 82
+      },
+      {
+        "word": "celebratory",
+        "confidence": 65
+      }
+    ]
+  }
+}

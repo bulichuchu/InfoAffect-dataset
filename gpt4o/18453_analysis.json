@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "negative",
+        "confidence": 90
+      },
+      {
+        "word": "mixed",
+        "confidence": 85
+      },
+      {
+        "word": "influence",
+        "confidence": 80
+      },
+      {
+        "word": "bad",
+        "confidence": 88
+      },
+      {
+        "word": "good",
+        "confidence": 75
+      },
+      {
+        "word": "perception",
+        "confidence": 70
+      },
+      {
+        "word": "worry",
+        "confidence": 65
+      }
+    ]
+  }
+}

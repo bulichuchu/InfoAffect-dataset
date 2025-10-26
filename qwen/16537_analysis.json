@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "aggressive",
+        "confidence": 90
+      },
+      {
+        "word": "disruptive",
+        "confidence": 85
+      },
+      {
+        "word": "ambitious",
+        "confidence": 82
+      },
+      {
+        "word": "risky",
+        "confidence": 78
+      },
+      {
+        "word": "competitive",
+        "confidence": 88
+      },
+      {
+        "word": "bold",
+        "confidence": 80
+      },
+      {
+        "word": "reckless",
+        "confidence": 75
+      },
+      {
+        "word": "innovative",
+        "confidence": 70
+      }
+    ]
+  }
+}

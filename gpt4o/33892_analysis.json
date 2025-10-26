@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "suspicion",
+        "confidence": 90
+      },
+      {
+        "word": "uncertainty",
+        "confidence": 85
+      },
+      {
+        "word": "tension",
+        "confidence": 82
+      },
+      {
+        "word": "negligence",
+        "confidence": 78
+      },
+      {
+        "word": "dramatic",
+        "confidence": 76
+      },
+      {
+        "word": "concern",
+        "confidence": 74
+      },
+      {
+        "word": "disruptive",
+        "confidence": 72
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "recovery",
+        "confidence": 85
+      },
+      {
+        "word": "struggle",
+        "confidence": 80
+      },
+      {
+        "word": "decrease",
+        "confidence": 75
+      },
+      {
+        "word": "notable",
+        "confidence": 70
+      },
+      {
+        "word": "increase",
+        "confidence": 68
+      },
+      {
+        "word": "absence",
+        "confidence": 65
+      }
+    ]
+  }
+}

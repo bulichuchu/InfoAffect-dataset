@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "critical",
+        "confidence": 90
+      },
+      {
+        "word": "concerning",
+        "confidence": 85
+      },
+      {
+        "word": "alarming",
+        "confidence": 80
+      },
+      {
+        "word": "inequitable",
+        "confidence": 75
+      },
+      {
+        "word": "disapproving",
+        "confidence": 70
+      },
+      {
+        "word": "urgent",
+        "confidence": 65
+      },
+      {
+        "word": "exploitative",
+        "confidence": 60
+      }
+    ]
+  }
+}

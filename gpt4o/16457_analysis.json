@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "improvement",
+        "confidence": 88
+      },
+      {
+        "word": "optimistic",
+        "confidence": 84
+      },
+      {
+        "word": "lagging",
+        "confidence": 75
+      },
+      {
+        "word": "progress",
+        "confidence": 82
+      },
+      {
+        "word": "highlight",
+        "confidence": 80
+      },
+      {
+        "word": "struggling",
+        "confidence": 70
+      },
+      {
+        "word": "contrasting",
+        "confidence": 78
+      }
+    ]
+  }
+}

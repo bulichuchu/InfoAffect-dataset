@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "stagnant",
+        "confidence": 85
+      },
+      {
+        "word": "record",
+        "confidence": 75
+      },
+      {
+        "word": "decline",
+        "confidence": 82
+      },
+      {
+        "word": "decrease",
+        "confidence": 80
+      },
+      {
+        "word": "growth",
+        "confidence": 78
+      },
+      {
+        "word": "impact",
+        "confidence": 77
+      }
+    ]
+  }
+}

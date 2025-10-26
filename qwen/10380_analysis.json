@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surprising",
+        "confidence": 90
+      },
+      {
+        "word": "resilient",
+        "confidence": 85
+      },
+      {
+        "word": "defiant",
+        "confidence": 80
+      },
+      {
+        "word": "unexpected",
+        "confidence": 78
+      },
+      {
+        "word": "robust",
+        "confidence": 75
+      },
+      {
+        "word": "contradictory",
+        "confidence": 72
+      },
+      {
+        "word": "impressive",
+        "confidence": 70
+      },
+      {
+        "word": "resistant",
+        "confidence": 68
+      }
+    ]
+  }
+}

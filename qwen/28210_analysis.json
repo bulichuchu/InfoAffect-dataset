@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "stalemate",
+        "confidence": 90
+      },
+      {
+        "word": "uncertain",
+        "confidence": 85
+      },
+      {
+        "word": "grim",
+        "confidence": 80
+      },
+      {
+        "word": "hopeful",
+        "confidence": 70
+      },
+      {
+        "word": "concerned",
+        "confidence": 75
+      },
+      {
+        "word": "weary",
+        "confidence": 65
+      },
+      {
+        "word": "tense",
+        "confidence": 72
+      },
+      {
+        "word": "resilient",
+        "confidence": 68
+      }
+    ]
+  }
+}

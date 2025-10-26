@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "momentous",
+        "confidence": 88
+      },
+      {
+        "word": "turbulent",
+        "confidence": 82
+      },
+      {
+        "word": "historic",
+        "confidence": 85
+      },
+      {
+        "word": "tense",
+        "confidence": 75
+      },
+      {
+        "word": "decisive",
+        "confidence": 80
+      },
+      {
+        "word": "fragmented",
+        "confidence": 78
+      },
+      {
+        "word": "transformative",
+        "confidence": 83
+      },
+      {
+        "word": "conflicted",
+        "confidence": 72
+      }
+    ]
+  }
+}

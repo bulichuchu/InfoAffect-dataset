@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "urgent",
+        "confidence": 87
+      },
+      {
+        "word": "competitive",
+        "confidence": 82
+      },
+      {
+        "word": "concerning",
+        "confidence": 78
+      },
+      {
+        "word": "comparative",
+        "confidence": 85
+      },
+      {
+        "word": "rushed",
+        "confidence": 80
+      },
+      {
+        "word": "lagging",
+        "confidence": 75
+      },
+      {
+        "word": "pioneering",
+        "confidence": 70
+      },
+      {
+        "word": "unprecedented",
+        "confidence": 83
+      }
+    ]
+  }
+}

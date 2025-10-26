@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "discontent",
+        "confidence": 85
+      },
+      {
+        "word": "uncertainty",
+        "confidence": 80
+      },
+      {
+        "word": "hopeful",
+        "confidence": 75
+      },
+      {
+        "word": "desire",
+        "confidence": 78
+      },
+      {
+        "word": "restlessness",
+        "confidence": 82
+      },
+      {
+        "word": "anxious",
+        "confidence": 77
+      },
+      {
+        "word": "opportunistic",
+        "confidence": 70
+      }
+    ]
+  }
+}

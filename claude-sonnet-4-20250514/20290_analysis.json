@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "divisive",
+        "confidence": 92
+      },
+      {
+        "word": "antagonistic",
+        "confidence": 88
+      },
+      {
+        "word": "contentious",
+        "confidence": 85
+      },
+      {
+        "word": "polarizing",
+        "confidence": 90
+      },
+      {
+        "word": "critical",
+        "confidence": 82
+      },
+      {
+        "word": "hostile",
+        "confidence": 78
+      },
+      {
+        "word": "confrontational",
+        "confidence": 80
+      },
+      {
+        "word": "skeptical",
+        "confidence": 75
+      }
+    ]
+  }
+}

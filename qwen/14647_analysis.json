@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "exciting",
+        "confidence": 85
+      },
+      {
+        "word": "impressive",
+        "confidence": 80
+      },
+      {
+        "word": "transformative",
+        "confidence": 75
+      },
+      {
+        "word": "dynamic",
+        "confidence": 70
+      },
+      {
+        "word": "record-breaking",
+        "confidence": 88
+      },
+      {
+        "word": "dominant",
+        "confidence": 72
+      },
+      {
+        "word": "revolutionary",
+        "confidence": 68
+      },
+      {
+        "word": "optimistic",
+        "confidence": 65
+      }
+    ]
+  }
+}

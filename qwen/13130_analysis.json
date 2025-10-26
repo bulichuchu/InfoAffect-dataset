@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "relieved",
+        "confidence": 85
+      },
+      {
+        "word": "chilled",
+        "confidence": 80
+      },
+      {
+        "word": "harsh",
+        "confidence": 75
+      },
+      {
+        "word": "unseasonal",
+        "confidence": 70
+      },
+      {
+        "word": "concerned",
+        "confidence": 65
+      },
+      {
+        "word": "dramatic",
+        "confidence": 60
+      },
+      {
+        "word": "cold",
+        "confidence": 90
+      },
+      {
+        "word": "extreme",
+        "confidence": 78
+      }
+    ]
+  }
+}

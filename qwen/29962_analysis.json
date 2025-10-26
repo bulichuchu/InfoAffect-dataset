@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "tense",
+        "confidence": 88
+      },
+      {
+        "word": "disruptive",
+        "confidence": 85
+      },
+      {
+        "word": "authoritarian",
+        "confidence": 82
+      },
+      {
+        "word": "volatile",
+        "confidence": 79
+      },
+      {
+        "word": "restrictive",
+        "confidence": 83
+      },
+      {
+        "word": "concerned",
+        "confidence": 76
+      },
+      {
+        "word": "repressive",
+        "confidence": 74
+      },
+      {
+        "word": "unrestful",
+        "confidence": 77
+      }
+    ]
+  }
+}

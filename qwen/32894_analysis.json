@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transformative",
+        "confidence": 90
+      },
+      {
+        "word": "historic",
+        "confidence": 85
+      },
+      {
+        "word": "tumultuous",
+        "confidence": 78
+      },
+      {
+        "word": "fragmented",
+        "confidence": 75
+      },
+      {
+        "word": "contentious",
+        "confidence": 72
+      },
+      {
+        "word": "liberating",
+        "confidence": 68
+      },
+      {
+        "word": "uncertain",
+        "confidence": 65
+      },
+      {
+        "word": "resilient",
+        "confidence": 60
+      }
+    ]
+  }
+}

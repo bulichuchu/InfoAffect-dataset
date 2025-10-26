@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "aspirational",
+        "confidence": 80
+      },
+      {
+        "word": "informative",
+        "confidence": 90
+      },
+      {
+        "word": "yearning",
+        "confidence": 75
+      },
+      {
+        "word": "reflective",
+        "confidence": 70
+      },
+      {
+        "word": "data - driven",
+        "confidence": 85
+      },
+      {
+        "word": "hopeful",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "optimism",
+          "confidence": 90
+        },
+        {
+          "word": "soared",
+          "confidence": 85
+        },
+        {
+          "word": "rallied",
+          "confidence": 80
+        },
+        {
+          "word": "turbulent",
+          "confidence": 75
+        },
+        {
+          "word": "crisis",
+          "confidence": 70
+        },
+        {
+          "word": "profited",
+          "confidence": 65
+        }
+      ]
+    }
+  }
+]

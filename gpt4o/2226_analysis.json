@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "progress",
+        "confidence": 90
+      },
+      {
+        "word": "concern",
+        "confidence": 85
+      },
+      {
+        "word": "injustice",
+        "confidence": 80
+      },
+      {
+        "word": "hope",
+        "confidence": 75
+      },
+      {
+        "word": "urgency",
+        "confidence": 70
+      }
+    ]
+  }
+}

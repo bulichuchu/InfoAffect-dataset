@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fluctuating",
+        "confidence": 90
+      },
+      {
+        "word": "controversial",
+        "confidence": 85
+      },
+      {
+        "word": "scrutinized",
+        "confidence": 80
+      },
+      {
+        "word": "volatile",
+        "confidence": 77
+      },
+      {
+        "word": "investigative",
+        "confidence": 75
+      },
+      {
+        "word": "speculative",
+        "confidence": 73
+      }
+    ]
+  }
+}

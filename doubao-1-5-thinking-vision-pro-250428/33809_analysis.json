@@ -1,0 +1,32 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "grievance",
+          "confidence": 90
+        },
+        {
+          "word": "resentment",
+          "confidence": 85
+        },
+        {
+          "word": "anger",
+          "confidence": 80
+        },
+        {
+          "word": "frustration",
+          "confidence": 75
+        },
+        {
+          "word": "disillusionment",
+          "confidence": 70
+        },
+        {
+          "word": "desperation",
+          "confidence": 65
+        }
+      ]
+    }
+  }
+]

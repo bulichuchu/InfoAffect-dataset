@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "suspicious",
+        "confidence": 88
+      },
+      {
+        "word": "concerning",
+        "confidence": 85
+      },
+      {
+        "word": "cynical",
+        "confidence": 82
+      },
+      {
+        "word": "analytical",
+        "confidence": 80
+      },
+      {
+        "word": "critical",
+        "confidence": 78
+      },
+      {
+        "word": "resigned",
+        "confidence": 75
+      },
+      {
+        "word": "wary",
+        "confidence": 72
+      }
+    ]
+  }
+}

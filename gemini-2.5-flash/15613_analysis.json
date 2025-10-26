@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "inspirational",
+        "confidence": 95
+      },
+      {
+        "word": "awe",
+        "confidence": 90
+      },
+      {
+        "word": "wanderlust",
+        "confidence": 88
+      },
+      {
+        "word": "desire",
+        "confidence": 85
+      },
+      {
+        "word": "excitement",
+        "confidence": 80
+      },
+      {
+        "word": "captivating",
+        "confidence": 75
+      }
+    ]
+  }
+}

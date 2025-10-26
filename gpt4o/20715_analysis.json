@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "meteoric",
+        "confidence": 90
+      },
+      {
+        "word": "rapid",
+        "confidence": 85
+      },
+      {
+        "word": "surge",
+        "confidence": 88
+      },
+      {
+        "word": "headlines",
+        "confidence": 70
+      },
+      {
+        "word": "popular",
+        "confidence": 75
+      },
+      {
+        "word": "unsustainable",
+        "confidence": 65
+      },
+      {
+        "word": "growth",
+        "confidence": 80
+      }
+    ]
+  }
+}

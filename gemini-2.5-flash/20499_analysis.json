@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "newsworthy",
+        "confidence": 90
+      },
+      {
+        "word": "informative",
+        "confidence": 85
+      },
+      {
+        "word": "transitional",
+        "confidence": 80
+      },
+      {
+        "word": "regretful",
+        "confidence": 75
+      },
+      {
+        "word": "accepting",
+        "confidence": 70
+      },
+      {
+        "word": "intriguing",
+        "confidence": 65
+      }
+    ]
+  }
+}

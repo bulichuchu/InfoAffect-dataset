@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "approval",
+        "confidence": 85
+      },
+      {
+        "word": "doubt",
+        "confidence": 90
+      },
+      {
+        "word": "erratic",
+        "confidence": 75
+      },
+      {
+        "word": "confusion",
+        "confidence": 80
+      },
+      {
+        "word": "aggression",
+        "confidence": 70
+      },
+      {
+        "word": "suspicion",
+        "confidence": 88
+      }
+    ]
+  }
+}

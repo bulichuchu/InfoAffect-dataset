@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "beleaguered",
+        "confidence": 85
+      },
+      {
+        "word": "fears",
+        "confidence": 88
+      },
+      {
+        "word": "abandon",
+        "confidence": 82
+      },
+      {
+        "word": "criticized",
+        "confidence": 80
+      },
+      {
+        "word": "disapprove",
+        "confidence": 77
+      },
+      {
+        "word": "wrong",
+        "confidence": 75
+      }
+    ]
+  }
+}

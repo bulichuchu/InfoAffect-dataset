@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "proud",
+        "confidence": 85
+      },
+      {
+        "word": "protective",
+        "confidence": 80
+      },
+      {
+        "word": "outraged",
+        "confidence": 75
+      },
+      {
+        "word": "ethical",
+        "confidence": 70
+      },
+      {
+        "word": "disputed",
+        "confidence": 65
+      },
+      {
+        "word": "cultural",
+        "confidence": 72
+      },
+      {
+        "word": "traditional",
+        "confidence": 78
+      },
+      {
+        "word": "resilient",
+        "confidence": 68
+      }
+    ]
+  }
+}

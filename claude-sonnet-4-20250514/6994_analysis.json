@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fragmented",
+        "confidence": 88
+      },
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "competitive",
+        "confidence": 82
+      },
+      {
+        "word": "threatened",
+        "confidence": 80
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      },
+      {
+        "word": "analytical",
+        "confidence": 70
+      },
+      {
+        "word": "concerning",
+        "confidence": 68
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "sobering",
+        "confidence": 90
+      },
+      {
+        "word": "relief",
+        "confidence": 75
+      },
+      {
+        "word": "tense",
+        "confidence": 80
+      },
+      {
+        "word": "hopeful",
+        "confidence": 65
+      },
+      {
+        "word": "ominous",
+        "confidence": 85
+      },
+      {
+        "word": "grave",
+        "confidence": 82
+      },
+      {
+        "word": "reassuring",
+        "confidence": 70
+      },
+      {
+        "word": "historical",
+        "confidence": 60
+      }
+    ]
+  }
+}

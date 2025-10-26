@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disconnect",
+        "confidence": 75
+      },
+      {
+        "word": "opportunistic",
+        "confidence": 80
+      },
+      {
+        "word": "analytical",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 70
+      },
+      {
+        "word": "strategic",
+        "confidence": 75
+      },
+      {
+        "word": "informed",
+        "confidence": 80
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dominant",
+        "confidence": 85
+      },
+      {
+        "word": "trusted",
+        "confidence": 80
+      },
+      {
+        "word": "innovative",
+        "confidence": 75
+      },
+      {
+        "word": "reliable",
+        "confidence": 72
+      },
+      {
+        "word": "favorable",
+        "confidence": 68
+      },
+      {
+        "word": "competitive",
+        "confidence": 65
+      },
+      {
+        "word": "influential",
+        "confidence": 70
+      },
+      {
+        "word": "respected",
+        "confidence": 63
+      }
+    ]
+  }
+}

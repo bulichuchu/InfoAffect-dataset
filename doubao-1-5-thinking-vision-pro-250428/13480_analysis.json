@@ -1,0 +1,32 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "fear",
+          "confidence": 90
+        },
+        {
+          "word": "obsolete",
+          "confidence": 85
+        },
+        {
+          "word": "declining",
+          "confidence": 80
+        },
+        {
+          "word": "nostalgic",
+          "confidence": 75
+        },
+        {
+          "word": "loss",
+          "confidence": 70
+        },
+        {
+          "word": "concerning",
+          "confidence": 65
+        }
+      ]
+    }
+  }
+]

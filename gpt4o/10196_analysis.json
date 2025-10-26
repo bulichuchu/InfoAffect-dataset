@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "decline",
+        "confidence": 90
+      },
+      {
+        "word": "shift",
+        "confidence": 85
+      },
+      {
+        "word": "tradition",
+        "confidence": 80
+      },
+      {
+        "word": "emerging",
+        "confidence": 75
+      },
+      {
+        "word": "change",
+        "confidence": 70
+      }
+    ]
+  }
+}

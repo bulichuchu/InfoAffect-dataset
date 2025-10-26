@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "achievement",
+        "confidence": 88
+      },
+      {
+        "word": "progress",
+        "confidence": 85
+      },
+      {
+        "word": "success",
+        "confidence": 82
+      },
+      {
+        "word": "challenge",
+        "confidence": 78
+      },
+      {
+        "word": "determination",
+        "confidence": 75
+      },
+      {
+        "word": "concern",
+        "confidence": 70
+      },
+      {
+        "word": "motivation",
+        "confidence": 68
+      }
+    ]
+  }
+}

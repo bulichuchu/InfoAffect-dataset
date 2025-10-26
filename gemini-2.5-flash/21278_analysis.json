@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "restricted",
+        "confidence": 95
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 90
+      },
+      {
+        "word": "cautious",
+        "confidence": 88
+      },
+      {
+        "word": "disappointed",
+        "confidence": 82
+      },
+      {
+        "word": "resigned",
+        "confidence": 78
+      },
+      {
+        "word": "adaptive",
+        "confidence": 75
+      }
+    ]
+  }
+}

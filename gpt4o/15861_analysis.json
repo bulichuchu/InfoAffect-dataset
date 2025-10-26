@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "discontent",
+        "confidence": 90
+      },
+      {
+        "word": "concern",
+        "confidence": 85
+      },
+      {
+        "word": "friction",
+        "confidence": 82
+      },
+      {
+        "word": "disapproval",
+        "confidence": 80
+      },
+      {
+        "word": "decline",
+        "confidence": 77
+      },
+      {
+        "word": "unrest",
+        "confidence": 75
+      },
+      {
+        "word": "unhappy",
+        "confidence": 70
+      }
+    ]
+  }
+}

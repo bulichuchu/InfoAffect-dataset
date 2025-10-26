@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unsettling",
+        "confidence": 85
+      },
+      {
+        "word": "ominous",
+        "confidence": 88
+      },
+      {
+        "word": "somber",
+        "confidence": 82
+      },
+      {
+        "word": "reminiscent",
+        "confidence": 80
+      },
+      {
+        "word": "distressing",
+        "confidence": 78
+      },
+      {
+        "word": "tense",
+        "confidence": 75
+      },
+      {
+        "word": "foreboding",
+        "confidence": 72
+      }
+    ]
+  }
+}

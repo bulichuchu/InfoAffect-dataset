@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "bittersweet",
+        "confidence": 90
+      },
+      {
+        "word": "somber",
+        "confidence": 85
+      },
+      {
+        "word": "poignant",
+        "confidence": 80
+      },
+      {
+        "word": "complex",
+        "confidence": 75
+      },
+      {
+        "word": "sobering",
+        "confidence": 70
+      },
+      {
+        "word": "reflective",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "relegation",
+        "confidence": 90
+      },
+      {
+        "word": "doomed",
+        "confidence": 85
+      },
+      {
+        "word": "wilderness",
+        "confidence": 80
+      },
+      {
+        "word": "freefall",
+        "confidence": 75
+      },
+      {
+        "word": "gamble",
+        "confidence": 70
+      },
+      {
+        "word": "severely",
+        "confidence": 68
+      }
+    ]
+  }
+}

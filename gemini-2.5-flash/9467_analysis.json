@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "strategic",
+        "confidence": 90
+      },
+      {
+        "word": "prudent",
+        "confidence": 88
+      },
+      {
+        "word": "growth-oriented",
+        "confidence": 85
+      },
+      {
+        "word": "forward-looking",
+        "confidence": 82
+      },
+      {
+        "word": "ambitious",
+        "confidence": 78
+      },
+      {
+        "word": "adaptive",
+        "confidence": 75
+      },
+      {
+        "word": "vigilant",
+        "confidence": 70
+      }
+    ]
+  }
+}

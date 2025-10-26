@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "decline",
+        "confidence": 85
+      },
+      {
+        "word": "anomaly",
+        "confidence": 80
+      },
+      {
+        "word": "enforcement",
+        "confidence": 75
+      },
+      {
+        "word": "focus",
+        "confidence": 70
+      },
+      {
+        "word": "strict",
+        "confidence": 65
+      },
+      {
+        "word": "change",
+        "confidence": 78
+      },
+      {
+        "word": "pattern",
+        "confidence": 72
+      }
+    ]
+  }
+}

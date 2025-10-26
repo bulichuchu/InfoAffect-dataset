@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "appreciative",
+        "confidence": 90
+      },
+      {
+        "word": "hopeful",
+        "confidence": 85
+      },
+      {
+        "word": "responsible",
+        "confidence": 80
+      },
+      {
+        "word": "community-oriented",
+        "confidence": 75
+      },
+      {
+        "word": "environmentally-conscious",
+        "confidence": 88
+      },
+      {
+        "word": "practical",
+        "confidence": 70
+      },
+      {
+        "word": "positive",
+        "confidence": 78
+      },
+      {
+        "word": "inspired",
+        "confidence": 65
+      }
+    ]
+  }
+}

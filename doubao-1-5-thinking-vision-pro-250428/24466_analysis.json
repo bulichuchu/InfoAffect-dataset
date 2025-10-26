@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "gruelling",
+        "confidence": 90
+      },
+      {
+        "word": "distressing",
+        "confidence": 85
+      },
+      {
+        "word": "exhausting",
+        "confidence": 82
+      },
+      {
+        "word": "concerning",
+        "confidence": 80
+      },
+      {
+        "word": "weary",
+        "confidence": 78
+      },
+      {
+        "word": "alarming",
+        "confidence": 75
+      },
+      {
+        "word": "detrimental",
+        "confidence": 72
+      }
+    ]
+  }
+}

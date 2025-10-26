@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "stabilizing",
+        "confidence": 80
+      },
+      {
+        "word": "critical",
+        "confidence": 75
+      },
+      {
+        "word": "defensive",
+        "confidence": 70
+      },
+      {
+        "word": "concerned",
+        "confidence": 72
+      },
+      {
+        "word": "contentious",
+        "confidence": 78
+      },
+      {
+        "word": "authoritative",
+        "confidence": 75
+      },
+      {
+        "word": "anxious",
+        "confidence": 68
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disappointment",
+        "confidence": 90
+      },
+      {
+        "word": "skepticism",
+        "confidence": 85
+      },
+      {
+        "word": "growth",
+        "confidence": 80
+      },
+      {
+        "word": "spike",
+        "confidence": 75
+      },
+      {
+        "word": "jump",
+        "confidence": 70
+      },
+      {
+        "word": "leader",
+        "confidence": 65
+      }
+    ]
+  }
+}

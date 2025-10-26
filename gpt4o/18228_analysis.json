@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "record-breaking",
+        "confidence": 90
+      },
+      {
+        "word": "inclusive",
+        "confidence": 85
+      },
+      {
+        "word": "growing",
+        "confidence": 80
+      },
+      {
+        "word": "open",
+        "confidence": 75
+      },
+      {
+        "word": "generational",
+        "confidence": 70
+      },
+      {
+        "word": "transformative",
+        "confidence": 65
+      },
+      {
+        "word": "shifting",
+        "confidence": 60
+      }
+    ]
+  }
+}

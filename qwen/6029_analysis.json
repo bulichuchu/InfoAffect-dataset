@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "optimistic",
+        "confidence": 85
+      },
+      {
+        "word": "exciting",
+        "confidence": 80
+      },
+      {
+        "word": "thrilling",
+        "confidence": 75
+      },
+      {
+        "word": "positive",
+        "confidence": 82
+      },
+      {
+        "word": "growing",
+        "confidence": 78
+      },
+      {
+        "word": "successful",
+        "confidence": 76
+      },
+      {
+        "word": "enthusiastic",
+        "confidence": 73
+      },
+      {
+        "word": "proud",
+        "confidence": 68
+      }
+    ]
+  }
+}

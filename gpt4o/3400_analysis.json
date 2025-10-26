@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "forgotten",
+        "confidence": 85
+      },
+      {
+        "word": "significant",
+        "confidence": 80
+      },
+      {
+        "word": "debated",
+        "confidence": 75
+      },
+      {
+        "word": "global",
+        "confidence": 70
+      },
+      {
+        "word": "spread",
+        "confidence": 65
+      },
+      {
+        "word": "issue",
+        "confidence": 60
+      },
+      {
+        "word": "prepared",
+        "confidence": 55
+      }
+    ]
+  }
+}

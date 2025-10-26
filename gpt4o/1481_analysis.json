@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disparity",
+        "confidence": 85
+      },
+      {
+        "word": "inequality",
+        "confidence": 83
+      },
+      {
+        "word": "wealthy",
+        "confidence": 78
+      },
+      {
+        "word": "irritation",
+        "confidence": 75
+      },
+      {
+        "word": "contrast",
+        "confidence": 72
+      }
+    ]
+  }
+}

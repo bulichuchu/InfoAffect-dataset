@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dominant",
+        "confidence": 90
+      },
+      {
+        "word": "successful",
+        "confidence": 85
+      },
+      {
+        "word": "competitive",
+        "confidence": 78
+      },
+      {
+        "word": "growth-oriented",
+        "confidence": 82
+      },
+      {
+        "word": "established",
+        "confidence": 75
+      },
+      {
+        "word": "impressive",
+        "confidence": 80
+      },
+      {
+        "word": "dynamic",
+        "confidence": 70
+      },
+      {
+        "word": "market-leading",
+        "confidence": 88
+      }
+    ]
+  }
+}

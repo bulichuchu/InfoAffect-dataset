@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surge",
+        "confidence": 90
+      },
+      {
+        "word": "dramatic",
+        "confidence": 85
+      },
+      {
+        "word": "increase",
+        "confidence": 88
+      },
+      {
+        "word": "homebound",
+        "confidence": 80
+      },
+      {
+        "word": "locked-down",
+        "confidence": 75
+      },
+      {
+        "word": "boost",
+        "confidence": 83
+      },
+      {
+        "word": "popular",
+        "confidence": 78
+      }
+    ]
+  }
+}

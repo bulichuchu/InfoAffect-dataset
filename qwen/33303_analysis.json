@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disruptive",
+        "confidence": 85
+      },
+      {
+        "word": "urgent",
+        "confidence": 80
+      },
+      {
+        "word": "distressing",
+        "confidence": 75
+      },
+      {
+        "word": "complex",
+        "confidence": 78
+      },
+      {
+        "word": "global",
+        "confidence": 72
+      },
+      {
+        "word": "connected",
+        "confidence": 68
+      },
+      {
+        "word": "historical",
+        "confidence": 65
+      },
+      {
+        "word": "informative",
+        "confidence": 90
+      }
+    ]
+  }
+}

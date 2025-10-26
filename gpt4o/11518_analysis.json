@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "cravings",
+        "confidence": 90
+      },
+      {
+        "word": "soften",
+        "confidence": 85
+      },
+      {
+        "word": "conquered",
+        "confidence": 80
+      },
+      {
+        "word": "munchies",
+        "confidence": 75
+      },
+      {
+        "word": "open",
+        "confidence": 70
+      },
+      {
+        "word": "ally",
+        "confidence": 65
+      }
+    ]
+  }
+}

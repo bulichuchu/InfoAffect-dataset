@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disastrous",
+        "confidence": 90
+      },
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "ailing",
+        "confidence": 80
+      },
+      {
+        "word": "regretful",
+        "confidence": 75
+      },
+      {
+        "word": "frustrating",
+        "confidence": 70
+      },
+      {
+        "word": "disappointing",
+        "confidence": 78
+      },
+      {
+        "word": "doomed",
+        "confidence": 65
+      },
+      {
+        "word": "resigned",
+        "confidence": 60
+      }
+    ]
+  }
+}

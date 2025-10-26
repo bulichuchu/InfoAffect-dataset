@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "desirable",
+        "confidence": 90
+      },
+      {
+        "word": "admirable",
+        "confidence": 88
+      },
+      {
+        "word": "positive",
+        "confidence": 85
+      },
+      {
+        "word": "beneficial",
+        "confidence": 82
+      },
+      {
+        "word": "competitive",
+        "confidence": 78
+      },
+      {
+        "word": "esteemed",
+        "confidence": 75
+      }
+    ]
+  }
+}

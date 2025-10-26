@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "Challenging",
+        "confidence": 90
+      },
+      {
+        "word": "Mixed",
+        "confidence": 90
+      },
+      {
+        "word": "Promising",
+        "confidence": 85
+      },
+      {
+        "word": "Apprehensive",
+        "confidence": 80
+      },
+      {
+        "word": "Disappointed",
+        "confidence": 75
+      },
+      {
+        "word": "Hopeful",
+        "confidence": 70
+      },
+      {
+        "word": "Uncertain",
+        "confidence": 65
+      }
+    ]
+  }
+}

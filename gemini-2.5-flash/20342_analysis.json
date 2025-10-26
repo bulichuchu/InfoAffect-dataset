@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "awe",
+        "confidence": 90
+      },
+      {
+        "word": "grandeur",
+        "confidence": 88
+      },
+      {
+        "word": "imposing",
+        "confidence": 85
+      },
+      {
+        "word": "ephemeral",
+        "confidence": 80
+      },
+      {
+        "word": "reflective",
+        "confidence": 75
+      },
+      {
+        "word": "dominant",
+        "confidence": 70
+      }
+    ]
+  }
+}

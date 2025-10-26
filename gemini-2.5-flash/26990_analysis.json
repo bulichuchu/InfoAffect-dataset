@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "loss",
+        "confidence": 95
+      },
+      {
+        "word": "decline",
+        "confidence": 90
+      },
+      {
+        "word": "severe",
+        "confidence": 88
+      },
+      {
+        "word": "turbulent",
+        "confidence": 80
+      },
+      {
+        "word": "consequential",
+        "confidence": 75
+      },
+      {
+        "word": "precarious",
+        "confidence": 70
+      }
+    ]
+  }
+}

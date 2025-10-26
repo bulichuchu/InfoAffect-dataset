@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "opportunistic",
+        "confidence": 88
+      },
+      {
+        "word": "lucrative",
+        "confidence": 85
+      },
+      {
+        "word": "speculative",
+        "confidence": 82
+      },
+      {
+        "word": "mischievous",
+        "confidence": 78
+      },
+      {
+        "word": "cryptic",
+        "confidence": 75
+      },
+      {
+        "word": "amusing",
+        "confidence": 72
+      },
+      {
+        "word": "unexpected",
+        "confidence": 68
+      },
+      {
+        "word": "ironic",
+        "confidence": 65
+      }
+    ]
+  }
+}

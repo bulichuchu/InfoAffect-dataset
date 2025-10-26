@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "impactful",
+        "confidence": 88
+      },
+      {
+        "word": "uncertain",
+        "confidence": 82
+      },
+      {
+        "word": "significant",
+        "confidence": 85
+      },
+      {
+        "word": "speculative",
+        "confidence": 75
+      },
+      {
+        "word": "anticipatory",
+        "confidence": 78
+      },
+      {
+        "word": "consequential",
+        "confidence": 80
+      },
+      {
+        "word": "analytical",
+        "confidence": 70
+      }
+    ]
+  }
+}

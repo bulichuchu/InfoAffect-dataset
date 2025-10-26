@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 80
+      },
+      {
+        "word": "disparate",
+        "confidence": 85
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 75
+      },
+      {
+        "word": "socioeconomic",
+        "confidence": 82
+      },
+      {
+        "word": "informative",
+        "confidence": 78
+      },
+      {
+        "word": "observant",
+        "confidence": 72
+      }
+    ]
+  }
+}

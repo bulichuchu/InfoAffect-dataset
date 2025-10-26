@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "guilty",
+        "confidence": 95
+      },
+      {
+        "word": "concerned",
+        "confidence": 88
+      },
+      {
+        "word": "skeptical",
+        "confidence": 80
+      },
+      {
+        "word": "aware",
+        "confidence": 75
+      },
+      {
+        "word": "dilemma",
+        "confidence": 70
+      },
+      {
+        "word": "thought-provoking",
+        "confidence": 65
+      }
+    ]
+  }
+}

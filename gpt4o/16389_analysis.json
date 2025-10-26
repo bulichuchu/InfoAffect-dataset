@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "desperation",
+        "confidence": 90
+      },
+      {
+        "word": "unpopular",
+        "confidence": 85
+      },
+      {
+        "word": "resignation",
+        "confidence": 82
+      },
+      {
+        "word": "leadership",
+        "confidence": 78
+      },
+      {
+        "word": "contest",
+        "confidence": 75
+      },
+      {
+        "word": "favourable",
+        "confidence": 68
+      },
+      {
+        "word": "uncertain",
+        "confidence": 70
+      }
+    ]
+  }
+}

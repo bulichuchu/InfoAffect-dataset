@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "increasing",
+        "confidence": 88
+      },
+      {
+        "word": "engaged",
+        "confidence": 85
+      },
+      {
+        "word": "interesting",
+        "confidence": 80
+      },
+      {
+        "word": "snacking",
+        "confidence": 78
+      },
+      {
+        "word": "fearful",
+        "confidence": 72
+      },
+      {
+        "word": "common",
+        "confidence": 70
+      },
+      {
+        "word": "varies",
+        "confidence": 65
+      }
+    ]
+  }
+}

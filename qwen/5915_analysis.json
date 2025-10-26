@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "guilty",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 80
+      },
+      {
+        "word": "responsible",
+        "confidence": 75
+      },
+      {
+        "word": "alarming",
+        "confidence": 78
+      },
+      {
+        "word": "urgent",
+        "confidence": 72
+      },
+      {
+        "word": "somber",
+        "confidence": 70
+      },
+      {
+        "word": "reflective",
+        "confidence": 65
+      },
+      {
+        "word": "informative",
+        "confidence": 60
+      }
+    ]
+  }
+}

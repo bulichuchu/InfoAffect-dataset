@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dream",
+        "confidence": 85
+      },
+      {
+        "word": "surprising",
+        "confidence": 80
+      },
+      {
+        "word": "prepared",
+        "confidence": 75
+      },
+      {
+        "word": "understandable",
+        "confidence": 70
+      },
+      {
+        "word": "limited",
+        "confidence": 68
+      },
+      {
+        "word": "exotic",
+        "confidence": 65
+      },
+      {
+        "word": "domestic",
+        "confidence": 60
+      }
+    ]
+  }
+}

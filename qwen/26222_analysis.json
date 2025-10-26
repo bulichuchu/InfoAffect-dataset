@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frustrating",
+        "confidence": 85
+      },
+      {
+        "word": "relatable",
+        "confidence": 90
+      },
+      {
+        "word": "humorous",
+        "confidence": 75
+      },
+      {
+        "word": "confusing",
+        "confidence": 80
+      },
+      {
+        "word": "amusing",
+        "confidence": 70
+      },
+      {
+        "word": "annoying",
+        "confidence": 65
+      },
+      {
+        "word": "curious",
+        "confidence": 60
+      },
+      {
+        "word": "light-hearted",
+        "confidence": 72
+      }
+    ]
+  }
+}

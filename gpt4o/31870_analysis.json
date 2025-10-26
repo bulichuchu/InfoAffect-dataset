@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unrewarded",
+        "confidence": 90
+      },
+      {
+        "word": "disadvantage",
+        "confidence": 85
+      },
+      {
+        "word": "inequality",
+        "confidence": 88
+      },
+      {
+        "word": "persistent",
+        "confidence": 75
+      },
+      {
+        "word": "hardship",
+        "confidence": 80
+      },
+      {
+        "word": "challenge",
+        "confidence": 77
+      },
+      {
+        "word": "comprehensive",
+        "confidence": 70
+      }
+    ]
+  }
+}

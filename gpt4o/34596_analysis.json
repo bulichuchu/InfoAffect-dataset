@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "violent",
+        "confidence": 90
+      },
+      {
+        "word": "intensified",
+        "confidence": 85
+      },
+      {
+        "word": "clashes",
+        "confidence": 88
+      },
+      {
+        "word": "arrests",
+        "confidence": 82
+      },
+      {
+        "word": "protest",
+        "confidence": 75
+      },
+      {
+        "word": "deploy",
+        "confidence": 78
+      },
+      {
+        "word": "blocked",
+        "confidence": 72
+      },
+      {
+        "word": "galvanized",
+        "confidence": 80
+      }
+    ]
+  }
+}

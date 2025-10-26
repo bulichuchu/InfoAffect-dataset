@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "polarized",
+        "confidence": 88
+      },
+      {
+        "word": "disparity",
+        "confidence": 85
+      },
+      {
+        "word": "shifting",
+        "confidence": 82
+      },
+      {
+        "word": "concern",
+        "confidence": 80
+      },
+      {
+        "word": "attention",
+        "confidence": 78
+      },
+      {
+        "word": "controversial",
+        "confidence": 76
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anticipation",
+        "confidence": 90
+      },
+      {
+        "word": "eagerly",
+        "confidence": 85
+      },
+      {
+        "word": "legendary",
+        "confidence": 80
+      },
+      {
+        "word": "epic",
+        "confidence": 75
+      },
+      {
+        "word": "blockbuster",
+        "confidence": 70
+      },
+      {
+        "word": "phenomenon",
+        "confidence": 65
+      },
+      {
+        "word": "associate",
+        "confidence": 60
+      }
+    ]
+  }
+}

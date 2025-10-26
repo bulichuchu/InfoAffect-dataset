@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "overwhelming",
+        "confidence": 85
+      },
+      {
+        "word": "superior",
+        "confidence": 80
+      },
+      {
+        "word": "defeat",
+        "confidence": 78
+      },
+      {
+        "word": "momentum",
+        "confidence": 73
+      },
+      {
+        "word": "attrition",
+        "confidence": 70
+      },
+      {
+        "word": "industrialised",
+        "confidence": 65
+      }
+    ]
+  }
+}

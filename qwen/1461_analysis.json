@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "resilient",
+        "confidence": 85
+      },
+      {
+        "word": "transformative",
+        "confidence": 80
+      },
+      {
+        "word": "cautious",
+        "confidence": 75
+      },
+      {
+        "word": "hopeful",
+        "confidence": 70
+      },
+      {
+        "word": "challenged",
+        "confidence": 78
+      },
+      {
+        "word": "adaptable",
+        "confidence": 72
+      },
+      {
+        "word": "pioneering",
+        "confidence": 65
+      },
+      {
+        "word": "uncertain",
+        "confidence": 60
+      }
+    ]
+  }
+}

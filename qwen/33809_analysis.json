@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "grievance",
+        "confidence": 90
+      },
+      {
+        "word": "frustration",
+        "confidence": 85
+      },
+      {
+        "word": "anger",
+        "confidence": 80
+      },
+      {
+        "word": "discontent",
+        "confidence": 78
+      },
+      {
+        "word": "hostility",
+        "confidence": 75
+      },
+      {
+        "word": "desperation",
+        "confidence": 72
+      },
+      {
+        "word": "division",
+        "confidence": 70
+      },
+      {
+        "word": "resignation",
+        "confidence": 65
+      }
+    ]
+  }
+}

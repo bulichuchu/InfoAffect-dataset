@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "enticing",
+        "confidence": 90
+      },
+      {
+        "word": "attractive",
+        "confidence": 88
+      },
+      {
+        "word": "globalized",
+        "confidence": 85
+      },
+      {
+        "word": "aspirational",
+        "confidence": 83
+      },
+      {
+        "word": "competitive",
+        "confidence": 80
+      },
+      {
+        "word": "costly",
+        "confidence": 75
+      }
+    ]
+  }
+}

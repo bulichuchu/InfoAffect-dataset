@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "reassuring",
+        "confidence": 90
+      },
+      {
+        "word": "contradictory",
+        "confidence": 88
+      },
+      {
+        "word": "assertive",
+        "confidence": 85
+      },
+      {
+        "word": "dismissive",
+        "confidence": 82
+      },
+      {
+        "word": "triumphant",
+        "confidence": 78
+      },
+      {
+        "word": "unjust",
+        "confidence": 70
+      }
+    ]
+  }
+}

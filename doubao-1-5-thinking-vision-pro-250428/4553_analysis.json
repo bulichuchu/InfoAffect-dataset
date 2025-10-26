@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "calming",
+        "confidence": 80
+      },
+      {
+        "word": "collaborative",
+        "confidence": 78
+      },
+      {
+        "word": "efficient",
+        "confidence": 75
+      },
+      {
+        "word": "positive",
+        "confidence": 82
+      },
+      {
+        "word": "relaxed",
+        "confidence": 85
+      },
+      {
+        "word": "amicable",
+        "confidence": 76
+      }
+    ]
+  }
+}

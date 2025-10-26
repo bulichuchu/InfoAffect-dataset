@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dominant",
+        "confidence": 90
+      },
+      {
+        "word": "scrutiny",
+        "confidence": 85
+      },
+      {
+        "word": "ironic",
+        "confidence": 78
+      },
+      {
+        "word": "self-deprecating",
+        "confidence": 70
+      },
+      {
+        "word": "humblebrag",
+        "confidence": 75
+      },
+      {
+        "word": "trouble",
+        "confidence": 82
+      },
+      {
+        "word": "punishment",
+        "confidence": 80
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "awareness",
+        "confidence": 90
+      },
+      {
+        "word": "concern",
+        "confidence": 85
+      },
+      {
+        "word": "impact",
+        "confidence": 82
+      },
+      {
+        "word": "acceptance",
+        "confidence": 78
+      },
+      {
+        "word": "growth",
+        "confidence": 75
+      },
+      {
+        "word": "widespread",
+        "confidence": 73
+      },
+      {
+        "word": "cultural",
+        "confidence": 70
+      }
+    ]
+  }
+}

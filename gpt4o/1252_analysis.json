@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "tough",
+        "confidence": 88
+      },
+      {
+        "word": "struggling",
+        "confidence": 85
+      },
+      {
+        "word": "waning",
+        "confidence": 80
+      },
+      {
+        "word": "lacking",
+        "confidence": 75
+      },
+      {
+        "word": "compromises",
+        "confidence": 72
+      },
+      {
+        "word": "decline",
+        "confidence": 90
+      }
+    ]
+  }
+}

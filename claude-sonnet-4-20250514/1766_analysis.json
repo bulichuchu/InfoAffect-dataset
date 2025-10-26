@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "negative",
+        "confidence": 95
+      },
+      {
+        "word": "pessimistic",
+        "confidence": 88
+      },
+      {
+        "word": "declining",
+        "confidence": 92
+      },
+      {
+        "word": "disappointing",
+        "confidence": 85
+      },
+      {
+        "word": "bleak",
+        "confidence": 80
+      },
+      {
+        "word": "challenging",
+        "confidence": 75
+      },
+      {
+        "word": "troubled",
+        "confidence": 82
+      },
+      {
+        "word": "skeptical",
+        "confidence": 70
+      }
+    ]
+  }
+}

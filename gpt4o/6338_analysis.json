@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anticipation",
+        "confidence": 90
+      },
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "milestone",
+        "confidence": 80
+      },
+      {
+        "word": "refinement",
+        "confidence": 75
+      },
+      {
+        "word": "comeback",
+        "confidence": 70
+      },
+      {
+        "word": "hopeful",
+        "confidence": 73
+      }
+    ]
+  }
+}

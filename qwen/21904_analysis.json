@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "triumphant",
+        "confidence": 90
+      },
+      {
+        "word": "relieved",
+        "confidence": 85
+      },
+      {
+        "word": "proud",
+        "confidence": 80
+      },
+      {
+        "word": "hopeful",
+        "confidence": 75
+      },
+      {
+        "word": "cost-effective",
+        "confidence": 88
+      },
+      {
+        "word": "revolutionary",
+        "confidence": 78
+      },
+      {
+        "word": "empowering",
+        "confidence": 72
+      },
+      {
+        "word": "efficient",
+        "confidence": 82
+      }
+    ]
+  }
+}

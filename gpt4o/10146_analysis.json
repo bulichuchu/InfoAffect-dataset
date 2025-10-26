@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "aspiration",
+        "confidence": 87
+      },
+      {
+        "word": "hopeful",
+        "confidence": 82
+      },
+      {
+        "word": "desire",
+        "confidence": 80
+      },
+      {
+        "word": "dream",
+        "confidence": 78
+      },
+      {
+        "word": "opportunity",
+        "confidence": 76
+      },
+      {
+        "word": "migration",
+        "confidence": 75
+      }
+    ]
+  }
+}

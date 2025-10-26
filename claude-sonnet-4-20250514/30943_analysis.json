@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "critical",
+        "confidence": 88
+      },
+      {
+        "word": "concerning",
+        "confidence": 85
+      },
+      {
+        "word": "hopeful",
+        "confidence": 72
+      },
+      {
+        "word": "frustrated",
+        "confidence": 80
+      },
+      {
+        "word": "determined",
+        "confidence": 75
+      },
+      {
+        "word": "inequitable",
+        "confidence": 82
+      },
+      {
+        "word": "progressive",
+        "confidence": 68
+      }
+    ]
+  }
+}

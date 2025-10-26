@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "struggling",
+        "confidence": 82
+      },
+      {
+        "word": "pressured",
+        "confidence": 78
+      },
+      {
+        "word": "sacrificing",
+        "confidence": 75
+      },
+      {
+        "word": "anxious",
+        "confidence": 70
+      },
+      {
+        "word": "resilient",
+        "confidence": 65
+      },
+      {
+        "word": "distressed",
+        "confidence": 68
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 60
+      }
+    ]
+  }
+}

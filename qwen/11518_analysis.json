@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "nostalgic",
+        "confidence": 70
+      },
+      {
+        "word": "ironic",
+        "confidence": 85
+      },
+      {
+        "word": "amused",
+        "confidence": 75
+      },
+      {
+        "word": "skeptical",
+        "confidence": 80
+      },
+      {
+        "word": "affectionate",
+        "confidence": 78
+      },
+      {
+        "word": "triumphant",
+        "confidence": 72
+      },
+      {
+        "word": "cultural",
+        "confidence": 65
+      },
+      {
+        "word": "softened",
+        "confidence": 70
+      }
+    ]
+  }
+}

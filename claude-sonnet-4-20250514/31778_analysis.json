@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "tragic",
+        "confidence": 95
+      },
+      {
+        "word": "defiant",
+        "confidence": 88
+      },
+      {
+        "word": "somber",
+        "confidence": 85
+      },
+      {
+        "word": "determined",
+        "confidence": 82
+      },
+      {
+        "word": "grieving",
+        "confidence": 80
+      },
+      {
+        "word": "resolute",
+        "confidence": 78
+      },
+      {
+        "word": "ominous",
+        "confidence": 75
+      },
+      {
+        "word": "courageous",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "cautionary",
+        "confidence": 90
+      },
+      {
+        "word": "instructive",
+        "confidence": 85
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 80
+      },
+      {
+        "word": "measured",
+        "confidence": 75
+      },
+      {
+        "word": "analytical",
+        "confidence": 78
+      },
+      {
+        "word": "revelatory",
+        "confidence": 70
+      },
+      {
+        "word": "disappointing",
+        "confidence": 65
+      },
+      {
+        "word": "counterintuitive",
+        "confidence": 72
+      }
+    ]
+  }
+}

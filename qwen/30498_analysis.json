@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "enthusiastic",
+        "confidence": 85
+      },
+      {
+        "word": "energetic",
+        "confidence": 80
+      },
+      {
+        "word": "optimistic",
+        "confidence": 75
+      },
+      {
+        "word": "youthful",
+        "confidence": 78
+      },
+      {
+        "word": "relaxed",
+        "confidence": 72
+      },
+      {
+        "word": "disengaged",
+        "confidence": 65
+      },
+      {
+        "word": "leisurely",
+        "confidence": 70
+      },
+      {
+        "word": "generational",
+        "confidence": 68
+      }
+    ]
+  }
+}

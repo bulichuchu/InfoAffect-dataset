@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "determined",
+        "confidence": 85
+      },
+      {
+        "word": "ambitious",
+        "confidence": 82
+      },
+      {
+        "word": "overwhelming",
+        "confidence": 78
+      },
+      {
+        "word": "hopeful",
+        "confidence": 75
+      },
+      {
+        "word": "challenging",
+        "confidence": 88
+      },
+      {
+        "word": "methodical",
+        "confidence": 70
+      },
+      {
+        "word": "responsible",
+        "confidence": 80
+      },
+      {
+        "word": "strategic",
+        "confidence": 72
+      }
+    ]
+  }
+}

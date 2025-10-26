@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "uncertain",
+        "confidence": 80
+      },
+      {
+        "word": "preparatory",
+        "confidence": 75
+      },
+      {
+        "word": "transitionary",
+        "confidence": 78
+      },
+      {
+        "word": "strategic",
+        "confidence": 72
+      },
+      {
+        "word": "concerned",
+        "confidence": 70
+      },
+      {
+        "word": "unsettled",
+        "confidence": 75
+      }
+    ]
+  }
+}

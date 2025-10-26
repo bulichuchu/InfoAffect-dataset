@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anticipatory",
+        "confidence": 85
+      },
+      {
+        "word": "hopeful",
+        "confidence": 80
+      },
+      {
+        "word": "serious",
+        "confidence": 75
+      },
+      {
+        "word": "historic",
+        "confidence": 78
+      },
+      {
+        "word": "uncertain",
+        "confidence": 72
+      },
+      {
+        "word": "significant",
+        "confidence": 76
+      },
+      {
+        "word": "peaceful",
+        "confidence": 70
+      },
+      {
+        "word": "debated",
+        "confidence": 68
+      }
+    ]
+  }
+}

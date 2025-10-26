@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "shortage",
+        "confidence": 90
+      },
+      {
+        "word": "worrying",
+        "confidence": 85
+      },
+      {
+        "word": "infamously",
+        "confidence": 75
+      },
+      {
+        "word": "demand",
+        "confidence": 80
+      },
+      {
+        "word": "cope",
+        "confidence": 70
+      },
+      {
+        "word": "popular",
+        "confidence": 65
+      }
+    ]
+  }
+}

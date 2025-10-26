@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "contradictory",
+        "confidence": 85
+      },
+      {
+        "word": "tense",
+        "confidence": 80
+      },
+      {
+        "word": "surprising",
+        "confidence": 75
+      },
+      {
+        "word": "discrepant",
+        "confidence": 70
+      },
+      {
+        "word": "complex",
+        "confidence": 65
+      },
+      {
+        "word": "ambiguous",
+        "confidence": 60
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "iconic",
+        "confidence": 90
+      },
+      {
+        "word": "celebrating",
+        "confidence": 85
+      },
+      {
+        "word": "popular",
+        "confidence": 80
+      },
+      {
+        "word": "love",
+        "confidence": 78
+      },
+      {
+        "word": "enduring",
+        "confidence": 75
+      },
+      {
+        "word": "ambitious",
+        "confidence": 72
+      },
+      {
+        "word": "versatile",
+        "confidence": 70
+      },
+      {
+        "word": "bold",
+        "confidence": 68
+      }
+    ]
+  }
+}

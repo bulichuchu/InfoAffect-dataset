@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "threatening",
+        "confidence": 95
+      },
+      {
+        "word": "disruptive",
+        "confidence": 90
+      },
+      {
+        "word": "alarming",
+        "confidence": 88
+      },
+      {
+        "word": "vulnerable",
+        "confidence": 85
+      },
+      {
+        "word": "malicious",
+        "confidence": 82
+      },
+      {
+        "word": "anxious",
+        "confidence": 80
+      },
+      {
+        "word": "serious",
+        "confidence": 78
+      }
+    ]
+  }
+}

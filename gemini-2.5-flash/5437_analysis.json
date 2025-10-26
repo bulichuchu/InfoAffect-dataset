@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disgust",
+        "confidence": 90
+      },
+      {
+        "word": "unease",
+        "confidence": 85
+      },
+      {
+        "word": "concerning",
+        "confidence": 88
+      },
+      {
+        "word": "disturbing",
+        "confidence": 80
+      },
+      {
+        "word": "surprising",
+        "confidence": 75
+      },
+      {
+        "word": "unpleasant",
+        "confidence": 70
+      }
+    ]
+  }
+}

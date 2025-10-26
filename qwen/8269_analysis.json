@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "overwhelming",
+        "confidence": 85
+      },
+      {
+        "word": "strategic",
+        "confidence": 80
+      },
+      {
+        "word": "industrial",
+        "confidence": 75
+      },
+      {
+        "word": "decisive",
+        "confidence": 78
+      },
+      {
+        "word": "resilient",
+        "confidence": 72
+      },
+      {
+        "word": "somber",
+        "confidence": 70
+      },
+      {
+        "word": "analytical",
+        "confidence": 82
+      },
+      {
+        "word": "historical",
+        "confidence": 76
+      }
+    ]
+  }
+}

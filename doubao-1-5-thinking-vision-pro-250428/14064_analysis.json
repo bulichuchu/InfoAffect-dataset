@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "competitive",
+        "confidence": 85
+      },
+      {
+        "word": "analytical",
+        "confidence": 80
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 78
+      },
+      {
+        "word": "comparative",
+        "confidence": 75
+      },
+      {
+        "word": "matter-of-fact",
+        "confidence": 72
+      },
+      {
+        "word": "cost-conscious",
+        "confidence": 70
+      }
+    ]
+  }
+}

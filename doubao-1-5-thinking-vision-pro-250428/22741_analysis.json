@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "profitable",
+        "confidence": 90
+      },
+      {
+        "word": "successful",
+        "confidence": 85
+      },
+      {
+        "word": "growth-oriented",
+        "confidence": 80
+      },
+      {
+        "word": "booming",
+        "confidence": 75
+      },
+      {
+        "word": "advantageous",
+        "confidence": 70
+      },
+      {
+        "word": "lucrative",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "crisis",
+        "confidence": 90
+      },
+      {
+        "word": "vulnerable",
+        "confidence": 85
+      },
+      {
+        "word": "frustrating",
+        "confidence": 80
+      },
+      {
+        "word": "urgent",
+        "confidence": 78
+      },
+      {
+        "word": "critical",
+        "confidence": 75
+      },
+      {
+        "word": "overwhelming",
+        "confidence": 72
+      },
+      {
+        "word": "blameful",
+        "confidence": 68
+      },
+      {
+        "word": "exposed",
+        "confidence": 70
+      }
+    ]
+  }
+}

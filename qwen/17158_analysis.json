@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "defeat",
+        "confidence": 85
+      },
+      {
+        "word": "tense",
+        "confidence": 80
+      },
+      {
+        "word": "political",
+        "confidence": 75
+      },
+      {
+        "word": "divided",
+        "confidence": 78
+      },
+      {
+        "word": "significant",
+        "confidence": 72
+      },
+      {
+        "word": "confrontational",
+        "confidence": 76
+      },
+      {
+        "word": "dramatic",
+        "confidence": 70
+      },
+      {
+        "word": "urgent",
+        "confidence": 65
+      }
+    ]
+  }
+}

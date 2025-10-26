@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "insightful",
+        "confidence": 90
+      },
+      {
+        "word": "significant",
+        "confidence": 88
+      },
+      {
+        "word": "evolving",
+        "confidence": 85
+      },
+      {
+        "word": "noteworthy",
+        "confidence": 82
+      },
+      {
+        "word": "revelatory",
+        "confidence": 78
+      },
+      {
+        "word": "consequential",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rattled",
+        "confidence": 90
+      },
+      {
+        "word": "unexpected",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 80
+      },
+      {
+        "word": "alarmed",
+        "confidence": 75
+      },
+      {
+        "word": "tightened",
+        "confidence": 70
+      },
+      {
+        "word": "restrained",
+        "confidence": 65
+      },
+      {
+        "word": "outbreaks",
+        "confidence": 60
+      }
+    ]
+  }
+}

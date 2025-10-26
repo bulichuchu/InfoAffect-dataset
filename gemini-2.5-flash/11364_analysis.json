@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "popular",
+        "confidence": 95
+      },
+      {
+        "word": "integrated",
+        "confidence": 90
+      },
+      {
+        "word": "modern",
+        "confidence": 85
+      },
+      {
+        "word": "prevalent",
+        "confidence": 80
+      },
+      {
+        "word": "convenient",
+        "confidence": 75
+      },
+      {
+        "word": "progressive",
+        "confidence": 70
+      }
+    ]
+  }
+}

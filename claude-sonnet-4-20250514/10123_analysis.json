@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frustrating",
+        "confidence": 88
+      },
+      {
+        "word": "concerning",
+        "confidence": 82
+      },
+      {
+        "word": "problematic",
+        "confidence": 85
+      },
+      {
+        "word": "informative",
+        "confidence": 75
+      },
+      {
+        "word": "critical",
+        "confidence": 78
+      },
+      {
+        "word": "administrative",
+        "confidence": 70
+      },
+      {
+        "word": "regulatory",
+        "confidence": 65
+      }
+    ]
+  }
+}

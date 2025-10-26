@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declined",
+        "confidence": 85
+      },
+      {
+        "word": "dominant",
+        "confidence": 80
+      },
+      {
+        "word": "dropped",
+        "confidence": 75
+      },
+      {
+        "word": "popular",
+        "confidence": 70
+      },
+      {
+        "word": "surprising",
+        "confidence": 65
+      },
+      {
+        "word": "unexpected",
+        "confidence": 60
+      }
+    ]
+  }
+}

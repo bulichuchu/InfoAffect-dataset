@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "exploitative",
+        "confidence": 90
+      },
+      {
+        "word": "concerning",
+        "confidence": 85
+      },
+      {
+        "word": "unethical",
+        "confidence": 82
+      },
+      {
+        "word": "alarming",
+        "confidence": 78
+      },
+      {
+        "word": "distressing",
+        "confidence": 75
+      },
+      {
+        "word": "illicit",
+        "confidence": 72
+      },
+      {
+        "word": "immoral",
+        "confidence": 70
+      }
+    ]
+  }
+}

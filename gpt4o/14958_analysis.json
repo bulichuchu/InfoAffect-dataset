@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "competition",
+        "confidence": 90
+      },
+      {
+        "word": "triumph",
+        "confidence": 85
+      },
+      {
+        "word": "challenge",
+        "confidence": 88
+      },
+      {
+        "word": "progress",
+        "confidence": 80
+      },
+      {
+        "word": "shift",
+        "confidence": 75
+      },
+      {
+        "word": "dominance",
+        "confidence": 85
+      },
+      {
+        "word": "potential",
+        "confidence": 78
+      }
+    ]
+  }
+}

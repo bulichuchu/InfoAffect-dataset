@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "volatile",
+        "confidence": 90
+      },
+      {
+        "word": "dramatic",
+        "confidence": 85
+      },
+      {
+        "word": "controversial",
+        "confidence": 88
+      },
+      {
+        "word": "tense",
+        "confidence": 82
+      },
+      {
+        "word": "disruptive",
+        "confidence": 80
+      },
+      {
+        "word": "ambitious",
+        "confidence": 75
+      },
+      {
+        "word": "uncertain",
+        "confidence": 78
+      },
+      {
+        "word": "bold",
+        "confidence": 72
+      }
+    ]
+  }
+}

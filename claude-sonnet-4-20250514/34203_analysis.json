@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "nostalgic",
+        "confidence": 82
+      },
+      {
+        "word": "indulgent",
+        "confidence": 88
+      },
+      {
+        "word": "critical",
+        "confidence": 75
+      },
+      {
+        "word": "amused",
+        "confidence": 70
+      },
+      {
+        "word": "disapproving",
+        "confidence": 78
+      },
+      {
+        "word": "fascinating",
+        "confidence": 65
+      },
+      {
+        "word": "concerned",
+        "confidence": 72
+      }
+    ]
+  }
+}

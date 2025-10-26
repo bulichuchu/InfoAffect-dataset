@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "decline",
+        "confidence": 90
+      },
+      {
+        "word": "hype",
+        "confidence": 85
+      },
+      {
+        "word": "saturated",
+        "confidence": 80
+      },
+      {
+        "word": "demand",
+        "confidence": 75
+      },
+      {
+        "word": "growth",
+        "confidence": 70
+      },
+      {
+        "word": "mature",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "contentious",
+        "confidence": 86
+      },
+      {
+        "word": "increased",
+        "confidence": 82
+      },
+      {
+        "word": "volatile",
+        "confidence": 77
+      },
+      {
+        "word": "expansion",
+        "confidence": 75
+      },
+      {
+        "word": "environmental",
+        "confidence": 70
+      },
+      {
+        "word": "controversial",
+        "confidence": 78
+      }
+    ]
+  }
+}

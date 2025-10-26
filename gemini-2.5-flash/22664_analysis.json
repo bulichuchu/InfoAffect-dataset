@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "ailing",
+        "confidence": 95
+      },
+      {
+        "word": "declining",
+        "confidence": 90
+      },
+      {
+        "word": "growing",
+        "confidence": 90
+      },
+      {
+        "word": "shifting",
+        "confidence": 85
+      },
+      {
+        "word": "concern",
+        "confidence": 75
+      },
+      {
+        "word": "transformative",
+        "confidence": 70
+      }
+    ]
+  }
+}

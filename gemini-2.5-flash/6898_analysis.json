@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "excited",
+        "confidence": 90
+      },
+      {
+        "word": "anticipatory",
+        "confidence": 88
+      },
+      {
+        "word": "vibrant",
+        "confidence": 85
+      },
+      {
+        "word": "desirous",
+        "confidence": 87
+      },
+      {
+        "word": "bustling",
+        "confidence": 82
+      },
+      {
+        "word": "festive",
+        "confidence": 78
+      }
+    ]
+  }
+}

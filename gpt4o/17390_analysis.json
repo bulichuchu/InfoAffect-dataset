@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "distracted",
+        "confidence": 90
+      },
+      {
+        "word": "celebratory",
+        "confidence": 85
+      },
+      {
+        "word": "boosting",
+        "confidence": 75
+      },
+      {
+        "word": "friendly",
+        "confidence": 70
+      },
+      {
+        "word": "productive",
+        "confidence": 68
+      }
+    ]
+  }
+}

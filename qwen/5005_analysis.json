@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "informative",
+        "confidence": 90
+      },
+      {
+        "word": "surprising",
+        "confidence": 85
+      },
+      {
+        "word": "significant",
+        "confidence": 80
+      },
+      {
+        "word": "staggering",
+        "confidence": 75
+      },
+      {
+        "word": "noteworthy",
+        "confidence": 70
+      },
+      {
+        "word": "revealing",
+        "confidence": 65
+      },
+      {
+        "word": "impressive",
+        "confidence": 60
+      }
+    ]
+  }
+}

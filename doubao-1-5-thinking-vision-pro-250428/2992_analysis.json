@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "slump",
+        "confidence": 82
+      },
+      {
+        "word": "dismay",
+        "confidence": 78
+      },
+      {
+        "word": "slowdown",
+        "confidence": 80
+      },
+      {
+        "word": "timid",
+        "confidence": 75
+      },
+      {
+        "word": "severe",
+        "confidence": 80
+      }
+    ]
+  }
+}

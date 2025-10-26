@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "active",
+        "confidence": 90
+      },
+      {
+        "word": "significant",
+        "confidence": 85
+      },
+      {
+        "word": "surge",
+        "confidence": 80
+      },
+      {
+        "word": "increased",
+        "confidence": 78
+      },
+      {
+        "word": "confirm",
+        "confidence": 75
+      },
+      {
+        "word": "extrapolated",
+        "confidence": 70
+      }
+    ]
+  }
+}

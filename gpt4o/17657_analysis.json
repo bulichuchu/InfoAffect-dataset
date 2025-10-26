@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "historic",
+        "confidence": 85
+      },
+      {
+        "word": "reflective",
+        "confidence": 80
+      },
+      {
+        "word": "commemorative",
+        "confidence": 75
+      },
+      {
+        "word": "momentous",
+        "confidence": 78
+      },
+      {
+        "word": "honorable",
+        "confidence": 70
+      },
+      {
+        "word": "significant",
+        "confidence": 72
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "impressive",
+        "confidence": 85
+      },
+      {
+        "word": "limited",
+        "confidence": 80
+      },
+      {
+        "word": "youthful",
+        "confidence": 75
+      },
+      {
+        "word": "underdeveloped",
+        "confidence": 70
+      },
+      {
+        "word": "nascent",
+        "confidence": 65
+      },
+      {
+        "word": "divided",
+        "confidence": 60
+      },
+      {
+        "word": "uncertain",
+        "confidence": 55
+      }
+    ]
+  }
+}

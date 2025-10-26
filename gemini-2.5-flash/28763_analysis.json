@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "triumphant",
+        "confidence": 85
+      },
+      {
+        "word": "disparate",
+        "confidence": 90
+      },
+      {
+        "word": "historical",
+        "confidence": 88
+      },
+      {
+        "word": "challenging",
+        "confidence": 80
+      },
+      {
+        "word": "inspiring",
+        "confidence": 75
+      },
+      {
+        "word": "reflective",
+        "confidence": 70
+      }
+    ]
+  }
+}

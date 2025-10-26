@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unexpected",
+        "confidence": 78
+      },
+      {
+        "word": "surprising",
+        "confidence": 82
+      },
+      {
+        "word": "trend",
+        "confidence": 70
+      },
+      {
+        "word": "shift",
+        "confidence": 76
+      },
+      {
+        "word": "change",
+        "confidence": 80
+      },
+      {
+        "word": "unconventional",
+        "confidence": 74
+      }
+    ]
+  }
+}

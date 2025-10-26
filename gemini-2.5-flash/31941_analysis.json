@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "challenging",
+        "confidence": 90
+      },
+      {
+        "word": "cautious",
+        "confidence": 88
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 85
+      },
+      {
+        "word": "persistent",
+        "confidence": 82
+      },
+      {
+        "word": "measured",
+        "confidence": 75
+      },
+      {
+        "word": "sobering",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "contested",
+        "confidence": 85
+      },
+      {
+        "word": "divided",
+        "confidence": 80
+      },
+      {
+        "word": "cooperation",
+        "confidence": 75
+      },
+      {
+        "word": "compromise",
+        "confidence": 70
+      },
+      {
+        "word": "block",
+        "confidence": 78
+      }
+    ]
+  }
+}

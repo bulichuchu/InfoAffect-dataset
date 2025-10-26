@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "expensive",
+        "confidence": 90
+      },
+      {
+        "word": "cheapest",
+        "confidence": 85
+      },
+      {
+        "word": "budget",
+        "confidence": 80
+      },
+      {
+        "word": "affordable",
+        "confidence": 78
+      },
+      {
+        "word": "costly",
+        "confidence": 75
+      },
+      {
+        "word": "pricey",
+        "confidence": 70
+      },
+      {
+        "word": "accessible",
+        "confidence": 65
+      }
+    ]
+  }
+}

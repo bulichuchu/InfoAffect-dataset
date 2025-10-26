@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frenzy",
+        "confidence": 85
+      },
+      {
+        "word": "enthusiasm",
+        "confidence": 80
+      },
+      {
+        "word": "popular",
+        "confidence": 78
+      },
+      {
+        "word": "tragic",
+        "confidence": 75
+      },
+      {
+        "word": "exception",
+        "confidence": 70
+      },
+      {
+        "word": "slow",
+        "confidence": 65
+      }
+    ]
+  }
+}

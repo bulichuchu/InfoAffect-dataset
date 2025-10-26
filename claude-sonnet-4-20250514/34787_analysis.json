@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "stunning",
+        "confidence": 90
+      },
+      {
+        "word": "breathtaking",
+        "confidence": 88
+      },
+      {
+        "word": "meteoric",
+        "confidence": 85
+      },
+      {
+        "word": "optimistic",
+        "confidence": 82
+      },
+      {
+        "word": "suspenseful",
+        "confidence": 75
+      },
+      {
+        "word": "ambitious",
+        "confidence": 78
+      },
+      {
+        "word": "skeptical",
+        "confidence": 70
+      },
+      {
+        "word": "triumphant",
+        "confidence": 80
+      }
+    ]
+  }
+}

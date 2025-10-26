@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "partisan",
+        "confidence": 90
+      },
+      {
+        "word": "divisive",
+        "confidence": 85
+      },
+      {
+        "word": "frustrating",
+        "confidence": 78
+      },
+      {
+        "word": "historic",
+        "confidence": 82
+      },
+      {
+        "word": "bipartisan",
+        "confidence": 75
+      },
+      {
+        "word": "disappointing",
+        "confidence": 70
+      },
+      {
+        "word": "tense",
+        "confidence": 65
+      },
+      {
+        "word": "political",
+        "confidence": 80
+      }
+    ]
+  }
+}

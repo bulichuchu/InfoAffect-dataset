@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concern",
+        "confidence": 85
+      },
+      {
+        "word": "loyalty",
+        "confidence": 80
+      },
+      {
+        "word": "challenge",
+        "confidence": 78
+      },
+      {
+        "word": "problem",
+        "confidence": 75
+      },
+      {
+        "word": "competitive",
+        "confidence": 72
+      },
+      {
+        "word": "struggle",
+        "confidence": 70
+      }
+    ]
+  }
+}

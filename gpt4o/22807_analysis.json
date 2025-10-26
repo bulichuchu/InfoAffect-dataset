@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 90
+      },
+      {
+        "word": "affluent",
+        "confidence": 85
+      },
+      {
+        "word": "challenging",
+        "confidence": 80
+      },
+      {
+        "word": "satisfied",
+        "confidence": 88
+      },
+      {
+        "word": "opportunity",
+        "confidence": 78
+      },
+      {
+        "word": "well-being",
+        "confidence": 82
+      }
+    ]
+  }
+}

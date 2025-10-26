@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "defiant",
+        "confidence": 88
+      },
+      {
+        "word": "dismissive",
+        "confidence": 85
+      },
+      {
+        "word": "resilient",
+        "confidence": 82
+      },
+      {
+        "word": "controversial",
+        "confidence": 78
+      },
+      {
+        "word": "frustrated",
+        "confidence": 75
+      },
+      {
+        "word": "reassuring",
+        "confidence": 70
+      },
+      {
+        "word": "polarized",
+        "confidence": 68
+      },
+      {
+        "word": "determined",
+        "confidence": 65
+      }
+    ]
+  }
+}

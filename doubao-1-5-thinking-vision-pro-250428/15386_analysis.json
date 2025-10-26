@@ -1,0 +1,28 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "impressive",
+          "confidence": 90
+        },
+        {
+          "word": "leading",
+          "confidence": 85
+        },
+        {
+          "word": "progressive",
+          "confidence": 80
+        },
+        {
+          "word": "remarkable",
+          "confidence": 75
+        },
+        {
+          "word": "promising",
+          "confidence": 70
+        }
+      ]
+    }
+  }
+]

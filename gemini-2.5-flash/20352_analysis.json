@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "cringing",
+        "confidence": 95
+      },
+      {
+        "word": "uncomfortable",
+        "confidence": 90
+      },
+      {
+        "word": "embarrassed",
+        "confidence": 85
+      },
+      {
+        "word": "aversion",
+        "confidence": 80
+      },
+      {
+        "word": "frustrated",
+        "confidence": 75
+      },
+      {
+        "word": "disrespected",
+        "confidence": 70
+      }
+    ]
+  }
+}

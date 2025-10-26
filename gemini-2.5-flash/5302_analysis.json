@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "discord",
+        "confidence": 95
+      },
+      {
+        "word": "division",
+        "confidence": 90
+      },
+      {
+        "word": "tension",
+        "confidence": 88
+      },
+      {
+        "word": "struggle",
+        "confidence": 85
+      },
+      {
+        "word": "disagreement",
+        "confidence": 80
+      },
+      {
+        "word": "controversy",
+        "confidence": 75
+      }
+    ]
+  }
+}

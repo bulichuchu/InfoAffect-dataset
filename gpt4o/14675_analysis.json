@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "retaliatory",
+        "confidence": 85
+      },
+      {
+        "word": "threatened",
+        "confidence": 82
+      },
+      {
+        "word": "unfair",
+        "confidence": 78
+      },
+      {
+        "word": "divided",
+        "confidence": 75
+      },
+      {
+        "word": "firm",
+        "confidence": 72
+      },
+      {
+        "word": "escalate",
+        "confidence": 70
+      }
+    ]
+  }
+}

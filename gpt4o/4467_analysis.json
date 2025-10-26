@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disparity",
+        "confidence": 90
+      },
+      {
+        "word": "commitment",
+        "confidence": 88
+      },
+      {
+        "word": "progress",
+        "confidence": 85
+      },
+      {
+        "word": "challenge",
+        "confidence": 80
+      },
+      {
+        "word": "inequality",
+        "confidence": 75
+      },
+      {
+        "word": "empowerment",
+        "confidence": 70
+      },
+      {
+        "word": "leadership",
+        "confidence": 65
+      }
+    ]
+  }
+}

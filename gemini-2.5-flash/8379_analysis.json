@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "excitement",
+        "confidence": 95
+      },
+      {
+        "word": "satisfaction",
+        "confidence": 90
+      },
+      {
+        "word": "optimism",
+        "confidence": 88
+      },
+      {
+        "word": "elation",
+        "confidence": 85
+      },
+      {
+        "word": "hopeful",
+        "confidence": 80
+      },
+      {
+        "word": "triumphant",
+        "confidence": 75
+      }
+    ]
+  }
+}

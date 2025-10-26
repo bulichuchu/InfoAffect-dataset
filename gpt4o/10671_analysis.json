@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "enjoy",
+        "confidence": 85
+      },
+      {
+        "word": "preference",
+        "confidence": 80
+      },
+      {
+        "word": "popularity",
+        "confidence": 75
+      },
+      {
+        "word": "interesting",
+        "confidence": 70
+      },
+      {
+        "word": "hectic",
+        "confidence": 65
+      },
+      {
+        "word": "laid-back",
+        "confidence": 60
+      },
+      {
+        "word": "transform",
+        "confidence": 55
+      }
+    ]
+  }
+}

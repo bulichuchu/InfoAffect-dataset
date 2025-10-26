@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "neutral",
+        "confidence": 80
+      },
+      {
+        "word": "progressing",
+        "confidence": 60
+      },
+      {
+        "word": "underwhelming",
+        "confidence": 70
+      },
+      {
+        "word": "disappointing",
+        "confidence": 65
+      },
+      {
+        "word": "comparative",
+        "confidence": 75
+      },
+      {
+        "word": "subpar",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disparity",
+        "confidence": 90
+      },
+      {
+        "word": "underrepresentation",
+        "confidence": 88
+      },
+      {
+        "word": "imbalance",
+        "confidence": 85
+      },
+      {
+        "word": "concerning",
+        "confidence": 80
+      },
+      {
+        "word": "focused",
+        "confidence": 75
+      },
+      {
+        "word": "initiative",
+        "confidence": 70
+      }
+    ]
+  }
+}

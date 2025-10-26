@@ -1,0 +1,28 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "assured",
+          "confidence": 90
+        },
+        {
+          "word": "dominant",
+          "confidence": 85
+        },
+        {
+          "word": "historic",
+          "confidence": 80
+        },
+        {
+          "word": "supported",
+          "confidence": 75
+        },
+        {
+          "word": "pioneering",
+          "confidence": 70
+        }
+      ]
+    }
+  }
+]

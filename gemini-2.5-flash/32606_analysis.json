@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "divided",
+        "confidence": 90
+      },
+      {
+        "word": "contested",
+        "confidence": 88
+      },
+      {
+        "word": "evaluative",
+        "confidence": 85
+      },
+      {
+        "word": "nuanced",
+        "confidence": 82
+      },
+      {
+        "word": "scrutinized",
+        "confidence": 78
+      },
+      {
+        "word": "comparative",
+        "confidence": 77
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      }
+    ]
+  }
+}

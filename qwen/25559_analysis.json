@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "displaced",
+        "confidence": 90
+      },
+      {
+        "word": "vulnerable",
+        "confidence": 85
+      },
+      {
+        "word": "overwhelming",
+        "confidence": 80
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      },
+      {
+        "word": "hopeful",
+        "confidence": 65
+      },
+      {
+        "word": "burdened",
+        "confidence": 70
+      },
+      {
+        "word": "resilient",
+        "confidence": 60
+      },
+      {
+        "word": "pressing",
+        "confidence": 72
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "tragic",
+        "confidence": 90
+      },
+      {
+        "word": "concern",
+        "confidence": 85
+      },
+      {
+        "word": "alarming",
+        "confidence": 88
+      },
+      {
+        "word": "improvement",
+        "confidence": 70
+      },
+      {
+        "word": "neglect",
+        "confidence": 77
+      },
+      {
+        "word": "investment",
+        "confidence": 65
+      }
+    ]
+  }
+}

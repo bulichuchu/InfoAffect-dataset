@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "comforting",
+        "confidence": 85
+      },
+      {
+        "word": "cultural",
+        "confidence": 80
+      },
+      {
+        "word": "personal",
+        "confidence": 78
+      },
+      {
+        "word": "varied",
+        "confidence": 75
+      },
+      {
+        "word": "inclusive",
+        "confidence": 72
+      },
+      {
+        "word": "relatable",
+        "confidence": 70
+      },
+      {
+        "word": "nuanced",
+        "confidence": 68
+      },
+      {
+        "word": "global",
+        "confidence": 65
+      }
+    ]
+  }
+}

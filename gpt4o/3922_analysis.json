@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "scandalous",
+        "confidence": 90
+      },
+      {
+        "word": "unfaithful",
+        "confidence": 85
+      },
+      {
+        "word": "controversial",
+        "confidence": 80
+      },
+      {
+        "word": "provocative",
+        "confidence": 75
+      },
+      {
+        "word": "notorious",
+        "confidence": 78
+      }
+    ]
+  }
+}

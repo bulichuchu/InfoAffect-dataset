@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "turbulent",
+        "confidence": 90
+      },
+      {
+        "word": "frantic",
+        "confidence": 85
+      },
+      {
+        "word": "indignant",
+        "confidence": 80
+      },
+      {
+        "word": "volatile",
+        "confidence": 78
+      },
+      {
+        "word": "chaotic",
+        "confidence": 75
+      },
+      {
+        "word": "uncertain",
+        "confidence": 72
+      },
+      {
+        "word": "alarming",
+        "confidence": 70
+      },
+      {
+        "word": "contentious",
+        "confidence": 68
+      }
+    ]
+  }
+}

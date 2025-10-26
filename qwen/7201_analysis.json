@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surprised",
+        "confidence": 90
+      },
+      {
+        "word": "ironic",
+        "confidence": 85
+      },
+      {
+        "word": "skeptical",
+        "confidence": 80
+      },
+      {
+        "word": "amused",
+        "confidence": 75
+      },
+      {
+        "word": "disbelieving",
+        "confidence": 70
+      },
+      {
+        "word": "critical",
+        "confidence": 65
+      },
+      {
+        "word": "wry",
+        "confidence": 60
+      },
+      {
+        "word": "predictive",
+        "confidence": 55
+      }
+    ]
+  }
+}

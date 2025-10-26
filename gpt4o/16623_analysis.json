@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fear",
+        "confidence": 90
+      },
+      {
+        "word": "anxiety",
+        "confidence": 85
+      },
+      {
+        "word": "uncertainty",
+        "confidence": 80
+      },
+      {
+        "word": "trust",
+        "confidence": 75
+      },
+      {
+        "word": "concern",
+        "confidence": 82
+      },
+      {
+        "word": "apocalypse",
+        "confidence": 88
+      },
+      {
+        "word": "extinction",
+        "confidence": 84
+      }
+    ]
+  }
+}

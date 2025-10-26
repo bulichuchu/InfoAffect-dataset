@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "controversial",
+        "confidence": 88
+      },
+      {
+        "word": "strategic",
+        "confidence": 82
+      },
+      {
+        "word": "resistant",
+        "confidence": 78
+      },
+      {
+        "word": "tense",
+        "confidence": 75
+      },
+      {
+        "word": "complex",
+        "confidence": 70
+      },
+      {
+        "word": "political",
+        "confidence": 68
+      },
+      {
+        "word": "uncertain",
+        "confidence": 65
+      },
+      {
+        "word": "authoritarian",
+        "confidence": 60
+      }
+    ]
+  }
+}

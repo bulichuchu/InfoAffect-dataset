@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disappointed",
+        "confidence": 85
+      },
+      {
+        "word": "struggling",
+        "confidence": 80
+      },
+      {
+        "word": "crashing",
+        "confidence": 78
+      },
+      {
+        "word": "falling",
+        "confidence": 76
+      },
+      {
+        "word": "hangover",
+        "confidence": 72
+      },
+      {
+        "word": "returning",
+        "confidence": 70
+      }
+    ]
+  }
+}

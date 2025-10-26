@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "successful",
+        "confidence": 85
+      },
+      {
+        "word": "controversial",
+        "confidence": 80
+      },
+      {
+        "word": "lucrative",
+        "confidence": 78
+      },
+      {
+        "word": "notable",
+        "confidence": 75
+      },
+      {
+        "word": "impressive",
+        "confidence": 72
+      },
+      {
+        "word": "complex",
+        "confidence": 68
+      },
+      {
+        "word": "revealing",
+        "confidence": 70
+      },
+      {
+        "word": "significant",
+        "confidence": 73
+      }
+    ]
+  }
+}

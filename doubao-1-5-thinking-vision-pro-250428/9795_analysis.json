@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "crushing",
+        "confidence": 85
+      },
+      {
+        "word": "marred",
+        "confidence": 80
+      },
+      {
+        "word": "spectacular",
+        "confidence": 75
+      },
+      {
+        "word": "analytical",
+        "confidence": 70
+      },
+      {
+        "word": "disappointing",
+        "confidence": 75
+      },
+      {
+        "word": "contrasting",
+        "confidence": 70
+      }
+    ]
+  }
+}

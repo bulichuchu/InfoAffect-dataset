@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "overwhelming",
+        "confidence": 88
+      },
+      {
+        "word": "concerning",
+        "confidence": 85
+      },
+      {
+        "word": "uncertain",
+        "confidence": 82
+      },
+      {
+        "word": "tense",
+        "confidence": 78
+      },
+      {
+        "word": "critical",
+        "confidence": 75
+      },
+      {
+        "word": "unstable",
+        "confidence": 73
+      },
+      {
+        "word": "significant",
+        "confidence": 70
+      },
+      {
+        "word": "complex",
+        "confidence": 68
+      }
+    ]
+  }
+}

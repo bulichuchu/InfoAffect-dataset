@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "affordable",
+        "confidence": 90
+      },
+      {
+        "word": "exciting",
+        "confidence": 75
+      },
+      {
+        "word": "satisfying",
+        "confidence": 70
+      },
+      {
+        "word": "welcoming",
+        "confidence": 65
+      },
+      {
+        "word": "value-driven",
+        "confidence": 80
+      },
+      {
+        "word": "informative",
+        "confidence": 85
+      },
+      {
+        "word": "optimistic",
+        "confidence": 60
+      },
+      {
+        "word": "practical",
+        "confidence": 72
+      }
+    ]
+  }
+}

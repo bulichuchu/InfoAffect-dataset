@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disparities",
+        "confidence": 88
+      },
+      {
+        "word": "concerned",
+        "confidence": 75
+      },
+      {
+        "word": "surprised",
+        "confidence": 70
+      },
+      {
+        "word": "informative",
+        "confidence": 90
+      },
+      {
+        "word": "comparative",
+        "confidence": 85
+      },
+      {
+        "word": "revealing",
+        "confidence": 80
+      },
+      {
+        "word": "neutral",
+        "confidence": 78
+      },
+      {
+        "word": "analytical",
+        "confidence": 82
+      }
+    ]
+  }
+}

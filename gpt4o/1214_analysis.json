@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "accustomed",
+        "confidence": 85
+      },
+      {
+        "word": "distract",
+        "confidence": 80
+      },
+      {
+        "word": "complement",
+        "confidence": 75
+      },
+      {
+        "word": "benefit",
+        "confidence": 70
+      },
+      {
+        "word": "engage",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "withdrawal",
+        "confidence": 90
+      },
+      {
+        "word": "uncertainty",
+        "confidence": 85
+      },
+      {
+        "word": "responsibility",
+        "confidence": 80
+      },
+      {
+        "word": "pivotal",
+        "confidence": 78
+      },
+      {
+        "word": "costly",
+        "confidence": 75
+      },
+      {
+        "word": "clarity",
+        "confidence": 72
+      },
+      {
+        "word": "peace",
+        "confidence": 70
+      }
+    ]
+  }
+}

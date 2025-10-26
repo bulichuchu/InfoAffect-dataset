@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concern",
+        "confidence": 90
+      },
+      {
+        "word": "impact",
+        "confidence": 85
+      },
+      {
+        "word": "disruption",
+        "confidence": 83
+      },
+      {
+        "word": "caution",
+        "confidence": 80
+      },
+      {
+        "word": "uncertainty",
+        "confidence": 78
+      },
+      {
+        "word": "crisis",
+        "confidence": 75
+      },
+      {
+        "word": "dependence",
+        "confidence": 72
+      },
+      {
+        "word": "vulnerability",
+        "confidence": 70
+      }
+    ]
+  }
+}

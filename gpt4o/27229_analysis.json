@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "suspicious",
+        "confidence": 90
+      },
+      {
+        "word": "propaganda",
+        "confidence": 85
+      },
+      {
+        "word": "manipulating",
+        "confidence": 88
+      },
+      {
+        "word": "exploited",
+        "confidence": 84
+      },
+      {
+        "word": "tragic",
+        "confidence": 82
+      },
+      {
+        "word": "falsehoods",
+        "confidence": 80
+      },
+      {
+        "word": "opportunity",
+        "confidence": 75
+      }
+    ]
+  }
+}

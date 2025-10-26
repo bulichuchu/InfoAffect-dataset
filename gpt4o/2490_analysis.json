@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "record-breaking",
+        "confidence": 90
+      },
+      {
+        "word": "surging",
+        "confidence": 85
+      },
+      {
+        "word": "slumping",
+        "confidence": 82
+      },
+      {
+        "word": "declined",
+        "confidence": 80
+      },
+      {
+        "word": "profit",
+        "confidence": 78
+      },
+      {
+        "word": "flagging",
+        "confidence": 73
+      }
+    ]
+  }
+}

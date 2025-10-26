@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "democratic",
+        "confidence": 85
+      },
+      {
+        "word": "autocratic",
+        "confidence": 90
+      },
+      {
+        "word": "oppressive",
+        "confidence": 75
+      },
+      {
+        "word": "freedom",
+        "confidence": 70
+      },
+      {
+        "word": "authoritarian",
+        "confidence": 88
+      },
+      {
+        "word": "political",
+        "confidence": 80
+      },
+      {
+        "word": "restrictive",
+        "confidence": 78
+      }
+    ]
+  }
+}

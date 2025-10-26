@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "indispensable",
+        "confidence": 90
+      },
+      {
+        "word": "hungry",
+        "confidence": 85
+      },
+      {
+        "word": "crunch",
+        "confidence": 75
+      },
+      {
+        "word": "intervening",
+        "confidence": 70
+      },
+      {
+        "word": "worst-case",
+        "confidence": 65
+      },
+      {
+        "word": "growing",
+        "confidence": 60
+      },
+      {
+        "word": "dented",
+        "confidence": 68
+      }
+    ]
+  }
+}

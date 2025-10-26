@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frustration",
+        "confidence": 90
+      },
+      {
+        "word": "understandable",
+        "confidence": 85
+      },
+      {
+        "word": "shame",
+        "confidence": 80
+      },
+      {
+        "word": "crippling",
+        "confidence": 78
+      },
+      {
+        "word": "longest",
+        "confidence": 70
+      }
+    ]
+  }
+}

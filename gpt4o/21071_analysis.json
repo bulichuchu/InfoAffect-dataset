@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "turmoil",
+        "confidence": 90
+      },
+      {
+        "word": "fear",
+        "confidence": 85
+      },
+      {
+        "word": "historic",
+        "confidence": 80
+      },
+      {
+        "word": "alarming",
+        "confidence": 78
+      },
+      {
+        "word": "uncertainty",
+        "confidence": 75
+      },
+      {
+        "word": "distressing",
+        "confidence": 80
+      }
+    ]
+  }
+}

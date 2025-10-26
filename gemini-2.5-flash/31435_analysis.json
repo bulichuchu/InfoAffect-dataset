@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "admiration",
+        "confidence": 90
+      },
+      {
+        "word": "insightful",
+        "confidence": 85
+      },
+      {
+        "word": "concern",
+        "confidence": 75
+      },
+      {
+        "word": "enlightening",
+        "confidence": 70
+      },
+      {
+        "word": "comparative",
+        "confidence": 65
+      },
+      {
+        "word": "prudence",
+        "confidence": 60
+      }
+    ]
+  }
+}

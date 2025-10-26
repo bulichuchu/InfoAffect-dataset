@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "controversial",
+        "confidence": 90
+      },
+      {
+        "word": "dismissed",
+        "confidence": 85
+      },
+      {
+        "word": "short",
+        "confidence": 78
+      },
+      {
+        "word": "unsettling",
+        "confidence": 73
+      },
+      {
+        "word": "effective",
+        "confidence": 65
+      },
+      {
+        "word": "abrupt",
+        "confidence": 70
+      }
+    ]
+  }
+}

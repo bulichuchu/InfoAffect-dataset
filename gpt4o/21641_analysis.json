@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "effective",
+        "confidence": 90
+      },
+      {
+        "word": "eradicated",
+        "confidence": 85
+      },
+      {
+        "word": "immune",
+        "confidence": 80
+      },
+      {
+        "word": "progress",
+        "confidence": 75
+      },
+      {
+        "word": "dramatic",
+        "confidence": 70
+      },
+      {
+        "word": "successful",
+        "confidence": 78
+      }
+    ]
+  }
+}

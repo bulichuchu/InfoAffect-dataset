@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "outrage",
+        "confidence": 90
+      },
+      {
+        "word": "discontent",
+        "confidence": 85
+      },
+      {
+        "word": "scandal",
+        "confidence": 80
+      },
+      {
+        "word": "terrible",
+        "confidence": 75
+      },
+      {
+        "word": "remarkable",
+        "confidence": 70
+      },
+      {
+        "word": "bad",
+        "confidence": 73
+      },
+      {
+        "word": "turnaround",
+        "confidence": 68
+      }
+    ]
+  }
+}

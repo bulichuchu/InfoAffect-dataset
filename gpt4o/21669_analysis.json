@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "historic",
+        "confidence": 90
+      },
+      {
+        "word": "crisis",
+        "confidence": 88
+      },
+      {
+        "word": "unemployed",
+        "confidence": 85
+      },
+      {
+        "word": "havoc",
+        "confidence": 83
+      },
+      {
+        "word": "wreaked",
+        "confidence": 81
+      },
+      {
+        "word": "affected",
+        "confidence": 78
+      },
+      {
+        "word": "hardest",
+        "confidence": 75
+      }
+    ]
+  }
+}

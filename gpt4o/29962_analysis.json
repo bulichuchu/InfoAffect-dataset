@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "uproar",
+        "confidence": 90
+      },
+      {
+        "word": "unrest",
+        "confidence": 88
+      },
+      {
+        "word": "protests",
+        "confidence": 85
+      },
+      {
+        "word": "disruption",
+        "confidence": 82
+      },
+      {
+        "word": "turmoil",
+        "confidence": 80
+      }
+    ]
+  }
+}

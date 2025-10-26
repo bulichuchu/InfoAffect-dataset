@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "contrast",
+        "confidence": 85
+      },
+      {
+        "word": "highlight",
+        "confidence": 80
+      },
+      {
+        "word": "informative",
+        "confidence": 78
+      },
+      {
+        "word": "comparative",
+        "confidence": 75
+      },
+      {
+        "word": "unexpected",
+        "confidence": 70
+      },
+      {
+        "word": "revealing",
+        "confidence": 68
+      }
+    ]
+  }
+}

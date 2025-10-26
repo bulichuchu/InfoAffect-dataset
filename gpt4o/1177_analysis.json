@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "shockwaves",
+        "confidence": 90
+      },
+      {
+        "word": "anger",
+        "confidence": 85
+      },
+      {
+        "word": "frustration",
+        "confidence": 82
+      },
+      {
+        "word": "disbelief",
+        "confidence": 80
+      },
+      {
+        "word": "furious",
+        "confidence": 88
+      },
+      {
+        "word": "debate",
+        "confidence": 75
+      },
+      {
+        "word": "concern",
+        "confidence": 78
+      }
+    ]
+  }
+}

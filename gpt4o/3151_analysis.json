@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "celebratory",
+        "confidence": 90
+      },
+      {
+        "word": "record-breaking",
+        "confidence": 88
+      },
+      {
+        "word": "successful",
+        "confidence": 85
+      },
+      {
+        "word": "triumphant",
+        "confidence": 83
+      },
+      {
+        "word": "prestigious",
+        "confidence": 80
+      },
+      {
+        "word": "anticipated",
+        "confidence": 75
+      }
+    ]
+  }
+}

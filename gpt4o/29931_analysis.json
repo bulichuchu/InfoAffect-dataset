@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "loss",
+        "confidence": 95
+      },
+      {
+        "word": "endangered",
+        "confidence": 90
+      },
+      {
+        "word": "conflict",
+        "confidence": 85
+      },
+      {
+        "word": "encroach",
+        "confidence": 80
+      },
+      {
+        "word": "shrunken",
+        "confidence": 75
+      },
+      {
+        "word": "stunned",
+        "confidence": 70
+      }
+    ]
+  }
+}

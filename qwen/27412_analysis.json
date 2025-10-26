@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "booming",
+        "confidence": 85
+      },
+      {
+        "word": "staggering",
+        "confidence": 82
+      },
+      {
+        "word": "niche",
+        "confidence": 78
+      },
+      {
+        "word": "specialist",
+        "confidence": 75
+      },
+      {
+        "word": "meteoric",
+        "confidence": 80
+      },
+      {
+        "word": "concentrated",
+        "confidence": 70
+      },
+      {
+        "word": "projected",
+        "confidence": 65
+      },
+      {
+        "word": "speculative",
+        "confidence": 72
+      }
+    ]
+  }
+}

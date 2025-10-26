@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "subversive",
+        "confidence": 90
+      },
+      {
+        "word": "ironic",
+        "confidence": 85
+      },
+      {
+        "word": "triumphant",
+        "confidence": 80
+      },
+      {
+        "word": "provocative",
+        "confidence": 78
+      },
+      {
+        "word": "mysterious",
+        "confidence": 75
+      },
+      {
+        "word": "celebratory",
+        "confidence": 70
+      },
+      {
+        "word": "resilient",
+        "confidence": 65
+      },
+      {
+        "word": "humorous",
+        "confidence": 60
+      }
+    ]
+  }
+}

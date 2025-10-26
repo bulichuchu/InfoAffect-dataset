@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "recovering",
+        "confidence": 70
+      },
+      {
+        "word": "surprising",
+        "confidence": 75
+      },
+      {
+        "word": "skyrocketing",
+        "confidence": 80
+      },
+      {
+        "word": "resilient",
+        "confidence": 65
+      },
+      {
+        "word": "concerned",
+        "confidence": 60
+      },
+      {
+        "word": "notable",
+        "confidence": 68
+      }
+    ]
+  }
+}

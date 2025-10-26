@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "intense",
+        "confidence": 90
+      },
+      {
+        "word": "anxious",
+        "confidence": 85
+      },
+      {
+        "word": "curious",
+        "confidence": 80
+      },
+      {
+        "word": "concerned",
+        "confidence": 78
+      },
+      {
+        "word": "inquisitive",
+        "confidence": 75
+      },
+      {
+        "word": "compassionate",
+        "confidence": 70
+      },
+      {
+        "word": "thoughtful",
+        "confidence": 68
+      },
+      {
+        "word": "lighthearted",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "excited",
+        "confidence": 85
+      },
+      {
+        "word": "anticipatory",
+        "confidence": 80
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 75
+      },
+      {
+        "word": "unifying",
+        "confidence": 78
+      },
+      {
+        "word": "traditional",
+        "confidence": 72
+      },
+      {
+        "word": "global",
+        "confidence": 70
+      },
+      {
+        "word": "celebratory",
+        "confidence": 65
+      },
+      {
+        "word": "resilient",
+        "confidence": 68
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "pressure",
+        "confidence": 85
+      },
+      {
+        "word": "attractive",
+        "confidence": 80
+      },
+      {
+        "word": "turn-off",
+        "confidence": 78
+      },
+      {
+        "word": "equity",
+        "confidence": 75
+      },
+      {
+        "word": "importance",
+        "confidence": 70
+      },
+      {
+        "word": "valued",
+        "confidence": 68
+      }
+    ]
+  }
+}

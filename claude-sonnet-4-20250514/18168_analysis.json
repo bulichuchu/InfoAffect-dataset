@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "triumphant",
+        "confidence": 88
+      },
+      {
+        "word": "divisive",
+        "confidence": 85
+      },
+      {
+        "word": "decisive",
+        "confidence": 82
+      },
+      {
+        "word": "rejecting",
+        "confidence": 80
+      },
+      {
+        "word": "victorious",
+        "confidence": 78
+      },
+      {
+        "word": "polarizing",
+        "confidence": 75
+      },
+      {
+        "word": "defiant",
+        "confidence": 70
+      },
+      {
+        "word": "turbulent",
+        "confidence": 68
+      }
+    ]
+  }
+}

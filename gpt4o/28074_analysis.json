@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "aspirational",
+        "confidence": 87
+      },
+      {
+        "word": "challenging",
+        "confidence": 83
+      },
+      {
+        "word": "motivating",
+        "confidence": 78
+      },
+      {
+        "word": "ambitious",
+        "confidence": 82
+      },
+      {
+        "word": "realistic",
+        "confidence": 75
+      },
+      {
+        "word": "determined",
+        "confidence": 80
+      }
+    ]
+  }
+}

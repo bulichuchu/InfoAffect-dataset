@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "critical",
+        "confidence": 90
+      },
+      {
+        "word": "frustrated",
+        "confidence": 88
+      },
+      {
+        "word": "decisive",
+        "confidence": 85
+      },
+      {
+        "word": "disappointed",
+        "confidence": 82
+      },
+      {
+        "word": "skeptical",
+        "confidence": 78
+      },
+      {
+        "word": "assertive",
+        "confidence": 70
+      }
+    ]
+  }
+}

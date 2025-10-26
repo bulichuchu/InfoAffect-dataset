@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dedicated",
+        "confidence": 85
+      },
+      {
+        "word": "involved",
+        "confidence": 80
+      },
+      {
+        "word": "supportive",
+        "confidence": 78
+      },
+      {
+        "word": "comparative",
+        "confidence": 75
+      },
+      {
+        "word": "concerned",
+        "confidence": 72
+      },
+      {
+        "word": "competitive",
+        "confidence": 68
+      },
+      {
+        "word": "insightful",
+        "confidence": 65
+      },
+      {
+        "word": "revealing",
+        "confidence": 63
+      }
+    ]
+  }
+}

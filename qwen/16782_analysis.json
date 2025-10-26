@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "nostalgic",
+        "confidence": 85
+      },
+      {
+        "word": "controversial",
+        "confidence": 80
+      },
+      {
+        "word": "hopeful",
+        "confidence": 75
+      },
+      {
+        "word": "polarizing",
+        "confidence": 78
+      },
+      {
+        "word": "resolute",
+        "confidence": 72
+      },
+      {
+        "word": "reflective",
+        "confidence": 70
+      },
+      {
+        "word": "ambitious",
+        "confidence": 68
+      },
+      {
+        "word": "determined",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "resignation",
+        "confidence": 88
+      },
+      {
+        "word": "instability",
+        "confidence": 85
+      },
+      {
+        "word": "uncertainty",
+        "confidence": 82
+      },
+      {
+        "word": "struggle",
+        "confidence": 79
+      },
+      {
+        "word": "impact",
+        "confidence": 74
+      },
+      {
+        "word": "pressure",
+        "confidence": 80
+      }
+    ]
+  }
+}

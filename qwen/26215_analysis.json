@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "practical",
+        "confidence": 90
+      },
+      {
+        "word": "traditional",
+        "confidence": 85
+      },
+      {
+        "word": "neutral",
+        "confidence": 80
+      },
+      {
+        "word": "predictable",
+        "confidence": 75
+      },
+      {
+        "word": "consumer-focused",
+        "confidence": 70
+      },
+      {
+        "word": "unexciting",
+        "confidence": 65
+      },
+      {
+        "word": "realistic",
+        "confidence": 78
+      },
+      {
+        "word": "festive",
+        "confidence": 60
+      }
+    ]
+  }
+}

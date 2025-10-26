@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "overwhelmed",
+        "confidence": 85
+      },
+      {
+        "word": "burdened",
+        "confidence": 80
+      },
+      {
+        "word": "stressed",
+        "confidence": 75
+      },
+      {
+        "word": "relieved",
+        "confidence": 70
+      },
+      {
+        "word": "comparative",
+        "confidence": 65
+      },
+      {
+        "word": "concerned",
+        "confidence": 60
+      },
+      {
+        "word": "surprised",
+        "confidence": 55
+      },
+      {
+        "word": "informative",
+        "confidence": 72
+      }
+    ]
+  }
+}

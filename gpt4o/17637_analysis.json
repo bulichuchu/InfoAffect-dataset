@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "value",
+        "confidence": 90
+      },
+      {
+        "word": "uncertainty",
+        "confidence": 80
+      },
+      {
+        "word": "affordable",
+        "confidence": 85
+      },
+      {
+        "word": "budget",
+        "confidence": 75
+      },
+      {
+        "word": "cheapest",
+        "confidence": 88
+      },
+      {
+        "word": "planning",
+        "confidence": 70
+      }
+    ]
+  }
+}

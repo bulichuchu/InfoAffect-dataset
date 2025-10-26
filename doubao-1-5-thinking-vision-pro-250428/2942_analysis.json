@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "opportunistic",
+        "confidence": 85
+      },
+      {
+        "word": "strategic",
+        "confidence": 82
+      },
+      {
+        "word": "analytical",
+        "confidence": 78
+      },
+      {
+        "word": "potential",
+        "confidence": 75
+      },
+      {
+        "word": "mandatory",
+        "confidence": 72
+      },
+      {
+        "word": "universal",
+        "confidence": 70
+      }
+    ]
+  }
+}

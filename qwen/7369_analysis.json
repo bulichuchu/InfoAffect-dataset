@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 90
+      },
+      {
+        "word": "alarming",
+        "confidence": 85
+      },
+      {
+        "word": "dire",
+        "confidence": 80
+      },
+      {
+        "word": "concerned",
+        "confidence": 75
+      },
+      {
+        "word": "precipice",
+        "confidence": 70
+      },
+      {
+        "word": "extinction",
+        "confidence": 78
+      },
+      {
+        "word": "stark",
+        "confidence": 72
+      },
+      {
+        "word": "worrisome",
+        "confidence": 76
+      }
+    ]
+  }
+}

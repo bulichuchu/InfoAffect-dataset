@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "violence",
+        "confidence": 90
+      },
+      {
+        "word": "peaceful",
+        "confidence": 85
+      },
+      {
+        "word": "terrible",
+        "confidence": 80
+      },
+      {
+        "word": "bloody",
+        "confidence": 78
+      },
+      {
+        "word": "sustained",
+        "confidence": 70
+      },
+      {
+        "word": "impression",
+        "confidence": 65
+      }
+    ]
+  }
+}

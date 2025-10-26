@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disillusioned",
+        "confidence": 90
+      },
+      {
+        "word": "skeptical",
+        "confidence": 85
+      },
+      {
+        "word": "pessimistic",
+        "confidence": 80
+      },
+      {
+        "word": "disenchanted",
+        "confidence": 78
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 70
+      },
+      {
+        "word": "concerned",
+        "confidence": 75
+      },
+      {
+        "word": "discouraged",
+        "confidence": 72
+      },
+      {
+        "word": "reflective",
+        "confidence": 65
+      }
+    ]
+  }
+}

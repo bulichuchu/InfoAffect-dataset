@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frustrated",
+        "confidence": 85
+      },
+      {
+        "word": "divided",
+        "confidence": 80
+      },
+      {
+        "word": "hostile",
+        "confidence": 75
+      },
+      {
+        "word": "indifferent",
+        "confidence": 70
+      },
+      {
+        "word": "polarized",
+        "confidence": 78
+      },
+      {
+        "word": "resentful",
+        "confidence": 65
+      },
+      {
+        "word": "ambivalent",
+        "confidence": 60
+      },
+      {
+        "word": "disenchanted",
+        "confidence": 72
+      }
+    ]
+  }
+}

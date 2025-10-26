@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "critical",
+        "confidence": 90
+      },
+      {
+        "word": "demanding",
+        "confidence": 88
+      },
+      {
+        "word": "decisive",
+        "confidence": 85
+      },
+      {
+        "word": "tense",
+        "confidence": 80
+      },
+      {
+        "word": "confrontational",
+        "confidence": 75
+      },
+      {
+        "word": "assertive",
+        "confidence": 70
+      }
+    ]
+  }
+}

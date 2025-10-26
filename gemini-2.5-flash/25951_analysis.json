@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "hopeful",
+        "confidence": 90
+      },
+      {
+        "word": "curious",
+        "confidence": 88
+      },
+      {
+        "word": "surprised",
+        "confidence": 85
+      },
+      {
+        "word": "anticipatory",
+        "confidence": 82
+      },
+      {
+        "word": "connected",
+        "confidence": 80
+      },
+      {
+        "word": "discovering",
+        "confidence": 78
+      }
+    ]
+  }
+}

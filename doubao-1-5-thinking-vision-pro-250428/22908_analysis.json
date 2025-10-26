@@ -1,0 +1,32 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "alarming",
+          "confidence": 90
+        },
+        {
+          "word": "dire",
+          "confidence": 85
+        },
+        {
+          "word": "shocking",
+          "confidence": 85
+        },
+        {
+          "word": "somber",
+          "confidence": 80
+        },
+        {
+          "word": "distressing",
+          "confidence": 75
+        },
+        {
+          "word": "grave",
+          "confidence": 70
+        }
+      ]
+    }
+  }
+]

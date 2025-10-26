@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "wealth",
+        "confidence": 90
+      },
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "affluent",
+        "confidence": 80
+      },
+      {
+        "word": "dominance",
+        "confidence": 75
+      },
+      {
+        "word": "prosperity",
+        "confidence": 78
+      },
+      {
+        "word": "inequality",
+        "confidence": 70
+      },
+      {
+        "word": "prestige",
+        "confidence": 72
+      },
+      {
+        "word": "notable",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "expectant",
+        "confidence": 85
+      },
+      {
+        "word": "demanding",
+        "confidence": 80
+      },
+      {
+        "word": "confident",
+        "confidence": 75
+      },
+      {
+        "word": "forward-looking",
+        "confidence": 78
+      },
+      {
+        "word": "impatient",
+        "confidence": 72
+      },
+      {
+        "word": "tech-savvy",
+        "confidence": 70
+      },
+      {
+        "word": "empowered",
+        "confidence": 65
+      },
+      {
+        "word": "disruptive",
+        "confidence": 68
+      }
+    ]
+  }
+}

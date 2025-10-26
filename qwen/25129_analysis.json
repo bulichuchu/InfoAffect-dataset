@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dominant",
+        "confidence": 85
+      },
+      {
+        "word": "contrasting",
+        "confidence": 80
+      },
+      {
+        "word": "practical",
+        "confidence": 75
+      },
+      {
+        "word": "evolving",
+        "confidence": 70
+      },
+      {
+        "word": "challenged",
+        "confidence": 65
+      },
+      {
+        "word": "informative",
+        "confidence": 90
+      },
+      {
+        "word": "comparative",
+        "confidence": 78
+      },
+      {
+        "word": "neutral",
+        "confidence": 82
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "compassionate",
+        "confidence": 85
+      },
+      {
+        "word": "welcoming",
+        "confidence": 80
+      },
+      {
+        "word": "overwhelmed",
+        "confidence": 75
+      },
+      {
+        "word": "serious",
+        "confidence": 72
+      },
+      {
+        "word": "urgent",
+        "confidence": 68
+      },
+      {
+        "word": "burdened",
+        "confidence": 65
+      },
+      {
+        "word": "humanitarian",
+        "confidence": 70
+      },
+      {
+        "word": "complex",
+        "confidence": 60
+      }
+    ]
+  }
+}

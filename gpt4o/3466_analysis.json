@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fundamental",
+        "confidence": 90
+      },
+      {
+        "word": "duty",
+        "confidence": 85
+      },
+      {
+        "word": "compulsory",
+        "confidence": 80
+      },
+      {
+        "word": "contrast",
+        "confidence": 75
+      },
+      {
+        "word": "violate",
+        "confidence": 70
+      },
+      {
+        "word": "participation",
+        "confidence": 78
+      },
+      {
+        "word": "freedom",
+        "confidence": 82
+      }
+    ]
+  }
+}

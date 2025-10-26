@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unaffordable",
+        "confidence": 95
+      },
+      {
+        "word": "worryingly",
+        "confidence": 90
+      },
+      {
+        "word": "disparity",
+        "confidence": 85
+      },
+      {
+        "word": "struggling",
+        "confidence": 80
+      },
+      {
+        "word": "difficult",
+        "confidence": 78
+      },
+      {
+        "word": "falling short",
+        "confidence": 82
+      }
+    ]
+  }
+}

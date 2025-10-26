@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "invisible",
+        "confidence": 90
+      },
+      {
+        "word": "zombies",
+        "confidence": 85
+      },
+      {
+        "word": "outdated",
+        "confidence": 80
+      },
+      {
+        "word": "necessity",
+        "confidence": 75
+      },
+      {
+        "word": "ineffective",
+        "confidence": 78
+      }
+    ]
+  }
+}

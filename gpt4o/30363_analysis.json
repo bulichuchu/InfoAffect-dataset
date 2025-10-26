@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "ignored",
+        "confidence": 90
+      },
+      {
+        "word": "oversimplifying",
+        "confidence": 85
+      },
+      {
+        "word": "political",
+        "confidence": 80
+      },
+      {
+        "word": "resilience",
+        "confidence": 78
+      },
+      {
+        "word": "justice",
+        "confidence": 75
+      },
+      {
+        "word": "autonomy",
+        "confidence": 72
+      }
+    ]
+  }
+}

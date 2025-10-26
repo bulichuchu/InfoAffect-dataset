@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "incredible",
+        "confidence": 90
+      },
+      {
+        "word": "triumphant",
+        "confidence": 85
+      },
+      {
+        "word": "astonishing",
+        "confidence": 88
+      },
+      {
+        "word": "inspiring",
+        "confidence": 82
+      },
+      {
+        "word": "legendary",
+        "confidence": 80
+      },
+      {
+        "word": "exceptional",
+        "confidence": 78
+      },
+      {
+        "word": "proud",
+        "confidence": 75
+      },
+      {
+        "word": "admirable",
+        "confidence": 70
+      }
+    ]
+  }
+}

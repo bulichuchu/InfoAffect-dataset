@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "divided",
+        "confidence": 90
+      },
+      {
+        "word": "support",
+        "confidence": 85
+      },
+      {
+        "word": "controversial",
+        "confidence": 80
+      },
+      {
+        "word": "change",
+        "confidence": 75
+      },
+      {
+        "word": "reform",
+        "confidence": 70
+      },
+      {
+        "word": "uncertain",
+        "confidence": 67
+      }
+    ]
+  }
+}

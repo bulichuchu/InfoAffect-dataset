@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 88
+      },
+      {
+        "word": "disproportionate",
+        "confidence": 85
+      },
+      {
+        "word": "chaotic",
+        "confidence": 82
+      },
+      {
+        "word": "uncertain",
+        "confidence": 78
+      },
+      {
+        "word": "disruptive",
+        "confidence": 75
+      },
+      {
+        "word": "targeted",
+        "confidence": 73
+      },
+      {
+        "word": "tense",
+        "confidence": 70
+      },
+      {
+        "word": "strategic",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "celebratory",
+        "confidence": 90
+      },
+      {
+        "word": "reverent",
+        "confidence": 85
+      },
+      {
+        "word": "honoring",
+        "confidence": 88
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 75
+      },
+      {
+        "word": "proud",
+        "confidence": 82
+      },
+      {
+        "word": "legendary",
+        "confidence": 80
+      },
+      {
+        "word": "respectful",
+        "confidence": 86
+      },
+      {
+        "word": "triumphant",
+        "confidence": 78
+      }
+    ]
+  }
+}

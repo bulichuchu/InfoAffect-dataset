@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "appreciative",
+        "confidence": 90
+      },
+      {
+        "word": "supportive",
+        "confidence": 85
+      },
+      {
+        "word": "engaged",
+        "confidence": 80
+      },
+      {
+        "word": "grateful",
+        "confidence": 75
+      },
+      {
+        "word": "optimistic",
+        "confidence": 70
+      },
+      {
+        "word": "empowering",
+        "confidence": 65
+      },
+      {
+        "word": "inclusive",
+        "confidence": 60
+      },
+      {
+        "word": "modern",
+        "confidence": 55
+      }
+    ]
+  }
+}

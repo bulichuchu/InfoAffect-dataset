@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "confrontational",
+        "confidence": 95
+      },
+      {
+        "word": "rebellious",
+        "confidence": 90
+      },
+      {
+        "word": "strategic",
+        "confidence": 88
+      },
+      {
+        "word": "frustrated",
+        "confidence": 85
+      },
+      {
+        "word": "accusatory",
+        "confidence": 80
+      },
+      {
+        "word": "anticipatory",
+        "confidence": 70
+      }
+    ]
+  }
+}

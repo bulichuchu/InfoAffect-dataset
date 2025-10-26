@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fragmented",
+        "confidence": 85
+      },
+      {
+        "word": "competitiveness",
+        "confidence": 80
+      },
+      {
+        "word": "threat",
+        "confidence": 75
+      },
+      {
+        "word": "decline",
+        "confidence": 78
+      },
+      {
+        "word": "options",
+        "confidence": 73
+      },
+      {
+        "word": "choice",
+        "confidence": 70
+      }
+    ]
+  }
+}

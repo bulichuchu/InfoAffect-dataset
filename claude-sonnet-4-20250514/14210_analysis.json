@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "isolating",
+        "confidence": 90
+      },
+      {
+        "word": "stark",
+        "confidence": 88
+      },
+      {
+        "word": "somber",
+        "confidence": 85
+      },
+      {
+        "word": "concerning",
+        "confidence": 82
+      },
+      {
+        "word": "deprived",
+        "confidence": 80
+      },
+      {
+        "word": "oppressive",
+        "confidence": 78
+      },
+      {
+        "word": "contrasting",
+        "confidence": 75
+      },
+      {
+        "word": "restrictive",
+        "confidence": 72
+      }
+    ]
+  }
+}

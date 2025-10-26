@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "cooperative",
+        "confidence": 90
+      },
+      {
+        "word": "successful",
+        "confidence": 85
+      },
+      {
+        "word": "collaborative",
+        "confidence": 95
+      },
+      {
+        "word": "accomplished",
+        "confidence": 80
+      },
+      {
+        "word": "harmonious",
+        "confidence": 75
+      }
+    ]
+  }
+}

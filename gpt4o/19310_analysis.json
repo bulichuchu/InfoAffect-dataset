@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disappointment",
+        "confidence": 85
+      },
+      {
+        "word": "underwhelming",
+        "confidence": 80
+      },
+      {
+        "word": "frustration",
+        "confidence": 78
+      },
+      {
+        "word": "lagging",
+        "confidence": 75
+      },
+      {
+        "word": "complacency",
+        "confidence": 72
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surveillance",
+        "confidence": 90
+      },
+      {
+        "word": "intrusive",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 80
+      },
+      {
+        "word": "monitored",
+        "confidence": 78
+      },
+      {
+        "word": "watched",
+        "confidence": 75
+      },
+      {
+        "word": "tracked",
+        "confidence": 85
+      },
+      {
+        "word": "aware",
+        "confidence": 80
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dominant",
+        "confidence": 85
+      },
+      {
+        "word": "inevitable",
+        "confidence": 80
+      },
+      {
+        "word": "transformative",
+        "confidence": 75
+      },
+      {
+        "word": "resistant",
+        "confidence": 70
+      },
+      {
+        "word": "conceding",
+        "confidence": 65
+      },
+      {
+        "word": "powerful",
+        "confidence": 72
+      },
+      {
+        "word": "market-driven",
+        "confidence": 78
+      },
+      {
+        "word": "disruptive",
+        "confidence": 68
+      }
+    ]
+  }
+}

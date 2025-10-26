@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "shocked",
+        "confidence": 90
+      },
+      {
+        "word": "crashed",
+        "confidence": 88
+      },
+      {
+        "word": "severe",
+        "confidence": 85
+      },
+      {
+        "word": "crippling",
+        "confidence": 82
+      },
+      {
+        "word": "alarming",
+        "confidence": 80
+      },
+      {
+        "word": "isolated",
+        "confidence": 78
+      },
+      {
+        "word": "heavy",
+        "confidence": 75
+      },
+      {
+        "word": "urgent",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "alarming",
+        "confidence": 82
+      },
+      {
+        "word": "dramatic",
+        "confidence": 78
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      },
+      {
+        "word": "distressing",
+        "confidence": 73
+      },
+      {
+        "word": "volatile",
+        "confidence": 70
+      },
+      {
+        "word": "economicallystrained",
+        "confidence": 68
+      },
+      {
+        "word": "somber",
+        "confidence": 65
+      }
+    ]
+  }
+}

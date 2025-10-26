@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "criticism",
+        "confidence": 90
+      },
+      {
+        "word": "regret",
+        "confidence": 85
+      },
+      {
+        "word": "withdrawal",
+        "confidence": 80
+      },
+      {
+        "word": "mishandling",
+        "confidence": 75
+      },
+      {
+        "word": "partnership",
+        "confidence": 70
+      },
+      {
+        "word": "independence",
+        "confidence": 65
+      }
+    ]
+  }
+}

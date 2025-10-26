@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "shocking",
+        "confidence": 90
+      },
+      {
+        "word": "outrageous",
+        "confidence": 85
+      },
+      {
+        "word": "luxurious",
+        "confidence": 80
+      },
+      {
+        "word": "intimidating",
+        "confidence": 75
+      },
+      {
+        "word": "excessive",
+        "confidence": 82
+      },
+      {
+        "word": "impressive",
+        "confidence": 70
+      },
+      {
+        "word": "ridiculous",
+        "confidence": 78
+      },
+      {
+        "word": "exclusive",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "uproar",
+        "confidence": 90
+      },
+      {
+        "word": "ethical",
+        "confidence": 85
+      },
+      {
+        "word": "traditional",
+        "confidence": 80
+      },
+      {
+        "word": "significant",
+        "confidence": 75
+      },
+      {
+        "word": "disputes",
+        "confidence": 78
+      },
+      {
+        "word": "protected",
+        "confidence": 82
+      },
+      {
+        "word": "cultural",
+        "confidence": 77
+      },
+      {
+        "word": "considerations",
+        "confidence": 70
+      }
+    ]
+  }
+}

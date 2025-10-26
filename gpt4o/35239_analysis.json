@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concern",
+        "confidence": 90
+      },
+      {
+        "word": "threatening",
+        "confidence": 85
+      },
+      {
+        "word": "impactful",
+        "confidence": 78
+      },
+      {
+        "word": "ecological",
+        "confidence": 80
+      },
+      {
+        "word": "responsibility",
+        "confidence": 82
+      },
+      {
+        "word": "devastating",
+        "confidence": 87
+      },
+      {
+        "word": "charitable",
+        "confidence": 73
+      },
+      {
+        "word": "uncertain",
+        "confidence": 77
+      }
+    ]
+  }
+}

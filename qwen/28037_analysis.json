@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surging",
+        "confidence": 85
+      },
+      {
+        "word": "meteoric",
+        "confidence": 90
+      },
+      {
+        "word": "pressured",
+        "confidence": 80
+      },
+      {
+        "word": "aggressive",
+        "confidence": 75
+      },
+      {
+        "word": "critical",
+        "confidence": 78
+      },
+      {
+        "word": "volatile",
+        "confidence": 72
+      },
+      {
+        "word": "concerned",
+        "confidence": 68
+      },
+      {
+        "word": "disruptive",
+        "confidence": 70
+      }
+    ]
+  }
+}

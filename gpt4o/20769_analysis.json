@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerning",
+        "confidence": 88
+      },
+      {
+        "word": "disconnected",
+        "confidence": 85
+      },
+      {
+        "word": "underreported",
+        "confidence": 80
+      },
+      {
+        "word": "frustrating",
+        "confidence": 77
+      },
+      {
+        "word": "alarming",
+        "confidence": 83
+      }
+    ]
+  }
+}

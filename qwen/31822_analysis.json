@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "aware",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 80
+      },
+      {
+        "word": "hopeful",
+        "confidence": 75
+      },
+      {
+        "word": "informative",
+        "confidence": 90
+      },
+      {
+        "word": "analytical",
+        "confidence": 82
+      },
+      {
+        "word": "surprised",
+        "confidence": 65
+      },
+      {
+        "word": "encouraging",
+        "confidence": 70
+      },
+      {
+        "word": "regional",
+        "confidence": 60
+      }
+    ]
+  }
+}

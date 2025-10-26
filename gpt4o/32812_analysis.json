@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "plagued",
+        "confidence": 90
+      },
+      {
+        "word": "tarnished",
+        "confidence": 85
+      },
+      {
+        "word": "emergency",
+        "confidence": 80
+      },
+      {
+        "word": "loss",
+        "confidence": 75
+      },
+      {
+        "word": "deadly",
+        "confidence": 82
+      },
+      {
+        "word": "failure",
+        "confidence": 78
+      },
+      {
+        "word": "unexpected",
+        "confidence": 70
+      }
+    ]
+  }
+}

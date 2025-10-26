@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "hostile",
+        "confidence": 90
+      },
+      {
+        "word": "resistant",
+        "confidence": 85
+      },
+      {
+        "word": "fearful",
+        "confidence": 82
+      },
+      {
+        "word": "accusatory",
+        "confidence": 80
+      },
+      {
+        "word": "suspicious",
+        "confidence": 78
+      },
+      {
+        "word": "tense",
+        "confidence": 75
+      }
+    ]
+  }
+}

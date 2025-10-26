@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "festive",
+        "confidence": 90
+      },
+      {
+        "word": "patriotic",
+        "confidence": 85
+      },
+      {
+        "word": "celebratory",
+        "confidence": 80
+      },
+      {
+        "word": "indulgent",
+        "confidence": 75
+      },
+      {
+        "word": "excited",
+        "confidence": 70
+      },
+      {
+        "word": "traditional",
+        "confidence": 65
+      },
+      {
+        "word": "abundant",
+        "confidence": 60
+      },
+      {
+        "word": "joyful",
+        "confidence": 55
+      }
+    ]
+  }
+}

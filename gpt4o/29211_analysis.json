@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "welcoming",
+        "confidence": 90
+      },
+      {
+        "word": "honored",
+        "confidence": 85
+      },
+      {
+        "word": "diverse",
+        "confidence": 80
+      },
+      {
+        "word": "celebratory",
+        "confidence": 75
+      },
+      {
+        "word": "recognized",
+        "confidence": 78
+      },
+      {
+        "word": "acclaimed",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerning",
+        "confidence": 88
+      },
+      {
+        "word": "alarming",
+        "confidence": 85
+      },
+      {
+        "word": "hopeful",
+        "confidence": 72
+      },
+      {
+        "word": "worrisome",
+        "confidence": 80
+      },
+      {
+        "word": "disparities",
+        "confidence": 75
+      },
+      {
+        "word": "urgent",
+        "confidence": 78
+      },
+      {
+        "word": "mixed",
+        "confidence": 70
+      },
+      {
+        "word": "serious",
+        "confidence": 76
+      }
+    ]
+  }
+}

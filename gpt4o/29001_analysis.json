@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "practical",
+        "confidence": 90
+      },
+      {
+        "word": "desired",
+        "confidence": 85
+      },
+      {
+        "word": "preferred",
+        "confidence": 82
+      },
+      {
+        "word": "unromantic",
+        "confidence": 78
+      },
+      {
+        "word": "favorable",
+        "confidence": 80
+      },
+      {
+        "word": "distinct",
+        "confidence": 75
+      }
+    ]
+  }
+}

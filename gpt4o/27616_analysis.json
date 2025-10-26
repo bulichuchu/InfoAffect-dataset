@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "volatile",
+        "confidence": 90
+      },
+      {
+        "word": "uncertainty",
+        "confidence": 85
+      },
+      {
+        "word": "rebound",
+        "confidence": 80
+      },
+      {
+        "word": "relatively",
+        "confidence": 75
+      },
+      {
+        "word": "harmless",
+        "confidence": 70
+      },
+      {
+        "word": "hopeful",
+        "confidence": 65
+      }
+    ]
+  }
+}

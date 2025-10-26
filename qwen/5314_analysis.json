@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "divided",
+        "confidence": 90
+      },
+      {
+        "word": "reluctant",
+        "confidence": 85
+      },
+      {
+        "word": "uncertain",
+        "confidence": 80
+      },
+      {
+        "word": "tense",
+        "confidence": 75
+      },
+      {
+        "word": "skeptical",
+        "confidence": 70
+      },
+      {
+        "word": "ambiguous",
+        "confidence": 65
+      },
+      {
+        "word": "strained",
+        "confidence": 60
+      },
+      {
+        "word": "resigned",
+        "confidence": 55
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "habit",
+        "confidence": 90
+      },
+      {
+        "word": "convenience",
+        "confidence": 85
+      },
+      {
+        "word": "contentment",
+        "confidence": 80
+      },
+      {
+        "word": "resistant",
+        "confidence": 75
+      },
+      {
+        "word": "satisfaction",
+        "confidence": 72
+      }
+    ]
+  }
+}

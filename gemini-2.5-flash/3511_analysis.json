@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "confirmatory",
+        "confidence": 90
+      },
+      {
+        "word": "validating",
+        "confidence": 88
+      },
+      {
+        "word": "expected",
+        "confidence": 85
+      },
+      {
+        "word": "acknowledging",
+        "confidence": 80
+      },
+      {
+        "word": "objective",
+        "confidence": 75
+      },
+      {
+        "word": "influential",
+        "confidence": 70
+      }
+    ]
+  }
+}

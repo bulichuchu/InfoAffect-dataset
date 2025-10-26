@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "stalled",
+        "confidence": 80
+      },
+      {
+        "word": "concern",
+        "confidence": 75
+      },
+      {
+        "word": "solace",
+        "confidence": 65
+      },
+      {
+        "word": "decline",
+        "confidence": 85
+      },
+      {
+        "word": "exodus",
+        "confidence": 78
+      },
+      {
+        "word": "foresightedly",
+        "confidence": 70
+      }
+    ]
+  }
+}

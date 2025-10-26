@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "decline",
+        "confidence": 90
+      },
+      {
+        "word": "impact",
+        "confidence": 85
+      },
+      {
+        "word": "concern",
+        "confidence": 82
+      },
+      {
+        "word": "harshest",
+        "confidence": 80
+      },
+      {
+        "word": "dependence",
+        "confidence": 78
+      },
+      {
+        "word": "consequences",
+        "confidence": 75
+      },
+      {
+        "word": "projected",
+        "confidence": 70
+      }
+    ]
+  }
+}

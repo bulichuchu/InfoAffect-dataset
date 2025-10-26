@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "tense",
+        "confidence": 95
+      },
+      {
+        "word": "divisive",
+        "confidence": 90
+      },
+      {
+        "word": "stressful",
+        "confidence": 88
+      },
+      {
+        "word": "cynical",
+        "confidence": 85
+      },
+      {
+        "word": "hostile",
+        "confidence": 82
+      },
+      {
+        "word": "uncomfortable",
+        "confidence": 78
+      },
+      {
+        "word": "negative",
+        "confidence": 75
+      },
+      {
+        "word": "discouraging",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "authoritative",
+        "confidence": 85
+      },
+      {
+        "word": "comparative",
+        "confidence": 80
+      },
+      {
+        "word": "analytical",
+        "confidence": 78
+      },
+      {
+        "word": "historical",
+        "confidence": 75
+      },
+      {
+        "word": "contrasting",
+        "confidence": 72
+      },
+      {
+        "word": "informative",
+        "confidence": 70
+      },
+      {
+        "word": "political",
+        "confidence": 68
+      }
+    ]
+  }
+}

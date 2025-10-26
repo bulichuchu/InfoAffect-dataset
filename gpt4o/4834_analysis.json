@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "celebrated",
+        "confidence": 90
+      },
+      {
+        "word": "admired",
+        "confidence": 85
+      },
+      {
+        "word": "disliked",
+        "confidence": 80
+      },
+      {
+        "word": "turbulent",
+        "confidence": 75
+      },
+      {
+        "word": "surprise",
+        "confidence": 70
+      }
+    ]
+  }
+}

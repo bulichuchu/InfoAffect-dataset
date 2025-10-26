@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "widespread",
+        "confidence": 85
+      },
+      {
+        "word": "representative",
+        "confidence": 80
+      },
+      {
+        "word": "nuanced",
+        "confidence": 75
+      },
+      {
+        "word": "comprehensive",
+        "confidence": 70
+      },
+      {
+        "word": "excluded",
+        "confidence": 65
+      },
+      {
+        "word": "achieved",
+        "confidence": 75
+      }
+    ]
+  }
+}

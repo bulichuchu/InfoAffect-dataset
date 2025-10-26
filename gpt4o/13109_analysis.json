@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "traditional",
+        "confidence": 88
+      },
+      {
+        "word": "stereotypical",
+        "confidence": 85
+      },
+      {
+        "word": "divergent",
+        "confidence": 78
+      },
+      {
+        "word": "gendered",
+        "confidence": 82
+      },
+      {
+        "word": "customary",
+        "confidence": 75
+      },
+      {
+        "word": "varying",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "resistant",
+        "confidence": 85
+      },
+      {
+        "word": "traditional",
+        "confidence": 80
+      },
+      {
+        "word": "reluctant",
+        "confidence": 75
+      },
+      {
+        "word": "stubborn",
+        "confidence": 70
+      },
+      {
+        "word": "unmoved",
+        "confidence": 65
+      },
+      {
+        "word": "comfortable",
+        "confidence": 60
+      },
+      {
+        "word": "skeptical",
+        "confidence": 72
+      },
+      {
+        "word": "consistent",
+        "confidence": 68
+      }
+    ]
+  }
+}

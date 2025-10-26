@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "informative",
+        "confidence": 95
+      },
+      {
+        "word": "analytical",
+        "confidence": 90
+      },
+      {
+        "word": "progressive",
+        "confidence": 85
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 80
+      },
+      {
+        "word": "discerning",
+        "confidence": 75
+      },
+      {
+        "word": "sobering",
+        "confidence": 70
+      }
+    ]
+  }
+}

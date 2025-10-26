@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "threatening",
+        "confidence": 90
+      },
+      {
+        "word": "confrontational",
+        "confidence": 88
+      },
+      {
+        "word": "tense",
+        "confidence": 85
+      },
+      {
+        "word": "aggressive",
+        "confidence": 83
+      },
+      {
+        "word": "frustrated",
+        "confidence": 78
+      },
+      {
+        "word": "defiant",
+        "confidence": 75
+      },
+      {
+        "word": "opportunistic",
+        "confidence": 72
+      },
+      {
+        "word": "pressured",
+        "confidence": 70
+      }
+    ]
+  }
+}

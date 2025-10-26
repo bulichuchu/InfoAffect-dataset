@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "challenging",
+        "confidence": 85
+      },
+      {
+        "word": "underdog",
+        "confidence": 80
+      },
+      {
+        "word": "ambitious",
+        "confidence": 75
+      },
+      {
+        "word": "determined",
+        "confidence": 70
+      },
+      {
+        "word": "hopeful",
+        "confidence": 65
+      },
+      {
+        "word": "competitive",
+        "confidence": 72
+      },
+      {
+        "word": "realistic",
+        "confidence": 68
+      },
+      {
+        "word": "improving",
+        "confidence": 78
+      }
+    ]
+  }
+}

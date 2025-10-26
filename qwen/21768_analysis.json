@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "nostalgic",
+        "confidence": 90
+      },
+      {
+        "word": "celebratory",
+        "confidence": 85
+      },
+      {
+        "word": "influential",
+        "confidence": 80
+      },
+      {
+        "word": "iconic",
+        "confidence": 78
+      },
+      {
+        "word": "groundbreaking",
+        "confidence": 75
+      },
+      {
+        "word": "enduring",
+        "confidence": 72
+      },
+      {
+        "word": "joyful",
+        "confidence": 68
+      },
+      {
+        "word": "popular",
+        "confidence": 70
+      }
+    ]
+  }
+}

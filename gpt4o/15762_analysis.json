@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "critical",
+        "confidence": 88
+      },
+      {
+        "word": "dramatic",
+        "confidence": 82
+      },
+      {
+        "word": "confidence",
+        "confidence": 80
+      },
+      {
+        "word": "notable",
+        "confidence": 75
+      },
+      {
+        "word": "nervous",
+        "confidence": 72
+      },
+      {
+        "word": "helpful",
+        "confidence": 68
+      },
+      {
+        "word": "self-assured",
+        "confidence": 65
+      }
+    ]
+  }
+}

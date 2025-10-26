@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "partisan",
+        "confidence": 95
+      },
+      {
+        "word": "divisive",
+        "confidence": 90
+      },
+      {
+        "word": "cynical",
+        "confidence": 88
+      },
+      {
+        "word": "revealing",
+        "confidence": 85
+      },
+      {
+        "word": "biased",
+        "confidence": 80
+      },
+      {
+        "word": "disheartening",
+        "confidence": 75
+      }
+    ]
+  }
+}

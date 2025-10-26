@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "somber",
+        "confidence": 90
+      },
+      {
+        "word": "criticism",
+        "confidence": 85
+      },
+      {
+        "word": "marginal",
+        "confidence": 80
+      },
+      {
+        "word": "fraud",
+        "confidence": 78
+      },
+      {
+        "word": "resilience",
+        "confidence": 72
+      },
+      {
+        "word": "allegation",
+        "confidence": 68
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dramatic",
+        "confidence": 85
+      },
+      {
+        "word": "nosedive",
+        "confidence": 80
+      },
+      {
+        "word": "escalating",
+        "confidence": 82
+      },
+      {
+        "word": "protective",
+        "confidence": 75
+      },
+      {
+        "word": "strategic",
+        "confidence": 70
+      },
+      {
+        "word": "cautious",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "prioritization",
+        "confidence": 90
+      },
+      {
+        "word": "considerate",
+        "confidence": 85
+      },
+      {
+        "word": "sensitive",
+        "confidence": 78
+      },
+      {
+        "word": "practical",
+        "confidence": 82
+      },
+      {
+        "word": "balanced",
+        "confidence": 80
+      },
+      {
+        "word": "varied",
+        "confidence": 75
+      }
+    ]
+  }
+}

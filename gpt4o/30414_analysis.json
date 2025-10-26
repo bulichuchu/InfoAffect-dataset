@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "empathy",
+        "confidence": 90
+      },
+      {
+        "word": "efficiency",
+        "confidence": 85
+      },
+      {
+        "word": "romantic",
+        "confidence": 80
+      },
+      {
+        "word": "flirting",
+        "confidence": 75
+      },
+      {
+        "word": "optimism",
+        "confidence": 70
+      },
+      {
+        "word": "connection",
+        "confidence": 65
+      },
+      {
+        "word": "uncertainty",
+        "confidence": 60
+      }
+    ]
+  }
+}

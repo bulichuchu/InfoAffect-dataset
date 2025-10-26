@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "immense",
+        "confidence": 95
+      },
+      {
+        "word": "catastrophic",
+        "confidence": 88
+      },
+      {
+        "word": "awe-inspiring",
+        "confidence": 85
+      },
+      {
+        "word": "serious",
+        "confidence": 90
+      },
+      {
+        "word": "concerning",
+        "confidence": 78
+      },
+      {
+        "word": "profound",
+        "confidence": 70
+      }
+    ]
+  }
+}

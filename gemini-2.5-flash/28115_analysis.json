@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "relief",
+        "confidence": 95
+      },
+      {
+        "word": "frustration",
+        "confidence": 90
+      },
+      {
+        "word": "popularity",
+        "confidence": 88
+      },
+      {
+        "word": "mixed",
+        "confidence": 85
+      },
+      {
+        "word": "challenging",
+        "confidence": 75
+      },
+      {
+        "word": "beneficial",
+        "confidence": 70
+      }
+    ]
+  }
+}

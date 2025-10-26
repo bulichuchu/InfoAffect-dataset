@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "critical",
+        "confidence": 90
+      },
+      {
+        "word": "booming",
+        "confidence": 85
+      },
+      {
+        "word": "fraught",
+        "confidence": 80
+      },
+      {
+        "word": "resistance",
+        "confidence": 78
+      },
+      {
+        "word": "valuable",
+        "confidence": 75
+      },
+      {
+        "word": "popular",
+        "confidence": 70
+      },
+      {
+        "word": "influx",
+        "confidence": 68
+      }
+    ]
+  }
+}

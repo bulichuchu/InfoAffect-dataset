@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "gratitude",
+        "confidence": 95
+      },
+      {
+        "word": "sacrifice",
+        "confidence": 90
+      },
+      {
+        "word": "reflection",
+        "confidence": 85
+      },
+      {
+        "word": "remembrance",
+        "confidence": 80
+      },
+      {
+        "word": "heroic",
+        "confidence": 78
+      },
+      {
+        "word": "uncertainty",
+        "confidence": 70
+      }
+    ]
+  }
+}

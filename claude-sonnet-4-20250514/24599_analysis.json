@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "busy",
+        "confidence": 95
+      },
+      {
+        "word": "bustling",
+        "confidence": 88
+      },
+      {
+        "word": "overwhelming",
+        "confidence": 82
+      },
+      {
+        "word": "energetic",
+        "confidence": 78
+      },
+      {
+        "word": "optimistic",
+        "confidence": 75
+      },
+      {
+        "word": "resilient",
+        "confidence": 72
+      },
+      {
+        "word": "hectic",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "supportive",
+        "confidence": 85
+      },
+      {
+        "word": "determined",
+        "confidence": 80
+      },
+      {
+        "word": "collaborative",
+        "confidence": 78
+      },
+      {
+        "word": "strategic",
+        "confidence": 75
+      },
+      {
+        "word": "resolute",
+        "confidence": 72
+      },
+      {
+        "word": "focused",
+        "confidence": 70
+      }
+    ]
+  }
+}

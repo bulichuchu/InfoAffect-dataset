@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disinterested",
+        "confidence": 95
+      },
+      {
+        "word": "apathetic",
+        "confidence": 90
+      },
+      {
+        "word": "indifferent",
+        "confidence": 88
+      },
+      {
+        "word": "unconcerned",
+        "confidence": 85
+      },
+      {
+        "word": "enthusiastic",
+        "confidence": 70
+      },
+      {
+        "word": "tragic",
+        "confidence": 60
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "impressive",
+        "confidence": 85
+      },
+      {
+        "word": "remarkable",
+        "confidence": 80
+      },
+      {
+        "word": "disproportionate",
+        "confidence": 75
+      },
+      {
+        "word": "elite",
+        "confidence": 70
+      },
+      {
+        "word": "wealthy",
+        "confidence": 65
+      },
+      {
+        "word": "competitive",
+        "confidence": 60
+      },
+      {
+        "word": "aspirational",
+        "confidence": 55
+      },
+      {
+        "word": "concerning",
+        "confidence": 50
+      }
+    ]
+  }
+}

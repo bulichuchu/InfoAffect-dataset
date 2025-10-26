@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "severe",
+        "confidence": 90
+      },
+      {
+        "word": "hopeful",
+        "confidence": 85
+      },
+      {
+        "word": "challenging",
+        "confidence": 80
+      },
+      {
+        "word": "struggling",
+        "confidence": 78
+      },
+      {
+        "word": "relief",
+        "confidence": 75
+      },
+      {
+        "word": "shock",
+        "confidence": 72
+      },
+      {
+        "word": "austerity",
+        "confidence": 70
+      }
+    ]
+  }
+}

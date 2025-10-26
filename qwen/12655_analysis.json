@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "relieved",
+        "confidence": 85
+      },
+      {
+        "word": "empowered",
+        "confidence": 80
+      },
+      {
+        "word": "satisfied",
+        "confidence": 75
+      },
+      {
+        "word": "practical",
+        "confidence": 70
+      },
+      {
+        "word": "hopeful",
+        "confidence": 65
+      },
+      {
+        "word": "cautious",
+        "confidence": 60
+      },
+      {
+        "word": "enticing",
+        "confidence": 72
+      },
+      {
+        "word": "cost-conscious",
+        "confidence": 78
+      }
+    ]
+  }
+}

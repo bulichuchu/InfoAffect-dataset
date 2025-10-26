@@ -1,0 +1,28 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "surge",
+          "confidence": 90
+        },
+        {
+          "word": "growth",
+          "confidence": 85
+        },
+        {
+          "word": "increasing",
+          "confidence": 80
+        },
+        {
+          "word": "boom",
+          "confidence": 75
+        },
+        {
+          "word": "forecast",
+          "confidence": 70
+        }
+      ]
+    }
+  }
+]

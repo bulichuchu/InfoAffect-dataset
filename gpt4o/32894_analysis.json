@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transformative",
+        "confidence": 85
+      },
+      {
+        "word": "historic",
+        "confidence": 80
+      },
+      {
+        "word": "peaceful",
+        "confidence": 75
+      },
+      {
+        "word": "fragmented",
+        "confidence": 70
+      },
+      {
+        "word": "conflicted",
+        "confidence": 65
+      },
+      {
+        "word": "emergence",
+        "confidence": 60
+      }
+    ]
+  }
+}

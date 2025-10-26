@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "enthusiastic",
+        "confidence": 85
+      },
+      {
+        "word": "proud",
+        "confidence": 80
+      },
+      {
+        "word": "loyal",
+        "confidence": 78
+      },
+      {
+        "word": "supportive",
+        "confidence": 75
+      },
+      {
+        "word": "engaged",
+        "confidence": 72
+      },
+      {
+        "word": "passionate",
+        "confidence": 82
+      },
+      {
+        "word": "communal",
+        "confidence": 68
+      },
+      {
+        "word": "celebratory",
+        "confidence": 65
+      }
+    ]
+  }
+}

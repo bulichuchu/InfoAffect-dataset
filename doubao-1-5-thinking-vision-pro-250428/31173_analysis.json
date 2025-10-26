@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "informative",
+        "confidence": 85
+      },
+      {
+        "word": "proactive",
+        "confidence": 80
+      },
+      {
+        "word": "sustainable",
+        "confidence": 75
+      },
+      {
+        "word": "analytical",
+        "confidence": 75
+      },
+      {
+        "word": "collaborative",
+        "confidence": 70
+      },
+      {
+        "word": "forward - looking",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "somber",
+        "confidence": 85
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 78
+      },
+      {
+        "word": "hopeful",
+        "confidence": 72
+      },
+      {
+        "word": "reflective",
+        "confidence": 80
+      },
+      {
+        "word": "progressive",
+        "confidence": 68
+      },
+      {
+        "word": "transitional",
+        "confidence": 75
+      },
+      {
+        "word": "commemorative",
+        "confidence": 70
+      },
+      {
+        "word": "informative",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "drastic",
+          "confidence": 90
+        },
+        {
+          "word": "underrepresented",
+          "confidence": 85
+        },
+        {
+          "word": "stark",
+          "confidence": 80
+        },
+        {
+          "word": "concerning",
+          "confidence": 75
+        },
+        {
+          "word": "alarming",
+          "confidence": 70
+        },
+        {
+          "word": "unequal",
+          "confidence": 65
+        }
+      ]
+    }
+  }
+]

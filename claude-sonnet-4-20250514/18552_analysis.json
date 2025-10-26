@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "turbulent",
+        "confidence": 90
+      },
+      {
+        "word": "discontent",
+        "confidence": 88
+      },
+      {
+        "word": "uncertain",
+        "confidence": 85
+      },
+      {
+        "word": "hopeful",
+        "confidence": 78
+      },
+      {
+        "word": "tense",
+        "confidence": 82
+      },
+      {
+        "word": "anticipatory",
+        "confidence": 75
+      },
+      {
+        "word": "revolutionary",
+        "confidence": 80
+      },
+      {
+        "word": "restless",
+        "confidence": 83
+      }
+    ]
+  }
+}

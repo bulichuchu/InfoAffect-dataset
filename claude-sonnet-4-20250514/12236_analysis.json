@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "invasive",
+        "confidence": 88
+      },
+      {
+        "word": "unsettling",
+        "confidence": 85
+      },
+      {
+        "word": "manipulative",
+        "confidence": 82
+      },
+      {
+        "word": "concerning",
+        "confidence": 80
+      },
+      {
+        "word": "vulnerable",
+        "confidence": 78
+      },
+      {
+        "word": "cautionary",
+        "confidence": 75
+      },
+      {
+        "word": "eye-opening",
+        "confidence": 72
+      },
+      {
+        "word": "resigned",
+        "confidence": 68
+      }
+    ]
+  }
+}

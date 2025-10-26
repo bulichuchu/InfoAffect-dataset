@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "preparedness",
+        "confidence": 90
+      },
+      {
+        "word": "mitigation",
+        "confidence": 85
+      },
+      {
+        "word": "aware",
+        "confidence": 80
+      },
+      {
+        "word": "unprepared",
+        "confidence": 75
+      },
+      {
+        "word": "rescue",
+        "confidence": 70
+      },
+      {
+        "word": "improvement",
+        "confidence": 78
+      }
+    ]
+  }
+}

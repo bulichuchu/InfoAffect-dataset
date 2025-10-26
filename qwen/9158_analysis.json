@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "defensive",
+        "confidence": 85
+      },
+      {
+        "word": "declining",
+        "confidence": 90
+      },
+      {
+        "word": "collapse",
+        "confidence": 78
+      },
+      {
+        "word": "devastating",
+        "confidence": 75
+      },
+      {
+        "word": "potent",
+        "confidence": 70
+      },
+      {
+        "word": "dramatic",
+        "confidence": 82
+      },
+      {
+        "word": "significant",
+        "confidence": 77
+      },
+      {
+        "word": "alarming",
+        "confidence": 65
+      }
+    ]
+  }
+}

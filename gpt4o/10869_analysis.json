@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surprising",
+        "confidence": 90
+      },
+      {
+        "word": "threatening",
+        "confidence": 85
+      },
+      {
+        "word": "unveiling",
+        "confidence": 80
+      },
+      {
+        "word": "revelation",
+        "confidence": 78
+      },
+      {
+        "word": "vulnerable",
+        "confidence": 75
+      },
+      {
+        "word": "striking",
+        "confidence": 72
+      }
+    ]
+  }
+}

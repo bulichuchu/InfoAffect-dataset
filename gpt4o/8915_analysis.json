@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "tension",
+        "confidence": 88
+      },
+      {
+        "word": "warning",
+        "confidence": 85
+      },
+      {
+        "word": "catastrophic",
+        "confidence": 90
+      },
+      {
+        "word": "ready",
+        "confidence": 78
+      },
+      {
+        "word": "ally",
+        "confidence": 70
+      },
+      {
+        "word": "react",
+        "confidence": 80
+      }
+    ]
+  }
+}

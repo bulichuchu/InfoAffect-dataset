@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "uncertain",
+        "confidence": 90
+      },
+      {
+        "word": "pessimistic",
+        "confidence": 85
+      },
+      {
+        "word": "cautious",
+        "confidence": 82
+      },
+      {
+        "word": "concerned",
+        "confidence": 80
+      },
+      {
+        "word": "challenging",
+        "confidence": 78
+      },
+      {
+        "word": "volatile",
+        "confidence": 75
+      },
+      {
+        "word": "adaptable",
+        "confidence": 65
+      }
+    ]
+  }
+}

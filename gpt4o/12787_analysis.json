@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "threatening",
+        "confidence": 90
+      },
+      {
+        "word": "powerful",
+        "confidence": 85
+      },
+      {
+        "word": "formidable",
+        "confidence": 80
+      },
+      {
+        "word": "escalation",
+        "confidence": 75
+      },
+      {
+        "word": "deterrent",
+        "confidence": 70
+      }
+    ]
+  }
+}

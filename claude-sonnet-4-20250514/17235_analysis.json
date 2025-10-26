@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "heroic",
+        "confidence": 90
+      },
+      {
+        "word": "inspiring",
+        "confidence": 85
+      },
+      {
+        "word": "adventurous",
+        "confidence": 82
+      },
+      {
+        "word": "triumphant",
+        "confidence": 78
+      },
+      {
+        "word": "perilous",
+        "confidence": 75
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 70
+      },
+      {
+        "word": "resilient",
+        "confidence": 68
+      },
+      {
+        "word": "determined",
+        "confidence": 65
+      }
+    ]
+  }
+}

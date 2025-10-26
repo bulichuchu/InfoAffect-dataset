@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "divisive",
+        "confidence": 85
+      },
+      {
+        "word": "controversial",
+        "confidence": 80
+      },
+      {
+        "word": "concerned",
+        "confidence": 75
+      },
+      {
+        "word": "polarized",
+        "confidence": 78
+      },
+      {
+        "word": "traditional",
+        "confidence": 72
+      },
+      {
+        "word": "progressive",
+        "confidence": 68
+      },
+      {
+        "word": "disheartening",
+        "confidence": 65
+      },
+      {
+        "word": "hopeful",
+        "confidence": 60
+      }
+    ]
+  }
+}

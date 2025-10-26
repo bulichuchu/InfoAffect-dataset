@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "supportive",
+        "confidence": 85
+      },
+      {
+        "word": "unified",
+        "confidence": 80
+      },
+      {
+        "word": "reassuring",
+        "confidence": 75
+      },
+      {
+        "word": "bipartisan",
+        "confidence": 70
+      },
+      {
+        "word": "confident",
+        "confidence": 65
+      },
+      {
+        "word": "measured",
+        "confidence": 60
+      },
+      {
+        "word": "responsible",
+        "confidence": 72
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 68
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "frenzy",
+          "confidence": 90
+        },
+        {
+          "word": "eagerness",
+          "confidence": 85
+        },
+        {
+          "word": "excitement",
+          "confidence": 80
+        },
+        {
+          "word": "anticipation",
+          "confidence": 75
+        },
+        {
+          "word": "optimism",
+          "confidence": 70
+        }
+      ]
+    }
+  }
+]

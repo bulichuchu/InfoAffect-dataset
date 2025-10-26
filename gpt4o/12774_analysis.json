@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "underdog",
+        "confidence": 90
+      },
+      {
+        "word": "hopeful",
+        "confidence": 85
+      },
+      {
+        "word": "anticipation",
+        "confidence": 80
+      },
+      {
+        "word": "supportive",
+        "confidence": 75
+      },
+      {
+        "word": "exciting",
+        "confidence": 70
+      },
+      {
+        "word": "competitive",
+        "confidence": 65
+      }
+    ]
+  }
+}

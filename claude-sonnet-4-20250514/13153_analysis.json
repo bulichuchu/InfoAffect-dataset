@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mysterious",
+        "confidence": 88
+      },
+      {
+        "word": "exclusive",
+        "confidence": 85
+      },
+      {
+        "word": "impressive",
+        "confidence": 82
+      },
+      {
+        "word": "intriguing",
+        "confidence": 78
+      },
+      {
+        "word": "distant",
+        "confidence": 75
+      },
+      {
+        "word": "overwhelming",
+        "confidence": 70
+      },
+      {
+        "word": "secretive",
+        "confidence": 68
+      }
+    ]
+  }
+}

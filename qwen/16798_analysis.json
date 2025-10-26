@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frustrating",
+        "confidence": 85
+      },
+      {
+        "word": "costly",
+        "confidence": 90
+      },
+      {
+        "word": "divisive",
+        "confidence": 80
+      },
+      {
+        "word": "anxious",
+        "confidence": 75
+      },
+      {
+        "word": "disruptive",
+        "confidence": 78
+      },
+      {
+        "word": "unresolved",
+        "confidence": 72
+      },
+      {
+        "word": "pressing",
+        "confidence": 76
+      }
+    ]
+  }
+}

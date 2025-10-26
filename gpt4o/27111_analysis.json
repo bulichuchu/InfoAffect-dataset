@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "condemnation",
+        "confidence": 90
+      },
+      {
+        "word": "brutality",
+        "confidence": 88
+      },
+      {
+        "word": "resistance",
+        "confidence": 85
+      },
+      {
+        "word": "failure",
+        "confidence": 82
+      },
+      {
+        "word": "insurgent",
+        "confidence": 78
+      },
+      {
+        "word": "occupier",
+        "confidence": 76
+      },
+      {
+        "word": "support",
+        "confidence": 74
+      }
+    ]
+  }
+}

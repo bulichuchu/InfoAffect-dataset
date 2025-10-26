@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "ambitious",
+        "confidence": 85
+      },
+      {
+        "word": "motivated",
+        "confidence": 80
+      },
+      {
+        "word": "prioritized",
+        "confidence": 75
+      },
+      {
+        "word": "concerned",
+        "confidence": 70
+      },
+      {
+        "word": "contented",
+        "confidence": 65
+      },
+      {
+        "word": "secure",
+        "confidence": 82
+      }
+    ]
+  }
+}

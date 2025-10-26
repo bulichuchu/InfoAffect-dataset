@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "shifting",
+        "confidence": 85
+      },
+      {
+        "word": "trendy",
+        "confidence": 80
+      },
+      {
+        "word": "concerned",
+        "confidence": 75
+      },
+      {
+        "word": "generational",
+        "confidence": 78
+      },
+      {
+        "word": "threatened",
+        "confidence": 72
+      },
+      {
+        "word": "hopeful",
+        "confidence": 65
+      },
+      {
+        "word": "health-conscious",
+        "confidence": 70
+      },
+      {
+        "word": "competitive",
+        "confidence": 68
+      }
+    ]
+  }
+}

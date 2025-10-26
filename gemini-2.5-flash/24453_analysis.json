@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "booming",
+        "confidence": 90
+      },
+      {
+        "word": "divergent",
+        "confidence": 85
+      },
+      {
+        "word": "dynamic",
+        "confidence": 80
+      },
+      {
+        "word": "climbing",
+        "confidence": 75
+      },
+      {
+        "word": "contracting",
+        "confidence": 70
+      },
+      {
+        "word": "stagnant",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "chaotic",
+        "confidence": 85
+      },
+      {
+        "word": "disruptive",
+        "confidence": 80
+      },
+      {
+        "word": "concerning",
+        "confidence": 75
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 70
+      },
+      {
+        "word": "alarming",
+        "confidence": 78
+      },
+      {
+        "word": "melancholic",
+        "confidence": 65
+      },
+      {
+        "word": "urgent",
+        "confidence": 72
+      },
+      {
+        "word": "reflective",
+        "confidence": 68
+      }
+    ]
+  }
+}

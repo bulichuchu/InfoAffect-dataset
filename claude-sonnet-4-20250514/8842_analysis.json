@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "competitive",
+        "confidence": 88
+      },
+      {
+        "word": "impressive",
+        "confidence": 85
+      },
+      {
+        "word": "ambitious",
+        "confidence": 82
+      },
+      {
+        "word": "strategic",
+        "confidence": 78
+      },
+      {
+        "word": "dynamic",
+        "confidence": 75
+      },
+      {
+        "word": "opportunistic",
+        "confidence": 72
+      },
+      {
+        "word": "concerning",
+        "confidence": 68
+      },
+      {
+        "word": "persuasive",
+        "confidence": 65
+      }
+    ]
+  }
+}

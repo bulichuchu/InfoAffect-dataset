@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dominant",
+        "confidence": 85
+      },
+      {
+        "word": "progressive",
+        "confidence": 80
+      },
+      {
+        "word": "inclusive",
+        "confidence": 75
+      },
+      {
+        "word": "convenient",
+        "confidence": 78
+      },
+      {
+        "word": "transformative",
+        "confidence": 72
+      },
+      {
+        "word": "disparities",
+        "confidence": 68
+      },
+      {
+        "word": "empowering",
+        "confidence": 70
+      },
+      {
+        "word": "innovative",
+        "confidence": 73
+      }
+    ]
+  }
+}

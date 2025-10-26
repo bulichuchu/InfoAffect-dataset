@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "connected",
+        "confidence": 80
+      },
+      {
+        "word": "popular",
+        "confidence": 78
+      },
+      {
+        "word": "exception",
+        "confidence": 70
+      },
+      {
+        "word": "mundane",
+        "confidence": 65
+      },
+      {
+        "word": "smart",
+        "confidence": 90
+      }
+    ]
+  }
+}

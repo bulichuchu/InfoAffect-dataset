@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "self-assured",
+        "confidence": 85
+      },
+      {
+        "word": "playful",
+        "confidence": 80
+      },
+      {
+        "word": "confident",
+        "confidence": 78
+      },
+      {
+        "word": "rebellious",
+        "confidence": 75
+      },
+      {
+        "word": "quirky",
+        "confidence": 72
+      },
+      {
+        "word": "individualistic",
+        "confidence": 70
+      },
+      {
+        "word": "defiant",
+        "confidence": 65
+      },
+      {
+        "word": "nonconformist",
+        "confidence": 68
+      }
+    ]
+  }
+}

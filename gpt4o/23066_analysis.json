@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "chaos",
+        "confidence": 90
+      },
+      {
+        "word": "annoyed",
+        "confidence": 85
+      },
+      {
+        "word": "bitter",
+        "confidence": 80
+      },
+      {
+        "word": "messy",
+        "confidence": 82
+      },
+      {
+        "word": "negative",
+        "confidence": 88
+      },
+      {
+        "word": "train wreck",
+        "confidence": 87
+      }
+    ]
+  }
+}

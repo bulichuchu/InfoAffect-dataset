@@ -1,0 +1,32 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "critical",
+          "confidence": 85
+        },
+        {
+          "word": "negative",
+          "confidence": 80
+        },
+        {
+          "word": "unfair",
+          "confidence": 75
+        },
+        {
+          "word": "severe",
+          "confidence": 70
+        },
+        {
+          "word": "serious",
+          "confidence": 65
+        },
+        {
+          "word": "adversarial",
+          "confidence": 60
+        }
+      ]
+    }
+  }
+]

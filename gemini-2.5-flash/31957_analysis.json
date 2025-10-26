@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "significant",
+        "confidence": 90
+      },
+      {
+        "word": "valued",
+        "confidence": 85
+      },
+      {
+        "word": "communal",
+        "confidence": 80
+      },
+      {
+        "word": "promising",
+        "confidence": 78
+      },
+      {
+        "word": "resilient",
+        "confidence": 72
+      },
+      {
+        "word": "informative",
+        "confidence": 68
+      }
+    ]
+  }
+}

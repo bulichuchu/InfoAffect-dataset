@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "skeptical",
+        "confidence": 90
+      },
+      {
+        "word": "unequal",
+        "confidence": 88
+      },
+      {
+        "word": "dominant",
+        "confidence": 85
+      },
+      {
+        "word": "questioning",
+        "confidence": 82
+      },
+      {
+        "word": "disproportionate",
+        "confidence": 78
+      },
+      {
+        "word": "concerned",
+        "confidence": 75
+      },
+      {
+        "word": "critical",
+        "confidence": 70
+      },
+      {
+        "word": "doubtful",
+        "confidence": 68
+      }
+    ]
+  }
+}

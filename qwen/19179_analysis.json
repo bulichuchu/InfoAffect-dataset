@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "practical",
+        "confidence": 85
+      },
+      {
+        "word": "realistic",
+        "confidence": 80
+      },
+      {
+        "word": "transitional",
+        "confidence": 75
+      },
+      {
+        "word": "hopeful",
+        "confidence": 70
+      },
+      {
+        "word": "informative",
+        "confidence": 90
+      },
+      {
+        "word": "resilient",
+        "confidence": 65
+      },
+      {
+        "word": "empowering",
+        "confidence": 60
+      },
+      {
+        "word": "neutral",
+        "confidence": 78
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "overwhelming",
+        "confidence": 88
+      },
+      {
+        "word": "frustrating",
+        "confidence": 82
+      },
+      {
+        "word": "burdened",
+        "confidence": 79
+      },
+      {
+        "word": "cumbersome",
+        "confidence": 75
+      },
+      {
+        "word": "delayed",
+        "confidence": 73
+      },
+      {
+        "word": "bureaucratic",
+        "confidence": 85
+      },
+      {
+        "word": "serious",
+        "confidence": 70
+      },
+      {
+        "word": "inadequate",
+        "confidence": 76
+      }
+    ]
+  }
+}

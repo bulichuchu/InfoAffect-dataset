@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "stagnant",
+        "confidence": 85
+      },
+      {
+        "word": "declining",
+        "confidence": 80
+      },
+      {
+        "word": "unremarkable",
+        "confidence": 75
+      },
+      {
+        "word": "disappointing",
+        "confidence": 70
+      },
+      {
+        "word": "diminished",
+        "confidence": 65
+      },
+      {
+        "word": "underwhelming",
+        "confidence": 60
+      },
+      {
+        "word": "resigned",
+        "confidence": 55
+      }
+    ]
+  }
+}

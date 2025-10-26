@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "divisive",
+        "confidence": 90
+      },
+      {
+        "word": "biased",
+        "confidence": 85
+      },
+      {
+        "word": "imbalanced",
+        "confidence": 80
+      },
+      {
+        "word": "concern",
+        "confidence": 75
+      },
+      {
+        "word": "right-wing",
+        "confidence": 72
+      },
+      {
+        "word": "left-wing",
+        "confidence": 68
+      }
+    ]
+  }
+}

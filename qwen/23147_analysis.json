@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surprising",
+        "confidence": 85
+      },
+      {
+        "word": "contrasting",
+        "confidence": 80
+      },
+      {
+        "word": "accelerated",
+        "confidence": 75
+      },
+      {
+        "word": "booming",
+        "confidence": 78
+      },
+      {
+        "word": "disparaging",
+        "confidence": 72
+      },
+      {
+        "word": "winning",
+        "confidence": 70
+      },
+      {
+        "word": "unequal",
+        "confidence": 76
+      },
+      {
+        "word": "resilient",
+        "confidence": 68
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disapproving",
+        "confidence": 90
+      },
+      {
+        "word": "conservative",
+        "confidence": 85
+      },
+      {
+        "word": "controversial",
+        "confidence": 80
+      },
+      {
+        "word": "tarnished",
+        "confidence": 75
+      },
+      {
+        "word": "critical",
+        "confidence": 70
+      },
+      {
+        "word": "divisive",
+        "confidence": 65
+      },
+      {
+        "word": "reassuring",
+        "confidence": 60
+      },
+      {
+        "word": "debated",
+        "confidence": 68
+      }
+    ]
+  }
+}

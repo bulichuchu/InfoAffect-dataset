@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "nostalgia",
+        "confidence": 80
+      },
+      {
+        "word": "surprise",
+        "confidence": 75
+      },
+      {
+        "word": "personal",
+        "confidence": 70
+      },
+      {
+        "word": "unexpected",
+        "confidence": 65
+      },
+      {
+        "word": "connection",
+        "confidence": 68
+      },
+      {
+        "word": "familiarity",
+        "confidence": 60
+      }
+    ]
+  }
+}

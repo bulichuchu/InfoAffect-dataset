@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "divergent",
+        "confidence": 95
+      },
+      {
+        "word": "cautious",
+        "confidence": 90
+      },
+      {
+        "word": "polarized",
+        "confidence": 88
+      },
+      {
+        "word": "restrictive",
+        "confidence": 82
+      },
+      {
+        "word": "uncertain",
+        "confidence": 78
+      },
+      {
+        "word": "vigilant",
+        "confidence": 70
+      }
+    ]
+  }
+}

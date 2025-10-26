@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "discrepancy",
+        "confidence": 85
+      },
+      {
+        "word": "overlooked",
+        "confidence": 80
+      },
+      {
+        "word": "understudy",
+        "confidence": 75
+      },
+      {
+        "word": "inequality",
+        "confidence": 88
+      },
+      {
+        "word": "misrepresentation",
+        "confidence": 82
+      },
+      {
+        "word": "imbalanced",
+        "confidence": 78
+      },
+      {
+        "word": "surprising",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "ambitious",
+        "confidence": 90
+      },
+      {
+        "word": "daunting",
+        "confidence": 85
+      },
+      {
+        "word": "hopeful",
+        "confidence": 78
+      },
+      {
+        "word": "challenging",
+        "confidence": 82
+      },
+      {
+        "word": "realistic",
+        "confidence": 75
+      },
+      {
+        "word": "aspirational",
+        "confidence": 80
+      },
+      {
+        "word": "sobering",
+        "confidence": 76
+      },
+      {
+        "word": "determined",
+        "confidence": 73
+      }
+    ]
+  }
+}

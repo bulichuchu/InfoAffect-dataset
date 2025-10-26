@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "critical",
+        "confidence": 90
+      },
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "disapproving",
+        "confidence": 82
+      },
+      {
+        "word": "alarming",
+        "confidence": 78
+      },
+      {
+        "word": "divisive",
+        "confidence": 75
+      },
+      {
+        "word": "disappointed",
+        "confidence": 70
+      },
+      {
+        "word": "worried",
+        "confidence": 68
+      },
+      {
+        "word": "bipartisan",
+        "confidence": 65
+      }
+    ]
+  }
+}

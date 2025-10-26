@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "respectful",
+        "confidence": 90
+      },
+      {
+        "word": "reverent",
+        "confidence": 85
+      },
+      {
+        "word": "historical",
+        "confidence": 80
+      },
+      {
+        "word": "informative",
+        "confidence": 78
+      },
+      {
+        "word": "solemn",
+        "confidence": 75
+      },
+      {
+        "word": "dignified",
+        "confidence": 72
+      },
+      {
+        "word": "comparative",
+        "confidence": 68
+      },
+      {
+        "word": "neutral",
+        "confidence": 65
+      }
+    ]
+  }
+}

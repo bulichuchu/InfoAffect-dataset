@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "threatening",
+        "confidence": 88
+      },
+      {
+        "word": "significant",
+        "confidence": 85
+      },
+      {
+        "word": "intertwined",
+        "confidence": 82
+      },
+      {
+        "word": "excessive",
+        "confidence": 80
+      },
+      {
+        "word": "expensive",
+        "confidence": 78
+      },
+      {
+        "word": "impactful",
+        "confidence": 75
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frenzied",
+        "confidence": 85
+      },
+      {
+        "word": "enthusiastic",
+        "confidence": 78
+      },
+      {
+        "word": "indifferent",
+        "confidence": 82
+      },
+      {
+        "word": "contrasting",
+        "confidence": 75
+      },
+      {
+        "word": "celebratory",
+        "confidence": 70
+      },
+      {
+        "word": "tragic",
+        "confidence": 68
+      },
+      {
+        "word": "lukewarm",
+        "confidence": 80
+      }
+    ]
+  }
+}

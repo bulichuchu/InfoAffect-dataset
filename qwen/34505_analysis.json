@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "strategic",
+        "confidence": 88
+      },
+      {
+        "word": "significant",
+        "confidence": 85
+      },
+      {
+        "word": "shifting",
+        "confidence": 80
+      },
+      {
+        "word": "tense",
+        "confidence": 75
+      },
+      {
+        "word": "prosperous",
+        "confidence": 72
+      },
+      {
+        "word": "deteriorating",
+        "confidence": 68
+      },
+      {
+        "word": "ambitious",
+        "confidence": 70
+      },
+      {
+        "word": "economic",
+        "confidence": 78
+      }
+    ]
+  }
+}

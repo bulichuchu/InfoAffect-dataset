@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "relaxed",
+        "confidence": 85
+      },
+      {
+        "word": "unwinding",
+        "confidence": 80
+      },
+      {
+        "word": "connected",
+        "confidence": 75
+      },
+      {
+        "word": "personal",
+        "confidence": 70
+      },
+      {
+        "word": "leisurely",
+        "confidence": 65
+      },
+      {
+        "word": "content",
+        "confidence": 60
+      },
+      {
+        "word": "solitary",
+        "confidence": 55
+      },
+      {
+        "word": "rejuvenating",
+        "confidence": 50
+      }
+    ]
+  }
+}

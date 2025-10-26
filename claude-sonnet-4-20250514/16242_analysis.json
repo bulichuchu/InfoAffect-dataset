@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "hopeful",
+        "confidence": 82
+      },
+      {
+        "word": "transitional",
+        "confidence": 88
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 75
+      },
+      {
+        "word": "optimistic",
+        "confidence": 78
+      },
+      {
+        "word": "respectful",
+        "confidence": 85
+      },
+      {
+        "word": "diplomatic",
+        "confidence": 90
+      },
+      {
+        "word": "improved",
+        "confidence": 80
+      },
+      {
+        "word": "cordial",
+        "confidence": 72
+      }
+    ]
+  }
+}

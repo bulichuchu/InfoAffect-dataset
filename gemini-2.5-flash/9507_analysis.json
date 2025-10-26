@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "uncertainty",
+        "confidence": 90
+      },
+      {
+        "word": "disruptive",
+        "confidence": 88
+      },
+      {
+        "word": "strategic",
+        "confidence": 85
+      },
+      {
+        "word": "consequential",
+        "confidence": 82
+      },
+      {
+        "word": "anticipatory",
+        "confidence": 78
+      },
+      {
+        "word": "adaptive",
+        "confidence": 75
+      },
+      {
+        "word": "sobering",
+        "confidence": 70
+      }
+    ]
+  }
+}

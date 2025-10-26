@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unprecedented",
+        "confidence": 88
+      },
+      {
+        "word": "critiqued",
+        "confidence": 82
+      },
+      {
+        "word": "defensive",
+        "confidence": 75
+      },
+      {
+        "word": "cautious",
+        "confidence": 78
+      },
+      {
+        "word": "analytical",
+        "confidence": 85
+      },
+      {
+        "word": "comparative",
+        "confidence": 80
+      },
+      {
+        "word": "measured",
+        "confidence": 73
+      },
+      {
+        "word": "factual",
+        "confidence": 77
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "violent",
+        "confidence": 90
+      },
+      {
+        "word": "protests",
+        "confidence": 85
+      },
+      {
+        "word": "unrest",
+        "confidence": 82
+      },
+      {
+        "word": "social",
+        "confidence": 78
+      },
+      {
+        "word": "evolved",
+        "confidence": 75
+      },
+      {
+        "word": "employment",
+        "confidence": 70
+      },
+      {
+        "word": "movement",
+        "confidence": 68
+      }
+    ]
+  }
+}

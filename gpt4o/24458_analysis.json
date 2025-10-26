@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "threatened",
+        "confidence": 90
+      },
+      {
+        "word": "dispute",
+        "confidence": 85
+      },
+      {
+        "word": "shortfall",
+        "confidence": 80
+      },
+      {
+        "word": "backing",
+        "confidence": 75
+      },
+      {
+        "word": "reciprocity",
+        "confidence": 70
+      },
+      {
+        "word": "increase",
+        "confidence": 65
+      },
+      {
+        "word": "shipment",
+        "confidence": 60
+      }
+    ]
+  }
+}

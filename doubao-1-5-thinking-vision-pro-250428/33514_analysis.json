@@ -1,0 +1,32 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "tragic",
+          "confidence": 90
+        },
+        {
+          "word": "prolonged",
+          "confidence": 85
+        },
+        {
+          "word": "escalatory",
+          "confidence": 80
+        },
+        {
+          "word": "distressing",
+          "confidence": 75
+        },
+        {
+          "word": "complex",
+          "confidence": 70
+        },
+        {
+          "word": "serious",
+          "confidence": 75
+        }
+      ]
+    }
+  }
+]

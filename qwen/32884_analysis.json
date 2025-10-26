@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "trendy",
+        "confidence": 85
+      },
+      {
+        "word": "optimistic",
+        "confidence": 80
+      },
+      {
+        "word": "growing",
+        "confidence": 78
+      },
+      {
+        "word": "popular",
+        "confidence": 75
+      },
+      {
+        "word": "positive",
+        "confidence": 72
+      },
+      {
+        "word": "modern",
+        "confidence": 68
+      },
+      {
+        "word": "encouraging",
+        "confidence": 65
+      },
+      {
+        "word": "competitive",
+        "confidence": 60
+      }
+    ]
+  }
+}

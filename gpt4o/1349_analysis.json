@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "staple",
+        "confidence": 85
+      },
+      {
+        "word": "consistent",
+        "confidence": 82
+      },
+      {
+        "word": "convenient",
+        "confidence": 80
+      },
+      {
+        "word": "habitual",
+        "confidence": 75
+      },
+      {
+        "word": "indulgent",
+        "confidence": 70
+      },
+      {
+        "word": "affordable",
+        "confidence": 68
+      }
+    ]
+  }
+}

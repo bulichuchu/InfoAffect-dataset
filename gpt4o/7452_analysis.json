@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "acceptance",
+        "confidence": 85
+      },
+      {
+        "word": "progressive",
+        "confidence": 82
+      },
+      {
+        "word": "disagreement",
+        "confidence": 78
+      },
+      {
+        "word": "supportive",
+        "confidence": 80
+      },
+      {
+        "word": "resistance",
+        "confidence": 76
+      },
+      {
+        "word": "inclusive",
+        "confidence": 74
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "longing",
+        "confidence": 80
+      },
+      {
+        "word": "wistful",
+        "confidence": 75
+      },
+      {
+        "word": "yearning",
+        "confidence": 70
+      },
+      {
+        "word": "anticipatory",
+        "confidence": 65
+      },
+      {
+        "word": "discomforted",
+        "confidence": 60
+      }
+    ]
+  }
+}

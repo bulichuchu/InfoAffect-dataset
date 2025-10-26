@@ -1,0 +1,28 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "affectionate",
+          "confidence": 90
+        },
+        {
+          "word": "cuddling",
+          "confidence": 88
+        },
+        {
+          "word": "companionable",
+          "confidence": 85
+        },
+        {
+          "word": "friendly",
+          "confidence": 82
+        },
+        {
+          "word": "devoted",
+          "confidence": 78
+        }
+      ]
+    }
+  }
+]

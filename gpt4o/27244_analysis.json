@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disapproval",
+        "confidence": 90
+      },
+      {
+        "word": "criticism",
+        "confidence": 85
+      },
+      {
+        "word": "resignation",
+        "confidence": 88
+      },
+      {
+        "word": "frustration",
+        "confidence": 80
+      },
+      {
+        "word": "mistrust",
+        "confidence": 78
+      },
+      {
+        "word": "anger",
+        "confidence": 82
+      },
+      {
+        "word": "controversy",
+        "confidence": 75
+      }
+    ]
+  }
+}

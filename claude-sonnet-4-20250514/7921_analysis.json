@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "exciting",
+        "confidence": 85
+      },
+      {
+        "word": "spectacular",
+        "confidence": 82
+      },
+      {
+        "word": "entertaining",
+        "confidence": 78
+      },
+      {
+        "word": "celebratory",
+        "confidence": 75
+      },
+      {
+        "word": "engaging",
+        "confidence": 72
+      },
+      {
+        "word": "festive",
+        "confidence": 68
+      },
+      {
+        "word": "surprising",
+        "confidence": 65
+      }
+    ]
+  }
+}

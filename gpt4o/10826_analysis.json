@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "celebration",
+        "confidence": 90
+      },
+      {
+        "word": "victory",
+        "confidence": 85
+      },
+      {
+        "word": "life-affirming",
+        "confidence": 80
+      },
+      {
+        "word": "survival",
+        "confidence": 75
+      },
+      {
+        "word": "cautionary",
+        "confidence": 70
+      },
+      {
+        "word": "frustration",
+        "confidence": 65
+      },
+      {
+        "word": "condemnation",
+        "confidence": 68
+      }
+    ]
+  }
+}

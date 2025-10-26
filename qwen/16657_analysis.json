@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "defeated",
+        "confidence": 95
+      },
+      {
+        "word": "humiliating",
+        "confidence": 88
+      },
+      {
+        "word": "resounding",
+        "confidence": 85
+      },
+      {
+        "word": "historic",
+        "confidence": 80
+      },
+      {
+        "word": "overwhelming",
+        "confidence": 78
+      },
+      {
+        "word": "disheartening",
+        "confidence": 75
+      },
+      {
+        "word": "dramatic",
+        "confidence": 70
+      },
+      {
+        "word": "critical",
+        "confidence": 65
+      }
+    ]
+  }
+}

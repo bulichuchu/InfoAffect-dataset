@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dissatisfaction",
+        "confidence": 95
+      },
+      {
+        "word": "concern",
+        "confidence": 90
+      },
+      {
+        "word": "resolved",
+        "confidence": 88
+      },
+      {
+        "word": "consensus",
+        "confidence": 85
+      },
+      {
+        "word": "rejection",
+        "confidence": 80
+      },
+      {
+        "word": "engaged",
+        "confidence": 75
+      },
+      {
+        "word": "ambivalent",
+        "confidence": 70
+      }
+    ]
+  }
+}

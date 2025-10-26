@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "curiosity",
+        "confidence": 85
+      },
+      {
+        "word": "interest",
+        "confidence": 80
+      },
+      {
+        "word": "clarity",
+        "confidence": 75
+      },
+      {
+        "word": "understanding",
+        "confidence": 70
+      },
+      {
+        "word": "insightful",
+        "confidence": 65
+      },
+      {
+        "word": "thought-provoking",
+        "confidence": 60
+      },
+      {
+        "word": "engaged",
+        "confidence": 70
+      }
+    ]
+  }
+}

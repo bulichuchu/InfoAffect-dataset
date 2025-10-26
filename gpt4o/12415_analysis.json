@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "record-breaking",
+        "confidence": 90
+      },
+      {
+        "word": "disappointing",
+        "confidence": 85
+      },
+      {
+        "word": "ambitious",
+        "confidence": 80
+      },
+      {
+        "word": "encouraging",
+        "confidence": 75
+      },
+      {
+        "word": "enthusiasm",
+        "confidence": 70
+      },
+      {
+        "word": "delayed",
+        "confidence": 75
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "guilty",
+        "confidence": 90
+      },
+      {
+        "word": "responsibility",
+        "confidence": 85
+      },
+      {
+        "word": "wasteful",
+        "confidence": 88
+      },
+      {
+        "word": "avoidable",
+        "confidence": 80
+      },
+      {
+        "word": "duty",
+        "confidence": 75
+      },
+      {
+        "word": "improvement",
+        "confidence": 70
+      }
+    ]
+  }
+}

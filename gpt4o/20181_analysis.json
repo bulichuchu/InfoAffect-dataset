@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mocking",
+        "confidence": 90
+      },
+      {
+        "word": "derisive",
+        "confidence": 85
+      },
+      {
+        "word": "provocative",
+        "confidence": 82
+      },
+      {
+        "word": "insulting",
+        "confidence": 88
+      },
+      {
+        "word": "critical",
+        "confidence": 80
+      },
+      {
+        "word": "dismissive",
+        "confidence": 75
+      }
+    ]
+  }
+}

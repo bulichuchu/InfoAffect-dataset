@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "manipulative",
+        "confidence": 90
+      },
+      {
+        "word": "dangerous",
+        "confidence": 85
+      },
+      {
+        "word": "obstructive",
+        "confidence": 80
+      },
+      {
+        "word": "damaging",
+        "confidence": 78
+      },
+      {
+        "word": "sophisticated",
+        "confidence": 75
+      },
+      {
+        "word": "greenwashing",
+        "confidence": 70
+      }
+    ]
+  }
+}

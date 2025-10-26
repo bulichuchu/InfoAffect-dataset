@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "opportunity",
+        "confidence": 93
+      },
+      {
+        "word": "dream",
+        "confidence": 88
+      },
+      {
+        "word": "choice",
+        "confidence": 85
+      },
+      {
+        "word": "mandatory",
+        "confidence": 80
+      },
+      {
+        "word": "challenge",
+        "confidence": 77
+      },
+      {
+        "word": "potential",
+        "confidence": 82
+      }
+    ]
+  }
+}

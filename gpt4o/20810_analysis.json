@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "skyrocketing",
+        "confidence": 90
+      },
+      {
+        "word": "valuable",
+        "confidence": 85
+      },
+      {
+        "word": "growth",
+        "confidence": 82
+      },
+      {
+        "word": "expansion",
+        "confidence": 80
+      },
+      {
+        "word": "passionate",
+        "confidence": 78
+      },
+      {
+        "word": "surging",
+        "confidence": 75
+      },
+      {
+        "word": "billionaires",
+        "confidence": 70
+      },
+      {
+        "word": "top-heavy",
+        "confidence": 65
+      }
+    ]
+  }
+}

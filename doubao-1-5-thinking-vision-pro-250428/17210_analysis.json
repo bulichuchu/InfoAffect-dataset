@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "distressing",
+        "confidence": 90
+      },
+      {
+        "word": "precarious",
+        "confidence": 85
+      },
+      {
+        "word": "uncertain",
+        "confidence": 80
+      },
+      {
+        "word": "alarming",
+        "confidence": 85
+      },
+      {
+        "word": "vulnerable",
+        "confidence": 88
+      },
+      {
+        "word": "somber",
+        "confidence": 82
+      }
+    ]
+  }
+}

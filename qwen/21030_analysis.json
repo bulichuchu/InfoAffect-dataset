@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "triumphant",
+        "confidence": 85
+      },
+      {
+        "word": "competitive",
+        "confidence": 80
+      },
+      {
+        "word": "strategic",
+        "confidence": 75
+      },
+      {
+        "word": "defeated",
+        "confidence": 70
+      },
+      {
+        "word": "unified",
+        "confidence": 65
+      },
+      {
+        "word": "decisive",
+        "confidence": 72
+      },
+      {
+        "word": "anticipatory",
+        "confidence": 60
+      },
+      {
+        "word": "resigned",
+        "confidence": 55
+      }
+    ]
+  }
+}

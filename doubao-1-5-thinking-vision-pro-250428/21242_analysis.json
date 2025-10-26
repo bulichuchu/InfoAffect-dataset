@@ -1,0 +1,28 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "skeptical",
+          "confidence": 90
+        },
+        {
+          "word": "unfavorable",
+          "confidence": 85
+        },
+        {
+          "word": "favorable",
+          "confidence": 80
+        },
+        {
+          "word": "divided",
+          "confidence": 75
+        },
+        {
+          "word": "uncertain",
+          "confidence": 70
+        }
+      ]
+    }
+  }
+]

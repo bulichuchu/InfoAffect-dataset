@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "relief",
+        "confidence": 95
+      },
+      {
+        "word": "success",
+        "confidence": 90
+      },
+      {
+        "word": "competence",
+        "confidence": 85
+      },
+      {
+        "word": "reassurance",
+        "confidence": 80
+      },
+      {
+        "word": "diligence",
+        "confidence": 75
+      },
+      {
+        "word": "hopeful",
+        "confidence": 70
+      }
+    ]
+  }
+}

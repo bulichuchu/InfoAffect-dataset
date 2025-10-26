@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dominant",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 78
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      },
+      {
+        "word": "significant",
+        "confidence": 80
+      },
+      {
+        "word": "tense",
+        "confidence": 72
+      },
+      {
+        "word": "resilient",
+        "confidence": 65
+      },
+      {
+        "word": "imposing",
+        "confidence": 70
+      },
+      {
+        "word": "strategic",
+        "confidence": 68
+      }
+    ]
+  }
+}

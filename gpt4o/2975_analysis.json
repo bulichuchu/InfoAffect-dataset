@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "misunderstood",
+        "confidence": 85
+      },
+      {
+        "word": "surprised",
+        "confidence": 80
+      },
+      {
+        "word": "unaware",
+        "confidence": 75
+      },
+      {
+        "word": "realization",
+        "confidence": 70
+      },
+      {
+        "word": "insightful",
+        "confidence": 68
+      },
+      {
+        "word": "clarity",
+        "confidence": 65
+      }
+    ]
+  }
+}

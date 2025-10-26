@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "generosity",
+        "confidence": 95
+      },
+      {
+        "word": "philanthropy",
+        "confidence": 90
+      },
+      {
+        "word": "gratitude",
+        "confidence": 85
+      },
+      {
+        "word": "altruism",
+        "confidence": 88
+      },
+      {
+        "word": "hope",
+        "confidence": 80
+      },
+      {
+        "word": "support",
+        "confidence": 82
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "proud",
+        "confidence": 88
+      },
+      {
+        "word": "chauvinistic",
+        "confidence": 85
+      },
+      {
+        "word": "arrogant",
+        "confidence": 78
+      },
+      {
+        "word": "nationalistic",
+        "confidence": 82
+      },
+      {
+        "word": "confident",
+        "confidence": 75
+      },
+      {
+        "word": "superior",
+        "confidence": 70
+      },
+      {
+        "word": "divisive",
+        "confidence": 65
+      },
+      {
+        "word": "surprising",
+        "confidence": 60
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concern",
+        "confidence": 85
+      },
+      {
+        "word": "impact",
+        "confidence": 80
+      },
+      {
+        "word": "financial",
+        "confidence": 78
+      },
+      {
+        "word": "increase",
+        "confidence": 75
+      },
+      {
+        "word": "pressure",
+        "confidence": 73
+      },
+      {
+        "word": "economic",
+        "confidence": 70
+      }
+    ]
+  }
+}

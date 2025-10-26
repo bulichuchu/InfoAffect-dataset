@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "engagement",
+        "confidence": 85
+      },
+      {
+        "word": "connected",
+        "confidence": 80
+      },
+      {
+        "word": "changing",
+        "confidence": 75
+      },
+      {
+        "word": "growing",
+        "confidence": 78
+      },
+      {
+        "word": "diverse",
+        "confidence": 70
+      },
+      {
+        "word": "dynamic",
+        "confidence": 74
+      }
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 90
+      },
+      {
+        "word": "hesitant",
+        "confidence": 85
+      },
+      {
+        "word": "unsure",
+        "confidence": 80
+      },
+      {
+        "word": "skeptical",
+        "confidence": 75
+      },
+      {
+        "word": "anxious",
+        "confidence": 70
+      },
+      {
+        "word": "cautious",
+        "confidence": 65
+      },
+      {
+        "word": "apprehensive",
+        "confidence": 60
+      }
+    ]
+  },
+  "note": "The emotional tone is primarily driven by public hesitation and safety concerns regarding self-driving cars, especially among older demographics."
+}

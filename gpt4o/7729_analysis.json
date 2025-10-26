@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "aggressive",
+        "confidence": 90
+      },
+      {
+        "word": "infamous",
+        "confidence": 85
+      },
+      {
+        "word": "erode",
+        "confidence": 80
+      },
+      {
+        "word": "war-ravaged",
+        "confidence": 88
+      },
+      {
+        "word": "welcoming",
+        "confidence": 75
+      },
+      {
+        "word": "farewell",
+        "confidence": 70
+      }
+    ]
+  }
+}

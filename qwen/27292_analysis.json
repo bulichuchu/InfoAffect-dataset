@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "astonishing",
+        "confidence": 90
+      },
+      {
+        "word": "unfathomable",
+        "confidence": 85
+      },
+      {
+        "word": "impressive",
+        "confidence": 88
+      },
+      {
+        "word": "overwhelming",
+        "confidence": 82
+      },
+      {
+        "word": "awe-inspiring",
+        "confidence": 87
+      },
+      {
+        "word": "remarkable",
+        "confidence": 80
+      },
+      {
+        "word": "mind-boggling",
+        "confidence": 83
+      },
+      {
+        "word": "celebratory",
+        "confidence": 75
+      }
+    ]
+  }
+}

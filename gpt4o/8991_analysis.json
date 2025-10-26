@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anticipation",
+        "confidence": 88
+      },
+      {
+        "word": "preference",
+        "confidence": 85
+      },
+      {
+        "word": "uncertainty",
+        "confidence": 82
+      },
+      {
+        "word": "future-oriented",
+        "confidence": 78
+      },
+      {
+        "word": "aspirational",
+        "confidence": 75
+      },
+      {
+        "word": "confidence",
+        "confidence": 70
+      },
+      {
+        "word": "comparison",
+        "confidence": 65
+      }
+    ]
+  }
+}

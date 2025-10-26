@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 90
+      },
+      {
+        "word": "improving",
+        "confidence": 85
+      },
+      {
+        "word": "important",
+        "confidence": 80
+      },
+      {
+        "word": "understandably",
+        "confidence": 75
+      },
+      {
+        "word": "priority",
+        "confidence": 70
+      },
+      {
+        "word": "shift",
+        "confidence": 65
+      }
+    ]
+  }
+}

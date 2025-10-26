@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 90
+      },
+      {
+        "word": "unfair",
+        "confidence": 85
+      },
+      {
+        "word": "urgent",
+        "confidence": 82
+      },
+      {
+        "word": "exclusion",
+        "confidence": 78
+      },
+      {
+        "word": "monopoly",
+        "confidence": 75
+      },
+      {
+        "word": "disparity",
+        "confidence": 70
+      }
+    ]
+  }
+}

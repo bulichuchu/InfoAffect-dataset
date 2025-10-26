@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disappointment",
+        "confidence": 90
+      },
+      {
+        "word": "concern",
+        "confidence": 88
+      },
+      {
+        "word": "regret",
+        "confidence": 85
+      },
+      {
+        "word": "isolation",
+        "confidence": 80
+      },
+      {
+        "word": "uncertain",
+        "confidence": 78
+      },
+      {
+        "word": "controversial",
+        "confidence": 75
+      },
+      {
+        "word": "worrisome",
+        "confidence": 74
+      }
+    ]
+  }
+}

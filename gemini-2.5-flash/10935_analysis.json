@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "significant",
+        "confidence": 90
+      },
+      {
+        "word": "financial",
+        "confidence": 88
+      },
+      {
+        "word": "preparatory",
+        "confidence": 85
+      },
+      {
+        "word": "responsible",
+        "confidence": 75
+      },
+      {
+        "word": "evolving",
+        "confidence": 70
+      },
+      {
+        "word": "bustling",
+        "confidence": 65
+      }
+    ]
+  }
+}

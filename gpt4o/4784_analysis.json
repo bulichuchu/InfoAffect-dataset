@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "triumph",
+        "confidence": 90
+      },
+      {
+        "word": "underdog",
+        "confidence": 88
+      },
+      {
+        "word": "fairytale",
+        "confidence": 85
+      },
+      {
+        "word": "achievement",
+        "confidence": 83
+      },
+      {
+        "word": "inspirational",
+        "confidence": 80
+      },
+      {
+        "word": "unexpected",
+        "confidence": 78
+      },
+      {
+        "word": "historic",
+        "confidence": 82
+      }
+    ]
+  }
+}

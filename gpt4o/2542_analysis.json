@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "social",
+        "confidence": 90
+      },
+      {
+        "word": "traditional",
+        "confidence": 85
+      },
+      {
+        "word": "reassured",
+        "confidence": 80
+      },
+      {
+        "word": "experiential",
+        "confidence": 75
+      },
+      {
+        "word": "connected",
+        "confidence": 70
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 65
+      }
+    ]
+  }
+}

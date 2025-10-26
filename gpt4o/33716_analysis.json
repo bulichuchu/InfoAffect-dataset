@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "divided",
+        "confidence": 90
+      },
+      {
+        "word": "doubtful",
+        "confidence": 85
+      },
+      {
+        "word": "insurmountable",
+        "confidence": 80
+      },
+      {
+        "word": "unity",
+        "confidence": 75
+      },
+      {
+        "word": "compromise",
+        "confidence": 70
+      },
+      {
+        "word": "awareness",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "shockwaves",
+        "confidence": 90
+      },
+      {
+        "word": "tumble",
+        "confidence": 85
+      },
+      {
+        "word": "affected",
+        "confidence": 80
+      },
+      {
+        "word": "vulnerable",
+        "confidence": 78
+      },
+      {
+        "word": "intertwined",
+        "confidence": 70
+      },
+      {
+        "word": "wobble",
+        "confidence": 75
+      },
+      {
+        "word": "rely",
+        "confidence": 65
+      }
+    ]
+  }
+}

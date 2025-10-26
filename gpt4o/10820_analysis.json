@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unfazed",
+        "confidence": 95
+      },
+      {
+        "word": "trust",
+        "confidence": 90
+      },
+      {
+        "word": "resilient",
+        "confidence": 85
+      },
+      {
+        "word": "optimistic",
+        "confidence": 80
+      },
+      {
+        "word": "confident",
+        "confidence": 78
+      },
+      {
+        "word": "rebounding",
+        "confidence": 73
+      },
+      {
+        "word": "loyal",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "enabler",
+        "confidence": 90
+      },
+      {
+        "word": "dominates",
+        "confidence": 85
+      },
+      {
+        "word": "abuse",
+        "confidence": 80
+      },
+      {
+        "word": "avoidance",
+        "confidence": 75
+      },
+      {
+        "word": "risk",
+        "confidence": 70
+      },
+      {
+        "word": "responsible",
+        "confidence": 65
+      },
+      {
+        "word": "lost",
+        "confidence": 60
+      }
+    ]
+  }
+}

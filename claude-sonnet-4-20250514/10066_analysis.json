@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "nostalgic",
+        "confidence": 88
+      },
+      {
+        "word": "reflective",
+        "confidence": 85
+      },
+      {
+        "word": "revolutionary",
+        "confidence": 82
+      },
+      {
+        "word": "inevitable",
+        "confidence": 78
+      },
+      {
+        "word": "transformative",
+        "confidence": 75
+      },
+      {
+        "word": "consequential",
+        "confidence": 72
+      },
+      {
+        "word": "bittersweet",
+        "confidence": 68
+      }
+    ]
+  }
+}

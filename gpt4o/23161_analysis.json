@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "willingness",
+        "confidence": 85
+      },
+      {
+        "word": "common",
+        "confidence": 80
+      },
+      {
+        "word": "unwilling",
+        "confidence": 75
+      },
+      {
+        "word": "popular",
+        "confidence": 70
+      },
+      {
+        "word": "freeloaders",
+        "confidence": 65
+      },
+      {
+        "word": "limited",
+        "confidence": 60
+      },
+      {
+        "word": "mindful",
+        "confidence": 55
+      }
+    ]
+  }
+}

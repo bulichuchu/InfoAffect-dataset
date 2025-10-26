@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "beloved",
+        "confidence": 85
+      },
+      {
+        "word": "favorite",
+        "confidence": 80
+      },
+      {
+        "word": "representation",
+        "confidence": 75
+      },
+      {
+        "word": "debate",
+        "confidence": 70
+      },
+      {
+        "word": "inclusive",
+        "confidence": 65
+      }
+    ]
+  }
+}

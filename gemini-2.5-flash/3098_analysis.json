@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "victorious",
+        "confidence": 90
+      },
+      {
+        "word": "ascendant",
+        "confidence": 85
+      },
+      {
+        "word": "plummeting",
+        "confidence": 88
+      },
+      {
+        "word": "dominant",
+        "confidence": 80
+      },
+      {
+        "word": "challenged",
+        "confidence": 75
+      },
+      {
+        "word": "competitive",
+        "confidence": 65
+      }
+    ]
+  }
+}

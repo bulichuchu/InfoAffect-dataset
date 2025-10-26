@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "distracted",
+        "confidence": 88
+      },
+      {
+        "word": "habitual",
+        "confidence": 82
+      },
+      {
+        "word": "divided",
+        "confidence": 78
+      },
+      {
+        "word": "revealing",
+        "confidence": 75
+      },
+      {
+        "word": "ironic",
+        "confidence": 70
+      },
+      {
+        "word": "opportunistic",
+        "confidence": 68
+      },
+      {
+        "word": "concerning",
+        "confidence": 65
+      }
+    ]
+  }
+}

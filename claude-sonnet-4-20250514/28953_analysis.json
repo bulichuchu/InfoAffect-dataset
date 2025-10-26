@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "scandalous",
+        "confidence": 95
+      },
+      {
+        "word": "concerning",
+        "confidence": 88
+      },
+      {
+        "word": "disappointing",
+        "confidence": 85
+      },
+      {
+        "word": "troubling",
+        "confidence": 82
+      },
+      {
+        "word": "disillusioning",
+        "confidence": 78
+      },
+      {
+        "word": "unsurprising",
+        "confidence": 75
+      },
+      {
+        "word": "cynical",
+        "confidence": 70
+      },
+      {
+        "word": "suspicious",
+        "confidence": 68
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "threatening",
+        "confidence": 90
+      },
+      {
+        "word": "tension",
+        "confidence": 85
+      },
+      {
+        "word": "apprehensive",
+        "confidence": 83
+      },
+      {
+        "word": "vulnerable",
+        "confidence": 80
+      },
+      {
+        "word": "alarming",
+        "confidence": 78
+      },
+      {
+        "word": "superiority",
+        "confidence": 75
+      },
+      {
+        "word": "preparedness",
+        "confidence": 72
+      }
+    ]
+  }
+}

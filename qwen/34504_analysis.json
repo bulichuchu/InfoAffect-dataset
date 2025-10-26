@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "proud",
+        "confidence": 85
+      },
+      {
+        "word": "historic",
+        "confidence": 80
+      },
+      {
+        "word": "controversial",
+        "confidence": 75
+      },
+      {
+        "word": "prestigious",
+        "confidence": 78
+      },
+      {
+        "word": "debated",
+        "confidence": 72
+      },
+      {
+        "word": "legacy",
+        "confidence": 82
+      },
+      {
+        "word": "opulent",
+        "confidence": 70
+      },
+      {
+        "word": "authoritative",
+        "confidence": 76
+      }
+    ]
+  }
+}

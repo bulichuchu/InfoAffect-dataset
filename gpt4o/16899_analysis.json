@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 90
+      },
+      {
+        "word": "dominance",
+        "confidence": 88
+      },
+      {
+        "word": "scrutiny",
+        "confidence": 82
+      },
+      {
+        "word": "competitive",
+        "confidence": 85
+      },
+      {
+        "word": "controversial",
+        "confidence": 78
+      },
+      {
+        "word": "dynamic",
+        "confidence": 80
+      }
+    ]
+  }
+}

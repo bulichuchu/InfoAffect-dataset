@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unprecedented",
+        "confidence": 90
+      },
+      {
+        "word": "urgent",
+        "confidence": 85
+      },
+      {
+        "word": "hopeful",
+        "confidence": 78
+      },
+      {
+        "word": "supportive",
+        "confidence": 82
+      },
+      {
+        "word": "serious",
+        "confidence": 75
+      },
+      {
+        "word": "ambitious",
+        "confidence": 80
+      },
+      {
+        "word": "collaborative",
+        "confidence": 70
+      },
+      {
+        "word": "relief",
+        "confidence": 65
+      }
+    ]
+  }
+}

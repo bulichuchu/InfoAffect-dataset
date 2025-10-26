@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "diplomatic",
+        "confidence": 90
+      },
+      {
+        "word": "controversial",
+        "confidence": 85
+      },
+      {
+        "word": "tense",
+        "confidence": 82
+      },
+      {
+        "word": "hopeful",
+        "confidence": 75
+      },
+      {
+        "word": "frustrated",
+        "confidence": 78
+      },
+      {
+        "word": "strategic",
+        "confidence": 80
+      },
+      {
+        "word": "divisive",
+        "confidence": 83
+      },
+      {
+        "word": "significant",
+        "confidence": 88
+      }
+    ]
+  }
+}

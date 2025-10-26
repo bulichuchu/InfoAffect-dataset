@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "decline",
+        "confidence": 90
+      },
+      {
+        "word": "startling",
+        "confidence": 85
+      },
+      {
+        "word": "extinction",
+        "confidence": 88
+      },
+      {
+        "word": "abyss",
+        "confidence": 82
+      },
+      {
+        "word": "clear",
+        "confidence": 75
+      },
+      {
+        "word": "precipice",
+        "confidence": 80
+      }
+    ]
+  }
+}

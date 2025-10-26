@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "damaging",
+        "confidence": 85
+      },
+      {
+        "word": "disappointing",
+        "confidence": 80
+      },
+      {
+        "word": "concerned",
+        "confidence": 75
+      },
+      {
+        "word": "betrayed",
+        "confidence": 78
+      },
+      {
+        "word": "shocking",
+        "confidence": 72
+      },
+      {
+        "word": "regretful",
+        "confidence": 70
+      },
+      {
+        "word": "embarrassing",
+        "confidence": 65
+      },
+      {
+        "word": "untrustworthy",
+        "confidence": 73
+      }
+    ]
+  }
+}

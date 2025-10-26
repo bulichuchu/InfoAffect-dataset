@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "balanced",
+        "confidence": 90
+      },
+      {
+        "word": "unexpected",
+        "confidence": 85
+      },
+      {
+        "word": "restored",
+        "confidence": 80
+      },
+      {
+        "word": "relief",
+        "confidence": 75
+      },
+      {
+        "word": "stable",
+        "confidence": 70
+      },
+      {
+        "word": "cool",
+        "confidence": 65
+      }
+    ]
+  }
+}

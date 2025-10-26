@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frustrating",
+        "confidence": 87
+      },
+      {
+        "word": "pleasant",
+        "confidence": 78
+      },
+      {
+        "word": "expensive",
+        "confidence": 85
+      },
+      {
+        "word": "affordable",
+        "confidence": 73
+      },
+      {
+        "word": "regular",
+        "confidence": 70
+      },
+      {
+        "word": "constant",
+        "confidence": 68
+      }
+    ]
+  }
+}

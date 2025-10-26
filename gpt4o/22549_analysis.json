@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "activism",
+        "confidence": 90
+      },
+      {
+        "word": "pressure",
+        "confidence": 85
+      },
+      {
+        "word": "discrepancy",
+        "confidence": 80
+      },
+      {
+        "word": "concern",
+        "confidence": 78
+      },
+      {
+        "word": "equality",
+        "confidence": 75
+      },
+      {
+        "word": "advocacy",
+        "confidence": 72
+      },
+      {
+        "word": "split",
+        "confidence": 70
+      }
+    ]
+  }
+}

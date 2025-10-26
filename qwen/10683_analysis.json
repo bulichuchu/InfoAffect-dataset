@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "isolated",
+        "confidence": 90
+      },
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "restricted",
+        "confidence": 82
+      },
+      {
+        "word": "vulnerable",
+        "confidence": 78
+      },
+      {
+        "word": "dependent",
+        "confidence": 75
+      },
+      {
+        "word": "alarming",
+        "confidence": 73
+      },
+      {
+        "word": "symbolic",
+        "confidence": 65
+      },
+      {
+        "word": "problematic",
+        "confidence": 70
+      }
+    ]
+  }
+}

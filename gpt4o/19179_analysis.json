@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "empowered",
+        "confidence": 82
+      },
+      {
+        "word": "determined",
+        "confidence": 78
+      },
+      {
+        "word": "adaptive",
+        "confidence": 75
+      },
+      {
+        "word": "reflective",
+        "confidence": 72
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 70
+      },
+      {
+        "word": "entrepreneurial",
+        "confidence": 85
+      }
+    ]
+  }
+}

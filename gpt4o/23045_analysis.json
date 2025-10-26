@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "admired",
+        "confidence": 95
+      },
+      {
+        "word": "favorite",
+        "confidence": 88
+      },
+      {
+        "word": "respected",
+        "confidence": 87
+      },
+      {
+        "word": "influential",
+        "confidence": 82
+      },
+      {
+        "word": "inspiring",
+        "confidence": 80
+      },
+      {
+        "word": "liked",
+        "confidence": 77
+      }
+    ]
+  }
+}

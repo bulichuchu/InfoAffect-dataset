@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "manipulative",
+        "confidence": 90
+      },
+      {
+        "word": "serious",
+        "confidence": 85
+      },
+      {
+        "word": "deceptive",
+        "confidence": 88
+      },
+      {
+        "word": "alarming",
+        "confidence": 80
+      },
+      {
+        "word": "coordinated",
+        "confidence": 75
+      },
+      {
+        "word": "misleading",
+        "confidence": 83
+      },
+      {
+        "word": "strategic",
+        "confidence": 78
+      }
+    ]
+  }
+}

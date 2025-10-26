@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "urgent",
+        "confidence": 88
+      },
+      {
+        "word": "frenzied",
+        "confidence": 85
+      },
+      {
+        "word": "competitive",
+        "confidence": 82
+      },
+      {
+        "word": "excited",
+        "confidence": 78
+      },
+      {
+        "word": "pressured",
+        "confidence": 75
+      },
+      {
+        "word": "energetic",
+        "confidence": 70
+      },
+      {
+        "word": "motivated",
+        "confidence": 68
+      }
+    ]
+  }
+}

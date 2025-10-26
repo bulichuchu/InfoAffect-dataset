@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "decline",
+        "confidence": 88
+      },
+      {
+        "word": "rejection",
+        "confidence": 85
+      },
+      {
+        "word": "immoral",
+        "confidence": 82
+      },
+      {
+        "word": "change",
+        "confidence": 80
+      },
+      {
+        "word": "outdated",
+        "confidence": 78
+      },
+      {
+        "word": "criticism",
+        "confidence": 76
+      },
+      {
+        "word": "ethics",
+        "confidence": 74
+      }
+    ]
+  }
+}

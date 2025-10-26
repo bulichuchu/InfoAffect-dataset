@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "trending",
+        "confidence": 85
+      },
+      {
+        "word": "dominant",
+        "confidence": 80
+      },
+      {
+        "word": "competitive",
+        "confidence": 75
+      },
+      {
+        "word": "popular",
+        "confidence": 78
+      },
+      {
+        "word": "monopolistic",
+        "confidence": 70
+      },
+      {
+        "word": "exciting",
+        "confidence": 65
+      },
+      {
+        "word": "surprising",
+        "confidence": 60
+      },
+      {
+        "word": "informative",
+        "confidence": 82
+      }
+    ]
+  }
+}

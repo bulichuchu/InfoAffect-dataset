@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "significant",
+        "confidence": 90
+      },
+      {
+        "word": "record-breaking",
+        "confidence": 88
+      },
+      {
+        "word": "increasing",
+        "confidence": 85
+      },
+      {
+        "word": "projected",
+        "confidence": 80
+      },
+      {
+        "word": "unprecedented",
+        "confidence": 75
+      },
+      {
+        "word": "consequential",
+        "confidence": 70
+      },
+      {
+        "word": "persistent",
+        "confidence": 65
+      }
+    ]
+  }
+}

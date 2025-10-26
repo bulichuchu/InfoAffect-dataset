@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "competitive",
+        "confidence": 80
+      },
+      {
+        "word": "gradual",
+        "confidence": 75
+      },
+      {
+        "word": "shifting",
+        "confidence": 78
+      },
+      {
+        "word": "analytical",
+        "confidence": 72
+      },
+      {
+        "word": "neutral",
+        "confidence": 65
+      },
+      {
+        "word": "trendy",
+        "confidence": 60
+      }
+    ]
+  }
+}

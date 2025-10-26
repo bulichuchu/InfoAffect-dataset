@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disastrous",
+        "confidence": 90
+      },
+      {
+        "word": "defiant",
+        "confidence": 85
+      },
+      {
+        "word": "rebuke",
+        "confidence": 80
+      },
+      {
+        "word": "defeated",
+        "confidence": 78
+      },
+      {
+        "word": "shocking",
+        "confidence": 82
+      },
+      {
+        "word": "dramatic",
+        "confidence": 75
+      },
+      {
+        "word": "concerned",
+        "confidence": 77
+      }
+    ]
+  }
+}

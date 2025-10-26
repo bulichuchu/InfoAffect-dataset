@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "restricted",
+        "confidence": 85
+      },
+      {
+        "word": "undemocratic",
+        "confidence": 90
+      },
+      {
+        "word": "blocked",
+        "confidence": 88
+      },
+      {
+        "word": "suppressed",
+        "confidence": 92
+      },
+      {
+        "word": "disruptions",
+        "confidence": 80
+      },
+      {
+        "word": "alleged",
+        "confidence": 70
+      },
+      {
+        "word": "arrests",
+        "confidence": 75
+      }
+    ]
+  }
+}

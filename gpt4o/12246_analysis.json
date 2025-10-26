@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "abandoned",
+        "confidence": 90
+      },
+      {
+        "word": "danger",
+        "confidence": 85
+      },
+      {
+        "word": "vital",
+        "confidence": 80
+      },
+      {
+        "word": "slow",
+        "confidence": 75
+      },
+      {
+        "word": "improve",
+        "confidence": 70
+      },
+      {
+        "word": "successful",
+        "confidence": 65
+      },
+      {
+        "word": "retaliation",
+        "confidence": 60
+      },
+      {
+        "word": "limited",
+        "confidence": 55
+      }
+    ]
+  }
+}

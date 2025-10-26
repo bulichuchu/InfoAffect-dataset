@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "critical",
+        "confidence": 85
+      },
+      {
+        "word": "disapproving",
+        "confidence": 80
+      },
+      {
+        "word": "scrutinizing",
+        "confidence": 75
+      },
+      {
+        "word": "comparative",
+        "confidence": 70
+      },
+      {
+        "word": "skeptical",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "patriotism",
+        "confidence": 90
+      },
+      {
+        "word": "arrogance",
+        "confidence": 85
+      },
+      {
+        "word": "pride",
+        "confidence": 88
+      },
+      {
+        "word": "chauvinism",
+        "confidence": 92
+      },
+      {
+        "word": "superiority",
+        "confidence": 87
+      },
+      {
+        "word": "boasting",
+        "confidence": 83
+      }
+    ]
+  }
+}

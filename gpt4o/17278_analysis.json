@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "controversial",
+        "confidence": 90
+      },
+      {
+        "word": "furious",
+        "confidence": 85
+      },
+      {
+        "word": "questioned",
+        "confidence": 80
+      },
+      {
+        "word": "independent",
+        "confidence": 75
+      },
+      {
+        "word": "viewership",
+        "confidence": 70
+      },
+      {
+        "word": "broadcasted",
+        "confidence": 65
+      },
+      {
+        "word": "participating",
+        "confidence": 60
+      }
+    ]
+  }
+}

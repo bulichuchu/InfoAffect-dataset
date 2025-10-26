@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "decline",
+        "confidence": 90
+      },
+      {
+        "word": "eroding",
+        "confidence": 85
+      },
+      {
+        "word": "outperform",
+        "confidence": 75
+      },
+      {
+        "word": "downward",
+        "confidence": 80
+      },
+      {
+        "word": "trend",
+        "confidence": 70
+      },
+      {
+        "word": "growth",
+        "confidence": 60
+      }
+    ]
+  }
+}

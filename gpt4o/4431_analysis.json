@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dominance",
+        "confidence": 90
+      },
+      {
+        "word": "inevitable",
+        "confidence": 85
+      },
+      {
+        "word": "decline",
+        "confidence": 80
+      },
+      {
+        "word": "victory",
+        "confidence": 75
+      },
+      {
+        "word": "abandonment",
+        "confidence": 70
+      },
+      {
+        "word": "converged",
+        "confidence": 65
+      }
+    ]
+  }
+}

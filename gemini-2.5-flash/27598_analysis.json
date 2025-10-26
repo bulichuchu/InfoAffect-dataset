@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "growing",
+        "confidence": 95
+      },
+      {
+        "word": "promising",
+        "confidence": 90
+      },
+      {
+        "word": "influential",
+        "confidence": 85
+      },
+      {
+        "word": "significant",
+        "confidence": 80
+      },
+      {
+        "word": "accessible",
+        "confidence": 75
+      },
+      {
+        "word": "optimistic",
+        "confidence": 70
+      }
+    ]
+  }
+}

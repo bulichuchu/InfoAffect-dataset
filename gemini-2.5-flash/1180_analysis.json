@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transitional",
+        "confidence": 95
+      },
+      {
+        "word": "challenging",
+        "confidence": 90
+      },
+      {
+        "word": "uncertain",
+        "confidence": 85
+      },
+      {
+        "word": "disruptive",
+        "confidence": 80
+      },
+      {
+        "word": "cautious",
+        "confidence": 78
+      },
+      {
+        "word": "competitive",
+        "confidence": 70
+      }
+    ]
+  }
+}

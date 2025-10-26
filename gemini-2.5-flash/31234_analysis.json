@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disparity",
+        "confidence": 90
+      },
+      {
+        "word": "concern",
+        "confidence": 88
+      },
+      {
+        "word": "hardship",
+        "confidence": 85
+      },
+      {
+        "word": "sobering",
+        "confidence": 82
+      },
+      {
+        "word": "inequality",
+        "confidence": 80
+      },
+      {
+        "word": "deprivation",
+        "confidence": 75
+      },
+      {
+        "word": "unfairness",
+        "confidence": 70
+      }
+    ]
+  }
+}

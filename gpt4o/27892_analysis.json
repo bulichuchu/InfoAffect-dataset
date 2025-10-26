@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "urgent",
+        "confidence": 90
+      },
+      {
+        "word": "alarming",
+        "confidence": 88
+      },
+      {
+        "word": "disarray",
+        "confidence": 85
+      },
+      {
+        "word": "concern",
+        "confidence": 82
+      },
+      {
+        "word": "insecurity",
+        "confidence": 80
+      },
+      {
+        "word": "fears",
+        "confidence": 78
+      },
+      {
+        "word": "protectionist",
+        "confidence": 70
+      }
+    ]
+  }
+}

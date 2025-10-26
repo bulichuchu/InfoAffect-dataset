@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "booming",
+        "confidence": 95
+      },
+      {
+        "word": "record",
+        "confidence": 90
+      },
+      {
+        "word": "unrivalled",
+        "confidence": 85
+      },
+      {
+        "word": "growth",
+        "confidence": 80
+      },
+      {
+        "word": "success",
+        "confidence": 78
+      },
+      {
+        "word": "leading",
+        "confidence": 82
+      }
+    ]
+  }
+}

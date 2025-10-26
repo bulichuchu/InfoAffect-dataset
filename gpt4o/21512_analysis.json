@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "doom",
+        "confidence": 90
+      },
+      {
+        "word": "scrutiny",
+        "confidence": 85
+      },
+      {
+        "word": "risk",
+        "confidence": 80
+      },
+      {
+        "word": "contagious",
+        "confidence": 75
+      },
+      {
+        "word": "uncertain",
+        "confidence": 78
+      },
+      {
+        "word": "appeal",
+        "confidence": 70
+      },
+      {
+        "word": "dominant",
+        "confidence": 65
+      },
+      {
+        "word": "restrictions",
+        "confidence": 60
+      }
+    ]
+  }
+}

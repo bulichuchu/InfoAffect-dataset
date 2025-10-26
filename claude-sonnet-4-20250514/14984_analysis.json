@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "inspiring",
+        "confidence": 88
+      },
+      {
+        "word": "impressive",
+        "confidence": 85
+      },
+      {
+        "word": "dangerous",
+        "confidence": 82
+      },
+      {
+        "word": "challenging",
+        "confidence": 80
+      },
+      {
+        "word": "triumphant",
+        "confidence": 75
+      },
+      {
+        "word": "daunting",
+        "confidence": 72
+      },
+      {
+        "word": "ambitious",
+        "confidence": 68
+      },
+      {
+        "word": "perilous",
+        "confidence": 65
+      }
+    ]
+  }
+}

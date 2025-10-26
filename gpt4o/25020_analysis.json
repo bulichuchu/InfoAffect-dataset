@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "reluctant",
+        "confidence": 85
+      },
+      {
+        "word": "freedom",
+        "confidence": 80
+      },
+      {
+        "word": "flexible",
+        "confidence": 78
+      },
+      {
+        "word": "content",
+        "confidence": 75
+      },
+      {
+        "word": "impossible",
+        "confidence": 72
+      },
+      {
+        "word": "adapted",
+        "confidence": 70
+      }
+    ]
+  }
+}

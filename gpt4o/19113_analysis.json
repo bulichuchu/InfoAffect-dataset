@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "gloom",
+        "confidence": 90
+      },
+      {
+        "word": "negative",
+        "confidence": 85
+      },
+      {
+        "word": "depression",
+        "confidence": 82
+      },
+      {
+        "word": "worrying",
+        "confidence": 78
+      },
+      {
+        "word": "downturn",
+        "confidence": 80
+      },
+      {
+        "word": "pessimistic",
+        "confidence": 83
+      }
+    ]
+  }
+}

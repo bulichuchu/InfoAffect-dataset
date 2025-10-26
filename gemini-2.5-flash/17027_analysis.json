@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "contentious",
+        "confidence": 90
+      },
+      {
+        "word": "disappointed",
+        "confidence": 88
+      },
+      {
+        "word": "frustrated",
+        "confidence": 85
+      },
+      {
+        "word": "regretful",
+        "confidence": 80
+      },
+      {
+        "word": "angry",
+        "confidence": 75
+      },
+      {
+        "word": "confrontational",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "neutral",
+        "confidence": 90
+      },
+      {
+        "word": "informative",
+        "confidence": 85
+      },
+      {
+        "word": "analytical",
+        "confidence": 80
+      },
+      {
+        "word": "balanced",
+        "confidence": 75
+      },
+      {
+        "word": "contemplative",
+        "confidence": 70
+      },
+      {
+        "word": "debated",
+        "confidence": 65
+      },
+      {
+        "word": "factual",
+        "confidence": 82
+      },
+      {
+        "word": "measured",
+        "confidence": 73
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "relevant",
+        "confidence": 85
+      },
+      {
+        "word": "mainstay",
+        "confidence": 80
+      },
+      {
+        "word": "routine",
+        "confidence": 75
+      },
+      {
+        "word": "familiar",
+        "confidence": 70
+      },
+      {
+        "word": "persistent",
+        "confidence": 65
+      },
+      {
+        "word": "practical",
+        "confidence": 60
+      },
+      {
+        "word": "neutral",
+        "confidence": 72
+      },
+      {
+        "word": "enduring",
+        "confidence": 68
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transformative",
+        "confidence": 85
+      },
+      {
+        "word": "empowering",
+        "confidence": 80
+      },
+      {
+        "word": "disruptive",
+        "confidence": 75
+      },
+      {
+        "word": "modern",
+        "confidence": 72
+      },
+      {
+        "word": "critical",
+        "confidence": 70
+      },
+      {
+        "word": "revealing",
+        "confidence": 68
+      },
+      {
+        "word": "surprising",
+        "confidence": 65
+      },
+      {
+        "word": "concerned",
+        "confidence": 60
+      }
+    ]
+  }
+}

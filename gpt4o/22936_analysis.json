@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "worried",
+        "confidence": 95
+      },
+      {
+        "word": "concerned",
+        "confidence": 90
+      },
+      {
+        "word": "confusing",
+        "confidence": 88
+      },
+      {
+        "word": "bias",
+        "confidence": 85
+      },
+      {
+        "word": "misinformation",
+        "confidence": 82
+      },
+      {
+        "word": "disinformation",
+        "confidence": 82
+      }
+    ]
+  }
+}

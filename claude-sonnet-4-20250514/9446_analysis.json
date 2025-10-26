@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anticipatory",
+        "confidence": 88
+      },
+      {
+        "word": "opportunistic",
+        "confidence": 85
+      },
+      {
+        "word": "uncertain",
+        "confidence": 82
+      },
+      {
+        "word": "speculative",
+        "confidence": 80
+      },
+      {
+        "word": "tense",
+        "confidence": 78
+      },
+      {
+        "word": "calculating",
+        "confidence": 75
+      },
+      {
+        "word": "escalating",
+        "confidence": 72
+      }
+    ]
+  }
+}

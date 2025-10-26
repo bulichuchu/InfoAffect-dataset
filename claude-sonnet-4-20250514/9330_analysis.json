@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "competitive",
+        "confidence": 90
+      },
+      {
+        "word": "hopeful",
+        "confidence": 85
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 80
+      },
+      {
+        "word": "anticipatory",
+        "confidence": 88
+      },
+      {
+        "word": "celebratory",
+        "confidence": 75
+      },
+      {
+        "word": "cynical",
+        "confidence": 70
+      },
+      {
+        "word": "unifying",
+        "confidence": 65
+      },
+      {
+        "word": "contentious",
+        "confidence": 72
+      }
+    ]
+  }
+}

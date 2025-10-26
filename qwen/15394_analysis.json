@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "impressive",
+        "confidence": 85
+      },
+      {
+        "word": "intimidating",
+        "confidence": 80
+      },
+      {
+        "word": "formidable",
+        "confidence": 78
+      },
+      {
+        "word": "serious",
+        "confidence": 75
+      },
+      {
+        "word": "authoritative",
+        "confidence": 72
+      },
+      {
+        "word": "strategic",
+        "confidence": 68
+      },
+      {
+        "word": "sobering",
+        "confidence": 65
+      },
+      {
+        "word": "monumental",
+        "confidence": 70
+      }
+    ]
+  }
+}

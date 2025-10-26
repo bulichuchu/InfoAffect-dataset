@@ -1,0 +1,28 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "stark",
+          "confidence": 85
+        },
+        {
+          "word": "significant",
+          "confidence": 80
+        },
+        {
+          "word": "disparate",
+          "confidence": 75
+        },
+        {
+          "word": "alarming",
+          "confidence": 70
+        },
+        {
+          "word": "surprising",
+          "confidence": 65
+        }
+      ]
+    }
+  }
+]

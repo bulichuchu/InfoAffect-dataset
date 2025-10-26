@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "controversial",
+        "confidence": 90
+      },
+      {
+        "word": "contentious",
+        "confidence": 85
+      },
+      {
+        "word": "determined",
+        "confidence": 80
+      },
+      {
+        "word": "resistant",
+        "confidence": 75
+      },
+      {
+        "word": "urgent",
+        "confidence": 70
+      },
+      {
+        "word": "confrontational",
+        "confidence": 65
+      },
+      {
+        "word": "ambitious",
+        "confidence": 60
+      },
+      {
+        "word": "uncertain",
+        "confidence": 72
+      }
+    ]
+  }
+}

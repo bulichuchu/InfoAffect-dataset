@@ -1,0 +1,36 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "hateful",
+          "confidence": 90
+        },
+        {
+          "word": "dangerous",
+          "confidence": 85
+        },
+        {
+          "word": "unacceptable",
+          "confidence": 80
+        },
+        {
+          "word": "controversial",
+          "confidence": 75
+        },
+        {
+          "word": "outraged",
+          "confidence": 75
+        },
+        {
+          "word": "damning",
+          "confidence": 70
+        },
+        {
+          "word": "concerning",
+          "confidence": 70
+        }
+      ]
+    }
+  }
+]

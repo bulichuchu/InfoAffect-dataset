@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "worry",
+        "confidence": 90
+      },
+      {
+        "word": "terrorism",
+        "confidence": 85
+      },
+      {
+        "word": "unemployment",
+        "confidence": 80
+      },
+      {
+        "word": "poverty",
+        "confidence": 75
+      },
+      {
+        "word": "inequality",
+        "confidence": 70
+      },
+      {
+        "word": "immigration",
+        "confidence": 70
+      },
+      {
+        "word": "crime",
+        "confidence": 65
+      }
+    ]
+  }
+}

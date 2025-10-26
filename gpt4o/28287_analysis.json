@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "record-breaking",
+        "confidence": 90
+      },
+      {
+        "word": "historic",
+        "confidence": 85
+      },
+      {
+        "word": "impressive",
+        "confidence": 80
+      },
+      {
+        "word": "remarkable",
+        "confidence": 78
+      },
+      {
+        "word": "notable",
+        "confidence": 75
+      },
+      {
+        "word": "achievement",
+        "confidence": 77
+      }
+    ]
+  }
+}

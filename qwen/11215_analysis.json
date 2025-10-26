@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "uncertain",
+        "confidence": 90
+      },
+      {
+        "word": "overwhelmed",
+        "confidence": 85
+      },
+      {
+        "word": "limbo",
+        "confidence": 88
+      },
+      {
+        "word": "hopeful",
+        "confidence": 75
+      },
+      {
+        "word": "pressing",
+        "confidence": 80
+      },
+      {
+        "word": "anxious",
+        "confidence": 78
+      },
+      {
+        "word": "grave",
+        "confidence": 72
+      },
+      {
+        "word": "historic",
+        "confidence": 65
+      }
+    ]
+  }
+}

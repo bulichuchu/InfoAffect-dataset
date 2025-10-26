@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "curious",
+        "confidence": 85
+      },
+      {
+        "word": "observant",
+        "confidence": 80
+      },
+      {
+        "word": "reflective",
+        "confidence": 75
+      },
+      {
+        "word": "intrigued",
+        "confidence": 72
+      },
+      {
+        "word": "neutral",
+        "confidence": 68
+      },
+      {
+        "word": "analytical",
+        "confidence": 70
+      },
+      {
+        "word": "mildly humorous",
+        "confidence": 65
+      },
+      {
+        "word": "forward-looking",
+        "confidence": 63
+      }
+    ]
+  }
+}

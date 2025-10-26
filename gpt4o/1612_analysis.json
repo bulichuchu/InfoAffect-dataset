@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "triumphant",
+        "confidence": 90
+      },
+      {
+        "word": "struggling",
+        "confidence": 85
+      },
+      {
+        "word": "grim",
+        "confidence": 88
+      },
+      {
+        "word": "decline",
+        "confidence": 83
+      },
+      {
+        "word": "progress",
+        "confidence": 78
+      },
+      {
+        "word": "success",
+        "confidence": 80
+      },
+      {
+        "word": "plummet",
+        "confidence": 82
+      }
+    ]
+  }
+}

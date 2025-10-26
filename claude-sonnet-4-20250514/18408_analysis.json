@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "proud",
+        "confidence": 88
+      },
+      {
+        "word": "appealing",
+        "confidence": 85
+      },
+      {
+        "word": "impressive",
+        "confidence": 82
+      },
+      {
+        "word": "attractive",
+        "confidence": 80
+      },
+      {
+        "word": "welcoming",
+        "confidence": 75
+      },
+      {
+        "word": "inspiring",
+        "confidence": 70
+      },
+      {
+        "word": "confident",
+        "confidence": 68
+      }
+    ]
+  }
+}

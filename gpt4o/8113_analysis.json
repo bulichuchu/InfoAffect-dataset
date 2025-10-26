@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dystopian",
+        "confidence": 90
+      },
+      {
+        "word": "authoritarian",
+        "confidence": 85
+      },
+      {
+        "word": "populist",
+        "confidence": 80
+      },
+      {
+        "word": "charismatic",
+        "confidence": 75
+      },
+      {
+        "word": "power-hungry",
+        "confidence": 78
+      },
+      {
+        "word": "prosperity",
+        "confidence": 70
+      }
+    ]
+  }
+}

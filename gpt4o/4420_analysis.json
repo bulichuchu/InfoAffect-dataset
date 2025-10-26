@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "menace",
+        "confidence": 90
+      },
+      {
+        "word": "infamous",
+        "confidence": 85
+      },
+      {
+        "word": "worst",
+        "confidence": 80
+      },
+      {
+        "word": "alarming",
+        "confidence": 75
+      },
+      {
+        "word": "reckless",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "exciting",
+        "confidence": 85
+      },
+      {
+        "word": "impressive",
+        "confidence": 80
+      },
+      {
+        "word": "booming",
+        "confidence": 75
+      },
+      {
+        "word": "thrilling",
+        "confidence": 70
+      },
+      {
+        "word": "stunning",
+        "confidence": 88
+      },
+      {
+        "word": "competitive",
+        "confidence": 65
+      },
+      {
+        "word": "historic",
+        "confidence": 78
+      },
+      {
+        "word": "celebratory",
+        "confidence": 60
+      }
+    ]
+  }
+}

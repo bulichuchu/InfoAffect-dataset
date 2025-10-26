@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concern",
+        "confidence": 90
+      },
+      {
+        "word": "alarming",
+        "confidence": 85
+      },
+      {
+        "word": "progress",
+        "confidence": 80
+      },
+      {
+        "word": "predominant",
+        "confidence": 75
+      },
+      {
+        "word": "effective",
+        "confidence": 78
+      },
+      {
+        "word": "dramatic",
+        "confidence": 70
+      },
+      {
+        "word": "resistant",
+        "confidence": 76
+      }
+    ]
+  }
+}

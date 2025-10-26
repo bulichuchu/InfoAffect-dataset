@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "progress",
+        "confidence": 85
+      },
+      {
+        "word": "controversial",
+        "confidence": 80
+      },
+      {
+        "word": "successful",
+        "confidence": 78
+      },
+      {
+        "word": "worst",
+        "confidence": 90
+      },
+      {
+        "word": "trailing",
+        "confidence": 75
+      },
+      {
+        "word": "reduction",
+        "confidence": 82
+      }
+    ]
+  }
+}

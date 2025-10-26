@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "puzzlement",
+        "confidence": 85
+      },
+      {
+        "word": "hesitancy",
+        "confidence": 80
+      },
+      {
+        "word": "reluctance",
+        "confidence": 78
+      },
+      {
+        "word": "snub",
+        "confidence": 75
+      },
+      {
+        "word": "interest",
+        "confidence": 70
+      },
+      {
+        "word": "puzzling",
+        "confidence": 68
+      },
+      {
+        "word": "sinister",
+        "confidence": 60
+      }
+    ]
+  }
+}

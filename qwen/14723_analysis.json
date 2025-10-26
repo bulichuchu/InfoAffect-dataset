@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "proud",
+        "confidence": 85
+      },
+      {
+        "word": "reliable",
+        "confidence": 80
+      },
+      {
+        "word": "impressive",
+        "confidence": 78
+      },
+      {
+        "word": "competitive",
+        "confidence": 75
+      },
+      {
+        "word": "resilient",
+        "confidence": 72
+      },
+      {
+        "word": "precise",
+        "confidence": 82
+      },
+      {
+        "word": "exemplary",
+        "confidence": 76
+      },
+      {
+        "word": "trustworthy",
+        "confidence": 79
+      }
+    ]
+  }
+}

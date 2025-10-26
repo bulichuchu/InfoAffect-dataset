@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "competitive",
+        "confidence": 88
+      },
+      {
+        "word": "analytical",
+        "confidence": 85
+      },
+      {
+        "word": "divided",
+        "confidence": 82
+      },
+      {
+        "word": "strategic",
+        "confidence": 78
+      },
+      {
+        "word": "anticipatory",
+        "confidence": 75
+      },
+      {
+        "word": "informative",
+        "confidence": 72
+      },
+      {
+        "word": "polarized",
+        "confidence": 70
+      }
+    ]
+  }
+}

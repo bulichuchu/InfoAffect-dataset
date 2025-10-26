@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "confusion",
+        "confidence": 90
+      },
+      {
+        "word": "awareness",
+        "confidence": 85
+      },
+      {
+        "word": "unfulfilling",
+        "confidence": 80
+      },
+      {
+        "word": "apparent",
+        "confidence": 75
+      },
+      {
+        "word": "disconnect",
+        "confidence": 70
+      },
+      {
+        "word": "contradictory",
+        "confidence": 65
+      }
+    ]
+  }
+}

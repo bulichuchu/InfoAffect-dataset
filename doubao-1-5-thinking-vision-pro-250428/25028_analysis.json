@@ -1,0 +1,32 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "dislike",
+          "confidence": 90
+        },
+        {
+          "word": "fear",
+          "confidence": 85
+        },
+        {
+          "word": "phobias",
+          "confidence": 80
+        },
+        {
+          "word": "discomfort",
+          "confidence": 75
+        },
+        {
+          "word": "anxiety",
+          "confidence": 70
+        },
+        {
+          "word": "aversion",
+          "confidence": 65
+        }
+      ]
+    }
+  }
+]

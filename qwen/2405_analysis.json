@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "lagging",
+        "confidence": 85
+      },
+      {
+        "word": "distant",
+        "confidence": 80
+      },
+      {
+        "word": "surprising",
+        "confidence": 75
+      },
+      {
+        "word": "disappointing",
+        "confidence": 72
+      },
+      {
+        "word": "competitive",
+        "confidence": 68
+      },
+      {
+        "word": "concerned",
+        "confidence": 65
+      },
+      {
+        "word": "comparative",
+        "confidence": 60
+      }
+    ]
+  }
+}

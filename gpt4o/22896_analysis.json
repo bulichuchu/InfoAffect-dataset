@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "struggle",
+        "confidence": 90
+      },
+      {
+        "word": "difficult",
+        "confidence": 85
+      },
+      {
+        "word": "unfair",
+        "confidence": 80
+      },
+      {
+        "word": "necessity",
+        "confidence": 75
+      },
+      {
+        "word": "barrier",
+        "confidence": 82
+      },
+      {
+        "word": "catalyst",
+        "confidence": 70
+      }
+    ]
+  }
+}

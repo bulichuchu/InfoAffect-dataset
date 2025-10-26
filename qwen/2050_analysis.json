@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "excited",
+        "confidence": 85
+      },
+      {
+        "word": "distracted",
+        "confidence": 78
+      },
+      {
+        "word": "rebellious",
+        "confidence": 70
+      },
+      {
+        "word": "playful",
+        "confidence": 65
+      },
+      {
+        "word": "engaged",
+        "confidence": 80
+      },
+      {
+        "word": "mischievous",
+        "confidence": 60
+      },
+      {
+        "word": "focused",
+        "confidence": 55
+      },
+      {
+        "word": "diverted",
+        "confidence": 72
+      }
+    ]
+  }
+}

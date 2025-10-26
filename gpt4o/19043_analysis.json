@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anticipation",
+        "confidence": 90
+      },
+      {
+        "word": "diplomatic",
+        "confidence": 85
+      },
+      {
+        "word": "strategic",
+        "confidence": 80
+      },
+      {
+        "word": "historic",
+        "confidence": 75
+      },
+      {
+        "word": "unusual",
+        "confidence": 70
+      },
+      {
+        "word": "controversial",
+        "confidence": 65
+      },
+      {
+        "word": "courting",
+        "confidence": 60
+      }
+    ]
+  }
+}

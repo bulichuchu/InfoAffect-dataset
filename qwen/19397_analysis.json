@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "trusted",
+        "confidence": 90
+      },
+      {
+        "word": "distrustful",
+        "confidence": 85
+      },
+      {
+        "word": "reassuring",
+        "confidence": 78
+      },
+      {
+        "word": "disillusioned",
+        "confidence": 75
+      },
+      {
+        "word": "concerned",
+        "confidence": 70
+      },
+      {
+        "word": "skeptical",
+        "confidence": 82
+      },
+      {
+        "word": "respectful",
+        "confidence": 73
+      },
+      {
+        "word": "critical",
+        "confidence": 68
+      }
+    ]
+  }
+}

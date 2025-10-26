@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "complex",
+        "confidence": 85
+      },
+      {
+        "word": "contrasting",
+        "confidence": 82
+      },
+      {
+        "word": "strategic",
+        "confidence": 78
+      },
+      {
+        "word": "persistent",
+        "confidence": 75
+      },
+      {
+        "word": "geopolitical",
+        "confidence": 80
+      },
+      {
+        "word": "economically-charged",
+        "confidence": 76
+      }
+    ]
+  }
+}

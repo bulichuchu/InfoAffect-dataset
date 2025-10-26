@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disruptive",
+        "confidence": 85
+      },
+      {
+        "word": "unstable",
+        "confidence": 80
+      },
+      {
+        "word": "competitive",
+        "confidence": 75
+      },
+      {
+        "word": "volatile",
+        "confidence": 72
+      },
+      {
+        "word": "high-pressure",
+        "confidence": 70
+      },
+      {
+        "word": "critical",
+        "confidence": 65
+      },
+      {
+        "word": "challenging",
+        "confidence": 68
+      },
+      {
+        "word": "decisive",
+        "confidence": 60
+      }
+    ]
+  }
+}

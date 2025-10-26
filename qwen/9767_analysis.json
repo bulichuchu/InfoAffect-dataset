@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "triumphant",
+        "confidence": 90
+      },
+      {
+        "word": "disruptive",
+        "confidence": 85
+      },
+      {
+        "word": "surprising",
+        "confidence": 80
+      },
+      {
+        "word": "landslide",
+        "confidence": 75
+      },
+      {
+        "word": "transformative",
+        "confidence": 78
+      },
+      {
+        "word": "decisive",
+        "confidence": 72
+      },
+      {
+        "word": "underwhelming",
+        "confidence": 65
+      },
+      {
+        "word": "historic",
+        "confidence": 70
+      }
+    ]
+  }
+}

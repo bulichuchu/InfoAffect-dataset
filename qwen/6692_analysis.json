@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "resilient",
+        "confidence": 85
+      },
+      {
+        "word": "determined",
+        "confidence": 80
+      },
+      {
+        "word": "concerned",
+        "confidence": 75
+      },
+      {
+        "word": "uncomfortable",
+        "confidence": 70
+      },
+      {
+        "word": "persistent",
+        "confidence": 65
+      },
+      {
+        "word": "pressured",
+        "confidence": 60
+      },
+      {
+        "word": "exhausted",
+        "confidence": 55
+      },
+      {
+        "word": "dedicated",
+        "confidence": 72
+      }
+    ]
+  }
+}

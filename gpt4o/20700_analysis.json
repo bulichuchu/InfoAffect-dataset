@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disturbing",
+        "confidence": 90
+      },
+      {
+        "word": "xenophobia",
+        "confidence": 85
+      },
+      {
+        "word": "intolerance",
+        "confidence": 80
+      },
+      {
+        "word": "bothered",
+        "confidence": 75
+      },
+      {
+        "word": "annoyed",
+        "confidence": 70
+      },
+      {
+        "word": "nervous",
+        "confidence": 65
+      },
+      {
+        "word": "division",
+        "confidence": 60
+      }
+    ]
+  }
+}

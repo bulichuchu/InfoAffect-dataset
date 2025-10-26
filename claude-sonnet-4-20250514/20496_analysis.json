@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "nostalgic",
+        "confidence": 88
+      },
+      {
+        "word": "impressive",
+        "confidence": 82
+      },
+      {
+        "word": "fascinating",
+        "confidence": 78
+      },
+      {
+        "word": "amusing",
+        "confidence": 75
+      },
+      {
+        "word": "overwhelming",
+        "confidence": 70
+      },
+      {
+        "word": "celebratory",
+        "confidence": 68
+      },
+      {
+        "word": "entertaining",
+        "confidence": 72
+      }
+    ]
+  }
+}

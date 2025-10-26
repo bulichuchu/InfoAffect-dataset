@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "tense",
+        "confidence": 90
+      },
+      {
+        "word": "alert",
+        "confidence": 85
+      },
+      {
+        "word": "formidable",
+        "confidence": 80
+      },
+      {
+        "word": "strategic",
+        "confidence": 75
+      },
+      {
+        "word": "serious",
+        "confidence": 78
+      },
+      {
+        "word": "ready",
+        "confidence": 82
+      },
+      {
+        "word": "deterrent",
+        "confidence": 70
+      },
+      {
+        "word": "grave",
+        "confidence": 73
+      }
+    ]
+  }
+}

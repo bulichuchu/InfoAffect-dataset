@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerning",
+        "confidence": 82
+      },
+      {
+        "word": "stagnant",
+        "confidence": 78
+      },
+      {
+        "word": "skeptical",
+        "confidence": 75
+      },
+      {
+        "word": "resilient",
+        "confidence": 70
+      },
+      {
+        "word": "contradictory",
+        "confidence": 68
+      },
+      {
+        "word": "ironic",
+        "confidence": 65
+      },
+      {
+        "word": "persistent",
+        "confidence": 62
+      }
+    ]
+  }
+}

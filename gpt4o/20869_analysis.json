@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "impressive",
+        "confidence": 90
+      },
+      {
+        "word": "friendly",
+        "confidence": 85
+      },
+      {
+        "word": "cleanliness",
+        "confidence": 80
+      },
+      {
+        "word": "refurbishment",
+        "confidence": 75
+      },
+      {
+        "word": "passenger-friendly",
+        "confidence": 85
+      },
+      {
+        "word": "ranking",
+        "confidence": 78
+      }
+    ]
+  }
+}

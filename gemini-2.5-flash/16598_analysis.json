@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "Accepting",
+        "confidence": 95
+      },
+      {
+        "word": "Supportive",
+        "confidence": 88
+      },
+      {
+        "word": "Cautious",
+        "confidence": 85
+      },
+      {
+        "word": "Skeptical",
+        "confidence": 80
+      },
+      {
+        "word": "Security-conscious",
+        "confidence": 90
+      },
+      {
+        "word": "Concerned",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "contrasting",
+        "confidence": 95
+      },
+      {
+        "word": "progressive",
+        "confidence": 90
+      },
+      {
+        "word": "dynamic",
+        "confidence": 85
+      },
+      {
+        "word": "modernizing",
+        "confidence": 80
+      },
+      {
+        "word": "analytical",
+        "confidence": 75
+      },
+      {
+        "word": "observational",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "restrictive",
+        "confidence": 90
+      },
+      {
+        "word": "controversial",
+        "confidence": 85
+      },
+      {
+        "word": "protective",
+        "confidence": 80
+      },
+      {
+        "word": "political",
+        "confidence": 75
+      },
+      {
+        "word": "defensive",
+        "confidence": 70
+      },
+      {
+        "word": "misleading",
+        "confidence": 65
+      }
+    ]
+  }
+}

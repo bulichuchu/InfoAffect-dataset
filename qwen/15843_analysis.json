@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "outraged",
+        "confidence": 85
+      },
+      {
+        "word": "frustrated",
+        "confidence": 80
+      },
+      {
+        "word": "relieved",
+        "confidence": 75
+      },
+      {
+        "word": "volatile",
+        "confidence": 70
+      },
+      {
+        "word": "hopeful",
+        "confidence": 65
+      },
+      {
+        "word": "extortionate",
+        "confidence": 78
+      },
+      {
+        "word": "stabilizing",
+        "confidence": 72
+      },
+      {
+        "word": "welcome",
+        "confidence": 68
+      }
+    ]
+  }
+}

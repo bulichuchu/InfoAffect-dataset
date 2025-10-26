@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "severe",
+        "confidence": 90
+      },
+      {
+        "word": "damaged",
+        "confidence": 85
+      },
+      {
+        "word": "relentless",
+        "confidence": 80
+      },
+      {
+        "word": "reduced",
+        "confidence": 78
+      },
+      {
+        "word": "support",
+        "confidence": 75
+      },
+      {
+        "word": "aid",
+        "confidence": 72
+      },
+      {
+        "word": "noticeably",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "drastic",
+        "confidence": 95
+      },
+      {
+        "word": "concerning",
+        "confidence": 92
+      },
+      {
+        "word": "severe",
+        "confidence": 90
+      },
+      {
+        "word": "unprecedented",
+        "confidence": 89
+      },
+      {
+        "word": "sobering",
+        "confidence": 88
+      },
+      {
+        "word": "stark",
+        "confidence": 82
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "pride",
+        "confidence": 95
+      },
+      {
+        "word": "identity",
+        "confidence": 90
+      },
+      {
+        "word": "detachment",
+        "confidence": 85
+      },
+      {
+        "word": "informative",
+        "confidence": 80
+      },
+      {
+        "word": "comparative",
+        "confidence": 75
+      },
+      {
+        "word": "disparity",
+        "confidence": 70
+      }
+    ]
+  }
+}

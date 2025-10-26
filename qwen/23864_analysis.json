@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "costly",
+        "confidence": 90
+      },
+      {
+        "word": "disruptive",
+        "confidence": 85
+      },
+      {
+        "word": "concerning",
+        "confidence": 80
+      },
+      {
+        "word": "restrictive",
+        "confidence": 75
+      },
+      {
+        "word": "alarming",
+        "confidence": 78
+      },
+      {
+        "word": "serious",
+        "confidence": 72
+      },
+      {
+        "word": "impactful",
+        "confidence": 70
+      },
+      {
+        "word": "oppressive",
+        "confidence": 65
+      }
+    ]
+  }
+}

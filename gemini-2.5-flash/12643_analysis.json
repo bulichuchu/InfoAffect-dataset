@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "toxic",
+        "confidence": 95
+      },
+      {
+        "word": "livid",
+        "confidence": 90
+      },
+      {
+        "word": "resentful",
+        "confidence": 88
+      },
+      {
+        "word": "disgruntled",
+        "confidence": 82
+      },
+      {
+        "word": "divisive",
+        "confidence": 78
+      },
+      {
+        "word": "contentious",
+        "confidence": 70
+      }
+    ]
+  }
+}

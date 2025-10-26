@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "admiring",
+        "confidence": 95
+      },
+      {
+        "word": "respectful",
+        "confidence": 88
+      },
+      {
+        "word": "comparative",
+        "confidence": 85
+      },
+      {
+        "word": "celebratory",
+        "confidence": 80
+      },
+      {
+        "word": "competitive",
+        "confidence": 75
+      },
+      {
+        "word": "informative",
+        "confidence": 78
+      },
+      {
+        "word": "revealing",
+        "confidence": 70
+      },
+      {
+        "word": "neutral",
+        "confidence": 65
+      }
+    ]
+  }
+}

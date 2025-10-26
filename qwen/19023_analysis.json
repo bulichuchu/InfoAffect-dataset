@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "negative",
+        "confidence": 95
+      },
+      {
+        "word": "deteriorating",
+        "confidence": 88
+      },
+      {
+        "word": "concerned",
+        "confidence": 82
+      },
+      {
+        "word": "critical",
+        "confidence": 78
+      },
+      {
+        "word": "worsening",
+        "confidence": 85
+      },
+      {
+        "word": "alarming",
+        "confidence": 76
+      },
+      {
+        "word": "tense",
+        "confidence": 70
+      },
+      {
+        "word": "hostile",
+        "confidence": 65
+      }
+    ]
+  }
+}

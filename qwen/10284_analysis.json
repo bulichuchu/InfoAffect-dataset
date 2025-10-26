@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "discriminatory",
+        "confidence": 90
+      },
+      {
+        "word": "unfair",
+        "confidence": 85
+      },
+      {
+        "word": "biased",
+        "confidence": 82
+      },
+      {
+        "word": "judgmental",
+        "confidence": 78
+      },
+      {
+        "word": "disappointing",
+        "confidence": 75
+      },
+      {
+        "word": "concerning",
+        "confidence": 73
+      },
+      {
+        "word": "divisive",
+        "confidence": 68
+      },
+      {
+        "word": "revealing",
+        "confidence": 65
+      }
+    ]
+  }
+}

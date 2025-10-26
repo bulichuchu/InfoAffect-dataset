@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "distrust",
+        "confidence": 90
+      },
+      {
+        "word": "shaken",
+        "confidence": 85
+      },
+      {
+        "word": "confidence",
+        "confidence": 80
+      },
+      {
+        "word": "interference",
+        "confidence": 78
+      },
+      {
+        "word": "glitches",
+        "confidence": 72
+      },
+      {
+        "word": "mayhem",
+        "confidence": 75
+      }
+    ]
+  }
+}

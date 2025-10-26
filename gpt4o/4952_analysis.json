@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "hopeful",
+        "confidence": 90
+      },
+      {
+        "word": "empowering",
+        "confidence": 85
+      },
+      {
+        "word": "progressive",
+        "confidence": 80
+      },
+      {
+        "word": "constructive",
+        "confidence": 75
+      },
+      {
+        "word": "supportive",
+        "confidence": 70
+      }
+    ]
+  }
+}

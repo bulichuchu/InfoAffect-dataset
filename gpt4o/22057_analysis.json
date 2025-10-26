@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "introspective",
+        "confidence": 90
+      },
+      {
+        "word": "horrid",
+        "confidence": 88
+      },
+      {
+        "word": "celebration",
+        "confidence": 85
+      },
+      {
+        "word": "grave",
+        "confidence": 82
+      },
+      {
+        "word": "influential",
+        "confidence": 78
+      },
+      {
+        "word": "remembrance",
+        "confidence": 75
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "contrasting",
+        "confidence": 85
+      },
+      {
+        "word": "ambivalent",
+        "confidence": 80
+      },
+      {
+        "word": "concerned",
+        "confidence": 78
+      },
+      {
+        "word": "cautious",
+        "confidence": 75
+      },
+      {
+        "word": "evolving",
+        "confidence": 72
+      },
+      {
+        "word": "surveillant",
+        "confidence": 68
+      },
+      {
+        "word": "skeptical",
+        "confidence": 65
+      }
+    ]
+  }
+}

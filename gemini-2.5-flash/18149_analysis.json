@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "commemorative",
+        "confidence": 90
+      },
+      {
+        "word": "respectful",
+        "confidence": 88
+      },
+      {
+        "word": "cherished",
+        "confidence": 85
+      },
+      {
+        "word": "traditional",
+        "confidence": 82
+      },
+      {
+        "word": "appreciative",
+        "confidence": 78
+      },
+      {
+        "word": "nationalistic",
+        "confidence": 70
+      },
+      {
+        "word": "anticipatory",
+        "confidence": 65
+      }
+    ]
+  }
+}

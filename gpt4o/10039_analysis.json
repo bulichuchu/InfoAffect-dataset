@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dominance",
+        "confidence": 90
+      },
+      {
+        "word": "recovery",
+        "confidence": 85
+      },
+      {
+        "word": "growth",
+        "confidence": 80
+      },
+      {
+        "word": "success",
+        "confidence": 75
+      },
+      {
+        "word": "competition",
+        "confidence": 70
+      },
+      {
+        "word": "resilience",
+        "confidence": 72
+      }
+    ]
+  }
+}

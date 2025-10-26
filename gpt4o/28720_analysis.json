@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "pressing",
+        "confidence": 90
+      },
+      {
+        "word": "concerning",
+        "confidence": 85
+      },
+      {
+        "word": "serious",
+        "confidence": 82
+      },
+      {
+        "word": "controversial",
+        "confidence": 78
+      },
+      {
+        "word": "adaptable",
+        "confidence": 70
+      },
+      {
+        "word": "draining",
+        "confidence": 75
+      },
+      {
+        "word": "innovative",
+        "confidence": 65
+      }
+    ]
+  }
+}

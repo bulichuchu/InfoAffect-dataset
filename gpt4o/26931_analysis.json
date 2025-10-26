@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "oppressive",
+        "confidence": 90
+      },
+      {
+        "word": "resistant",
+        "confidence": 85
+      },
+      {
+        "word": "defiant",
+        "confidence": 80
+      },
+      {
+        "word": "alarming",
+        "confidence": 78
+      },
+      {
+        "word": "tense",
+        "confidence": 75
+      },
+      {
+        "word": "unprecedented",
+        "confidence": 70
+      },
+      {
+        "word": "divisive",
+        "confidence": 68
+      }
+    ]
+  }
+}

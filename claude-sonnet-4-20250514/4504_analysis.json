@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "arduous",
+        "confidence": 90
+      },
+      {
+        "word": "tedious",
+        "confidence": 85
+      },
+      {
+        "word": "burdensome",
+        "confidence": 80
+      },
+      {
+        "word": "frustrated",
+        "confidence": 75
+      },
+      {
+        "word": "challenging",
+        "confidence": 72
+      },
+      {
+        "word": "informative",
+        "confidence": 68
+      },
+      {
+        "word": "factual",
+        "confidence": 65
+      }
+    ]
+  }
+}

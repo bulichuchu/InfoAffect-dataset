@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "ironic",
+        "confidence": 90
+      },
+      {
+        "word": "surprising",
+        "confidence": 85
+      },
+      {
+        "word": "skeptical",
+        "confidence": 80
+      },
+      {
+        "word": "revealing",
+        "confidence": 75
+      },
+      {
+        "word": "critical",
+        "confidence": 70
+      },
+      {
+        "word": "discreet",
+        "confidence": 65
+      },
+      {
+        "word": "controversial",
+        "confidence": 72
+      },
+      {
+        "word": "exposé",
+        "confidence": 68
+      }
+    ]
+  }
+}

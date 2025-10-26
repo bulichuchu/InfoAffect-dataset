@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concern",
+        "confidence": 85
+      },
+      {
+        "word": "stable",
+        "confidence": 80
+      },
+      {
+        "word": "dwindled",
+        "confidence": 78
+      },
+      {
+        "word": "exploitation",
+        "confidence": 75
+      },
+      {
+        "word": "prominent",
+        "confidence": 70
+      },
+      {
+        "word": "cooperation",
+        "confidence": 68
+      }
+    ]
+  }
+}

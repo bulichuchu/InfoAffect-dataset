@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "valuable",
+        "confidence": 90
+      },
+      {
+        "word": "prestigious",
+        "confidence": 85
+      },
+      {
+        "word": "influential",
+        "confidence": 80
+      },
+      {
+        "word": "economical",
+        "confidence": 78
+      },
+      {
+        "word": "significant",
+        "confidence": 82
+      },
+      {
+        "word": "beneficial",
+        "confidence": 88
+      }
+    ]
+  }
+}

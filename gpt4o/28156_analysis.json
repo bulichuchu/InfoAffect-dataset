@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "awareness",
+        "confidence": 90
+      },
+      {
+        "word": "celebrate",
+        "confidence": 85
+      },
+      {
+        "word": "lifesaving",
+        "confidence": 82
+      },
+      {
+        "word": "universal",
+        "confidence": 80
+      },
+      {
+        "word": "diversity",
+        "confidence": 78
+      },
+      {
+        "word": "prevalence",
+        "confidence": 72
+      }
+    ]
+  }
+}

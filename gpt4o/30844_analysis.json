@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frustrating",
+        "confidence": 90
+      },
+      {
+        "word": "congested",
+        "confidence": 85
+      },
+      {
+        "word": "stressful",
+        "confidence": 80
+      },
+      {
+        "word": "slow",
+        "confidence": 88
+      },
+      {
+        "word": "delayed",
+        "confidence": 82
+      },
+      {
+        "word": "time-consuming",
+        "confidence": 87
+      }
+    ]
+  }
+}

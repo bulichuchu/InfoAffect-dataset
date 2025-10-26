@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "burdened",
+        "confidence": 90
+      },
+      {
+        "word": "alarming",
+        "confidence": 85
+      },
+      {
+        "word": "disparaging",
+        "confidence": 78
+      },
+      {
+        "word": "frustrating",
+        "confidence": 82
+      },
+      {
+        "word": "unequal",
+        "confidence": 75
+      },
+      {
+        "word": "critical",
+        "confidence": 70
+      },
+      {
+        "word": "concerning",
+        "confidence": 88
+      },
+      {
+        "word": "unfair",
+        "confidence": 76
+      }
+    ]
+  }
+}

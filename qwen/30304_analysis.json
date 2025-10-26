@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "awe-inspiring",
+        "confidence": 88
+      },
+      {
+        "word": "majestic",
+        "confidence": 82
+      },
+      {
+        "word": "catastrophic",
+        "confidence": 79
+      },
+      {
+        "word": "historical",
+        "confidence": 76
+      },
+      {
+        "word": "dramatic",
+        "confidence": 74
+      },
+      {
+        "word": "formidable",
+        "confidence": 70
+      },
+      {
+        "word": "scientific",
+        "confidence": 65
+      },
+      {
+        "word": "educational",
+        "confidence": 68
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "awareness",
+        "confidence": 90
+      },
+      {
+        "word": "consciousness",
+        "confidence": 85
+      },
+      {
+        "word": "priority",
+        "confidence": 80
+      },
+      {
+        "word": "emphasis",
+        "confidence": 78
+      },
+      {
+        "word": "important",
+        "confidence": 75
+      },
+      {
+        "word": "significant",
+        "confidence": 70
+      }
+    ]
+  }
+}

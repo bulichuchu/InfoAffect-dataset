@@ -1,0 +1,32 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "impressive",
+          "confidence": 90
+        },
+        {
+          "word": "unsavory",
+          "confidence": 85
+        },
+        {
+          "word": "unprofitable",
+          "confidence": 95
+        },
+        {
+          "word": "challenging",
+          "confidence": 80
+        },
+        {
+          "word": "problematic",
+          "confidence": 75
+        },
+        {
+          "word": "pressing",
+          "confidence": 70
+        }
+      ]
+    }
+  }
+]

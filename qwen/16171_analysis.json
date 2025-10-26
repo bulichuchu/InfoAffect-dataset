@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "competitive",
+        "confidence": 90
+      },
+      {
+        "word": "pressured",
+        "confidence": 85
+      },
+      {
+        "word": "aggressive",
+        "confidence": 80
+      },
+      {
+        "word": "urgent",
+        "confidence": 75
+      },
+      {
+        "word": "disruptive",
+        "confidence": 70
+      },
+      {
+        "word": "frustrating",
+        "confidence": 65
+      },
+      {
+        "word": "commercial",
+        "confidence": 60
+      },
+      {
+        "word": "relentless",
+        "confidence": 72
+      }
+    ]
+  }
+}

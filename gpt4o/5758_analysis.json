@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "reigning",
+        "confidence": 85
+      },
+      {
+        "word": "supreme",
+        "confidence": 80
+      },
+      {
+        "word": "favorite",
+        "confidence": 75
+      },
+      {
+        "word": "dethroned",
+        "confidence": 72
+      },
+      {
+        "word": "crowned",
+        "confidence": 78
+      },
+      {
+        "word": "consuming",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "resilient",
+        "confidence": 80
+      },
+      {
+        "word": "contradictory",
+        "confidence": 85
+      },
+      {
+        "word": "profiteering",
+        "confidence": 75
+      },
+      {
+        "word": "complex",
+        "confidence": 82
+      },
+      {
+        "word": "critical",
+        "confidence": 78
+      },
+      {
+        "word": "ambiguous",
+        "confidence": 76
+      },
+      {
+        "word": "cautious",
+        "confidence": 72
+      }
+    ]
+  }
+}

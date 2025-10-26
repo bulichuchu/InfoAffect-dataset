@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "puzzled",
+        "confidence": 95
+      },
+      {
+        "word": "hesitant",
+        "confidence": 90
+      },
+      {
+        "word": "frustrated",
+        "confidence": 85
+      },
+      {
+        "word": "tense",
+        "confidence": 80
+      },
+      {
+        "word": "suspicious",
+        "confidence": 75
+      },
+      {
+        "word": "stagnant",
+        "confidence": 70
+      }
+    ]
+  }
+}

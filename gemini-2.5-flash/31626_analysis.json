@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "decisive",
+        "confidence": 90
+      },
+      {
+        "word": "consequential",
+        "confidence": 88
+      },
+      {
+        "word": "dominant",
+        "confidence": 85
+      },
+      {
+        "word": "significant",
+        "confidence": 82
+      },
+      {
+        "word": "assured",
+        "confidence": 78
+      },
+      {
+        "word": "pivotal",
+        "confidence": 75
+      }
+    ]
+  }
+}

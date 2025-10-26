@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "avoidance",
+        "confidence": 95
+      },
+      {
+        "word": "apprehensive",
+        "confidence": 90
+      },
+      {
+        "word": "aversion",
+        "confidence": 85
+      },
+      {
+        "word": "united",
+        "confidence": 80
+      },
+      {
+        "word": "distaste",
+        "confidence": 78
+      },
+      {
+        "word": "apprehensive",
+        "confidence": 75
+      },
+      {
+        "word": "preference",
+        "confidence": 72
+      }
+    ]
+  }
+}

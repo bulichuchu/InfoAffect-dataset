@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "obligatory",
+        "confidence": 90
+      },
+      {
+        "word": "serious",
+        "confidence": 85
+      },
+      {
+        "word": "consequential",
+        "confidence": 80
+      },
+      {
+        "word": "authoritative",
+        "confidence": 75
+      },
+      {
+        "word": "restricted",
+        "confidence": 70
+      },
+      {
+        "word": "definitive",
+        "confidence": 65
+      },
+      {
+        "word": "compliant",
+        "confidence": 60
+      }
+    ]
+  }
+}

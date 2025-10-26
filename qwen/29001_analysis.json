@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "practical",
+        "confidence": 90
+      },
+      {
+        "word": "desirable",
+        "confidence": 85
+      },
+      {
+        "word": "useful",
+        "confidence": 80
+      },
+      {
+        "word": "gendered",
+        "confidence": 75
+      },
+      {
+        "word": "analytical",
+        "confidence": 70
+      },
+      {
+        "word": "neutral",
+        "confidence": 65
+      },
+      {
+        "word": "informative",
+        "confidence": 82
+      },
+      {
+        "word": "surprising",
+        "confidence": 60
+      }
+    ]
+  }
+}

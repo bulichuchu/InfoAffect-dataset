@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 90
+      },
+      {
+        "word": "hard-hit",
+        "confidence": 85
+      },
+      {
+        "word": "inevitable",
+        "confidence": 82
+      },
+      {
+        "word": "drowning",
+        "confidence": 78
+      },
+      {
+        "word": "alarming",
+        "confidence": 75
+      },
+      {
+        "word": "pessimistic",
+        "confidence": 70
+      },
+      {
+        "word": "urgent",
+        "confidence": 65
+      },
+      {
+        "word": "somber",
+        "confidence": 68
+      }
+    ]
+  }
+}

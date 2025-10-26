@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "victory",
+        "confidence": 90
+      },
+      {
+        "word": "crushing",
+        "confidence": 85
+      },
+      {
+        "word": "record(low)",
+        "confidence": 75
+      },
+      {
+        "word": "marginally",
+        "confidence": 70
+      },
+      {
+        "word": "spectacular",
+        "confidence": 80
+      },
+      {
+        "word": "marred",
+        "confidence": 80
+      }
+    ]
+  }
+}

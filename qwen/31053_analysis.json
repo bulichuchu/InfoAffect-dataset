@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "ambitious",
+        "confidence": 88
+      },
+      {
+        "word": "strategic",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 78
+      },
+      {
+        "word": "expansive",
+        "confidence": 82
+      },
+      {
+        "word": "controversial",
+        "confidence": 75
+      },
+      {
+        "word": "significant",
+        "confidence": 80
+      },
+      {
+        "word": "geopolitical",
+        "confidence": 76
+      },
+      {
+        "word": "debt-laden",
+        "confidence": 70
+      }
+    ]
+  }
+}

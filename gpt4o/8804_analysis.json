@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "tight",
+        "confidence": 85
+      },
+      {
+        "word": "crucial",
+        "confidence": 82
+      },
+      {
+        "word": "uncertain",
+        "confidence": 80
+      },
+      {
+        "word": "pivotal",
+        "confidence": 78
+      },
+      {
+        "word": "suspenseful",
+        "confidence": 76
+      },
+      {
+        "word": "competitive",
+        "confidence": 74
+      }
+    ]
+  }
+}

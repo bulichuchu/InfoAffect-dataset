@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "tradition",
+        "confidence": 85
+      },
+      {
+        "word": "concern",
+        "confidence": 80
+      },
+      {
+        "word": "hopeful",
+        "confidence": 75
+      },
+      {
+        "word": "transition",
+        "confidence": 70
+      },
+      {
+        "word": "relief",
+        "confidence": 65
+      },
+      {
+        "word": "shift",
+        "confidence": 70
+      }
+    ]
+  }
+}

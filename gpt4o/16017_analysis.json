@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "historic",
+        "confidence": 90
+      },
+      {
+        "word": "empowering",
+        "confidence": 88
+      },
+      {
+        "word": "transformative",
+        "confidence": 85
+      },
+      {
+        "word": "progressive",
+        "confidence": 82
+      },
+      {
+        "word": "inspiring",
+        "confidence": 80
+      },
+      {
+        "word": "hopeful",
+        "confidence": 78
+      }
+    ]
+  }
+}

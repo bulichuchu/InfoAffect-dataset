@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "impressive",
+        "confidence": 90
+      },
+      {
+        "word": "overwhelming",
+        "confidence": 85
+      },
+      {
+        "word": "booming",
+        "confidence": 80
+      },
+      {
+        "word": "gargantuan",
+        "confidence": 78
+      },
+      {
+        "word": "enticing",
+        "confidence": 75
+      },
+      {
+        "word": "prestigious",
+        "confidence": 70
+      }
+    ]
+  }
+}

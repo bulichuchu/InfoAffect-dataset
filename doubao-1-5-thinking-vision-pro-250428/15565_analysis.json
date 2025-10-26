@@ -1,0 +1,32 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "triumphant",
+          "confidence": 90
+        },
+        {
+          "word": "resilient",
+          "confidence": 85
+        },
+        {
+          "word": "historic",
+          "confidence": 80
+        },
+        {
+          "word": "enduring",
+          "confidence": 75
+        },
+        {
+          "word": "uplifting",
+          "confidence": 70
+        },
+        {
+          "word": "accomplished",
+          "confidence": 65
+        }
+      ]
+    }
+  }
+]

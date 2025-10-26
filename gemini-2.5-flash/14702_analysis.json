@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "indifferent",
+        "confidence": 85
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 80
+      },
+      {
+        "word": "sobering",
+        "confidence": 78
+      },
+      {
+        "word": "divided",
+        "confidence": 70
+      },
+      {
+        "word": "unconcerned",
+        "confidence": 65
+      },
+      {
+        "word": "focused",
+        "confidence": 60
+      }
+    ]
+  }
+}

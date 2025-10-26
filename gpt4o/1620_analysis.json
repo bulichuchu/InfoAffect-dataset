@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "strain",
+        "confidence": 88
+      },
+      {
+        "word": "conflict",
+        "confidence": 85
+      },
+      {
+        "word": "debate",
+        "confidence": 80
+      },
+      {
+        "word": "demanding",
+        "confidence": 78
+      },
+      {
+        "word": "burden",
+        "confidence": 82
+      },
+      {
+        "word": "neutrality",
+        "confidence": 70
+      },
+      {
+        "word": "dispute",
+        "confidence": 83
+      }
+    ]
+  }
+}

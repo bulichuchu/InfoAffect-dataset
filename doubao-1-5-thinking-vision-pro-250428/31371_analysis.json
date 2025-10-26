@@ -1,0 +1,32 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "concern",
+          "confidence": 85
+        },
+        {
+          "word": "determined",
+          "confidence": 80
+        },
+        {
+          "word": "uncertain",
+          "confidence": 75
+        },
+        {
+          "word": "decline",
+          "confidence": 70
+        },
+        {
+          "word": "proactive",
+          "confidence": 65
+        },
+        {
+          "word": "competitive",
+          "confidence": 60
+        }
+      ]
+    }
+  }
+]

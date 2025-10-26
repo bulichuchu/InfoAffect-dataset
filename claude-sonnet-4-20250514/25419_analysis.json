@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 88
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 75
+      },
+      {
+        "word": "inevitable",
+        "confidence": 82
+      },
+      {
+        "word": "melancholic",
+        "confidence": 70
+      },
+      {
+        "word": "resigned",
+        "confidence": 78
+      },
+      {
+        "word": "transformative",
+        "confidence": 65
+      },
+      {
+        "word": "analytical",
+        "confidence": 85
+      },
+      {
+        "word": "reflective",
+        "confidence": 72
+      }
+    ]
+  }
+}

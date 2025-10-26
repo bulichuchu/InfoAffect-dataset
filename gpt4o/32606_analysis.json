@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "divided",
+        "confidence": 85
+      },
+      {
+        "word": "support",
+        "confidence": 88
+      },
+      {
+        "word": "approve",
+        "confidence": 80
+      },
+      {
+        "word": "disapproval",
+        "confidence": 75
+      },
+      {
+        "word": "qualified",
+        "confidence": 70
+      },
+      {
+        "word": "likelihood",
+        "confidence": 65
+      },
+      {
+        "word": "equally",
+        "confidence": 60
+      }
+    ]
+  }
+}

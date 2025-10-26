@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "record-breaking",
+        "confidence": 90
+      },
+      {
+        "word": "reinvigorated",
+        "confidence": 85
+      },
+      {
+        "word": "unscathed",
+        "confidence": 80
+      },
+      {
+        "word": "biggest",
+        "confidence": 75
+      },
+      {
+        "word": "rebuilt",
+        "confidence": 70
+      },
+      {
+        "word": "successful",
+        "confidence": 65
+      },
+      {
+        "word": "well-received",
+        "confidence": 60
+      }
+    ]
+  }
+}

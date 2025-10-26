@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disadvantaged",
+        "confidence": 90
+      },
+      {
+        "word": "unfair",
+        "confidence": 88
+      },
+      {
+        "word": "frustrated",
+        "confidence": 85
+      },
+      {
+        "word": "disappointed",
+        "confidence": 80
+      },
+      {
+        "word": "envious",
+        "confidence": 80
+      },
+      {
+        "word": "resigned",
+        "confidence": 70
+      }
+    ]
+  }
+}

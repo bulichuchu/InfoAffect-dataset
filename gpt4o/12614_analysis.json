@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concern",
+        "confidence": 85
+      },
+      {
+        "word": "discontent",
+        "confidence": 80
+      },
+      {
+        "word": "stark",
+        "confidence": 78
+      },
+      {
+        "word": "comparative",
+        "confidence": 70
+      },
+      {
+        "word": "negative",
+        "confidence": 75
+      }
+    ]
+  }
+}

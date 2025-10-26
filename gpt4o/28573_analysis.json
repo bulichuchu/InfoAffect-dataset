@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "important",
+        "confidence": 90
+      },
+      {
+        "word": "concern",
+        "confidence": 85
+      },
+      {
+        "word": "variation",
+        "confidence": 75
+      },
+      {
+        "word": "impact",
+        "confidence": 80
+      },
+      {
+        "word": "sway",
+        "confidence": 70
+      },
+      {
+        "word": "uptick",
+        "confidence": 65
+      },
+      {
+        "word": "aligned",
+        "confidence": 60
+      }
+    ]
+  }
+}

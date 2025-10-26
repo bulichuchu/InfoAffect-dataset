@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concern",
+        "confidence": 90
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "re-emergence",
+        "confidence": 80
+      },
+      {
+        "word": "vulnerable",
+        "confidence": 78
+      },
+      {
+        "word": "outbreak",
+        "confidence": 82
+      },
+      {
+        "word": "unvaccinated",
+        "confidence": 75
+      }
+    ]
+  }
+}

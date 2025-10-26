@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "thriving",
+        "confidence": 90
+      },
+      {
+        "word": "resilient",
+        "confidence": 85
+      },
+      {
+        "word": "optimistic",
+        "confidence": 80
+      },
+      {
+        "word": "empowering",
+        "confidence": 75
+      },
+      {
+        "word": "community-driven",
+        "confidence": 78
+      },
+      {
+        "word": "successful",
+        "confidence": 82
+      },
+      {
+        "word": "adaptive",
+        "confidence": 76
+      },
+      {
+        "word": "hopeful",
+        "confidence": 70
+      }
+    ]
+  }
+}

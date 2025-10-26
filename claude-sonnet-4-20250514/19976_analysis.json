@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "explosive",
+        "confidence": 90
+      },
+      {
+        "word": "lucrative",
+        "confidence": 88
+      },
+      {
+        "word": "competitive",
+        "confidence": 85
+      },
+      {
+        "word": "volatile",
+        "confidence": 78
+      },
+      {
+        "word": "opportunistic",
+        "confidence": 75
+      },
+      {
+        "word": "ambitious",
+        "confidence": 72
+      },
+      {
+        "word": "fluctuating",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "corrupt",
+        "confidence": 90
+      },
+      {
+        "word": "transparent",
+        "confidence": 85
+      },
+      {
+        "word": "authoritarian",
+        "confidence": 88
+      },
+      {
+        "word": "democratic",
+        "confidence": 80
+      },
+      {
+        "word": "flawed",
+        "confidence": 75
+      },
+      {
+        "word": "independent",
+        "confidence": 70
+      },
+      {
+        "word": "pressured",
+        "confidence": 78
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "turbulent",
+        "confidence": 90
+      },
+      {
+        "word": "defiant",
+        "confidence": 88
+      },
+      {
+        "word": "frustrated",
+        "confidence": 85
+      },
+      {
+        "word": "urgent",
+        "confidence": 82
+      },
+      {
+        "word": "volatile",
+        "confidence": 80
+      },
+      {
+        "word": "determined",
+        "confidence": 75
+      },
+      {
+        "word": "disillusioned",
+        "confidence": 78
+      },
+      {
+        "word": "empowered",
+        "confidence": 70
+      }
+    ]
+  }
+}

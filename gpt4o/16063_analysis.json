@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "stagnate",
+        "confidence": 90
+      },
+      {
+        "word": "economic",
+        "confidence": 80
+      },
+      {
+        "word": "inflation",
+        "confidence": 75
+      },
+      {
+        "word": "hardship",
+        "confidence": 85
+      },
+      {
+        "word": "mammoth",
+        "confidence": 70
+      },
+      {
+        "word": "dwarfing",
+        "confidence": 65
+      }
+    ]
+  }
+}

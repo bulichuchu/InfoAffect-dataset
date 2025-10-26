@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surprising",
+        "confidence": 85
+      },
+      {
+        "word": "impressive",
+        "confidence": 80
+      },
+      {
+        "word": "enviable",
+        "confidence": 75
+      },
+      {
+        "word": "competitive",
+        "confidence": 70
+      },
+      {
+        "word": "rewarding",
+        "confidence": 65
+      },
+      {
+        "word": "aspirational",
+        "confidence": 60
+      },
+      {
+        "word": "disruptive",
+        "confidence": 55
+      },
+      {
+        "word": "exemplary",
+        "confidence": 50
+      }
+    ]
+  }
+}

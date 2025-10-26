@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "coerced",
+        "confidence": 90
+      },
+      {
+        "word": "trust",
+        "confidence": 85
+      },
+      {
+        "word": "depend",
+        "confidence": 80
+      },
+      {
+        "word": "relationship",
+        "confidence": 75
+      },
+      {
+        "word": "comply",
+        "confidence": 70
+      },
+      {
+        "word": "profit",
+        "confidence": 65
+      }
+    ]
+  }
+}

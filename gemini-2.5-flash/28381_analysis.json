@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "outrage",
+        "confidence": 95
+      },
+      {
+        "word": "oppression",
+        "confidence": 90
+      },
+      {
+        "word": "despair",
+        "confidence": 88
+      },
+      {
+        "word": "injustice",
+        "confidence": 87
+      },
+      {
+        "word": "frustration",
+        "confidence": 85
+      },
+      {
+        "word": "distrust",
+        "confidence": 80
+      },
+      {
+        "word": "resentment",
+        "confidence": 78
+      }
+    ]
+  }
+}

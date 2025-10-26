@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "critical",
+        "confidence": 90
+      },
+      {
+        "word": "scandalous",
+        "confidence": 88
+      },
+      {
+        "word": "disapproving",
+        "confidence": 85
+      },
+      {
+        "word": "condemning",
+        "confidence": 82
+      },
+      {
+        "word": "controversial",
+        "confidence": 80
+      },
+      {
+        "word": "outraged",
+        "confidence": 78
+      },
+      {
+        "word": "damaging",
+        "confidence": 75
+      }
+    ]
+  }
+}

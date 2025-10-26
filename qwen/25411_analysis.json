@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "proud",
+        "confidence": 85
+      },
+      {
+        "word": "celebratory",
+        "confidence": 80
+      },
+      {
+        "word": "inspiring",
+        "confidence": 75
+      },
+      {
+        "word": "competitive",
+        "confidence": 70
+      },
+      {
+        "word": "surprising",
+        "confidence": 65
+      },
+      {
+        "word": "disappointing",
+        "confidence": 60
+      },
+      {
+        "word": "regional",
+        "confidence": 55
+      },
+      {
+        "word": "statistical",
+        "confidence": 50
+      }
+    ]
+  }
+}

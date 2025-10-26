@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "important",
+        "confidence": 90
+      },
+      {
+        "word": "valued",
+        "confidence": 85
+      },
+      {
+        "word": "trend",
+        "confidence": 80
+      },
+      {
+        "word": "interest",
+        "confidence": 75
+      },
+      {
+        "word": "variation",
+        "confidence": 70
+      },
+      {
+        "word": "comparative",
+        "confidence": 65
+      }
+    ]
+  }
+}

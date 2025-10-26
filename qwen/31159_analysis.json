@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "beloved",
+        "confidence": 90
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 75
+      },
+      {
+        "word": "optimistic",
+        "confidence": 70
+      },
+      {
+        "word": "curious",
+        "confidence": 65
+      },
+      {
+        "word": "inclusive",
+        "confidence": 60
+      },
+      {
+        "word": "surprising",
+        "confidence": 55
+      },
+      {
+        "word": "neutral",
+        "confidence": 80
+      },
+      {
+        "word": "informative",
+        "confidence": 85
+      }
+    ]
+  }
+}

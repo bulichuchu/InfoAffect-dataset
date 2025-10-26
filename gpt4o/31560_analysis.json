@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "pressure",
+        "confidence": 90
+      },
+      {
+        "word": "economic",
+        "confidence": 85
+      },
+      {
+        "word": "sanctions",
+        "confidence": 80
+      },
+      {
+        "word": "blockades",
+        "confidence": 78
+      },
+      {
+        "word": "restrictions",
+        "confidence": 75
+      },
+      {
+        "word": "suspended",
+        "confidence": 70
+      },
+      {
+        "word": "imposed",
+        "confidence": 75
+      }
+    ]
+  }
+}

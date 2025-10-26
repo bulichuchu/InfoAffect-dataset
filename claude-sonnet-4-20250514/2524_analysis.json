@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "triumphant",
+        "confidence": 90
+      },
+      {
+        "word": "impressive",
+        "confidence": 88
+      },
+      {
+        "word": "confident",
+        "confidence": 85
+      },
+      {
+        "word": "optimistic",
+        "confidence": 82
+      },
+      {
+        "word": "successful",
+        "confidence": 87
+      },
+      {
+        "word": "strong",
+        "confidence": 89
+      },
+      {
+        "word": "accomplished",
+        "confidence": 83
+      },
+      {
+        "word": "proud",
+        "confidence": 78
+      }
+    ]
+  }
+}

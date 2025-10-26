@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unnoticed",
+        "confidence": 92
+      },
+      {
+        "word": "underwhelming",
+        "confidence": 90
+      },
+      {
+        "word": "struggling",
+        "confidence": 88
+      },
+      {
+        "word": "disappointing",
+        "confidence": 85
+      },
+      {
+        "word": "concerning",
+        "confidence": 80
+      },
+      {
+        "word": "ineffective",
+        "confidence": 75
+      }
+    ]
+  }
+}

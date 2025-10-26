@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "entertaining",
+        "confidence": 85
+      },
+      {
+        "word": "dull",
+        "confidence": 90
+      },
+      {
+        "word": "surprising",
+        "confidence": 80
+      },
+      {
+        "word": "stifled",
+        "confidence": 75
+      },
+      {
+        "word": "hopeful",
+        "confidence": 70
+      },
+      {
+        "word": "anticipatory",
+        "confidence": 65
+      }
+    ]
+  }
+}

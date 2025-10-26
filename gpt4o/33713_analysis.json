@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "confidence",
+        "confidence": 90
+      },
+      {
+        "word": "skepticism",
+        "confidence": 85
+      },
+      {
+        "word": "relief",
+        "confidence": 75
+      },
+      {
+        "word": "trust",
+        "confidence": 80
+      },
+      {
+        "word": "belief",
+        "confidence": 70
+      },
+      {
+        "word": "impeachment",
+        "confidence": 65
+      },
+      {
+        "word": "extremism",
+        "confidence": 60
+      }
+    ]
+  }
+}

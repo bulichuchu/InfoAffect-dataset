@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "suspicion",
+        "confidence": 90
+      },
+      {
+        "word": "concern",
+        "confidence": 85
+      },
+      {
+        "word": "uncertainty",
+        "confidence": 82
+      },
+      {
+        "word": "transparent",
+        "confidence": 75
+      },
+      {
+        "word": "alarm",
+        "confidence": 78
+      },
+      {
+        "word": "miscommunication",
+        "confidence": 80
+      }
+    ]
+  }
+}

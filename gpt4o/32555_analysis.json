@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "victorious",
+        "confidence": 90
+      },
+      {
+        "word": "historic",
+        "confidence": 87
+      },
+      {
+        "word": "defeated",
+        "confidence": 85
+      },
+      {
+        "word": "landslide",
+        "confidence": 82
+      },
+      {
+        "word": "disappointing",
+        "confidence": 77
+      },
+      {
+        "word": "notable",
+        "confidence": 74
+      }
+    ]
+  }
+}

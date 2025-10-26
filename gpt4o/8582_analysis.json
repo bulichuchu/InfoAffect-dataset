@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "flexibility",
+        "confidence": 90
+      },
+      {
+        "word": "uncertainty",
+        "confidence": 85
+      },
+      {
+        "word": "control",
+        "confidence": 80
+      },
+      {
+        "word": "disadvantage",
+        "confidence": 75
+      },
+      {
+        "word": "benefit",
+        "confidence": 70
+      },
+      {
+        "word": "provisional",
+        "confidence": 65
+      },
+      {
+        "word": "non-permanent",
+        "confidence": 60
+      }
+    ]
+  }
+}

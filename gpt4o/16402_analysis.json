@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "growth",
+        "confidence": 90
+      },
+      {
+        "word": "challenge",
+        "confidence": 85
+      },
+      {
+        "word": "controversy",
+        "confidence": 80
+      },
+      {
+        "word": "unease",
+        "confidence": 78
+      },
+      {
+        "word": "progress",
+        "confidence": 75
+      },
+      {
+        "word": "adaptation",
+        "confidence": 70
+      }
+    ]
+  }
+}

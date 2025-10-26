@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unprecedented",
+        "confidence": 90
+      },
+      {
+        "word": "instability",
+        "confidence": 88
+      },
+      {
+        "word": "fatal",
+        "confidence": 85
+      },
+      {
+        "word": "deadliest",
+        "confidence": 82
+      },
+      {
+        "word": "withdrawal",
+        "confidence": 80
+      },
+      {
+        "word": "tensions",
+        "confidence": 78
+      },
+      {
+        "word": "coup",
+        "confidence": 75
+      }
+    ]
+  }
+}

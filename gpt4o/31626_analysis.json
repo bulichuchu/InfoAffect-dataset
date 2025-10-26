@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "decisive",
+        "confidence": 90
+      },
+      {
+        "word": "momentum",
+        "confidence": 85
+      },
+      {
+        "word": "convincing",
+        "confidence": 80
+      },
+      {
+        "word": "critical",
+        "confidence": 75
+      },
+      {
+        "word": "lead",
+        "confidence": 70
+      },
+      {
+        "word": "endorsement",
+        "confidence": 65
+      },
+      {
+        "word": "win",
+        "confidence": 60
+      }
+    ]
+  }
+}

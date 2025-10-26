@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "stereotypical",
+        "confidence": 85
+      },
+      {
+        "word": "inequality",
+        "confidence": 80
+      },
+      {
+        "word": "domestic",
+        "confidence": 70
+      },
+      {
+        "word": "leisure",
+        "confidence": 75
+      },
+      {
+        "word": "responsibility",
+        "confidence": 78
+      },
+      {
+        "word": "routine",
+        "confidence": 72
+      },
+      {
+        "word": "dynamic",
+        "confidence": 65
+      }
+    ]
+  }
+}

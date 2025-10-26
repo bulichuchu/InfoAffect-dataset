@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surprising",
+        "confidence": 90
+      },
+      {
+        "word": "empowering",
+        "confidence": 85
+      },
+      {
+        "word": "revelatory",
+        "confidence": 82
+      },
+      {
+        "word": "hopeful",
+        "confidence": 78
+      },
+      {
+        "word": "significant",
+        "confidence": 75
+      },
+      {
+        "word": "celebratory",
+        "confidence": 70
+      },
+      {
+        "word": "transformative",
+        "confidence": 68
+      },
+      {
+        "word": "inclusive",
+        "confidence": 65
+      }
+    ]
+  }
+}

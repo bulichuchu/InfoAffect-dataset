@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "confidence",
+        "confidence": 90
+      },
+      {
+        "word": "distrust",
+        "confidence": 85
+      },
+      {
+        "word": "lowest",
+        "confidence": 80
+      },
+      {
+        "word": "highest",
+        "confidence": 78
+      },
+      {
+        "word": "politician",
+        "confidence": 70
+      },
+      {
+        "word": "global",
+        "confidence": 75
+      },
+      {
+        "word": "trust",
+        "confidence": 82
+      }
+    ]
+  }
+}

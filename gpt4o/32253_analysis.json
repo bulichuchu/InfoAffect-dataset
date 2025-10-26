@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "protect",
+        "confidence": 85
+      },
+      {
+        "word": "unfair",
+        "confidence": 90
+      },
+      {
+        "word": "preemptive",
+        "confidence": 80
+      },
+      {
+        "word": "jeopardizing",
+        "confidence": 75
+      },
+      {
+        "word": "offensive",
+        "confidence": 70
+      },
+      {
+        "word": "strategic",
+        "confidence": 78
+      },
+      {
+        "word": "sustain",
+        "confidence": 72
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "tense",
+        "confidence": 88
+      },
+      {
+        "word": "suspicious",
+        "confidence": 85
+      },
+      {
+        "word": "provocative",
+        "confidence": 82
+      },
+      {
+        "word": "concerning",
+        "confidence": 80
+      },
+      {
+        "word": "intimidating",
+        "confidence": 78
+      },
+      {
+        "word": "strategic",
+        "confidence": 75
+      },
+      {
+        "word": "confrontational",
+        "confidence": 72
+      },
+      {
+        "word": "analytical",
+        "confidence": 65
+      }
+    ]
+  }
+}

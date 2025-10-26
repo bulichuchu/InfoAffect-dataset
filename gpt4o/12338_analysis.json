@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "deceptive",
+        "confidence": 90
+      },
+      {
+        "word": "damaging",
+        "confidence": 85
+      },
+      {
+        "word": "misleading",
+        "confidence": 80
+      },
+      {
+        "word": "alarming",
+        "confidence": 75
+      },
+      {
+        "word": "careless",
+        "confidence": 70
+      },
+      {
+        "word": "discredit",
+        "confidence": 65
+      }
+    ]
+  }
+}

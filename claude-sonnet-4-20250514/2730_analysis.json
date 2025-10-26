@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anticipatory",
+        "confidence": 90
+      },
+      {
+        "word": "momentous",
+        "confidence": 85
+      },
+      {
+        "word": "hopeful",
+        "confidence": 80
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      },
+      {
+        "word": "historic",
+        "confidence": 78
+      },
+      {
+        "word": "suspenseful",
+        "confidence": 82
+      },
+      {
+        "word": "peaceful",
+        "confidence": 70
+      },
+      {
+        "word": "reflective",
+        "confidence": 65
+      }
+    ]
+  }
+}

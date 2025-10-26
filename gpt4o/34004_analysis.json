@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "threatened",
+        "confidence": 90
+      },
+      {
+        "word": "responsibility",
+        "confidence": 85
+      },
+      {
+        "word": "collapse",
+        "confidence": 80
+      },
+      {
+        "word": "diverse",
+        "confidence": 75
+      },
+      {
+        "word": "endangered",
+        "confidence": 88
+      },
+      {
+        "word": "preservation",
+        "confidence": 70
+      },
+      {
+        "word": "rich",
+        "confidence": 72
+      }
+    ]
+  }
+}

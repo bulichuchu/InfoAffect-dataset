@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "celebratory",
+        "confidence": 90
+      },
+      {
+        "word": "inspirational",
+        "confidence": 85
+      },
+      {
+        "word": "historic",
+        "confidence": 80
+      },
+      {
+        "word": "perseverance",
+        "confidence": 78
+      },
+      {
+        "word": "trailblazing",
+        "confidence": 75
+      },
+      {
+        "word": "progress",
+        "confidence": 70
+      },
+      {
+        "word": "achievement",
+        "confidence": 65
+      }
+    ]
+  }
+}

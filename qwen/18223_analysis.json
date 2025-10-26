@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "optimistic",
+        "confidence": 85
+      },
+      {
+        "word": "strategic",
+        "confidence": 80
+      },
+      {
+        "word": "focused",
+        "confidence": 75
+      },
+      {
+        "word": "resilient",
+        "confidence": 70
+      },
+      {
+        "word": "cautious",
+        "confidence": 65
+      },
+      {
+        "word": "determined",
+        "confidence": 72
+      },
+      {
+        "word": "proactive",
+        "confidence": 68
+      },
+      {
+        "word": "forward-looking",
+        "confidence": 78
+      }
+    ]
+  }
+}

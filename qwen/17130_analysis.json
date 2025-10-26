@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "positive",
+        "confidence": 85
+      },
+      {
+        "word": "disappointing",
+        "confidence": 80
+      },
+      {
+        "word": "reassuring",
+        "confidence": 75
+      },
+      {
+        "word": "critical",
+        "confidence": 72
+      },
+      {
+        "word": "competitive",
+        "confidence": 68
+      },
+      {
+        "word": "informative",
+        "confidence": 78
+      },
+      {
+        "word": "concerned",
+        "confidence": 65
+      },
+      {
+        "word": "authoritative",
+        "confidence": 70
+      }
+    ]
+  }
+}

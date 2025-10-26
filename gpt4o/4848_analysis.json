@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disastrous",
+        "confidence": 90
+      },
+      {
+        "word": "decline",
+        "confidence": 85
+      },
+      {
+        "word": "ailing",
+        "confidence": 80
+      },
+      {
+        "word": "strategic",
+        "confidence": 75
+      },
+      {
+        "word": "nail",
+        "confidence": 70
+      },
+      {
+        "word": "proof",
+        "confidence": 65
+      }
+    ]
+  }
+}

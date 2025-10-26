@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alienation",
+        "confidence": 88
+      },
+      {
+        "word": "misunderstood",
+        "confidence": 85
+      },
+      {
+        "word": "reverent",
+        "confidence": 82
+      },
+      {
+        "word": "educational",
+        "confidence": 80
+      },
+      {
+        "word": "empathetic",
+        "confidence": 75
+      },
+      {
+        "word": "inclusive",
+        "confidence": 70
+      },
+      {
+        "word": "informative",
+        "confidence": 78
+      },
+      {
+        "word": "respectful",
+        "confidence": 73
+      }
+    ]
+  }
+}

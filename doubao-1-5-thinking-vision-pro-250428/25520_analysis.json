@@ -1,0 +1,32 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "blockbuster",
+          "confidence": 90
+        },
+        {
+          "word": "mammoth",
+          "confidence": 85
+        },
+        {
+          "word": "hiccups",
+          "confidence": 80
+        },
+        {
+          "word": "tumble",
+          "confidence": 75
+        },
+        {
+          "word": "struggled",
+          "confidence": 70
+        },
+        {
+          "word": "innovative",
+          "confidence": 65
+        }
+      ]
+    }
+  }
+]

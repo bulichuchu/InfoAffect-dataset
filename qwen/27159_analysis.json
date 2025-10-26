@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "inclusive",
+        "confidence": 85
+      },
+      {
+        "word": "aware",
+        "confidence": 80
+      },
+      {
+        "word": "respectful",
+        "confidence": 75
+      },
+      {
+        "word": "informative",
+        "confidence": 90
+      },
+      {
+        "word": "sensitive",
+        "confidence": 70
+      },
+      {
+        "word": "thoughtful",
+        "confidence": 78
+      },
+      {
+        "word": "neutral",
+        "confidence": 65
+      },
+      {
+        "word": "educational",
+        "confidence": 82
+      }
+    ]
+  }
+}

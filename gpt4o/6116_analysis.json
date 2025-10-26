@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "scramble",
+        "confidence": 90
+      },
+      {
+        "word": "urgency",
+        "confidence": 85
+      },
+      {
+        "word": "surge",
+        "confidence": 80
+      },
+      {
+        "word": "demand",
+        "confidence": 75
+      },
+      {
+        "word": "elevated",
+        "confidence": 70
+      },
+      {
+        "word": "reactive",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "nostalgic",
+        "confidence": 80
+      },
+      {
+        "word": "decisive",
+        "confidence": 85
+      },
+      {
+        "word": "dominating",
+        "confidence": 88
+      },
+      {
+        "word": "unchanging",
+        "confidence": 75
+      },
+      {
+        "word": "settled",
+        "confidence": 70
+      },
+      {
+        "word": "adapt",
+        "confidence": 65
+      }
+    ]
+  }
+}

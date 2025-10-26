@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "tolerance",
+        "confidence": 90
+      },
+      {
+        "word": "discrepancy",
+        "confidence": 85
+      },
+      {
+        "word": "progress",
+        "confidence": 80
+      },
+      {
+        "word": "influence",
+        "confidence": 75
+      },
+      {
+        "word": "acceptance",
+        "confidence": 78
+      },
+      {
+        "word": "division",
+        "confidence": 82
+      }
+    ]
+  }
+}

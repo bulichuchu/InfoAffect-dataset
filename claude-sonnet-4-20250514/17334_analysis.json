@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "contentious",
+        "confidence": 88
+      },
+      {
+        "word": "frustrated",
+        "confidence": 82
+      },
+      {
+        "word": "divided",
+        "confidence": 85
+      },
+      {
+        "word": "reformative",
+        "confidence": 78
+      },
+      {
+        "word": "challenging",
+        "confidence": 75
+      },
+      {
+        "word": "confrontational",
+        "confidence": 70
+      },
+      {
+        "word": "polarizing",
+        "confidence": 80
+      },
+      {
+        "word": "determined",
+        "confidence": 68
+      }
+    ]
+  }
+}

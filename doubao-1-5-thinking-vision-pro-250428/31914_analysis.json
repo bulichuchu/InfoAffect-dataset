@@ -1,0 +1,28 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "celebratory",
+          "confidence": 90
+        },
+        {
+          "word": "cultural",
+          "confidence": 85
+        },
+        {
+          "word": "commercial",
+          "confidence": 80
+        },
+        {
+          "word": "traditional",
+          "confidence": 75
+        },
+        {
+          "word": "participatory",
+          "confidence": 70
+        }
+      ]
+    }
+  }
+]

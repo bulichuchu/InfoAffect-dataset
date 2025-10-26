@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "deliberate",
+        "confidence": 90
+      },
+      {
+        "word": "autonomous",
+        "confidence": 85
+      },
+      {
+        "word": "challenged",
+        "confidence": 80
+      },
+      {
+        "word": "rational",
+        "confidence": 75
+      },
+      {
+        "word": "resistant",
+        "confidence": 70
+      },
+      {
+        "word": "skeptical",
+        "confidence": 65
+      },
+      {
+        "word": "excluded",
+        "confidence": 60
+      }
+    ]
+  }
+}

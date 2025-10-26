@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "boastful",
+        "confidence": 85
+      },
+      {
+        "word": "proud",
+        "confidence": 80
+      },
+      {
+        "word": "personal",
+        "confidence": 75
+      },
+      {
+        "word": "reserved",
+        "confidence": 70
+      },
+      {
+        "word": "cautious",
+        "confidence": 65
+      },
+      {
+        "word": "indifferent",
+        "confidence": 60
+      },
+      {
+        "word": "reflective",
+        "confidence": 55
+      },
+      {
+        "word": "social",
+        "confidence": 72
+      }
+    ]
+  }
+}

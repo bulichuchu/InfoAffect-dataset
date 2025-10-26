@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "bullying",
+        "confidence": 95
+      },
+      {
+        "word": "anonymous",
+        "confidence": 90
+      },
+      {
+        "word": "ubiquitous",
+        "confidence": 85
+      },
+      {
+        "word": "problematic",
+        "confidence": 88
+      },
+      {
+        "word": "concern",
+        "confidence": 82
+      },
+      {
+        "word": "mixed",
+        "confidence": 72
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "bleak",
+        "confidence": 90
+      },
+      {
+        "word": "displaced",
+        "confidence": 85
+      },
+      {
+        "word": "conflict",
+        "confidence": 82
+      },
+      {
+        "word": "violence",
+        "confidence": 80
+      },
+      {
+        "word": "threats",
+        "confidence": 78
+      },
+      {
+        "word": "flee",
+        "confidence": 75
+      }
+    ]
+  }
+}

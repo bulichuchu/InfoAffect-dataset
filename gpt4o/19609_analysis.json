@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "threatening",
+        "confidence": 90
+      },
+      {
+        "word": "unclear",
+        "confidence": 85
+      },
+      {
+        "word": "risk",
+        "confidence": 88
+      },
+      {
+        "word": "displaced",
+        "confidence": 92
+      },
+      {
+        "word": "detained",
+        "confidence": 87
+      },
+      {
+        "word": "suspected",
+        "confidence": 84
+      },
+      {
+        "word": "fate",
+        "confidence": 80
+      }
+    ]
+  }
+}

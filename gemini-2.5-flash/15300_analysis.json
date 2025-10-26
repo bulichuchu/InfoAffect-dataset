@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "evolving",
+        "confidence": 90
+      },
+      {
+        "word": "shifting",
+        "confidence": 88
+      },
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "progressive",
+        "confidence": 75
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 70
+      },
+      {
+        "word": "dynamic",
+        "confidence": 65
+      }
+    ]
+  }
+}

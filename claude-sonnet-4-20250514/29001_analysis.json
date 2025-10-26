@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "practical",
+        "confidence": 88
+      },
+      {
+        "word": "realistic",
+        "confidence": 85
+      },
+      {
+        "word": "straightforward",
+        "confidence": 82
+      },
+      {
+        "word": "utilitarian",
+        "confidence": 80
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 78
+      },
+      {
+        "word": "matter-of-fact",
+        "confidence": 75
+      },
+      {
+        "word": "analytical",
+        "confidence": 70
+      }
+    ]
+  }
+}

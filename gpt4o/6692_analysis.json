@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "miserable",
+        "confidence": 90
+      },
+      {
+        "word": "persevering",
+        "confidence": 85
+      },
+      {
+        "word": "burdened",
+        "confidence": 80
+      },
+      {
+        "word": "resilient",
+        "confidence": 75
+      },
+      {
+        "word": "underappreciated",
+        "confidence": 70
+      },
+      {
+        "word": "challenged",
+        "confidence": 65
+      }
+    ]
+  }
+}

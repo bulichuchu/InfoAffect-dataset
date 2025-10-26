@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "defiant",
+        "confidence": 90
+      },
+      {
+        "word": "alarming",
+        "confidence": 85
+      },
+      {
+        "word": "oppressive",
+        "confidence": 82
+      },
+      {
+        "word": "controversial",
+        "confidence": 88
+      },
+      {
+        "word": "dystopian",
+        "confidence": 80
+      },
+      {
+        "word": "censorious",
+        "confidence": 75
+      },
+      {
+        "word": "provocative",
+        "confidence": 78
+      },
+      {
+        "word": "resistant",
+        "confidence": 73
+      }
+    ]
+  }
+}

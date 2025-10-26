@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "pride",
+        "confidence": 90
+      },
+      {
+        "word": "acknowledged",
+        "confidence": 85
+      },
+      {
+        "word": "disappointment",
+        "confidence": 75
+      },
+      {
+        "word": "progressive",
+        "confidence": 80
+      },
+      {
+        "word": "failure",
+        "confidence": 70
+      },
+      {
+        "word": "restricted",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disappointed",
+        "confidence": 90
+      },
+      {
+        "word": "frustrated",
+        "confidence": 85
+      },
+      {
+        "word": "dismayed",
+        "confidence": 80
+      },
+      {
+        "word": "critical",
+        "confidence": 75
+      },
+      {
+        "word": "underwhelmed",
+        "confidence": 70
+      },
+      {
+        "word": "letdown",
+        "confidence": 82
+      },
+      {
+        "word": "ruffled",
+        "confidence": 65
+      },
+      {
+        "word": "dismal",
+        "confidence": 78
+      }
+    ]
+  }
+}

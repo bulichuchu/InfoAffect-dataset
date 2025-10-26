@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "widespread",
+        "confidence": 90
+      },
+      {
+        "word": "underfunded",
+        "confidence": 78
+      },
+      {
+        "word": "overwhelmed",
+        "confidence": 82
+      },
+      {
+        "word": "growing",
+        "confidence": 80
+      },
+      {
+        "word": "opaque",
+        "confidence": 75
+      }
+    ]
+  }
+}

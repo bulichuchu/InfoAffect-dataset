@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "responsible",
+        "confidence": 88
+      },
+      {
+        "word": "dilemmatic",
+        "confidence": 82
+      },
+      {
+        "word": "shared",
+        "confidence": 85
+      },
+      {
+        "word": "hopeful",
+        "confidence": 78
+      },
+      {
+        "word": "reflective",
+        "confidence": 76
+      },
+      {
+        "word": "concerned",
+        "confidence": 74
+      },
+      {
+        "word": "collaborative",
+        "confidence": 70
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 68
+      }
+    ]
+  }
+}

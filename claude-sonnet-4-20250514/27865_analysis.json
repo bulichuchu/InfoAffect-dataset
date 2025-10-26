@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frustrated",
+        "confidence": 88
+      },
+      {
+        "word": "chaotic",
+        "confidence": 85
+      },
+      {
+        "word": "overwhelming",
+        "confidence": 82
+      },
+      {
+        "word": "disappointing",
+        "confidence": 80
+      },
+      {
+        "word": "stressful",
+        "confidence": 78
+      },
+      {
+        "word": "problematic",
+        "confidence": 75
+      },
+      {
+        "word": "concerning",
+        "confidence": 72
+      },
+      {
+        "word": "cautionary",
+        "confidence": 68
+      }
+    ]
+  }
+}

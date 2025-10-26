@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unexpected",
+        "confidence": 85
+      },
+      {
+        "word": "chaotic",
+        "confidence": 90
+      },
+      {
+        "word": "reprieve",
+        "confidence": 80
+      },
+      {
+        "word": "altered",
+        "confidence": 75
+      },
+      {
+        "word": "astronomical",
+        "confidence": 78
+      },
+      {
+        "word": "distraction",
+        "confidence": 70
+      },
+      {
+        "word": "significance",
+        "confidence": 65
+      }
+    ]
+  }
+}

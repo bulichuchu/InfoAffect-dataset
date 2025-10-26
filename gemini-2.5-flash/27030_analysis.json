@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fleeting",
+        "confidence": 95
+      },
+      {
+        "word": "skeptical",
+        "confidence": 90
+      },
+      {
+        "word": "disillusioned",
+        "confidence": 88
+      },
+      {
+        "word": "dismissive",
+        "confidence": 85
+      },
+      {
+        "word": "cautionary",
+        "confidence": 80
+      },
+      {
+        "word": "cynical",
+        "confidence": 75
+      },
+      {
+        "word": "sarcastic",
+        "confidence": 70
+      }
+    ]
+  }
+}

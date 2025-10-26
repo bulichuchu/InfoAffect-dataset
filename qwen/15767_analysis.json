@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frustrated",
+        "confidence": 78
+      },
+      {
+        "word": "adaptable",
+        "confidence": 82
+      },
+      {
+        "word": "optimistic",
+        "confidence": 75
+      },
+      {
+        "word": "analytical",
+        "confidence": 80
+      },
+      {
+        "word": "comparative",
+        "confidence": 70
+      },
+      {
+        "word": "insightful",
+        "confidence": 73
+      },
+      {
+        "word": "resistant",
+        "confidence": 65
+      },
+      {
+        "word": "progressive",
+        "confidence": 68
+      }
+    ]
+  }
+}

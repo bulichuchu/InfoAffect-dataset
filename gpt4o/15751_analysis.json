@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "powerful",
+        "confidence": 90
+      },
+      {
+        "word": "freedom",
+        "confidence": 85
+      },
+      {
+        "word": "restrictive",
+        "confidence": 80
+      },
+      {
+        "word": "privileged",
+        "confidence": 75
+      },
+      {
+        "word": "limited",
+        "confidence": 70
+      },
+      {
+        "word": "access",
+        "confidence": 65
+      }
+    ]
+  }
+}

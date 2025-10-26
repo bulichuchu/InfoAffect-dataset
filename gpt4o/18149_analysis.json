@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "commemorating",
+        "confidence": 90
+      },
+      {
+        "word": "core",
+        "confidence": 85
+      },
+      {
+        "word": "holiday",
+        "confidence": 80
+      },
+      {
+        "word": "unofficial",
+        "confidence": 75
+      },
+      {
+        "word": "reasonable",
+        "confidence": 70
+      },
+      {
+        "word": "sentiment",
+        "confidence": 65
+      }
+    ]
+  }
+}

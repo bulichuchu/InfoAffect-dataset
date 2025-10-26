@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "persistent",
+        "confidence": 90
+      },
+      {
+        "word": "disparity",
+        "confidence": 88
+      },
+      {
+        "word": "skewed",
+        "confidence": 82
+      },
+      {
+        "word": "improve",
+        "confidence": 78
+      },
+      {
+        "word": "gap",
+        "confidence": 85
+      },
+      {
+        "word": "progress",
+        "confidence": 76
+      }
+    ]
+  }
+}

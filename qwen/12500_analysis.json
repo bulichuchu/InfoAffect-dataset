@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "progressive",
+        "confidence": 85
+      },
+      {
+        "word": "surprising",
+        "confidence": 80
+      },
+      {
+        "word": "significant",
+        "confidence": 78
+      },
+      {
+        "word": "impressive",
+        "confidence": 75
+      },
+      {
+        "word": "accelerated",
+        "confidence": 72
+      },
+      {
+        "word": "comparative",
+        "confidence": 68
+      },
+      {
+        "word": "informative",
+        "confidence": 70
+      },
+      {
+        "word": "neutral",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "divisive",
+        "confidence": 90
+      },
+      {
+        "word": "concerning",
+        "confidence": 85
+      },
+      {
+        "word": "frustrated",
+        "confidence": 82
+      },
+      {
+        "word": "hopeful",
+        "confidence": 70
+      },
+      {
+        "word": "tense",
+        "confidence": 78
+      },
+      {
+        "word": "disappointed",
+        "confidence": 75
+      },
+      {
+        "word": "determined",
+        "confidence": 65
+      },
+      {
+        "word": "uneasy",
+        "confidence": 80
+      }
+    ]
+  }
+}

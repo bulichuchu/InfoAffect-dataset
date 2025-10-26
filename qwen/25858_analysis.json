@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "analytical",
+        "confidence": 80
+      },
+      {
+        "word": "transformative",
+        "confidence": 75
+      },
+      {
+        "word": "fragmented",
+        "confidence": 72
+      },
+      {
+        "word": "diverse",
+        "confidence": 70
+      },
+      {
+        "word": "disillusioned",
+        "confidence": 68
+      },
+      {
+        "word": "dynamic",
+        "confidence": 65
+      },
+      {
+        "word": "uncertain",
+        "confidence": 63
+      }
+    ]
+  }
+}

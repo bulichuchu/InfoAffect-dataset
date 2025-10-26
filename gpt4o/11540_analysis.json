@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "controversial",
+        "confidence": 85
+      },
+      {
+        "word": "rejection",
+        "confidence": 82
+      },
+      {
+        "word": "preference",
+        "confidence": 78
+      },
+      {
+        "word": "unwelcoming",
+        "confidence": 75
+      },
+      {
+        "word": "favoritism",
+        "confidence": 74
+      },
+      {
+        "word": "diplomatic",
+        "confidence": 70
+      },
+      {
+        "word": "selective",
+        "confidence": 68
+      }
+    ]
+  }
+}

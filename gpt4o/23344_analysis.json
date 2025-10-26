@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "engagement",
+        "confidence": 85
+      },
+      {
+        "word": "participation",
+        "confidence": 82
+      },
+      {
+        "word": "anticipation",
+        "confidence": 78
+      },
+      {
+        "word": "comparative",
+        "confidence": 75
+      },
+      {
+        "word": "dominance",
+        "confidence": 73
+      },
+      {
+        "word": "demographic",
+        "confidence": 70
+      }
+    ]
+  }
+}

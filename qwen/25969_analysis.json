@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dramatic",
+        "confidence": 90
+      },
+      {
+        "word": "shocking",
+        "confidence": 85
+      },
+      {
+        "word": "disruptive",
+        "confidence": 80
+      },
+      {
+        "word": "transformative",
+        "confidence": 75
+      },
+      {
+        "word": "volatile",
+        "confidence": 70
+      },
+      {
+        "word": "uncertain",
+        "confidence": 65
+      },
+      {
+        "word": "powerful",
+        "confidence": 60
+      },
+      {
+        "word": "unsettling",
+        "confidence": 55
+      }
+    ]
+  }
+}

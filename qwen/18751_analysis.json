@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "ironic",
+        "confidence": 90
+      },
+      {
+        "word": "defensive",
+        "confidence": 85
+      },
+      {
+        "word": "self-deprecating",
+        "confidence": 80
+      },
+      {
+        "word": "boastful",
+        "confidence": 75
+      },
+      {
+        "word": "tense",
+        "confidence": 70
+      },
+      {
+        "word": "strategic",
+        "confidence": 65
+      },
+      {
+        "word": "concerned",
+        "confidence": 60
+      },
+      {
+        "word": "competitive",
+        "confidence": 78
+      }
+    ]
+  }
+}

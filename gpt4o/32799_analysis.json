@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "inequality",
+        "confidence": 90
+      },
+      {
+        "word": "marginalized",
+        "confidence": 88
+      },
+      {
+        "word": "alarming",
+        "confidence": 85
+      },
+      {
+        "word": "disparity",
+        "confidence": 83
+      },
+      {
+        "word": "distressing",
+        "confidence": 80
+      },
+      {
+        "word": "exacerbating",
+        "confidence": 78
+      },
+      {
+        "word": "somber",
+        "confidence": 75
+      }
+    ]
+  }
+}

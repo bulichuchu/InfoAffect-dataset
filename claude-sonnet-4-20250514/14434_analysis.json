@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "pressured",
+        "confidence": 88
+      },
+      {
+        "word": "strategic",
+        "confidence": 82
+      },
+      {
+        "word": "defensive",
+        "confidence": 78
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 75
+      },
+      {
+        "word": "conflicted",
+        "confidence": 72
+      },
+      {
+        "word": "adaptive",
+        "confidence": 68
+      },
+      {
+        "word": "concerned",
+        "confidence": 65
+      }
+    ]
+  }
+}

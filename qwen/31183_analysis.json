@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "serious",
+        "confidence": 80
+      },
+      {
+        "word": "routine",
+        "confidence": 75
+      },
+      {
+        "word": "widespread",
+        "confidence": 72
+      },
+      {
+        "word": "statistical",
+        "confidence": 68
+      },
+      {
+        "word": "informative",
+        "confidence": 65
+      },
+      {
+        "word": "neutral",
+        "confidence": 60
+      },
+      {
+        "word": "habitual",
+        "confidence": 55
+      }
+    ]
+  }
+}

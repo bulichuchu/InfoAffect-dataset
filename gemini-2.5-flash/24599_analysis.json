@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "busy",
+        "confidence": 95
+      },
+      {
+        "word": "record-breaking",
+        "confidence": 90
+      },
+      {
+        "word": "resurgent",
+        "confidence": 88
+      },
+      {
+        "word": "optimistic",
+        "confidence": 82
+      },
+      {
+        "word": "vibrant",
+        "confidence": 78
+      },
+      {
+        "word": "thriving",
+        "confidence": 75
+      }
+    ]
+  }
+}

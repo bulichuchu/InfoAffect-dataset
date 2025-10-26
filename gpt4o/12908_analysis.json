@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "giving",
+        "confidence": 85
+      },
+      {
+        "word": "love",
+        "confidence": 90
+      },
+      {
+        "word": "generous",
+        "confidence": 80
+      },
+      {
+        "word": "romantic",
+        "confidence": 75
+      },
+      {
+        "word": "extravagant",
+        "confidence": 70
+      },
+      {
+        "word": "thoughtful",
+        "confidence": 78
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concern",
+        "confidence": 85
+      },
+      {
+        "word": "anxiety",
+        "confidence": 80
+      },
+      {
+        "word": "urgency",
+        "confidence": 78
+      },
+      {
+        "word": "need",
+        "confidence": 75
+      },
+      {
+        "word": "demand",
+        "confidence": 82
+      },
+      {
+        "word": "scarcity",
+        "confidence": 77
+      }
+    ]
+  }
+}

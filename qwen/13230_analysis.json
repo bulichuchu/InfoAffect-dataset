@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "controversial",
+        "confidence": 88
+      },
+      {
+        "word": "surprising",
+        "confidence": 82
+      },
+      {
+        "word": "excessive",
+        "confidence": 78
+      },
+      {
+        "word": "disproportionate",
+        "confidence": 75
+      },
+      {
+        "word": "rewarding",
+        "confidence": 70
+      },
+      {
+        "word": "defiant",
+        "confidence": 68
+      },
+      {
+        "word": "impressive",
+        "confidence": 65
+      },
+      {
+        "word": "unjust",
+        "confidence": 63
+      }
+    ]
+  }
+}

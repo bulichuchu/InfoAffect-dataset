@@ -1,0 +1,28 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "exorbitant",
+          "confidence": 90
+        },
+        {
+          "word": "stark",
+          "confidence": 85
+        },
+        {
+          "word": "affordable",
+          "confidence": 80
+        },
+        {
+          "word": "costly",
+          "confidence": 75
+        },
+        {
+          "word": "significant",
+          "confidence": 70
+        }
+      ]
+    }
+  }
+]

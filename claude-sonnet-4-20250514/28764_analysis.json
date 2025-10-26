@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "curious",
+        "confidence": 88
+      },
+      {
+        "word": "exploratory",
+        "confidence": 85
+      },
+      {
+        "word": "welcoming",
+        "confidence": 82
+      },
+      {
+        "word": "inclusive",
+        "confidence": 80
+      },
+      {
+        "word": "interesting",
+        "confidence": 78
+      },
+      {
+        "word": "open-minded",
+        "confidence": 75
+      },
+      {
+        "word": "informative",
+        "confidence": 72
+      },
+      {
+        "word": "balanced",
+        "confidence": 70
+      }
+    ]
+  }
+}

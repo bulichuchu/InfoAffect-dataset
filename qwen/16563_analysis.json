@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frustrating",
+        "confidence": 85
+      },
+      {
+        "word": "stalemate",
+        "confidence": 80
+      },
+      {
+        "word": "disappointing",
+        "confidence": 78
+      },
+      {
+        "word": "contentious",
+        "confidence": 75
+      },
+      {
+        "word": "stagnant",
+        "confidence": 72
+      },
+      {
+        "word": "controversial",
+        "confidence": 70
+      },
+      {
+        "word": "tense",
+        "confidence": 68
+      },
+      {
+        "word": "unfulfilled",
+        "confidence": 65
+      }
+    ]
+  }
+}

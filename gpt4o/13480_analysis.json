@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fear",
+        "confidence": 90
+      },
+      {
+        "word": "notorious",
+        "confidence": 85
+      },
+      {
+        "word": "declining",
+        "confidence": 80
+      },
+      {
+        "word": "obsolete",
+        "confidence": 88
+      },
+      {
+        "word": "lacking",
+        "confidence": 75
+      },
+      {
+        "word": "famous",
+        "confidence": 70
+      }
+    ]
+  }
+}

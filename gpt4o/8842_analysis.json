@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "soaring",
+        "confidence": 90
+      },
+      {
+        "word": "whopping",
+        "confidence": 85
+      },
+      {
+        "word": "stagnant",
+        "confidence": 80
+      },
+      {
+        "word": "motivating",
+        "confidence": 75
+      },
+      {
+        "word": "competitive",
+        "confidence": 70
+      }
+    ]
+  }
+}

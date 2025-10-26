@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anticipation",
+        "confidence": 85
+      },
+      {
+        "word": "blocked",
+        "confidence": 80
+      },
+      {
+        "word": "rapid",
+        "confidence": 78
+      },
+      {
+        "word": "restricted",
+        "confidence": 82
+      },
+      {
+        "word": "decrease",
+        "confidence": 70
+      },
+      {
+        "word": "falling",
+        "confidence": 75
+      },
+      {
+        "word": "illegal",
+        "confidence": 90
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dominant",
+        "confidence": 90
+      },
+      {
+        "word": "superior",
+        "confidence": 85
+      },
+      {
+        "word": "trailing",
+        "confidence": 80
+      },
+      {
+        "word": "inevitable",
+        "confidence": 75
+      },
+      {
+        "word": "unmatched",
+        "confidence": 82
+      },
+      {
+        "word": "clear",
+        "confidence": 78
+      },
+      {
+        "word": "obvious",
+        "confidence": 76
+      },
+      {
+        "word": "must-have",
+        "confidence": 73
+      }
+    ]
+  }
+}

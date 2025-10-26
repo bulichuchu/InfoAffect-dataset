@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "neutral",
+        "confidence": 80
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 75
+      },
+      {
+        "word": "habitual",
+        "confidence": 78
+      },
+      {
+        "word": "resigned",
+        "confidence": 65
+      },
+      {
+        "word": "content",
+        "confidence": 70
+      },
+      {
+        "word": "enduring",
+        "confidence": 72
+      }
+    ]
+  }
+}

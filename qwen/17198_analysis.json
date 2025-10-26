@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disbelief",
+        "confidence": 85
+      },
+      {
+        "word": "frustration",
+        "confidence": 80
+      },
+      {
+        "word": "skepticism",
+        "confidence": 78
+      },
+      {
+        "word": "shock",
+        "confidence": 75
+      },
+      {
+        "word": "concern",
+        "confidence": 72
+      },
+      {
+        "word": "disconnected",
+        "confidence": 70
+      },
+      {
+        "word": "absurd",
+        "confidence": 68
+      },
+      {
+        "word": "critical",
+        "confidence": 65
+      }
+    ]
+  }
+}

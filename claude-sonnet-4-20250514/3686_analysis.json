@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "revealing",
+        "confidence": 88
+      },
+      {
+        "word": "matter-of-fact",
+        "confidence": 85
+      },
+      {
+        "word": "informative",
+        "confidence": 82
+      },
+      {
+        "word": "analytical",
+        "confidence": 80
+      },
+      {
+        "word": "stark",
+        "confidence": 75
+      },
+      {
+        "word": "clinical",
+        "confidence": 70
+      },
+      {
+        "word": "thought-provoking",
+        "confidence": 68
+      }
+    ]
+  }
+}

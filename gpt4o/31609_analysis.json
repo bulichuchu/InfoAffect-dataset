@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dominance",
+        "confidence": 85
+      },
+      {
+        "word": "decline",
+        "confidence": 80
+      },
+      {
+        "word": "prevalence",
+        "confidence": 78
+      },
+      {
+        "word": "successful",
+        "confidence": 76
+      },
+      {
+        "word": "shrink",
+        "confidence": 70
+      },
+      {
+        "word": "competition",
+        "confidence": 68
+      }
+    ]
+  }
+}

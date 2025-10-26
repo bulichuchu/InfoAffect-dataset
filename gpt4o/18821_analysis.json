@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "harassment",
+        "confidence": 95
+      },
+      {
+        "word": "threatened",
+        "confidence": 90
+      },
+      {
+        "word": "extremism",
+        "confidence": 85
+      },
+      {
+        "word": "dark",
+        "confidence": 80
+      },
+      {
+        "word": "alarming",
+        "confidence": 78
+      },
+      {
+        "word": "stalking",
+        "confidence": 76
+      },
+      {
+        "word": "doxed",
+        "confidence": 75
+      },
+      {
+        "word": "community",
+        "confidence": 70
+      }
+    ]
+  }
+}

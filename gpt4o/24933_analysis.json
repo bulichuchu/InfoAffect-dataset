@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "influential",
+        "confidence": 90
+      },
+      {
+        "word": "persuasive",
+        "confidence": 85
+      },
+      {
+        "word": "trendy",
+        "confidence": 80
+      },
+      {
+        "word": "engaging",
+        "confidence": 78
+      },
+      {
+        "word": "modern",
+        "confidence": 75
+      },
+      {
+        "word": "compelling",
+        "confidence": 72
+      }
+    ]
+  }
+}

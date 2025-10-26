@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "controversy",
+        "confidence": 90
+      },
+      {
+        "word": "anticipation",
+        "confidence": 85
+      },
+      {
+        "word": "preparedness",
+        "confidence": 80
+      },
+      {
+        "word": "concern",
+        "confidence": 75
+      },
+      {
+        "word": "adaptation",
+        "confidence": 72
+      },
+      {
+        "word": "pressure",
+        "confidence": 70
+      },
+      {
+        "word": "uncertainty",
+        "confidence": 68
+      }
+    ]
+  }
+}

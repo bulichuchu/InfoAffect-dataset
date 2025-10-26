@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "momentous",
+        "confidence": 90
+      },
+      {
+        "word": "pivotal",
+        "confidence": 85
+      },
+      {
+        "word": "ubiquitous",
+        "confidence": 80
+      },
+      {
+        "word": "remarkable",
+        "confidence": 75
+      },
+      {
+        "word": "transformative",
+        "confidence": 70
+      },
+      {
+        "word": "revolutionary",
+        "confidence": 65
+      },
+      {
+        "word": "competitive",
+        "confidence": 60
+      }
+    ]
+  }
+}

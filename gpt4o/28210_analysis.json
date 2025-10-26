@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "stalemate",
+        "confidence": 90
+      },
+      {
+        "word": "conflict",
+        "confidence": 85
+      },
+      {
+        "word": "impact",
+        "confidence": 80
+      },
+      {
+        "word": "uncertainty",
+        "confidence": 78
+      },
+      {
+        "word": "tensions",
+        "confidence": 82
+      },
+      {
+        "word": "crisis",
+        "confidence": 86
+      },
+      {
+        "word": "devastation",
+        "confidence": 83
+      }
+    ]
+  }
+}

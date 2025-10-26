@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "tragic",
+        "confidence": 88
+      },
+      {
+        "word": "disproportionate",
+        "confidence": 85
+      },
+      {
+        "word": "sobering",
+        "confidence": 80
+      },
+      {
+        "word": "tense",
+        "confidence": 75
+      },
+      {
+        "word": "unequal",
+        "confidence": 72
+      },
+      {
+        "word": "distressing",
+        "confidence": 78
+      },
+      {
+        "word": "ominous",
+        "confidence": 65
+      }
+    ]
+  }
+}

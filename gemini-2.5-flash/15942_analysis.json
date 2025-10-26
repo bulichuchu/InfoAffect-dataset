@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "arrogant",
+        "confidence": 95
+      },
+      {
+        "word": "chauvinistic",
+        "confidence": 95
+      },
+      {
+        "word": "superiority",
+        "confidence": 90
+      },
+      {
+        "word": "conceited",
+        "confidence": 85
+      },
+      {
+        "word": "nationalistic",
+        "confidence": 80
+      },
+      {
+        "word": "noteworthy",
+        "confidence": 70
+      }
+    ]
+  }
+}

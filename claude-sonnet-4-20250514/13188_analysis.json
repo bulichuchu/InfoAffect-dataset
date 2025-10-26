@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "joyful",
+        "confidence": 95
+      },
+      {
+        "word": "calming",
+        "confidence": 90
+      },
+      {
+        "word": "encouraging",
+        "confidence": 88
+      },
+      {
+        "word": "gentle",
+        "confidence": 85
+      },
+      {
+        "word": "positive",
+        "confidence": 92
+      },
+      {
+        "word": "endearing",
+        "confidence": 80
+      },
+      {
+        "word": "inspiring",
+        "confidence": 78
+      },
+      {
+        "word": "beloved",
+        "confidence": 82
+      }
+    ]
+  }
+}

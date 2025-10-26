@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dominant",
+        "confidence": 90
+      },
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "troubled",
+        "confidence": 80
+      },
+      {
+        "word": "resilient",
+        "confidence": 75
+      },
+      {
+        "word": "regretful",
+        "confidence": 70
+      },
+      {
+        "word": "authoritative",
+        "confidence": 78
+      },
+      {
+        "word": "cautionary",
+        "confidence": 82
+      },
+      {
+        "word": "declining",
+        "confidence": 65
+      }
+    ]
+  }
+}

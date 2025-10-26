@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dedicated",
+        "confidence": 90
+      },
+      {
+        "word": "supportive",
+        "confidence": 85
+      },
+      {
+        "word": "involved",
+        "confidence": 80
+      },
+      {
+        "word": "committed",
+        "confidence": 78
+      },
+      {
+        "word": "responsible",
+        "confidence": 75
+      }
+    ]
+  }
+}

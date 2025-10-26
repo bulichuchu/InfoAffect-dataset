@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "nostalgia",
+        "confidence": 90
+      },
+      {
+        "word": "rise",
+        "confidence": 88
+      },
+      {
+        "word": "decline",
+        "confidence": 85
+      },
+      {
+        "word": "obscurity",
+        "confidence": 80
+      },
+      {
+        "word": "revival",
+        "confidence": 75
+      },
+      {
+        "word": "surprise",
+        "confidence": 70
+      },
+      {
+        "word": "alternatives",
+        "confidence": 65
+      }
+    ]
+  }
+}

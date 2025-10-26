@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "proud",
+        "confidence": 85
+      },
+      {
+        "word": "hopeful",
+        "confidence": 80
+      },
+      {
+        "word": "resilient",
+        "confidence": 75
+      },
+      {
+        "word": "transformative",
+        "confidence": 70
+      },
+      {
+        "word": "significant",
+        "confidence": 78
+      },
+      {
+        "word": "empowering",
+        "confidence": 65
+      },
+      {
+        "word": "global",
+        "confidence": 60
+      },
+      {
+        "word": "inclusive",
+        "confidence": 68
+      }
+    ]
+  }
+}

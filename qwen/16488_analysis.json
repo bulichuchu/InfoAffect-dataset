@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "cautious",
+        "confidence": 88
+      },
+      {
+        "word": "critical",
+        "confidence": 85
+      },
+      {
+        "word": "haunted",
+        "confidence": 80
+      },
+      {
+        "word": "grave",
+        "confidence": 78
+      },
+      {
+        "word": "warning",
+        "confidence": 82
+      },
+      {
+        "word": "skeptical",
+        "confidence": 76
+      },
+      {
+        "word": "concerned",
+        "confidence": 79
+      },
+      {
+        "word": "regretful",
+        "confidence": 70
+      }
+    ]
+  }
+}

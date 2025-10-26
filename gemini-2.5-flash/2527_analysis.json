@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "shifting",
+        "confidence": 90
+      },
+      {
+        "word": "competitive",
+        "confidence": 85
+      },
+      {
+        "word": "revealing",
+        "confidence": 80
+      },
+      {
+        "word": "consequential",
+        "confidence": 75
+      },
+      {
+        "word": "momentous",
+        "confidence": 70
+      },
+      {
+        "word": "disruptive",
+        "confidence": 65
+      }
+    ]
+  }
+}

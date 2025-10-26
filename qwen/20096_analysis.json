@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "hilarious",
+        "confidence": 85
+      },
+      {
+        "word": "ridiculous",
+        "confidence": 80
+      },
+      {
+        "word": "irresistible",
+        "confidence": 75
+      },
+      {
+        "word": "playful",
+        "confidence": 70
+      },
+      {
+        "word": "trendy",
+        "confidence": 65
+      },
+      {
+        "word": "whimsical",
+        "confidence": 60
+      },
+      {
+        "word": "surprising",
+        "confidence": 55
+      },
+      {
+        "word": "ironic",
+        "confidence": 50
+      }
+    ]
+  }
+}

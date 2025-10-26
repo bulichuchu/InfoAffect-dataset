@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "historic",
+        "confidence": 90
+      },
+      {
+        "word": "hopeful",
+        "confidence": 85
+      },
+      {
+        "word": "pioneering",
+        "confidence": 80
+      },
+      {
+        "word": "relieved",
+        "confidence": 75
+      },
+      {
+        "word": "confident",
+        "confidence": 70
+      },
+      {
+        "word": "proactive",
+        "confidence": 65
+      },
+      {
+        "word": "reassuring",
+        "confidence": 60
+      }
+    ]
+  }
+}

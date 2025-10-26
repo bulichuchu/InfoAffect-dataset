@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "crucial",
+        "confidence": 85
+      },
+      {
+        "word": "supportive",
+        "confidence": 80
+      },
+      {
+        "word": "diverse",
+        "confidence": 75
+      },
+      {
+        "word": "community-oriented",
+        "confidence": 78
+      },
+      {
+        "word": "significant",
+        "confidence": 82
+      },
+      {
+        "word": "empowering",
+        "confidence": 70
+      },
+      {
+        "word": "hopeful",
+        "confidence": 65
+      },
+      {
+        "word": "resilient",
+        "confidence": 72
+      }
+    ]
+  }
+}

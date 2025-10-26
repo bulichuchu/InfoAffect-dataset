@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "displacement",
+        "confidence": 90
+      },
+      {
+        "word": "uncertainty",
+        "confidence": 85
+      },
+      {
+        "word": "struggle",
+        "confidence": 80
+      },
+      {
+        "word": "relief",
+        "confidence": 75
+      },
+      {
+        "word": "rejection",
+        "confidence": 78
+      },
+      {
+        "word": "hope",
+        "confidence": 70
+      }
+    ]
+  }
+}

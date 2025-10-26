@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disliked",
+        "confidence": 90
+      },
+      {
+        "word": "controversial",
+        "confidence": 85
+      },
+      {
+        "word": "tense",
+        "confidence": 78
+      },
+      {
+        "word": "divisive",
+        "confidence": 82
+      },
+      {
+        "word": "surprising",
+        "confidence": 75
+      },
+      {
+        "word": "respectful",
+        "confidence": 70
+      },
+      {
+        "word": "historical",
+        "confidence": 65
+      },
+      {
+        "word": "admired",
+        "confidence": 80
+      }
+    ]
+  }
+}

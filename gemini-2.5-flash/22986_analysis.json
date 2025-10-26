@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "neutral",
+        "confidence": 60
+      },
+      {
+        "word": "unemotional",
+        "confidence": 55
+      },
+      {
+        "word": "dispassionate",
+        "confidence": 50
+      },
+      {
+        "word": "objective",
+        "confidence": 45
+      },
+      {
+        "word": "informative",
+        "confidence": 40
+      },
+      {
+        "word": "unremarkable",
+        "confidence": 35
+      }
+    ]
+  }
+}

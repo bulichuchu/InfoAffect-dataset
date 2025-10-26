@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "luxurious",
+        "confidence": 85
+      },
+      {
+        "word": "controversial",
+        "confidence": 80
+      },
+      {
+        "word": "leisurely",
+        "confidence": 78
+      },
+      {
+        "word": "excessive",
+        "confidence": 75
+      },
+      {
+        "word": "comparative",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "decline",
+        "confidence": 90
+      },
+      {
+        "word": "surprising",
+        "confidence": 80
+      },
+      {
+        "word": "spared",
+        "confidence": 75
+      },
+      {
+        "word": "competing",
+        "confidence": 70
+      },
+      {
+        "word": "substantial",
+        "confidence": 65
+      }
+    ]
+  }
+}

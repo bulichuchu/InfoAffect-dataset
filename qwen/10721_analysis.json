@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unfavorable",
+        "confidence": 85
+      },
+      {
+        "word": "critical",
+        "confidence": 80
+      },
+      {
+        "word": "mixed",
+        "confidence": 75
+      },
+      {
+        "word": "trust",
+        "confidence": 70
+      },
+      {
+        "word": "divided",
+        "confidence": 65
+      },
+      {
+        "word": "skeptical",
+        "confidence": 60
+      },
+      {
+        "word": "comparative",
+        "confidence": 55
+      },
+      {
+        "word": "geopolitical",
+        "confidence": 50
+      }
+    ]
+  }
+}

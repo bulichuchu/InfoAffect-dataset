@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "decisive",
+        "confidence": 88
+      },
+      {
+        "word": "competitive",
+        "confidence": 85
+      },
+      {
+        "word": "resigned",
+        "confidence": 82
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 78
+      },
+      {
+        "word": "definitive",
+        "confidence": 75
+      },
+      {
+        "word": "inevitable",
+        "confidence": 73
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 70
+      }
+    ]
+  }
+}

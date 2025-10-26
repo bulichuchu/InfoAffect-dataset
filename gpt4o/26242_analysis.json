@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "chaotic",
+        "confidence": 90
+      },
+      {
+        "word": "bizarre",
+        "confidence": 85
+      },
+      {
+        "word": "troubling",
+        "confidence": 80
+      },
+      {
+        "word": "cutting",
+        "confidence": 78
+      },
+      {
+        "word": "record low",
+        "confidence": 75
+      },
+      {
+        "word": "consistent decline",
+        "confidence": 72
+      }
+    ]
+  }
+}

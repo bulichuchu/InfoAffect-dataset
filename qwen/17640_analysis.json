@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "supportive",
+        "confidence": 90
+      },
+      {
+        "word": "generous",
+        "confidence": 85
+      },
+      {
+        "word": "connected",
+        "confidence": 80
+      },
+      {
+        "word": "resilient",
+        "confidence": 75
+      },
+      {
+        "word": "hopeful",
+        "confidence": 70
+      },
+      {
+        "word": "dedicated",
+        "confidence": 78
+      },
+      {
+        "word": "global",
+        "confidence": 65
+      },
+      {
+        "word": "impactful",
+        "confidence": 72
+      }
+    ]
+  }
+}

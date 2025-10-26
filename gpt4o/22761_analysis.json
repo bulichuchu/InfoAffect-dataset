@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "waning",
+        "confidence": 90
+      },
+      {
+        "word": "contrast",
+        "confidence": 85
+      },
+      {
+        "word": "decline",
+        "confidence": 88
+      },
+      {
+        "word": "unfavorable",
+        "confidence": 83
+      },
+      {
+        "word": "shift",
+        "confidence": 75
+      },
+      {
+        "word": "swiftly",
+        "confidence": 70
+      }
+    ]
+  }
+}

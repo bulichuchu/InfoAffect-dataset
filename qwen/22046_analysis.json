@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "essential",
+        "confidence": 90
+      },
+      {
+        "word": "critical",
+        "confidence": 85
+      },
+      {
+        "word": "urgent",
+        "confidence": 78
+      },
+      {
+        "word": "distressing",
+        "confidence": 75
+      },
+      {
+        "word": "divided",
+        "confidence": 72
+      },
+      {
+        "word": "anxious",
+        "confidence": 68
+      },
+      {
+        "word": "resilient",
+        "confidence": 65
+      },
+      {
+        "word": "disconnected",
+        "confidence": 60
+      }
+    ]
+  }
+}

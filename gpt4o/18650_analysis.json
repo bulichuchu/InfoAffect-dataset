@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "criticized",
+        "confidence": 90
+      },
+      {
+        "word": "dramatic",
+        "confidence": 85
+      },
+      {
+        "word": "pervasive",
+        "confidence": 80
+      },
+      {
+        "word": "proliferation",
+        "confidence": 75
+      },
+      {
+        "word": "concerned",
+        "confidence": 70
+      },
+      {
+        "word": "high",
+        "confidence": 65
+      },
+      {
+        "word": "soared",
+        "confidence": 60
+      }
+    ]
+  }
+}

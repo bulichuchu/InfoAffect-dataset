@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "religious",
+        "confidence": 90
+      },
+      {
+        "word": "support",
+        "confidence": 85
+      },
+      {
+        "word": "cultural",
+        "confidence": 80
+      },
+      {
+        "word": "belief",
+        "confidence": 77
+      },
+      {
+        "word": "preference",
+        "confidence": 73
+      },
+      {
+        "word": "identity",
+        "confidence": 70
+      },
+      {
+        "word": "societal",
+        "confidence": 68
+      }
+    ]
+  }
+}

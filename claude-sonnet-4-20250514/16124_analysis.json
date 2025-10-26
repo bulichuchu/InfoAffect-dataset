@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "secure",
+        "confidence": 88
+      },
+      {
+        "word": "private",
+        "confidence": 85
+      },
+      {
+        "word": "surprising",
+        "confidence": 80
+      },
+      {
+        "word": "informative",
+        "confidence": 78
+      },
+      {
+        "word": "protective",
+        "confidence": 75
+      },
+      {
+        "word": "revealing",
+        "confidence": 70
+      },
+      {
+        "word": "educational",
+        "confidence": 68
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "distracted",
+        "confidence": 85
+      },
+      {
+        "word": "detached",
+        "confidence": 78
+      },
+      {
+        "word": "indifferent",
+        "confidence": 72
+      },
+      {
+        "word": "engaged",
+        "confidence": 65
+      },
+      {
+        "word": "concerned",
+        "confidence": 60
+      },
+      {
+        "word": "curious",
+        "confidence": 70
+      },
+      {
+        "word": "passive",
+        "confidence": 68
+      },
+      {
+        "word": "opportunistic",
+        "confidence": 63
+      }
+    ]
+  }
+}

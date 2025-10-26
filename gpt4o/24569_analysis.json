@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "competitive",
+        "confidence": 85
+      },
+      {
+        "word": "struggle",
+        "confidence": 80
+      },
+      {
+        "word": "transition",
+        "confidence": 78
+      },
+      {
+        "word": "relegated",
+        "confidence": 75
+      },
+      {
+        "word": "shift",
+        "confidence": 70
+      },
+      {
+        "word": "decline",
+        "confidence": 68
+      }
+    ]
+  }
+}

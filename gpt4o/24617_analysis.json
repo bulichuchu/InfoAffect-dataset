@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "astonishment",
+        "confidence": 85
+      },
+      {
+        "word": "envy",
+        "confidence": 80
+      },
+      {
+        "word": "justification",
+        "confidence": 75
+      },
+      {
+        "word": "swift",
+        "confidence": 70
+      },
+      {
+        "word": "effective",
+        "confidence": 78
+      },
+      {
+        "word": "relaxation",
+        "confidence": 72
+      }
+    ]
+  }
+}

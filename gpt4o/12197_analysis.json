@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "nervous",
+        "confidence": 85
+      },
+      {
+        "word": "improvement",
+        "confidence": 80
+      },
+      {
+        "word": "efficient",
+        "confidence": 75
+      },
+      {
+        "word": "reduction",
+        "confidence": 70
+      },
+      {
+        "word": "biggest",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surprising",
+        "confidence": 90
+      },
+      {
+        "word": "concerning",
+        "confidence": 75
+      },
+      {
+        "word": "dominant",
+        "confidence": 80
+      },
+      {
+        "word": "dependent",
+        "confidence": 70
+      },
+      {
+        "word": "increasing",
+        "confidence": 65
+      },
+      {
+        "word": "struggling",
+        "confidence": 60
+      },
+      {
+        "word": "ambitious",
+        "confidence": 55
+      },
+      {
+        "word": "disappointing",
+        "confidence": 50
+      }
+    ]
+  }
+}

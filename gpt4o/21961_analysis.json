@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concern",
+        "confidence": 90
+      },
+      {
+        "word": "uncertainty",
+        "confidence": 85
+      },
+      {
+        "word": "impactful",
+        "confidence": 82
+      },
+      {
+        "word": "recovery",
+        "confidence": 78
+      },
+      {
+        "word": "challenging",
+        "confidence": 80
+      },
+      {
+        "word": "resilience",
+        "confidence": 75
+      }
+    ]
+  }
+}

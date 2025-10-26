@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "united",
+        "confidence": 85
+      },
+      {
+        "word": "avoidant",
+        "confidence": 80
+      },
+      {
+        "word": "apprehensive",
+        "confidence": 75
+      },
+      {
+        "word": "reluctant",
+        "confidence": 72
+      },
+      {
+        "word": "divided",
+        "confidence": 68
+      },
+      {
+        "word": "cautious",
+        "confidence": 65
+      },
+      {
+        "word": "tense",
+        "confidence": 60
+      },
+      {
+        "word": "resigned",
+        "confidence": 55
+      }
+    ]
+  }
+}

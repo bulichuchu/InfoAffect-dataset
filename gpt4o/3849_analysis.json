@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "overburdened",
+        "confidence": 90
+      },
+      {
+        "word": "concern",
+        "confidence": 88
+      },
+      {
+        "word": "dependency",
+        "confidence": 85
+      },
+      {
+        "word": "strained",
+        "confidence": 82
+      },
+      {
+        "word": "challenged",
+        "confidence": 80
+      },
+      {
+        "word": "uncertainty",
+        "confidence": 78
+      },
+      {
+        "word": "impact",
+        "confidence": 75
+      }
+    ]
+  }
+}

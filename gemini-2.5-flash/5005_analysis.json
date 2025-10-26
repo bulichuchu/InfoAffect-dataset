@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "informative",
+        "confidence": 92
+      },
+      {
+        "word": "insightful",
+        "confidence": 90
+      },
+      {
+        "word": "significant",
+        "confidence": 88
+      },
+      {
+        "word": "revealing",
+        "confidence": 85
+      },
+      {
+        "word": "surprising",
+        "confidence": 75
+      },
+      {
+        "word": "substantial",
+        "confidence": 70
+      }
+    ]
+  }
+}

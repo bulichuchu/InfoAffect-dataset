@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "booming",
+        "confidence": 90
+      },
+      {
+        "word": "boost",
+        "confidence": 85
+      },
+      {
+        "word": "rapid",
+        "confidence": 80
+      },
+      {
+        "word": "increasingly",
+        "confidence": 75
+      },
+      {
+        "word": "promising",
+        "confidence": 70
+      }
+    ]
+  }
+}

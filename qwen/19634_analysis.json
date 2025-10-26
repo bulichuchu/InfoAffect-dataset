@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "critical",
+        "confidence": 85
+      },
+      {
+        "word": "divided",
+        "confidence": 80
+      },
+      {
+        "word": "controversial",
+        "confidence": 78
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      },
+      {
+        "word": "disapproving",
+        "confidence": 72
+      },
+      {
+        "word": "polarized",
+        "confidence": 70
+      },
+      {
+        "word": "concerned",
+        "confidence": 68
+      },
+      {
+        "word": "dissatisfied",
+        "confidence": 65
+      }
+    ]
+  }
+}

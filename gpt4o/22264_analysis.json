@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "activism",
+        "confidence": 85
+      },
+      {
+        "word": "engagement",
+        "confidence": 80
+      },
+      {
+        "word": "awareness",
+        "confidence": 78
+      },
+      {
+        "word": "participation",
+        "confidence": 75
+      },
+      {
+        "word": "empowerment",
+        "confidence": 72
+      },
+      {
+        "word": "connectedness",
+        "confidence": 70
+      },
+      {
+        "word": "concern",
+        "confidence": 68
+      }
+    ]
+  }
+}

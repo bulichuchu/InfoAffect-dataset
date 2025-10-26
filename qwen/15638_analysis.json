@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "enthusiastic",
+        "confidence": 85
+      },
+      {
+        "word": "global",
+        "confidence": 80
+      },
+      {
+        "word": "curious",
+        "confidence": 75
+      },
+      {
+        "word": "adventurous",
+        "confidence": 70
+      },
+      {
+        "word": "diverse",
+        "confidence": 65
+      },
+      {
+        "word": "connected",
+        "confidence": 72
+      },
+      {
+        "word": "modern",
+        "confidence": 68
+      },
+      {
+        "word": "competitive",
+        "confidence": 60
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "tumultuous",
+        "confidence": 90
+      },
+      {
+        "word": "divisive",
+        "confidence": 88
+      },
+      {
+        "word": "infuriated",
+        "confidence": 85
+      },
+      {
+        "word": "flagrant",
+        "confidence": 82
+      },
+      {
+        "word": "tense",
+        "confidence": 78
+      },
+      {
+        "word": "confrontational",
+        "confidence": 75
+      },
+      {
+        "word": "unstable",
+        "confidence": 70
+      },
+      {
+        "word": "volatile",
+        "confidence": 68
+      }
+    ]
+  }
+}

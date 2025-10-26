@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "comfortable",
+        "confidence": 85
+      },
+      {
+        "word": "surprising",
+        "confidence": 78
+      },
+      {
+        "word": "practical",
+        "confidence": 75
+      },
+      {
+        "word": "diverse",
+        "confidence": 72
+      },
+      {
+        "word": "traditional",
+        "confidence": 70
+      },
+      {
+        "word": "modern",
+        "confidence": 68
+      },
+      {
+        "word": "contrasting",
+        "confidence": 65
+      },
+      {
+        "word": "informative",
+        "confidence": 80
+      }
+    ]
+  }
+}

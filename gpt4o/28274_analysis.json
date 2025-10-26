@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "catastrophic",
+        "confidence": 90
+      },
+      {
+        "word": "impactful",
+        "confidence": 85
+      },
+      {
+        "word": "unprecedented",
+        "confidence": 82
+      },
+      {
+        "word": "recovery",
+        "confidence": 78
+      },
+      {
+        "word": "significant",
+        "confidence": 75
+      },
+      {
+        "word": "uncertain",
+        "confidence": 70
+      }
+    ]
+  }
+}

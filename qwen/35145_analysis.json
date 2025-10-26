@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "ambitious",
+        "confidence": 85
+      },
+      {
+        "word": "competitive",
+        "confidence": 80
+      },
+      {
+        "word": "aspirational",
+        "confidence": 75
+      },
+      {
+        "word": "divergent",
+        "confidence": 70
+      },
+      {
+        "word": "prioritized",
+        "confidence": 65
+      },
+      {
+        "word": "motivated",
+        "confidence": 60
+      },
+      {
+        "word": "cultural",
+        "confidence": 55
+      },
+      {
+        "word": "measured",
+        "confidence": 50
+      }
+    ]
+  }
+}

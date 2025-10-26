@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "crucial",
+        "confidence": 92
+      },
+      {
+        "word": "disparity",
+        "confidence": 86
+      },
+      {
+        "word": "impactful",
+        "confidence": 84
+      },
+      {
+        "word": "surprising",
+        "confidence": 78
+      },
+      {
+        "word": "concern",
+        "confidence": 74
+      },
+      {
+        "word": "dependency",
+        "confidence": 70
+      }
+    ]
+  }
+}

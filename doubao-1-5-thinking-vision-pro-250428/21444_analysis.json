@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "captivating",
+        "confidence": 90
+      },
+      {
+        "word": "excited",
+        "confidence": 85
+      },
+      {
+        "word": "glowing",
+        "confidence": 82
+      },
+      {
+        "word": "iconic",
+        "confidence": 88
+      },
+      {
+        "word": "reverent",
+        "confidence": 80
+      },
+      {
+        "word": "admiring",
+        "confidence": 78
+      }
+    ]
+  }
+}

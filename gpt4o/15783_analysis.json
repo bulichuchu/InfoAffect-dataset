@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "setback",
+        "confidence": 90
+      },
+      {
+        "word": "deceleration",
+        "confidence": 85
+      },
+      {
+        "word": "understandable",
+        "confidence": 80
+      },
+      {
+        "word": "trend",
+        "confidence": 75
+      },
+      {
+        "word": "maturing",
+        "confidence": 70
+      },
+      {
+        "word": "noticeable",
+        "confidence": 65
+      }
+    ]
+  }
+}

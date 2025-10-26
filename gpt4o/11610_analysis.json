@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "expensive",
+        "confidence": 90
+      },
+      {
+        "word": "valuable",
+        "confidence": 85
+      },
+      {
+        "word": "premium",
+        "confidence": 83
+      },
+      {
+        "word": "saturated",
+        "confidence": 78
+      },
+      {
+        "word": "incentivized",
+        "confidence": 75
+      },
+      {
+        "word": "growth",
+        "confidence": 80
+      }
+    ]
+  }
+}

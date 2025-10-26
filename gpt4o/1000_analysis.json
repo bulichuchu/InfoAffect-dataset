@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "impressive",
+        "confidence": 88
+      },
+      {
+        "word": "weak",
+        "confidence": 85
+      },
+      {
+        "word": "decline",
+        "confidence": 82
+      },
+      {
+        "word": "growth",
+        "confidence": 78
+      },
+      {
+        "word": "loss",
+        "confidence": 80
+      },
+      {
+        "word": "strengths",
+        "confidence": 75
+      }
+    ]
+  }
+}

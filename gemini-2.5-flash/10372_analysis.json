@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "shock",
+        "confidence": 90
+      },
+      {
+        "word": "concern",
+        "confidence": 88
+      },
+      {
+        "word": "resolve",
+        "confidence": 92
+      },
+      {
+        "word": "unease",
+        "confidence": 78
+      },
+      {
+        "word": "contention",
+        "confidence": 70
+      },
+      {
+        "word": "steadfastness",
+        "confidence": 85
+      }
+    ]
+  }
+}

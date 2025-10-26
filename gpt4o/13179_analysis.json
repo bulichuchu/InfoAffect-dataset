@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "inequality",
+        "confidence": 90
+      },
+      {
+        "word": "liberal",
+        "confidence": 80
+      },
+      {
+        "word": "progressive",
+        "confidence": 76
+      },
+      {
+        "word": "restricted",
+        "confidence": 85
+      },
+      {
+        "word": "hopeful",
+        "confidence": 70
+      },
+      {
+        "word": "forbidden",
+        "confidence": 82
+      }
+    ]
+  }
+}

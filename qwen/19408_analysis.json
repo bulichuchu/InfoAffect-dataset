@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surprising",
+        "confidence": 90
+      },
+      {
+        "word": "ironic",
+        "confidence": 85
+      },
+      {
+        "word": "polarizing",
+        "confidence": 80
+      },
+      {
+        "word": "controversial",
+        "confidence": 75
+      },
+      {
+        "word": "resilient",
+        "confidence": 70
+      },
+      {
+        "word": "unfavorable",
+        "confidence": 88
+      },
+      {
+        "word": "competitive",
+        "confidence": 65
+      },
+      {
+        "word": "tense",
+        "confidence": 72
+      }
+    ]
+  }
+}

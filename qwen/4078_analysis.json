@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dominant",
+        "confidence": 85
+      },
+      {
+        "word": "reliant",
+        "confidence": 80
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 75
+      },
+      {
+        "word": "evolving",
+        "confidence": 70
+      },
+      {
+        "word": "declining",
+        "confidence": 65
+      },
+      {
+        "word": "connected",
+        "confidence": 60
+      },
+      {
+        "word": "modern",
+        "confidence": 72
+      },
+      {
+        "word": "informative",
+        "confidence": 68
+      }
+    ]
+  }
+}

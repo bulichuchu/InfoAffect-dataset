@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "contentious",
+        "confidence": 90
+      },
+      {
+        "word": "violence",
+        "confidence": 92
+      },
+      {
+        "word": "critical",
+        "confidence": 85
+      },
+      {
+        "word": "divine",
+        "confidence": 80
+      },
+      {
+        "word": "underreported",
+        "confidence": 78
+      },
+      {
+        "word": "suicides",
+        "confidence": 88
+      },
+      {
+        "word": "influence",
+        "confidence": 82
+      }
+    ]
+  }
+}

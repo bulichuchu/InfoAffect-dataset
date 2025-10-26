@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disheartened",
+        "confidence": 85
+      },
+      {
+        "word": "pessimistic",
+        "confidence": 80
+      },
+      {
+        "word": "concerned",
+        "confidence": 75
+      },
+      {
+        "word": "resigned",
+        "confidence": 70
+      },
+      {
+        "word": "discouraged",
+        "confidence": 78
+      },
+      {
+        "word": "skeptical",
+        "confidence": 72
+      },
+      {
+        "word": "melancholy",
+        "confidence": 65
+      }
+    ]
+  }
+}

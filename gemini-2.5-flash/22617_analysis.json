@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "lucrative",
+        "confidence": 95
+      },
+      {
+        "word": "consequential",
+        "confidence": 90
+      },
+      {
+        "word": "significant",
+        "confidence": 88
+      },
+      {
+        "word": "tense",
+        "confidence": 85
+      },
+      {
+        "word": "high-stakes",
+        "confidence": 80
+      },
+      {
+        "word": "flourishing",
+        "confidence": 75
+      }
+    ]
+  }
+}

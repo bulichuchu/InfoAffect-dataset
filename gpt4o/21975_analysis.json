@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "discrimination",
+        "confidence": 90
+      },
+      {
+        "word": "hopeless",
+        "confidence": 85
+      },
+      {
+        "word": "sad",
+        "confidence": 80
+      },
+      {
+        "word": "pressure",
+        "confidence": 75
+      },
+      {
+        "word": "struggle",
+        "confidence": 78
+      },
+      {
+        "word": "challenge",
+        "confidence": 70
+      },
+      {
+        "word": "acceptance",
+        "confidence": 65
+      }
+    ]
+  }
+}

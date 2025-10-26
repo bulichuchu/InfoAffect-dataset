@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "negative",
+        "confidence": 90
+      },
+      {
+        "word": "disapproving",
+        "confidence": 85
+      },
+      {
+        "word": "unpopular",
+        "confidence": 78
+      },
+      {
+        "word": "low",
+        "confidence": 80
+      },
+      {
+        "word": "popular",
+        "confidence": 88
+      },
+      {
+        "word": "discontent",
+        "confidence": 82
+      }
+    ]
+  }
+}

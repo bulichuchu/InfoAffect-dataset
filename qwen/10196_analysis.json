@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "nostalgic",
+        "confidence": 85
+      },
+      {
+        "word": "surprising",
+        "confidence": 80
+      },
+      {
+        "word": "transformative",
+        "confidence": 75
+      },
+      {
+        "word": "declining",
+        "confidence": 78
+      },
+      {
+        "word": "rising",
+        "confidence": 72
+      },
+      {
+        "word": "shift",
+        "confidence": 76
+      },
+      {
+        "word": "trendy",
+        "confidence": 65
+      },
+      {
+        "word": "bittersweet",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dominance",
+        "confidence": 85
+      },
+      {
+        "word": "threatened",
+        "confidence": 80
+      },
+      {
+        "word": "rising",
+        "confidence": 75
+      },
+      {
+        "word": "popular",
+        "confidence": 70
+      },
+      {
+        "word": "gradually",
+        "confidence": 65
+      },
+      {
+        "word": "health-conscious",
+        "confidence": 60
+      }
+    ]
+  }
+}

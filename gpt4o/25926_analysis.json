@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "widespread",
+        "confidence": 90
+      },
+      {
+        "word": "unethical",
+        "confidence": 88
+      },
+      {
+        "word": "misconduct",
+        "confidence": 85
+      },
+      {
+        "word": "costly",
+        "confidence": 82
+      },
+      {
+        "word": "alarming",
+        "confidence": 80
+      },
+      {
+        "word": "affected",
+        "confidence": 78
+      },
+      {
+        "word": "disproportionally",
+        "confidence": 75
+      }
+    ]
+  }
+}

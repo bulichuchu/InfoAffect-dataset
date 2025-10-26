@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "triumphant",
+        "confidence": 85
+      },
+      {
+        "word": "positive",
+        "confidence": 80
+      },
+      {
+        "word": "grim",
+        "confidence": 90
+      },
+      {
+        "word": "struggling",
+        "confidence": 85
+      },
+      {
+        "word": "declining",
+        "confidence": 78
+      },
+      {
+        "word": "concerned",
+        "confidence": 72
+      },
+      {
+        "word": "competitive",
+        "confidence": 65
+      },
+      {
+        "word": "disappointing",
+        "confidence": 75
+      }
+    ]
+  }
+}

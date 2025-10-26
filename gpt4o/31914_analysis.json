@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "celebration",
+        "confidence": 90
+      },
+      {
+        "word": "commercialization",
+        "confidence": 85
+      },
+      {
+        "word": "traditional",
+        "confidence": 80
+      },
+      {
+        "word": "increased",
+        "confidence": 75
+      },
+      {
+        "word": "cultural",
+        "confidence": 70
+      },
+      {
+        "word": "significant",
+        "confidence": 65
+      },
+      {
+        "word": "planned",
+        "confidence": 60
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "contemplative",
+        "confidence": 88
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 82
+      },
+      {
+        "word": "disconnected",
+        "confidence": 79
+      },
+      {
+        "word": "reflective",
+        "confidence": 75
+      },
+      {
+        "word": "curious",
+        "confidence": 72
+      },
+      {
+        "word": "resigned",
+        "confidence": 68
+      },
+      {
+        "word": "analytical",
+        "confidence": 65
+      }
+    ]
+  }
+}

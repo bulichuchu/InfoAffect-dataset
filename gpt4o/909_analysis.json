@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "relevant",
+        "confidence": 90
+      },
+      {
+        "word": "hesitant",
+        "confidence": 75
+      },
+      {
+        "word": "comfortable",
+        "confidence": 85
+      },
+      {
+        "word": "attractive",
+        "confidence": 80
+      },
+      {
+        "word": "growing",
+        "confidence": 88
+      },
+      {
+        "word": "increasing",
+        "confidence": 82
+      }
+    ]
+  }
+}

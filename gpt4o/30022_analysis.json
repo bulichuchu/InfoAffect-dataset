@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "popular",
+        "confidence": 90
+      },
+      {
+        "word": "keen",
+        "confidence": 85
+      },
+      {
+        "word": "artistic",
+        "confidence": 80
+      },
+      {
+        "word": "cultural",
+        "confidence": 75
+      },
+      {
+        "word": "historical",
+        "confidence": 70
+      },
+      {
+        "word": "educational",
+        "confidence": 65
+      },
+      {
+        "word": "enthusiastic",
+        "confidence": 60
+      }
+    ]
+  }
+}

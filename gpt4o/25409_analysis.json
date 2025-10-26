@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "expensive",
+        "confidence": 95
+      },
+      {
+        "word": "unenviable",
+        "confidence": 90
+      },
+      {
+        "word": "notable",
+        "confidence": 85
+      },
+      {
+        "word": "pressure",
+        "confidence": 80
+      },
+      {
+        "word": "competitive",
+        "confidence": 75
+      }
+    ]
+  }
+}

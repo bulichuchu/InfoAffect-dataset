@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concern",
+        "confidence": 90
+      },
+      {
+        "word": "dominance",
+        "confidence": 85
+      },
+      {
+        "word": "imbalance",
+        "confidence": 80
+      },
+      {
+        "word": "threat",
+        "confidence": 78
+      },
+      {
+        "word": "monopolistic",
+        "confidence": 76
+      },
+      {
+        "word": "warning",
+        "confidence": 74
+      },
+      {
+        "word": "control",
+        "confidence": 70
+      }
+    ]
+  }
+}

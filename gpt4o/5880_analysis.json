@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "historical",
+        "confidence": 85
+      },
+      {
+        "word": "regional",
+        "confidence": 78
+      },
+      {
+        "word": "uncommon",
+        "confidence": 70
+      },
+      {
+        "word": "statistical",
+        "confidence": 82
+      },
+      {
+        "word": "insightful",
+        "confidence": 76
+      },
+      {
+        "word": "geographical",
+        "confidence": 80
+      }
+    ]
+  }
+}

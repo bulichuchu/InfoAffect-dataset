@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "record",
+        "confidence": 90
+      },
+      {
+        "word": "whopping",
+        "confidence": 85
+      },
+      {
+        "word": "growth",
+        "confidence": 88
+      },
+      {
+        "word": "increase",
+        "confidence": 82
+      },
+      {
+        "word": "driven",
+        "confidence": 80
+      },
+      {
+        "word": "success",
+        "confidence": 78
+      }
+    ]
+  }
+}

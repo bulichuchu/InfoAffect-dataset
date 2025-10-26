@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "partnership",
+        "confidence": 85
+      },
+      {
+        "word": "growth",
+        "confidence": 90
+      },
+      {
+        "word": "excitement",
+        "confidence": 75
+      },
+      {
+        "word": "achievement",
+        "confidence": 80
+      },
+      {
+        "word": "simplicity",
+        "confidence": 70
+      },
+      {
+        "word": "innovation",
+        "confidence": 80
+      }
+    ]
+  }
+}

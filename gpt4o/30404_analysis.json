@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concern",
+        "confidence": 85
+      },
+      {
+        "word": "setback",
+        "confidence": 80
+      },
+      {
+        "word": "positive",
+        "confidence": 75
+      },
+      {
+        "word": "driven",
+        "confidence": 70
+      },
+      {
+        "word": "modest",
+        "confidence": 65
+      },
+      {
+        "word": "uptick",
+        "confidence": 60
+      }
+    ]
+  }
+}

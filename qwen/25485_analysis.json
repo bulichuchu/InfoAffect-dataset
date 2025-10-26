@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dominant",
+        "confidence": 90
+      },
+      {
+        "word": "concerning",
+        "confidence": 85
+      },
+      {
+        "word": "overwhelming",
+        "confidence": 80
+      },
+      {
+        "word": "illusive",
+        "confidence": 75
+      },
+      {
+        "word": "disillusioning",
+        "confidence": 70
+      },
+      {
+        "word": "powerful",
+        "confidence": 78
+      },
+      {
+        "word": "monopolistic",
+        "confidence": 65
+      },
+      {
+        "word": "dwarfing",
+        "confidence": 72
+      }
+    ]
+  }
+}

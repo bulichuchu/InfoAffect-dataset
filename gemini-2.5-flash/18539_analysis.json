@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "revolutionary",
+        "confidence": 95
+      },
+      {
+        "word": "growth",
+        "confidence": 90
+      },
+      {
+        "word": "successful",
+        "confidence": 88
+      },
+      {
+        "word": "progressive",
+        "confidence": 85
+      },
+      {
+        "word": "transformative",
+        "confidence": 80
+      },
+      {
+        "word": "dynamic",
+        "confidence": 75
+      }
+    ]
+  }
+}

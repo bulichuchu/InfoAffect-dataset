@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "relevant",
+        "confidence": 90
+      },
+      {
+        "word": "persistent",
+        "confidence": 85
+      },
+      {
+        "word": "consistent",
+        "confidence": 80
+      },
+      {
+        "word": "essential",
+        "confidence": 78
+      },
+      {
+        "word": "habitual",
+        "confidence": 75
+      }
+    ]
+  }
+}

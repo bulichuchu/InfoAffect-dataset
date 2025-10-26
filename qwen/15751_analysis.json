@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "powerful",
+        "confidence": 90
+      },
+      {
+        "word": "restrictive",
+        "confidence": 85
+      },
+      {
+        "word": "disparaging",
+        "confidence": 78
+      },
+      {
+        "word": "exclusive",
+        "confidence": 75
+      },
+      {
+        "word": "liberating",
+        "confidence": 72
+      },
+      {
+        "word": "inequitable",
+        "confidence": 80
+      },
+      {
+        "word": "discriminatory",
+        "confidence": 68
+      },
+      {
+        "word": "frustrating",
+        "confidence": 65
+      }
+    ]
+  }
+}

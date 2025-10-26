@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "secretive",
+        "confidence": 90
+      },
+      {
+        "word": "cautious",
+        "confidence": 85
+      },
+      {
+        "word": "fearful",
+        "confidence": 82
+      },
+      {
+        "word": "dramatic",
+        "confidence": 78
+      },
+      {
+        "word": "mysterious",
+        "confidence": 75
+      },
+      {
+        "word": "solemn",
+        "confidence": 70
+      },
+      {
+        "word": "intriguing",
+        "confidence": 68
+      },
+      {
+        "word": "ominous",
+        "confidence": 65
+      }
+    ]
+  }
+}

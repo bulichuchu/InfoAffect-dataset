@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "important",
+        "confidence": 90
+      },
+      {
+        "word": "divided",
+        "confidence": 85
+      },
+      {
+        "word": "leaning",
+        "confidence": 80
+      },
+      {
+        "word": "strong",
+        "confidence": 78
+      },
+      {
+        "word": "identify",
+        "confidence": 75
+      },
+      {
+        "word": "beliefs",
+        "confidence": 70
+      },
+      {
+        "word": "aspect",
+        "confidence": 65
+      }
+    ]
+  }
+}

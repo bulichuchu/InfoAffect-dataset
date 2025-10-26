@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "contentious",
+        "confidence": 85
+      },
+      {
+        "word": "dramatic",
+        "confidence": 80
+      },
+      {
+        "word": "concerned",
+        "confidence": 75
+      },
+      {
+        "word": "disproportionate",
+        "confidence": 78
+      },
+      {
+        "word": "volatile",
+        "confidence": 72
+      },
+      {
+        "word": "tense",
+        "confidence": 68
+      },
+      {
+        "word": "resilient",
+        "confidence": 65
+      },
+      {
+        "word": "alarming",
+        "confidence": 70
+      }
+    ]
+  }
+}

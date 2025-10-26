@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "sobering",
+        "confidence": 88
+      },
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "thought-provoking",
+        "confidence": 82
+      },
+      {
+        "word": "reflective",
+        "confidence": 78
+      },
+      {
+        "word": "pensive",
+        "confidence": 70
+      },
+      {
+        "word": "disheartening",
+        "confidence": 65
+      }
+    ]
+  }
+}

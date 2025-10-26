@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "relief",
+        "confidence": 85
+      },
+      {
+        "word": "burdened",
+        "confidence": 90
+      },
+      {
+        "word": "grim",
+        "confidence": 78
+      },
+      {
+        "word": "hopeful",
+        "confidence": 70
+      },
+      {
+        "word": "daunting",
+        "confidence": 82
+      },
+      {
+        "word": "resilient",
+        "confidence": 65
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      },
+      {
+        "word": "exhausted",
+        "confidence": 72
+      }
+    ]
+  }
+}

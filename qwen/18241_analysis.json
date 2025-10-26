@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "persistent",
+        "confidence": 90
+      },
+      {
+        "word": "surging",
+        "confidence": 85
+      },
+      {
+        "word": "anxious",
+        "confidence": 78
+      },
+      {
+        "word": "urgent",
+        "confidence": 75
+      },
+      {
+        "word": "determined",
+        "confidence": 70
+      },
+      {
+        "word": "concerned",
+        "confidence": 68
+      },
+      {
+        "word": "resilient",
+        "confidence": 65
+      },
+      {
+        "word": "heightened",
+        "confidence": 72
+      }
+    ]
+  }
+}

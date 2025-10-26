@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "successful",
+        "confidence": 90
+      },
+      {
+        "word": "flourishing",
+        "confidence": 85
+      },
+      {
+        "word": "discrepancy",
+        "confidence": 75
+      },
+      {
+        "word": "limitation",
+        "confidence": 70
+      },
+      {
+        "word": "concern",
+        "confidence": 78
+      },
+      {
+        "word": "squeeze",
+        "confidence": 60
+      }
+    ]
+  }
+}

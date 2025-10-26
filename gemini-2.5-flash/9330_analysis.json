@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "competitive",
+        "confidence": 95
+      },
+      {
+        "word": "anticipatory",
+        "confidence": 90
+      },
+      {
+        "word": "historical",
+        "confidence": 88
+      },
+      {
+        "word": "aspirational",
+        "confidence": 85
+      },
+      {
+        "word": "controversial",
+        "confidence": 80
+      },
+      {
+        "word": "idealistic",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "suspicion",
+        "confidence": 88
+      },
+      {
+        "word": "divisive",
+        "confidence": 85
+      },
+      {
+        "word": "uncertainty",
+        "confidence": 82
+      },
+      {
+        "word": "controversial",
+        "confidence": 80
+      },
+      {
+        "word": "politicized",
+        "confidence": 78
+      }
+    ]
+  }
+}

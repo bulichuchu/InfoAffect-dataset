@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "isolated",
+        "confidence": 90
+      },
+      {
+        "word": "challenging",
+        "confidence": 85
+      },
+      {
+        "word": "reliant",
+        "confidence": 80
+      },
+      {
+        "word": "exposed",
+        "confidence": 75
+      },
+      {
+        "word": "problematic",
+        "confidence": 70
+      },
+      {
+        "word": "symbolic",
+        "confidence": 65
+      },
+      {
+        "word": "constrained",
+        "confidence": 60
+      }
+    ]
+  }
+}

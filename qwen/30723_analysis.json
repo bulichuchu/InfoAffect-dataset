@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "prosperous",
+        "confidence": 85
+      },
+      {
+        "word": "vulnerable",
+        "confidence": 80
+      },
+      {
+        "word": "dependent",
+        "confidence": 75
+      },
+      {
+        "word": "unequal",
+        "confidence": 78
+      },
+      {
+        "word": "concerned",
+        "confidence": 72
+      },
+      {
+        "word": "cautious",
+        "confidence": 70
+      },
+      {
+        "word": "comparative",
+        "confidence": 65
+      },
+      {
+        "word": "informative",
+        "confidence": 88
+      }
+    ]
+  }
+}

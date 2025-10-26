@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "hopeful",
+        "confidence": 85
+      },
+      {
+        "word": "relieved",
+        "confidence": 82
+      },
+      {
+        "word": "optimistic",
+        "confidence": 78
+      },
+      {
+        "word": "grateful",
+        "confidence": 75
+      },
+      {
+        "word": "determined",
+        "confidence": 72
+      },
+      {
+        "word": "supportive",
+        "confidence": 88
+      },
+      {
+        "word": "triumphant",
+        "confidence": 68
+      },
+      {
+        "word": "solidarity",
+        "confidence": 80
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "defiant",
+        "confidence": 90
+      },
+      {
+        "word": "strategic",
+        "confidence": 85
+      },
+      {
+        "word": "frustrated",
+        "confidence": 80
+      },
+      {
+        "word": "challenging",
+        "confidence": 78
+      },
+      {
+        "word": "escalation",
+        "confidence": 75
+      },
+      {
+        "word": "monopoly",
+        "confidence": 70
+      }
+    ]
+  }
+}

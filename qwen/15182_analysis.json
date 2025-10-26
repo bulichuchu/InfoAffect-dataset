@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "competitive",
+        "confidence": 85
+      },
+      {
+        "word": "partisan",
+        "confidence": 80
+      },
+      {
+        "word": "intense",
+        "confidence": 75
+      },
+      {
+        "word": "strategic",
+        "confidence": 70
+      },
+      {
+        "word": "disparaging",
+        "confidence": 65
+      },
+      {
+        "word": "urgent",
+        "confidence": 60
+      },
+      {
+        "word": "imbalanced",
+        "confidence": 72
+      },
+      {
+        "word": "concerned",
+        "confidence": 68
+      }
+    ]
+  }
+}

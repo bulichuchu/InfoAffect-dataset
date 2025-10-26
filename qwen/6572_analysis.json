@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "hopeful",
+        "confidence": 85
+      },
+      {
+        "word": "progressive",
+        "confidence": 80
+      },
+      {
+        "word": "unified",
+        "confidence": 75
+      },
+      {
+        "word": "determined",
+        "confidence": 70
+      },
+      {
+        "word": "serious",
+        "confidence": 65
+      },
+      {
+        "word": "collaborative",
+        "confidence": 72
+      },
+      {
+        "word": "measured",
+        "confidence": 60
+      },
+      {
+        "word": "responsible",
+        "confidence": 68
+      }
+    ]
+  }
+}

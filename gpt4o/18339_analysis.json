@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "decline",
+        "confidence": 90
+      },
+      {
+        "word": "deteriorated",
+        "confidence": 85
+      },
+      {
+        "word": "violence",
+        "confidence": 82
+      },
+      {
+        "word": "unrest",
+        "confidence": 80
+      },
+      {
+        "word": "conflict",
+        "confidence": 78
+      },
+      {
+        "word": "improved",
+        "confidence": 75
+      },
+      {
+        "word": "protests",
+        "confidence": 70
+      }
+    ]
+  }
+}

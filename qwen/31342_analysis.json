@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "exhausted",
+        "confidence": 85
+      },
+      {
+        "word": "dedicated",
+        "confidence": 80
+      },
+      {
+        "word": "surprising",
+        "confidence": 75
+      },
+      {
+        "word": "intense",
+        "confidence": 78
+      },
+      {
+        "word": "competitive",
+        "confidence": 72
+      },
+      {
+        "word": "focused",
+        "confidence": 70
+      },
+      {
+        "word": "impressive",
+        "confidence": 65
+      },
+      {
+        "word": "habitual",
+        "confidence": 68
+      }
+    ]
+  }
+}

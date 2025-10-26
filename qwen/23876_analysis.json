@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "irritating",
+        "confidence": 85
+      },
+      {
+        "word": "stressful",
+        "confidence": 82
+      },
+      {
+        "word": "annoying",
+        "confidence": 78
+      },
+      {
+        "word": "disturbing",
+        "confidence": 75
+      },
+      {
+        "word": "frustrating",
+        "confidence": 73
+      },
+      {
+        "word": "unpleasant",
+        "confidence": 70
+      },
+      {
+        "word": "peaceful",
+        "confidence": 65
+      },
+      {
+        "word": "concerned",
+        "confidence": 68
+      }
+    ]
+  }
+}

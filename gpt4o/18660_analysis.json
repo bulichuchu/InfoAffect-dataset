@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dynamic",
+        "confidence": 85
+      },
+      {
+        "word": "strategic",
+        "confidence": 80
+      },
+      {
+        "word": "influential",
+        "confidence": 78
+      },
+      {
+        "word": "proactive",
+        "confidence": 75
+      },
+      {
+        "word": "challenging",
+        "confidence": 72
+      },
+      {
+        "word": "empowered",
+        "confidence": 70
+      }
+    ]
+  }
+}

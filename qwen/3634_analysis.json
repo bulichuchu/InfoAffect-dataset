@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surprising",
+        "confidence": 85
+      },
+      {
+        "word": "patient",
+        "confidence": 80
+      },
+      {
+        "word": "devoted",
+        "confidence": 75
+      },
+      {
+        "word": "reluctant",
+        "confidence": 72
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 78
+      },
+      {
+        "word": "loyal",
+        "confidence": 65
+      },
+      {
+        "word": "eager",
+        "confidence": 60
+      },
+      {
+        "word": "resigned",
+        "confidence": 68
+      }
+    ]
+  }
+}

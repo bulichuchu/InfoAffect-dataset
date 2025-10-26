@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "focused",
+        "confidence": 85
+      },
+      {
+        "word": "strategic",
+        "confidence": 82
+      },
+      {
+        "word": "concentrated",
+        "confidence": 80
+      },
+      {
+        "word": "influential",
+        "confidence": 78
+      },
+      {
+        "word": "preferential",
+        "confidence": 75
+      },
+      {
+        "word": "targeted",
+        "confidence": 73
+      },
+      {
+        "word": "varied",
+        "confidence": 70
+      },
+      {
+        "word": "inclusive",
+        "confidence": 65
+      }
+    ]
+  }
+}

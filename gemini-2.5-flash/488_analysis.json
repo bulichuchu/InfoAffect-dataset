@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerning",
+        "confidence": 90
+      },
+      {
+        "word": "challenging",
+        "confidence": 88
+      },
+      {
+        "word": "warning",
+        "confidence": 85
+      },
+      {
+        "word": "straining",
+        "confidence": 82
+      },
+      {
+        "word": "problematic",
+        "confidence": 80
+      },
+      {
+        "word": "restrictive",
+        "confidence": 78
+      }
+    ]
+  }
+}

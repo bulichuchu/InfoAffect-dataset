@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerning",
+        "confidence": 88
+      },
+      {
+        "word": "celebratory",
+        "confidence": 75
+      },
+      {
+        "word": "disappointing",
+        "confidence": 82
+      },
+      {
+        "word": "hopeful",
+        "confidence": 70
+      },
+      {
+        "word": "stark",
+        "confidence": 85
+      },
+      {
+        "word": "inequitable",
+        "confidence": 90
+      },
+      {
+        "word": "challenging",
+        "confidence": 78
+      },
+      {
+        "word": "sobering",
+        "confidence": 83
+      }
+    ]
+  }
+}

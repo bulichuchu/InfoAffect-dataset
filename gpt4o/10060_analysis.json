@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "adventurous",
+        "confidence": 85
+      },
+      {
+        "word": "romantic",
+        "confidence": 80
+      },
+      {
+        "word": "exciting",
+        "confidence": 70
+      },
+      {
+        "word": "frustrated",
+        "confidence": 75
+      },
+      {
+        "word": "burdensome",
+        "confidence": 78
+      },
+      {
+        "word": "restrictive",
+        "confidence": 72
+      },
+      {
+        "word": "discontent",
+        "confidence": 74
+      }
+    ]
+  }
+}

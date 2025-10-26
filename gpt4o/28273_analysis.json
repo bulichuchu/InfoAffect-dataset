@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 90
+      },
+      {
+        "word": "elegance",
+        "confidence": 85
+      },
+      {
+        "word": "inspirational",
+        "confidence": 80
+      },
+      {
+        "word": "admiration",
+        "confidence": 88
+      },
+      {
+        "word": "prestigious",
+        "confidence": 83
+      },
+      {
+        "word": "accomplished",
+        "confidence": 87
+      },
+      {
+        "word": "charismatic",
+        "confidence": 82
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "deadly",
+        "confidence": 90
+      },
+      {
+        "word": "catastrophic",
+        "confidence": 88
+      },
+      {
+        "word": "tragic",
+        "confidence": 85
+      },
+      {
+        "word": "somber",
+        "confidence": 80
+      },
+      {
+        "word": "distressing",
+        "confidence": 78
+      },
+      {
+        "word": "perilous",
+        "confidence": 75
+      },
+      {
+        "word": "grievous",
+        "confidence": 72
+      }
+    ]
+  }
+}

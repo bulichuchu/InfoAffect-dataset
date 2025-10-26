@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "assertive",
+        "confidence": 85
+      },
+      {
+        "word": "dominant",
+        "confidence": 80
+      },
+      {
+        "word": "aggressive",
+        "confidence": 78
+      },
+      {
+        "word": "militaristic",
+        "confidence": 75
+      },
+      {
+        "word": "forceful",
+        "confidence": 82
+      },
+      {
+        "word": "interventionist",
+        "confidence": 70
+      },
+      {
+        "word": "prevalent",
+        "confidence": 65
+      }
+    ]
+  }
+}

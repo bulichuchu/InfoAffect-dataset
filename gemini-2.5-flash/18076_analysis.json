@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "desirous",
+        "confidence": 90
+      },
+      {
+        "word": "aspirational",
+        "confidence": 90
+      },
+      {
+        "word": "opulent",
+        "confidence": 85
+      },
+      {
+        "word": "prosperous",
+        "confidence": 85
+      },
+      {
+        "word": "indulgent",
+        "confidence": 80
+      },
+      {
+        "word": "exclusive",
+        "confidence": 75
+      },
+      {
+        "word": "appreciative",
+        "confidence": 70
+      }
+    ]
+  }
+}

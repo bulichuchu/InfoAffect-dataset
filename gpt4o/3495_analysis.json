@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "hopeful",
+        "confidence": 90
+      },
+      {
+        "word": "anticipation",
+        "confidence": 85
+      },
+      {
+        "word": "progressive",
+        "confidence": 88
+      },
+      {
+        "word": "liberal",
+        "confidence": 80
+      },
+      {
+        "word": "transformative",
+        "confidence": 82
+      },
+      {
+        "word": "inclusive",
+        "confidence": 84
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "contradictory",
+        "confidence": 90
+      },
+      {
+        "word": "skeptical",
+        "confidence": 85
+      },
+      {
+        "word": "ironic",
+        "confidence": 80
+      },
+      {
+        "word": "disillusioning",
+        "confidence": 75
+      },
+      {
+        "word": "analytical",
+        "confidence": 70
+      },
+      {
+        "word": "challenging",
+        "confidence": 78
+      },
+      {
+        "word": "revealing",
+        "confidence": 72
+      }
+    ]
+  }
+}

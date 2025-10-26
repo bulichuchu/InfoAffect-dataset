@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "decline",
+        "confidence": 90
+      },
+      {
+        "word": "unfavorability",
+        "confidence": 85
+      },
+      {
+        "word": "struggle",
+        "confidence": 80
+      },
+      {
+        "word": "unsettling",
+        "confidence": 76
+      },
+      {
+        "word": "shift",
+        "confidence": 70
+      },
+      {
+        "word": "restructuring",
+        "confidence": 65
+      },
+      {
+        "word": "transformation",
+        "confidence": 60
+      }
+    ]
+  }
+}

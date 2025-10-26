@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "playful",
+        "confidence": 85
+      },
+      {
+        "word": "creative",
+        "confidence": 80
+      },
+      {
+        "word": "expressive",
+        "confidence": 75
+      },
+      {
+        "word": "confident",
+        "confidence": 70
+      },
+      {
+        "word": "vibrant",
+        "confidence": 65
+      },
+      {
+        "word": "whimsical",
+        "confidence": 60
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "urgent",
+        "confidence": 80
+      },
+      {
+        "word": "comparative",
+        "confidence": 85
+      },
+      {
+        "word": "strategic",
+        "confidence": 75
+      },
+      {
+        "word": "delayed",
+        "confidence": 70
+      },
+      {
+        "word": "competitive",
+        "confidence": 78
+      },
+      {
+        "word": "progressing",
+        "confidence": 72
+      },
+      {
+        "word": "cautious",
+        "confidence": 68
+      }
+    ]
+  }
+}

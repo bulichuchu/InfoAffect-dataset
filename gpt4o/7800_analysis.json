@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anticipation",
+        "confidence": 88
+      },
+      {
+        "word": "concern",
+        "confidence": 82
+      },
+      {
+        "word": "pause",
+        "confidence": 78
+      },
+      {
+        "word": "caution",
+        "confidence": 75
+      },
+      {
+        "word": "expectation",
+        "confidence": 73
+      },
+      {
+        "word": "reflection",
+        "confidence": 70
+      }
+    ]
+  }
+}

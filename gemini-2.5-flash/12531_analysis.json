@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "popular",
+        "confidence": 98
+      },
+      {
+        "word": "curious",
+        "confidence": 92
+      },
+      {
+        "word": "engaging",
+        "confidence": 89
+      },
+      {
+        "word": "informative",
+        "confidence": 85
+      },
+      {
+        "word": "relevant",
+        "confidence": 82
+      },
+      {
+        "word": "aware",
+        "confidence": 78
+      },
+      {
+        "word": "significant",
+        "confidence": 70
+      }
+    ]
+  }
+}

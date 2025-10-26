@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anticipation",
+        "confidence": 78
+      },
+      {
+        "word": "curiosity",
+        "confidence": 75
+      },
+      {
+        "word": "competition",
+        "confidence": 85
+      },
+      {
+        "word": "trend",
+        "confidence": 80
+      },
+      {
+        "word": "historical",
+        "confidence": 73
+      },
+      {
+        "word": "speculation",
+        "confidence": 77
+      }
+    ]
+  }
+}

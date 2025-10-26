@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "competitive",
+        "confidence": 85
+      },
+      {
+        "word": "consolidated",
+        "confidence": 80
+      },
+      {
+        "word": "dominant",
+        "confidence": 78
+      },
+      {
+        "word": "strategic",
+        "confidence": 75
+      },
+      {
+        "word": "attractive",
+        "confidence": 70
+      },
+      {
+        "word": "chagrin",
+        "confidence": 65
+      }
+    ]
+  }
+}

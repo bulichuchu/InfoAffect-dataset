@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "restricted",
+        "confidence": 90
+      },
+      {
+        "word": "controlled",
+        "confidence": 85
+      },
+      {
+        "word": "isolated",
+        "confidence": 80
+      },
+      {
+        "word": "resilient",
+        "confidence": 75
+      },
+      {
+        "word": "covert",
+        "confidence": 70
+      },
+      {
+        "word": "informal",
+        "confidence": 65
+      },
+      {
+        "word": "repressive",
+        "confidence": 78
+      },
+      {
+        "word": "curious",
+        "confidence": 60
+      }
+    ]
+  }
+}

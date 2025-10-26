@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "gloomy",
+        "confidence": 90
+      },
+      {
+        "word": "anxious",
+        "confidence": 85
+      },
+      {
+        "word": "pessimistic",
+        "confidence": 82
+      },
+      {
+        "word": "worried",
+        "confidence": 78
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      },
+      {
+        "word": "foreboding",
+        "confidence": 70
+      },
+      {
+        "word": "tense",
+        "confidence": 68
+      },
+      {
+        "word": "dismayed",
+        "confidence": 65
+      }
+    ]
+  }
+}

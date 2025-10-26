@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anticipation",
+        "confidence": 85
+      },
+      {
+        "word": "concern",
+        "confidence": 80
+      },
+      {
+        "word": "excitement",
+        "confidence": 75
+      },
+      {
+        "word": "uncertainty",
+        "confidence": 78
+      },
+      {
+        "word": "transition",
+        "confidence": 80
+      },
+      {
+        "word": "innovation",
+        "confidence": 82
+      },
+      {
+        "word": "challenge",
+        "confidence": 75
+      }
+    ]
+  }
+}

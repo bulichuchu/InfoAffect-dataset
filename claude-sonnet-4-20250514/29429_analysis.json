@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anticipatory",
+        "confidence": 88
+      },
+      {
+        "word": "confident",
+        "confidence": 82
+      },
+      {
+        "word": "demanding",
+        "confidence": 79
+      },
+      {
+        "word": "progressive",
+        "confidence": 75
+      },
+      {
+        "word": "expectant",
+        "confidence": 73
+      },
+      {
+        "word": "impatient",
+        "confidence": 68
+      },
+      {
+        "word": "determined",
+        "confidence": 65
+      }
+    ]
+  }
+}

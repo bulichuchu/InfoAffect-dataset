@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "subdued",
+        "confidence": 80
+      },
+      {
+        "word": "diminished",
+        "confidence": 85
+      },
+      {
+        "word": "lukewarm",
+        "confidence": 75
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 70
+      },
+      {
+        "word": "anticipatory",
+        "confidence": 60
+      },
+      {
+        "word": "reflective",
+        "confidence": 65
+      }
+    ]
+  }
+}

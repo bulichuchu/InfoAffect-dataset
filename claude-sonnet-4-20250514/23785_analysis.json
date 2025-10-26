@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "adaptive",
+        "confidence": 88
+      },
+      {
+        "word": "resigned",
+        "confidence": 82
+      },
+      {
+        "word": "cautious",
+        "confidence": 85
+      },
+      {
+        "word": "resilient",
+        "confidence": 78
+      },
+      {
+        "word": "accepting",
+        "confidence": 80
+      },
+      {
+        "word": "hopeful",
+        "confidence": 72
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 86
+      },
+      {
+        "word": "subdued",
+        "confidence": 75
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "regressive",
+        "confidence": 90
+      },
+      {
+        "word": "dismal",
+        "confidence": 85
+      },
+      {
+        "word": "surprised",
+        "confidence": 75
+      },
+      {
+        "word": "worst",
+        "confidence": 88
+      },
+      {
+        "word": "performing",
+        "confidence": 78
+      },
+      {
+        "word": "marginally",
+        "confidence": 70
+      },
+      {
+        "word": "named",
+        "confidence": 65
+      }
+    ]
+  }
+}

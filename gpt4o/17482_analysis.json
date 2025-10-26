@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "interest",
+        "confidence": 85
+      },
+      {
+        "word": "awareness",
+        "confidence": 80
+      },
+      {
+        "word": "barrier",
+        "confidence": 78
+      },
+      {
+        "word": "isolation",
+        "confidence": 70
+      },
+      {
+        "word": "trepidation",
+        "confidence": 75
+      },
+      {
+        "word": "expensive",
+        "confidence": 85
+      },
+      {
+        "word": "passionate",
+        "confidence": 82
+      }
+    ]
+  }
+}

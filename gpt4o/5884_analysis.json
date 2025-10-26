@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "ups",
+        "confidence": 70
+      },
+      {
+        "word": "downs",
+        "confidence": 80
+      },
+      {
+        "word": "positive",
+        "confidence": 75
+      },
+      {
+        "word": "increase",
+        "confidence": 65
+      },
+      {
+        "word": "spend",
+        "confidence": 60
+      },
+      {
+        "word": "buyer",
+        "confidence": 55
+      }
+    ]
+  }
+}

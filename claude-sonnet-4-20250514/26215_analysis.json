@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "critical",
+        "confidence": 82
+      },
+      {
+        "word": "ironic",
+        "confidence": 78
+      },
+      {
+        "word": "practical",
+        "confidence": 75
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 70
+      },
+      {
+        "word": "informative",
+        "confidence": 85
+      },
+      {
+        "word": "contrasting",
+        "confidence": 73
+      },
+      {
+        "word": "analytical",
+        "confidence": 80
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "negative",
+        "confidence": 90
+      },
+      {
+        "word": "concern",
+        "confidence": 85
+      },
+      {
+        "word": "decline",
+        "confidence": 80
+      },
+      {
+        "word": "imbalances",
+        "confidence": 75
+      },
+      {
+        "word": "preference",
+        "confidence": 70
+      },
+      {
+        "word": "dependency",
+        "confidence": 65
+      }
+    ]
+  }
+}

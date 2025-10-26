@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frenzy",
+        "confidence": 90
+      },
+      {
+        "word": "competitive",
+        "confidence": 85
+      },
+      {
+        "word": "anticipation",
+        "confidence": 82
+      },
+      {
+        "word": "enthusiasm",
+        "confidence": 80
+      },
+      {
+        "word": "demand",
+        "confidence": 78
+      },
+      {
+        "word": "exciting",
+        "confidence": 75
+      },
+      {
+        "word": "consumerism",
+        "confidence": 73
+      }
+    ]
+  }
+}

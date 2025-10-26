@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "derisive",
+        "confidence": 92
+      },
+      {
+        "word": "contentious",
+        "confidence": 90
+      },
+      {
+        "word": "urgent",
+        "confidence": 88
+      },
+      {
+        "word": "critical",
+        "confidence": 87
+      },
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "dismissive",
+        "confidence": 85
+      },
+      {
+        "word": "ambitious",
+        "confidence": 80
+      }
+    ]
+  }
+}

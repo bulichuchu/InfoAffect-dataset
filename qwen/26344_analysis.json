@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surprising",
+        "confidence": 85
+      },
+      {
+        "word": "disappointing",
+        "confidence": 78
+      },
+      {
+        "word": "informative",
+        "confidence": 90
+      },
+      {
+        "word": "analytical",
+        "confidence": 82
+      },
+      {
+        "word": "neutral",
+        "confidence": 75
+      },
+      {
+        "word": "revealing",
+        "confidence": 80
+      },
+      {
+        "word": "comparative",
+        "confidence": 70
+      },
+      {
+        "word": "realistic",
+        "confidence": 65
+      }
+    ]
+  }
+}

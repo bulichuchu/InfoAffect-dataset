@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "competitive",
+        "confidence": 88
+      },
+      {
+        "word": "tense",
+        "confidence": 82
+      },
+      {
+        "word": "strategic",
+        "confidence": 85
+      },
+      {
+        "word": "concerning",
+        "confidence": 78
+      },
+      {
+        "word": "opportunistic",
+        "confidence": 75
+      },
+      {
+        "word": "analytical",
+        "confidence": 80
+      },
+      {
+        "word": "frustrated",
+        "confidence": 70
+      },
+      {
+        "word": "decisive",
+        "confidence": 72
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "practical",
+        "confidence": 85
+      },
+      {
+        "word": "informative",
+        "confidence": 82
+      },
+      {
+        "word": "neutral",
+        "confidence": 80
+      },
+      {
+        "word": "analytical",
+        "confidence": 78
+      },
+      {
+        "word": "matter - of - fact",
+        "confidence": 75
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 72
+      }
+    ]
+  }
+}

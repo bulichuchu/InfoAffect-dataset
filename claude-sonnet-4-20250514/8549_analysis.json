@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "ambitious",
+        "confidence": 88
+      },
+      {
+        "word": "aggressive",
+        "confidence": 82
+      },
+      {
+        "word": "demanding",
+        "confidence": 78
+      },
+      {
+        "word": "risky",
+        "confidence": 85
+      },
+      {
+        "word": "urgent",
+        "confidence": 80
+      },
+      {
+        "word": "confident",
+        "confidence": 75
+      },
+      {
+        "word": "pressured",
+        "confidence": 83
+      },
+      {
+        "word": "determined",
+        "confidence": 79
+      }
+    ]
+  }
+}

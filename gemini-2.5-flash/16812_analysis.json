@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "promising",
+        "confidence": 90
+      },
+      {
+        "word": "underutilized",
+        "confidence": 88
+      },
+      {
+        "word": "challenging",
+        "confidence": 85
+      },
+      {
+        "word": "prospective",
+        "confidence": 82
+      },
+      {
+        "word": "paradoxical",
+        "confidence": 78
+      },
+      {
+        "word": "developing",
+        "confidence": 75
+      }
+    ]
+  }
+}

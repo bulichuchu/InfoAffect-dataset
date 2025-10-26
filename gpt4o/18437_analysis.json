@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "prejudice",
+        "confidence": 85
+      },
+      {
+        "word": "worrying",
+        "confidence": 80
+      },
+      {
+        "word": "disparity",
+        "confidence": 78
+      },
+      {
+        "word": "concern",
+        "confidence": 75
+      },
+      {
+        "word": "skepticism",
+        "confidence": 73
+      },
+      {
+        "word": "conviction",
+        "confidence": 70
+      }
+    ]
+  }
+}

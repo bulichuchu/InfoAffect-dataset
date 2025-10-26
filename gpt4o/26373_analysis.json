@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "happiness",
+        "confidence": 90
+      },
+      {
+        "word": "anxiety",
+        "confidence": 88
+      },
+      {
+        "word": "rebound",
+        "confidence": 85
+      },
+      {
+        "word": "comeback",
+        "confidence": 82
+      },
+      {
+        "word": "loneliness",
+        "confidence": 78
+      },
+      {
+        "word": "adjusting",
+        "confidence": 75
+      }
+    ]
+  }
+}

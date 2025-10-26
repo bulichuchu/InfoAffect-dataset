@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "strategic",
+        "confidence": 90
+      },
+      {
+        "word": "calculated",
+        "confidence": 85
+      },
+      {
+        "word": "political",
+        "confidence": 88
+      },
+      {
+        "word": "selective",
+        "confidence": 82
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 78
+      },
+      {
+        "word": "disproportionate",
+        "confidence": 75
+      },
+      {
+        "word": "analytical",
+        "confidence": 70
+      },
+      {
+        "word": "partisan",
+        "confidence": 73
+      }
+    ]
+  }
+}

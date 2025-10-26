@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "influential",
+        "confidence": 88
+      },
+      {
+        "word": "growing",
+        "confidence": 85
+      },
+      {
+        "word": "persuasive",
+        "confidence": 80
+      },
+      {
+        "word": "trendy",
+        "confidence": 75
+      },
+      {
+        "word": "commercial",
+        "confidence": 72
+      },
+      {
+        "word": "dynamic",
+        "confidence": 68
+      },
+      {
+        "word": "modern",
+        "confidence": 65
+      },
+      {
+        "word": "engaging",
+        "confidence": 60
+      }
+    ]
+  }
+}

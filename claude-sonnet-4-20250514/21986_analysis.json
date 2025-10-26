@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "celebratory",
+        "confidence": 88
+      },
+      {
+        "word": "prideful",
+        "confidence": 85
+      },
+      {
+        "word": "competitive",
+        "confidence": 82
+      },
+      {
+        "word": "informative",
+        "confidence": 90
+      },
+      {
+        "word": "fascinating",
+        "confidence": 78
+      },
+      {
+        "word": "engaging",
+        "confidence": 80
+      },
+      {
+        "word": "appreciative",
+        "confidence": 75
+      },
+      {
+        "word": "educational",
+        "confidence": 87
+      }
+    ]
+  }
+}

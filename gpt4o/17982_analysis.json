@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "contentious",
+        "confidence": 90
+      },
+      {
+        "word": "focused",
+        "confidence": 85
+      },
+      {
+        "word": "tense",
+        "confidence": 88
+      },
+      {
+        "word": "resolute",
+        "confidence": 83
+      },
+      {
+        "word": "persistent",
+        "confidence": 80
+      },
+      {
+        "word": "critical",
+        "confidence": 82
+      },
+      {
+        "word": "uncompromising",
+        "confidence": 84
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "vulnerabilities",
+        "confidence": 88
+      },
+      {
+        "word": "exposed",
+        "confidence": 83
+      },
+      {
+        "word": "reconsidering",
+        "confidence": 78
+      },
+      {
+        "word": "excitement",
+        "confidence": 76
+      },
+      {
+        "word": "mounting",
+        "confidence": 72
+      },
+      {
+        "word": "disruptions",
+        "confidence": 80
+      },
+      {
+        "word": "feasible",
+        "confidence": 70
+      }
+    ]
+  }
+}

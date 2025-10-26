@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "iconic",
+        "confidence": 90
+      },
+      {
+        "word": "dominant",
+        "confidence": 85
+      },
+      {
+        "word": "legendary",
+        "confidence": 88
+      },
+      {
+        "word": "awe-inspiring",
+        "confidence": 82
+      },
+      {
+        "word": "unmatched",
+        "confidence": 87
+      },
+      {
+        "word": "celebratory",
+        "confidence": 75
+      },
+      {
+        "word": "reverent",
+        "confidence": 78
+      },
+      {
+        "word": "impressive",
+        "confidence": 80
+      }
+    ]
+  }
+}

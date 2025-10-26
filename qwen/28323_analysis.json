@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "optimistic",
+        "confidence": 85
+      },
+      {
+        "word": "affluent",
+        "confidence": 80
+      },
+      {
+        "word": "expansive",
+        "confidence": 78
+      },
+      {
+        "word": "disparaging",
+        "confidence": 72
+      },
+      {
+        "word": "unequal",
+        "confidence": 75
+      },
+      {
+        "word": "resilient",
+        "confidence": 68
+      },
+      {
+        "word": "concerning",
+        "confidence": 65
+      },
+      {
+        "word": "exclusive",
+        "confidence": 70
+      }
+    ]
+  }
+}

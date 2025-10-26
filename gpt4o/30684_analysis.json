@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "skepticism",
+        "confidence": 90
+      },
+      {
+        "word": "dominance",
+        "confidence": 87
+      },
+      {
+        "word": "inequality",
+        "confidence": 85
+      },
+      {
+        "word": "uncertainty",
+        "confidence": 80
+      },
+      {
+        "word": "partnership",
+        "confidence": 78
+      },
+      {
+        "word": "differing",
+        "confidence": 75
+      },
+      {
+        "word": "vision",
+        "confidence": 70
+      }
+    ]
+  }
+}

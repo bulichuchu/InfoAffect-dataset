@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "struggling",
+        "confidence": 90
+      },
+      {
+        "word": "frustrated",
+        "confidence": 85
+      },
+      {
+        "word": "disappointing",
+        "confidence": 80
+      },
+      {
+        "word": "competitive",
+        "confidence": 75
+      },
+      {
+        "word": "pressured",
+        "confidence": 78
+      },
+      {
+        "word": "stagnant",
+        "confidence": 72
+      },
+      {
+        "word": "impatient",
+        "confidence": 70
+      },
+      {
+        "word": "overwhelmed",
+        "confidence": 65
+      }
+    ]
+  }
+}

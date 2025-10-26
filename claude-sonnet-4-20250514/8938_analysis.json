@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "threatening",
+        "confidence": 90
+      },
+      {
+        "word": "tense",
+        "confidence": 85
+      },
+      {
+        "word": "ominous",
+        "confidence": 82
+      },
+      {
+        "word": "alarming",
+        "confidence": 78
+      },
+      {
+        "word": "foreboding",
+        "confidence": 75
+      },
+      {
+        "word": "grim",
+        "confidence": 73
+      },
+      {
+        "word": "volatile",
+        "confidence": 70
+      },
+      {
+        "word": "precarious",
+        "confidence": 68
+      }
+    ]
+  }
+}

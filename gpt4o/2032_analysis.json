@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "caution",
+        "confidence": 85
+      },
+      {
+        "word": "wisdom",
+        "confidence": 80
+      },
+      {
+        "word": "awareness",
+        "confidence": 78
+      },
+      {
+        "word": "judicious",
+        "confidence": 75
+      },
+      {
+        "word": "optimization",
+        "confidence": 73
+      }
+    ]
+  }
+}

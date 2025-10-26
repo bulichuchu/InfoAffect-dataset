@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "empowered",
+        "confidence": 85
+      },
+      {
+        "word": "liberated",
+        "confidence": 80
+      },
+      {
+        "word": "progressive",
+        "confidence": 75
+      },
+      {
+        "word": "transformative",
+        "confidence": 78
+      },
+      {
+        "word": "disruptive",
+        "confidence": 72
+      },
+      {
+        "word": "generational",
+        "confidence": 70
+      },
+      {
+        "word": "evolving",
+        "confidence": 68
+      },
+      {
+        "word": "forward-looking",
+        "confidence": 73
+      }
+    ]
+  }
+}

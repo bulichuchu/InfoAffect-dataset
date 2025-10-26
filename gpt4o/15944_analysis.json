@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "pleasing",
+        "confidence": 80
+      },
+      {
+        "word": "infuriating",
+        "confidence": 85
+      },
+      {
+        "word": "chagrin",
+        "confidence": 78
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 82
+      },
+      {
+        "word": "disappointed",
+        "confidence": 75
+      }
+    ]
+  }
+}

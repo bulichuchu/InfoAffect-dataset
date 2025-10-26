@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "overwhelming",
+        "confidence": 90
+      },
+      {
+        "word": "decisive",
+        "confidence": 85
+      },
+      {
+        "word": "favorable",
+        "confidence": 80
+      },
+      {
+        "word": "conflicted",
+        "confidence": 75
+      },
+      {
+        "word": "resolute",
+        "confidence": 70
+      },
+      {
+        "word": "uncertain",
+        "confidence": 65
+      },
+      {
+        "word": "nationalistic",
+        "confidence": 60
+      },
+      {
+        "word": "reassuring",
+        "confidence": 55
+      }
+    ]
+  }
+}

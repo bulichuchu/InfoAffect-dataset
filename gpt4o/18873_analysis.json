@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "envy",
+        "confidence": 90
+      },
+      {
+        "word": "joy",
+        "confidence": 85
+      },
+      {
+        "word": "concern",
+        "confidence": 80
+      },
+      {
+        "word": "success",
+        "confidence": 92
+      },
+      {
+        "word": "ambition",
+        "confidence": 78
+      },
+      {
+        "word": "controversy",
+        "confidence": 70
+      },
+      {
+        "word": "achievement",
+        "confidence": 87
+      }
+    ]
+  }
+}

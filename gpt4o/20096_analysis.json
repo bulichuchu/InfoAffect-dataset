@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "humorous",
+        "confidence": 90
+      },
+      {
+        "word": "trendy",
+        "confidence": 85
+      },
+      {
+        "word": "irresistible",
+        "confidence": 80
+      },
+      {
+        "word": "quirky",
+        "confidence": 78
+      },
+      {
+        "word": "fashionable",
+        "confidence": 75
+      },
+      {
+        "word": "amusing",
+        "confidence": 72
+      },
+      {
+        "word": "popular",
+        "confidence": 70
+      }
+    ]
+  }
+}

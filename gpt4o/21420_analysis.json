@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disarray",
+        "confidence": 90
+      },
+      {
+        "word": "uncertainty",
+        "confidence": 85
+      },
+      {
+        "word": "volatile",
+        "confidence": 80
+      },
+      {
+        "word": "disruption",
+        "confidence": 78
+      },
+      {
+        "word": "fluctuations",
+        "confidence": 75
+      },
+      {
+        "word": "concern",
+        "confidence": 70
+      }
+    ]
+  }
+}

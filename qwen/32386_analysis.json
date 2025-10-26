@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "important",
+        "confidence": 90
+      },
+      {
+        "word": "varied",
+        "confidence": 85
+      },
+      {
+        "word": "significant",
+        "confidence": 80
+      },
+      {
+        "word": "regional",
+        "confidence": 75
+      },
+      {
+        "word": "strategic",
+        "confidence": 70
+      },
+      {
+        "word": "insightful",
+        "confidence": 65
+      },
+      {
+        "word": "analytical",
+        "confidence": 60
+      },
+      {
+        "word": "comparative",
+        "confidence": 55
+      }
+    ]
+  }
+}

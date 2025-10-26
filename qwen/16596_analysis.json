@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "ambitious",
+        "confidence": 85
+      },
+      {
+        "word": "controversial",
+        "confidence": 80
+      },
+      {
+        "word": "bold",
+        "confidence": 78
+      },
+      {
+        "word": "comparative",
+        "confidence": 75
+      },
+      {
+        "word": "analytical",
+        "confidence": 72
+      },
+      {
+        "word": "informative",
+        "confidence": 70
+      },
+      {
+        "word": "provocative",
+        "confidence": 68
+      },
+      {
+        "word": "policy-driven",
+        "confidence": 65
+      }
+    ]
+  }
+}

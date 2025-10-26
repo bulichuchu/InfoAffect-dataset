@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disruption",
+        "confidence": 95
+      },
+      {
+        "word": "unprecedented",
+        "confidence": 90
+      },
+      {
+        "word": "alarming",
+        "confidence": 88
+      },
+      {
+        "word": "concerning",
+        "confidence": 85
+      },
+      {
+        "word": "devastating",
+        "confidence": 82
+      },
+      {
+        "word": "dramatic",
+        "confidence": 80
+      },
+      {
+        "word": "severe",
+        "confidence": 78
+      },
+      {
+        "word": "distressing",
+        "confidence": 75
+      }
+    ]
+  }
+}

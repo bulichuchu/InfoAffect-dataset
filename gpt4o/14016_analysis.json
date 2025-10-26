@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unsurprising",
+        "confidence": 70
+      },
+      {
+        "word": "bloody",
+        "confidence": 85
+      },
+      {
+        "word": "scattered",
+        "confidence": 65
+      },
+      {
+        "word": "mowed",
+        "confidence": 80
+      },
+      {
+        "word": "hell",
+        "confidence": 78
+      }
+    ]
+  }
+}

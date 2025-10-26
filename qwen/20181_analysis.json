@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "derisive",
+        "confidence": 90
+      },
+      {
+        "word": "mocking",
+        "confidence": 85
+      },
+      {
+        "word": "hostile",
+        "confidence": 80
+      },
+      {
+        "word": "sarcastic",
+        "confidence": 75
+      },
+      {
+        "word": "aggressive",
+        "confidence": 70
+      },
+      {
+        "word": "disparaging",
+        "confidence": 88
+      },
+      {
+        "word": "contemptuous",
+        "confidence": 78
+      },
+      {
+        "word": "provocative",
+        "confidence": 65
+      }
+    ]
+  }
+}

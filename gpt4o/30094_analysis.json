@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "threat",
+        "confidence": 90
+      },
+      {
+        "word": "epidemic",
+        "confidence": 85
+      },
+      {
+        "word": "harmful",
+        "confidence": 80
+      },
+      {
+        "word": "urgent",
+        "confidence": 75
+      },
+      {
+        "word": "dangerous",
+        "confidence": 78
+      },
+      {
+        "word": "priority",
+        "confidence": 72
+      },
+      {
+        "word": "preserve",
+        "confidence": 68
+      }
+    ]
+  }
+}

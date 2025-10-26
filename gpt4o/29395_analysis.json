@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "conflict",
+        "confidence": 85
+      },
+      {
+        "word": "battlefield",
+        "confidence": 80
+      },
+      {
+        "word": "preference",
+        "confidence": 75
+      },
+      {
+        "word": "differences",
+        "confidence": 70
+      },
+      {
+        "word": "partisanism",
+        "confidence": 78
+      },
+      {
+        "word": "pronounced",
+        "confidence": 65
+      },
+      {
+        "word": "limited",
+        "confidence": 60
+      }
+    ]
+  }
+}

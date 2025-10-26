@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "controversial",
+        "confidence": 90
+      },
+      {
+        "word": "unacceptable",
+        "confidence": 88
+      },
+      {
+        "word": "discriminatory",
+        "confidence": 85
+      },
+      {
+        "word": "moral",
+        "confidence": 82
+      },
+      {
+        "word": "tarnished",
+        "confidence": 80
+      },
+      {
+        "word": "debated",
+        "confidence": 78
+      }
+    ]
+  }
+}

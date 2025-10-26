@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disruption",
+        "confidence": 85
+      },
+      {
+        "word": "scrutiny",
+        "confidence": 80
+      },
+      {
+        "word": "shift",
+        "confidence": 75
+      },
+      {
+        "word": "concern",
+        "confidence": 78
+      },
+      {
+        "word": "optimism",
+        "confidence": 70
+      },
+      {
+        "word": "challenge",
+        "confidence": 72
+      },
+      {
+        "word": "progress",
+        "confidence": 68
+      }
+    ]
+  }
+}

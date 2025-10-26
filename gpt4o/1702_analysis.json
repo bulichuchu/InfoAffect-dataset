@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disappointing",
+        "confidence": 90
+      },
+      {
+        "word": "desperate",
+        "confidence": 85
+      },
+      {
+        "word": "positive",
+        "confidence": 80
+      },
+      {
+        "word": "sacrificed",
+        "confidence": 78
+      },
+      {
+        "word": "goodwill",
+        "confidence": 75
+      },
+      {
+        "word": "mistake",
+        "confidence": 82
+      },
+      {
+        "word": "disgruntled",
+        "confidence": 88
+      }
+    ]
+  }
+}

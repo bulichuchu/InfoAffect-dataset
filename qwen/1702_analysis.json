@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "regretful",
+        "confidence": 85
+      },
+      {
+        "word": "ironic",
+        "confidence": 82
+      },
+      {
+        "word": "disappointed",
+        "confidence": 78
+      },
+      {
+        "word": "strategic",
+        "confidence": 75
+      },
+      {
+        "word": "critical",
+        "confidence": 73
+      },
+      {
+        "word": "cautious",
+        "confidence": 70
+      },
+      {
+        "word": "missed",
+        "confidence": 68
+      },
+      {
+        "word": "calculated",
+        "confidence": 65
+      }
+    ]
+  }
+}

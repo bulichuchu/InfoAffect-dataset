@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "contentious",
+        "confidence": 88
+      },
+      {
+        "word": "decisive",
+        "confidence": 82
+      },
+      {
+        "word": "factual",
+        "confidence": 78
+      },
+      {
+        "word": "authoritative",
+        "confidence": 75
+      },
+      {
+        "word": "informative",
+        "confidence": 72
+      },
+      {
+        "word": "neutral",
+        "confidence": 70
+      },
+      {
+        "word": "industrial",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "favorable",
+        "confidence": 90
+      },
+      {
+        "word": "contempt",
+        "confidence": 85
+      },
+      {
+        "word": "thriving",
+        "confidence": 80
+      },
+      {
+        "word": "fraught",
+        "confidence": 75
+      },
+      {
+        "word": "dominance",
+        "confidence": 70
+      },
+      {
+        "word": "accelerator",
+        "confidence": 65
+      }
+    ]
+  }
+}

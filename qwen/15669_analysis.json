@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disturbing",
+        "confidence": 90
+      },
+      {
+        "word": "exploitative",
+        "confidence": 85
+      },
+      {
+        "word": "profit-driven",
+        "confidence": 80
+      },
+      {
+        "word": "tragic",
+        "confidence": 75
+      },
+      {
+        "word": "alarming",
+        "confidence": 88
+      },
+      {
+        "word": "greedy",
+        "confidence": 70
+      },
+      {
+        "word": "inhumane",
+        "confidence": 78
+      },
+      {
+        "word": "shocking",
+        "confidence": 82
+      }
+    ]
+  }
+}

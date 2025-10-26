@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "protests",
+        "confidence": 90
+      },
+      {
+        "word": "detained",
+        "confidence": 85
+      },
+      {
+        "word": "tensions",
+        "confidence": 80
+      },
+      {
+        "word": "risk",
+        "confidence": 75
+      },
+      {
+        "word": "eruption",
+        "confidence": 70
+      },
+      {
+        "word": "decry",
+        "confidence": 75
+      },
+      {
+        "word": "arrests",
+        "confidence": 80
+      },
+      {
+        "word": "disproportionate",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disconnect",
+        "confidence": 85
+      },
+      {
+        "word": "missed",
+        "confidence": 80
+      },
+      {
+        "word": "opportunity",
+        "confidence": 75
+      },
+      {
+        "word": "underutilized",
+        "confidence": 72
+      },
+      {
+        "word": "urgent",
+        "confidence": 68
+      },
+      {
+        "word": "frustrating",
+        "confidence": 65
+      },
+      {
+        "word": "revealing",
+        "confidence": 70
+      },
+      {
+        "word": "analytical",
+        "confidence": 78
+      }
+    ]
+  }
+}

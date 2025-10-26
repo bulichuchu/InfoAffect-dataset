@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "historic",
+        "confidence": 95
+      },
+      {
+        "word": "celebratory",
+        "confidence": 88
+      },
+      {
+        "word": "proud",
+        "confidence": 82
+      },
+      {
+        "word": "groundbreaking",
+        "confidence": 85
+      },
+      {
+        "word": "hopeful",
+        "confidence": 78
+      },
+      {
+        "word": "inspiring",
+        "confidence": 80
+      },
+      {
+        "word": "inclusive",
+        "confidence": 75
+      },
+      {
+        "word": "triumphant",
+        "confidence": 83
+      }
+    ]
+  }
+}

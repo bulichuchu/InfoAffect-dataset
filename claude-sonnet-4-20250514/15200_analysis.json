@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "tense",
+        "confidence": 88
+      },
+      {
+        "word": "controversial",
+        "confidence": 85
+      },
+      {
+        "word": "scandalous",
+        "confidence": 82
+      },
+      {
+        "word": "serious",
+        "confidence": 80
+      },
+      {
+        "word": "dramatic",
+        "confidence": 75
+      },
+      {
+        "word": "accusatory",
+        "confidence": 78
+      },
+      {
+        "word": "betraying",
+        "confidence": 70
+      },
+      {
+        "word": "explosive",
+        "confidence": 73
+      }
+    ]
+  }
+}

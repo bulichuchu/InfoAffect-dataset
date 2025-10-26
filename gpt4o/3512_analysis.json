@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "historical",
+        "confidence": 90
+      },
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "inequality",
+        "confidence": 83
+      },
+      {
+        "word": "limited",
+        "confidence": 80
+      },
+      {
+        "word": "universal",
+        "confidence": 78
+      },
+      {
+        "word": "important",
+        "confidence": 76
+      },
+      {
+        "word": "critical",
+        "confidence": 72
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "decline",
+        "confidence": 90
+      },
+      {
+        "word": "crisis",
+        "confidence": 88
+      },
+      {
+        "word": "mismanagement",
+        "confidence": 85
+      },
+      {
+        "word": "hyperinflation",
+        "confidence": 82
+      },
+      {
+        "word": "shortages",
+        "confidence": 78
+      },
+      {
+        "word": "protests",
+        "confidence": 75
+      },
+      {
+        "word": "paved",
+        "confidence": 70
+      },
+      {
+        "word": "reliant",
+        "confidence": 65
+      }
+    ]
+  }
+}

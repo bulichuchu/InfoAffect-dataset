@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "lukewarm",
+        "confidence": 88
+      },
+      {
+        "word": "disappointment",
+        "confidence": 85
+      },
+      {
+        "word": "concern",
+        "confidence": 80
+      },
+      {
+        "word": "struggling",
+        "confidence": 82
+      },
+      {
+        "word": "unprofitable",
+        "confidence": 90
+      },
+      {
+        "word": "uncertain",
+        "confidence": 77
+      },
+      {
+        "word": "challenging",
+        "confidence": 75
+      }
+    ]
+  }
+}

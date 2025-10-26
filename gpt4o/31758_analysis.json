@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "shift",
+        "confidence": 85
+      },
+      {
+        "word": "polarization",
+        "confidence": 80
+      },
+      {
+        "word": "backlash",
+        "confidence": 75
+      },
+      {
+        "word": "slumped",
+        "confidence": 70
+      },
+      {
+        "word": "fueled",
+        "confidence": 65
+      },
+      {
+        "word": "peaked",
+        "confidence": 60
+      }
+    ]
+  }
+}

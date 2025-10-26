@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "sorrowful",
+        "confidence": 95
+      },
+      {
+        "word": "reverent",
+        "confidence": 88
+      },
+      {
+        "word": "inspirational",
+        "confidence": 82
+      },
+      {
+        "word": "compassionate",
+        "confidence": 85
+      },
+      {
+        "word": "divisive",
+        "confidence": 75
+      },
+      {
+        "word": "hopeful",
+        "confidence": 70
+      },
+      {
+        "word": "contemplative",
+        "confidence": 78
+      },
+      {
+        "word": "transformative",
+        "confidence": 73
+      }
+    ]
+  }
+}

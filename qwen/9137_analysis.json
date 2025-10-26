@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "comparative",
+        "confidence": 90
+      },
+      {
+        "word": "technological",
+        "confidence": 85
+      },
+      {
+        "word": "symbolic",
+        "confidence": 80
+      },
+      {
+        "word": "aspirational",
+        "confidence": 75
+      },
+      {
+        "word": "inferior",
+        "confidence": 70
+      },
+      {
+        "word": "strategic",
+        "confidence": 78
+      },
+      {
+        "word": "progressive",
+        "confidence": 65
+      },
+      {
+        "word": "nationalistic",
+        "confidence": 60
+      }
+    ]
+  }
+}

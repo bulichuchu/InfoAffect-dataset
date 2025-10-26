@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "solemn",
+        "confidence": 90
+      },
+      {
+        "word": "respectful",
+        "confidence": 88
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 82
+      },
+      {
+        "word": "melancholic",
+        "confidence": 78
+      },
+      {
+        "word": "reverent",
+        "confidence": 85
+      },
+      {
+        "word": "bittersweet",
+        "confidence": 75
+      },
+      {
+        "word": "contemplative",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "distressing",
+        "confidence": 90
+      },
+      {
+        "word": "alarming",
+        "confidence": 85
+      },
+      {
+        "word": "concerning",
+        "confidence": 80
+      },
+      {
+        "word": "recognition",
+        "confidence": 75
+      },
+      {
+        "word": "unacceptable",
+        "confidence": 80
+      },
+      {
+        "word": "solidarity",
+        "confidence": 70
+      }
+    ]
+  }
+}

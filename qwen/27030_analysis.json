@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disillusioned",
+        "confidence": 85
+      },
+      {
+        "word": "skeptical",
+        "confidence": 80
+      },
+      {
+        "word": "cynical",
+        "confidence": 75
+      },
+      {
+        "word": "fading",
+        "confidence": 78
+      },
+      {
+        "word": "regretful",
+        "confidence": 70
+      },
+      {
+        "word": "wasted",
+        "confidence": 72
+      },
+      {
+        "word": "indifferent",
+        "confidence": 65
+      },
+      {
+        "word": "mocking",
+        "confidence": 60
+      }
+    ]
+  }
+}

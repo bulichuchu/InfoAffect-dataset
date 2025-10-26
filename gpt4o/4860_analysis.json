@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "welcoming",
+        "confidence": 90
+      },
+      {
+        "word": "acceptance",
+        "confidence": 85
+      },
+      {
+        "word": "rejection",
+        "confidence": 80
+      },
+      {
+        "word": "inclusive",
+        "confidence": 75
+      },
+      {
+        "word": "uninviting",
+        "confidence": 70
+      },
+      {
+        "word": "supportive",
+        "confidence": 75
+      }
+    ]
+  }
+}

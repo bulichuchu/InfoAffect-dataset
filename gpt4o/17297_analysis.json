@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "progress",
+        "confidence": 85
+      },
+      {
+        "word": "empowerment",
+        "confidence": 80
+      },
+      {
+        "word": "inequality",
+        "confidence": 75
+      },
+      {
+        "word": "achievement",
+        "confidence": 78
+      },
+      {
+        "word": "challenge",
+        "confidence": 72
+      },
+      {
+        "word": "improvement",
+        "confidence": 70
+      }
+    ]
+  }
+}

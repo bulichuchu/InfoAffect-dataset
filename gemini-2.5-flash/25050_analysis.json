@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anticipation",
+        "confidence": 90
+      },
+      {
+        "word": "excitement",
+        "confidence": 88
+      },
+      {
+        "word": "enthusiasm",
+        "confidence": 85
+      },
+      {
+        "word": "grandeur",
+        "confidence": 80
+      },
+      {
+        "word": "global",
+        "confidence": 75
+      },
+      {
+        "word": "intriguing",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unfavorable",
+        "confidence": 90
+      },
+      {
+        "word": "critical",
+        "confidence": 85
+      },
+      {
+        "word": "deterioration",
+        "confidence": 82
+      },
+      {
+        "word": "concerns",
+        "confidence": 80
+      },
+      {
+        "word": "tension",
+        "confidence": 78
+      },
+      {
+        "word": "espionage",
+        "confidence": 75
+      },
+      {
+        "word": "abuses",
+        "confidence": 73
+      },
+      {
+        "word": "subversion",
+        "confidence": 70
+      }
+    ]
+  }
+}

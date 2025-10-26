@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "triumphant",
+        "confidence": 90
+      },
+      {
+        "word": "historic",
+        "confidence": 88
+      },
+      {
+        "word": "thrilling",
+        "confidence": 82
+      },
+      {
+        "word": "tense",
+        "confidence": 78
+      },
+      {
+        "word": "exciting",
+        "confidence": 75
+      },
+      {
+        "word": "dramatic",
+        "confidence": 72
+      },
+      {
+        "word": "victorious",
+        "confidence": 85
+      },
+      {
+        "word": "suspenseful",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "slowing",
+        "confidence": 90
+      },
+      {
+        "word": "deceleration",
+        "confidence": 85
+      },
+      {
+        "word": "resilience",
+        "confidence": 80
+      },
+      {
+        "word": "uncertainty",
+        "confidence": 78
+      },
+      {
+        "word": "impact",
+        "confidence": 75
+      },
+      {
+        "word": "steady",
+        "confidence": 72
+      },
+      {
+        "word": "complex",
+        "confidence": 70
+      }
+    ]
+  }
+}

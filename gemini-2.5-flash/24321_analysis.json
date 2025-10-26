@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "stark",
+        "confidence": 95
+      },
+      {
+        "word": "disparate",
+        "confidence": 90
+      },
+      {
+        "word": "inequitable",
+        "confidence": 88
+      },
+      {
+        "word": "revealing",
+        "confidence": 80
+      },
+      {
+        "word": "striking",
+        "confidence": 75
+      },
+      {
+        "word": "sobering",
+        "confidence": 70
+      }
+    ]
+  }
+}

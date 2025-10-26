@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disillusionment",
+        "confidence": 90
+      },
+      {
+        "word": "skepticism",
+        "confidence": 85
+      },
+      {
+        "word": "nostalgia",
+        "confidence": 80
+      },
+      {
+        "word": "inequality",
+        "confidence": 78
+      },
+      {
+        "word": "hopefulness",
+        "confidence": 72
+      },
+      {
+        "word": "despair",
+        "confidence": 75
+      },
+      {
+        "word": "uncertainty",
+        "confidence": 77
+      }
+    ]
+  }
+}

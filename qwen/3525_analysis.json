@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "lucrative",
+        "confidence": 90
+      },
+      {
+        "word": "astonishing",
+        "confidence": 85
+      },
+      {
+        "word": "impressive",
+        "confidence": 80
+      },
+      {
+        "word": "surprising",
+        "confidence": 75
+      },
+      {
+        "word": "wealthy",
+        "confidence": 70
+      },
+      {
+        "word": "powerful",
+        "confidence": 65
+      },
+      {
+        "word": "exclusive",
+        "confidence": 60
+      },
+      {
+        "word": "elitist",
+        "confidence": 55
+      }
+    ]
+  }
+}

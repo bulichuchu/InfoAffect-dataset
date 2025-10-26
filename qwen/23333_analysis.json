@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "epic",
+        "confidence": 90
+      },
+      {
+        "word": "frustrating",
+        "confidence": 85
+      },
+      {
+        "word": "ironic",
+        "confidence": 80
+      },
+      {
+        "word": "exhausting",
+        "confidence": 75
+      },
+      {
+        "word": "costly",
+        "confidence": 78
+      },
+      {
+        "word": "delayed",
+        "confidence": 82
+      },
+      {
+        "word": "comparative",
+        "confidence": 70
+      },
+      {
+        "word": "resigned",
+        "confidence": 65
+      }
+    ]
+  }
+}

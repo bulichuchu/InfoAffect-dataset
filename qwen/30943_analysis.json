@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "uneven",
+        "confidence": 90
+      },
+      {
+        "word": "disproportionate",
+        "confidence": 85
+      },
+      {
+        "word": "critical",
+        "confidence": 80
+      },
+      {
+        "word": "concerned",
+        "confidence": 75
+      },
+      {
+        "word": "imbalanced",
+        "confidence": 82
+      },
+      {
+        "word": "Eurocentric",
+        "confidence": 78
+      },
+      {
+        "word": "hopeful",
+        "confidence": 65
+      },
+      {
+        "word": "bureaucratic",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "isolating",
+        "confidence": 93
+      },
+      {
+        "word": "discriminatory",
+        "confidence": 90
+      },
+      {
+        "word": "underrepresented",
+        "confidence": 88
+      },
+      {
+        "word": "challenging",
+        "confidence": 85
+      },
+      {
+        "word": "barrier",
+        "confidence": 83
+      },
+      {
+        "word": "unwelcoming",
+        "confidence": 80
+      },
+      {
+        "word": "inequality",
+        "confidence": 78
+      }
+    ]
+  }
+}

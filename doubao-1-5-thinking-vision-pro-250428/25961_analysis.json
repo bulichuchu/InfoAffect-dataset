@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "evolving",
+        "confidence": 80
+      },
+      {
+        "word": "dynamic",
+        "confidence": 78
+      },
+      {
+        "word": "diverse",
+        "confidence": 75
+      },
+      {
+        "word": "informative",
+        "confidence": 85
+      },
+      {
+        "word": "transformative",
+        "confidence": 72
+      },
+      {
+        "word": "fluctuating",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "shocked",
+        "confidence": 85
+      },
+      {
+        "word": "extravagant",
+        "confidence": 80
+      },
+      {
+        "word": "concerned",
+        "confidence": 75
+      },
+      {
+        "word": "surprised",
+        "confidence": 70
+      },
+      {
+        "word": "excessive",
+        "confidence": 78
+      },
+      {
+        "word": "costly",
+        "confidence": 72
+      },
+      {
+        "word": "disproportionate",
+        "confidence": 68
+      },
+      {
+        "word": "comfort-driven",
+        "confidence": 65
+      }
+    ]
+  }
+}

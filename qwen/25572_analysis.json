@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transformative",
+        "confidence": 85
+      },
+      {
+        "word": "dynamic",
+        "confidence": 80
+      },
+      {
+        "word": "predictive",
+        "confidence": 75
+      },
+      {
+        "word": "significant",
+        "confidence": 78
+      },
+      {
+        "word": "concerning",
+        "confidence": 65
+      },
+      {
+        "word": "neutral",
+        "confidence": 70
+      },
+      {
+        "word": "analytical",
+        "confidence": 82
+      },
+      {
+        "word": "anticipatory",
+        "confidence": 73
+      }
+    ]
+  }
+}

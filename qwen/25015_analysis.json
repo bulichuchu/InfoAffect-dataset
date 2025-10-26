@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "isolating",
+        "confidence": 90
+      },
+      {
+        "word": "discriminatory",
+        "confidence": 85
+      },
+      {
+        "word": "disheartening",
+        "confidence": 80
+      },
+      {
+        "word": "unequal",
+        "confidence": 78
+      },
+      {
+        "word": "marginalized",
+        "confidence": 82
+      },
+      {
+        "word": "underrepresented",
+        "confidence": 75
+      },
+      {
+        "word": "resilient",
+        "confidence": 65
+      },
+      {
+        "word": "hopeful",
+        "confidence": 60
+      }
+    ]
+  }
+}

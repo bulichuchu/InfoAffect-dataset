@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "engaged",
+        "confidence": 85
+      },
+      {
+        "word": "strategic",
+        "confidence": 80
+      },
+      {
+        "word": "social",
+        "confidence": 78
+      },
+      {
+        "word": "bond",
+        "confidence": 75
+      },
+      {
+        "word": "frequent",
+        "confidence": 70
+      },
+      {
+        "word": "relationships",
+        "confidence": 68
+      },
+      {
+        "word": "intensely",
+        "confidence": 65
+      }
+    ]
+  }
+}

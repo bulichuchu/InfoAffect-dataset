@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concern",
+        "confidence": 88
+      },
+      {
+        "word": "barrier",
+        "confidence": 85
+      },
+      {
+        "word": "serious",
+        "confidence": 82
+      },
+      {
+        "word": "alarming",
+        "confidence": 80
+      },
+      {
+        "word": "frustration",
+        "confidence": 78
+      },
+      {
+        "word": "inaccessible",
+        "confidence": 75
+      },
+      {
+        "word": "worry",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "brazen",
+        "confidence": 85
+      },
+      {
+        "word": "terrible",
+        "confidence": 80
+      },
+      {
+        "word": "dubious",
+        "confidence": 75
+      },
+      {
+        "word": "gullible",
+        "confidence": 70
+      },
+      {
+        "word": "concerned",
+        "confidence": 75
+      },
+      {
+        "word": "shocking",
+        "confidence": 80
+      }
+    ]
+  }
+}

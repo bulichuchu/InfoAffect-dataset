@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "decline",
+        "confidence": 90
+      },
+      {
+        "word": "misery",
+        "confidence": 85
+      },
+      {
+        "word": "exception",
+        "confidence": 80
+      },
+      {
+        "word": "resilient",
+        "confidence": 75
+      },
+      {
+        "word": "growth",
+        "confidence": 70
+      },
+      {
+        "word": "unaffected",
+        "confidence": 65
+      }
+    ]
+  }
+}

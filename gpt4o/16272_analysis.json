@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "boasting",
+        "confidence": 90
+      },
+      {
+        "word": "mysterious",
+        "confidence": 80
+      },
+      {
+        "word": "healthy",
+        "confidence": 75
+      },
+      {
+        "word": "interest",
+        "confidence": 70
+      },
+      {
+        "word": "poisoned",
+        "confidence": 65
+      },
+      {
+        "word": "prejudice",
+        "confidence": 60
+      }
+    ]
+  }
+}

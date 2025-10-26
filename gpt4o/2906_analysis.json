@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "charitable",
+        "confidence": 90
+      },
+      {
+        "word": "positive",
+        "confidence": 85
+      },
+      {
+        "word": "global",
+        "confidence": 80
+      },
+      {
+        "word": "awareness",
+        "confidence": 75
+      },
+      {
+        "word": "support",
+        "confidence": 85
+      },
+      {
+        "word": "impactful",
+        "confidence": 80
+      }
+    ]
+  }
+}

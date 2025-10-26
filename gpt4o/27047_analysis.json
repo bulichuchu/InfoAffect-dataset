@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disparity",
+        "confidence": 85
+      },
+      {
+        "word": "burdensome",
+        "confidence": 80
+      },
+      {
+        "word": "alarming",
+        "confidence": 78
+      },
+      {
+        "word": "challenging",
+        "confidence": 74
+      },
+      {
+        "word": "stressed",
+        "confidence": 72
+      },
+      {
+        "word": "unequal",
+        "confidence": 68
+      }
+    ]
+  }
+}

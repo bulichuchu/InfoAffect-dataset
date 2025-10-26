@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disparity",
+        "confidence": 90
+      },
+      {
+        "word": "inequality",
+        "confidence": 87
+      },
+      {
+        "word": "concern",
+        "confidence": 82
+      },
+      {
+        "word": "barrier",
+        "confidence": 78
+      },
+      {
+        "word": "awareness",
+        "confidence": 75
+      },
+      {
+        "word": "inaccessibility",
+        "confidence": 80
+      }
+    ]
+  }
+}

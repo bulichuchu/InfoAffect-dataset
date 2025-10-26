@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "practical",
+        "confidence": 85
+      },
+      {
+        "word": "value-driven",
+        "confidence": 90
+      },
+      {
+        "word": "sensible",
+        "confidence": 78
+      },
+      {
+        "word": "considerate",
+        "confidence": 72
+      },
+      {
+        "word": "priority-focused",
+        "confidence": 75
+      },
+      {
+        "word": "measured",
+        "confidence": 68
+      },
+      {
+        "word": "realistic",
+        "confidence": 80
+      },
+      {
+        "word": "responsible",
+        "confidence": 70
+      }
+    ]
+  }
+}

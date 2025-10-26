@@ -1,0 +1,36 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "deteriorating",
+          "confidence": 90
+        },
+        {
+          "word": "dire",
+          "confidence": 85
+        },
+        {
+          "word": "strained",
+          "confidence": 80
+        },
+        {
+          "word": "distressing",
+          "confidence": 78
+        },
+        {
+          "word": "worrisome",
+          "confidence": 75
+        },
+        {
+          "word": "pressing",
+          "confidence": 72
+        },
+        {
+          "word": "unfortunate",
+          "confidence": 70
+        }
+      ]
+    }
+  }
+]

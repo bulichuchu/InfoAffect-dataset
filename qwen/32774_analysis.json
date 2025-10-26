@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dominant",
+        "confidence": 85
+      },
+      {
+        "word": "controversial",
+        "confidence": 80
+      },
+      {
+        "word": "innovative",
+        "confidence": 75
+      },
+      {
+        "word": "criticized",
+        "confidence": 78
+      },
+      {
+        "word": "targeted",
+        "confidence": 72
+      },
+      {
+        "word": "commercial",
+        "confidence": 70
+      },
+      {
+        "word": "exploitative",
+        "confidence": 65
+      },
+      {
+        "word": "strategic",
+        "confidence": 68
+      }
+    ]
+  }
+}

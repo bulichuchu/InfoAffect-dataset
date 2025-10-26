@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "eye-opening",
+        "confidence": 90
+      },
+      {
+        "word": "concern",
+        "confidence": 88
+      },
+      {
+        "word": "impactful",
+        "confidence": 85
+      },
+      {
+        "word": "awareness",
+        "confidence": 83
+      },
+      {
+        "word": "responsible",
+        "confidence": 82
+      },
+      {
+        "word": "sustainable",
+        "confidence": 80
+      }
+    ]
+  }
+}

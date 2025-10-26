@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dominant",
+        "confidence": 95
+      },
+      {
+        "word": "convenient",
+        "confidence": 90
+      },
+      {
+        "word": "accessible",
+        "confidence": 85
+      },
+      {
+        "word": "progressive",
+        "confidence": 80
+      },
+      {
+        "word": "attractive",
+        "confidence": 75
+      },
+      {
+        "word": "efficient",
+        "confidence": 70
+      }
+    ]
+  }
+}

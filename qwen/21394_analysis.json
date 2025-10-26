@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "decline",
+        "confidence": 90
+      },
+      {
+        "word": "crisis",
+        "confidence": 85
+      },
+      {
+        "word": "sharp",
+        "confidence": 80
+      },
+      {
+        "word": "tumbling",
+        "confidence": 78
+      },
+      {
+        "word": "surplus",
+        "confidence": 75
+      },
+      {
+        "word": "harsh",
+        "confidence": 72
+      },
+      {
+        "word": "uncertain",
+        "confidence": 68
+      },
+      {
+        "word": "alarming",
+        "confidence": 70
+      }
+    ]
+  }
+}

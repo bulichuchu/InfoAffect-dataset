@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "prestigious",
+        "confidence": 90
+      },
+      {
+        "word": "controversial",
+        "confidence": 85
+      },
+      {
+        "word": "lopsided",
+        "confidence": 80
+      },
+      {
+        "word": "compassionate",
+        "confidence": 75
+      },
+      {
+        "word": "disappointing",
+        "confidence": 70
+      },
+      {
+        "word": "lucrative",
+        "confidence": 65
+      },
+      {
+        "word": "critical",
+        "confidence": 72
+      },
+      {
+        "word": "hopeful",
+        "confidence": 68
+      }
+    ]
+  }
+}

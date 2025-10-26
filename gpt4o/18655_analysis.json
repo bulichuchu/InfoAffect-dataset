@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "progressive",
+        "confidence": 85
+      },
+      {
+        "word": "contrasting",
+        "confidence": 80
+      },
+      {
+        "word": "modest",
+        "confidence": 78
+      },
+      {
+        "word": "unequal",
+        "confidence": 75
+      },
+      {
+        "word": "inadequate",
+        "confidence": 72
+      },
+      {
+        "word": "hopeful",
+        "confidence": 70
+      }
+    ]
+  }
+}

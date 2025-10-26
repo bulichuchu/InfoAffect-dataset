@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surprise",
+        "confidence": 85
+      },
+      {
+        "word": "disappointment",
+        "confidence": 80
+      },
+      {
+        "word": "abandoned",
+        "confidence": 78
+      },
+      {
+        "word": "frustration",
+        "confidence": 75
+      },
+      {
+        "word": "uncertainty",
+        "confidence": 70
+      },
+      {
+        "word": "transitory",
+        "confidence": 68
+      }
+    ]
+  }
+}

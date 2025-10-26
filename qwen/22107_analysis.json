@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "determined",
+        "confidence": 85
+      },
+      {
+        "word": "urgent",
+        "confidence": 80
+      },
+      {
+        "word": "hopeful",
+        "confidence": 75
+      },
+      {
+        "word": "resolute",
+        "confidence": 78
+      },
+      {
+        "word": "committed",
+        "confidence": 82
+      },
+      {
+        "word": "activist",
+        "confidence": 70
+      },
+      {
+        "word": "united",
+        "confidence": 65
+      },
+      {
+        "word": "disruptive",
+        "confidence": 60
+      }
+    ]
+  }
+}

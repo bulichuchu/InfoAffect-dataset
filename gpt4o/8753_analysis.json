@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "pride",
+        "confidence": 90
+      },
+      {
+        "word": "renowned",
+        "confidence": 85
+      },
+      {
+        "word": "prestigious",
+        "confidence": 80
+      },
+      {
+        "word": "dominance",
+        "confidence": 75
+      },
+      {
+        "word": "celebratory",
+        "confidence": 70
+      }
+    ]
+  }
+}

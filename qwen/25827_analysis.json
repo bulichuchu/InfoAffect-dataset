@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "hopeful",
+        "confidence": 85
+      },
+      {
+        "word": "responsible",
+        "confidence": 80
+      },
+      {
+        "word": "transformative",
+        "confidence": 75
+      },
+      {
+        "word": "significant",
+        "confidence": 78
+      },
+      {
+        "word": "global",
+        "confidence": 72
+      },
+      {
+        "word": "sustainable",
+        "confidence": 82
+      },
+      {
+        "word": "ambitious",
+        "confidence": 70
+      },
+      {
+        "word": "decisive",
+        "confidence": 76
+      }
+    ]
+  }
+}

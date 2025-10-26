@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surprise",
+        "confidence": 85
+      },
+      {
+        "word": "criticized",
+        "confidence": 88
+      },
+      {
+        "word": "threat",
+        "confidence": 90
+      },
+      {
+        "word": "trapped",
+        "confidence": 80
+      },
+      {
+        "word": "haunted",
+        "confidence": 82
+      },
+      {
+        "word": "revive",
+        "confidence": 75
+      },
+      {
+        "word": "warned",
+        "confidence": 78
+      }
+    ]
+  }
+}

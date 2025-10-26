@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transformative",
+        "confidence": 85
+      },
+      {
+        "word": "disruptive",
+        "confidence": 80
+      },
+      {
+        "word": "dominant",
+        "confidence": 75
+      },
+      {
+        "word": "competitive",
+        "confidence": 70
+      },
+      {
+        "word": "surprising",
+        "confidence": 65
+      },
+      {
+        "word": "triumphant",
+        "confidence": 60
+      },
+      {
+        "word": "challenged",
+        "confidence": 72
+      },
+      {
+        "word": "dynamic",
+        "confidence": 78
+      }
+    ]
+  }
+}

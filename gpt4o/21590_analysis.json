@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concern",
+        "confidence": 90
+      },
+      {
+        "word": "worry",
+        "confidence": 85
+      },
+      {
+        "word": "urgency",
+        "confidence": 82
+      },
+      {
+        "word": "unease",
+        "confidence": 80
+      },
+      {
+        "word": "caution",
+        "confidence": 75
+      }
+    ]
+  }
+}

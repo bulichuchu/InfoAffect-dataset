@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "falling",
+        "confidence": 90
+      },
+      {
+        "word": "decline",
+        "confidence": 88
+      },
+      {
+        "word": "competition",
+        "confidence": 80
+      },
+      {
+        "word": "protest",
+        "confidence": 75
+      },
+      {
+        "word": "loss",
+        "confidence": 70
+      },
+      {
+        "word": "challenge",
+        "confidence": 68
+      },
+      {
+        "word": "resistance",
+        "confidence": 65
+      }
+    ]
+  }
+}

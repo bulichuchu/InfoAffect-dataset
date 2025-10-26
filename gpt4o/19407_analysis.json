@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unprecedented",
+        "confidence": 85
+      },
+      {
+        "word": "protest",
+        "confidence": 80
+      },
+      {
+        "word": "stalled",
+        "confidence": 75
+      },
+      {
+        "word": "grievances",
+        "confidence": 77
+      },
+      {
+        "word": "negotiating",
+        "confidence": 70
+      },
+      {
+        "word": "closure",
+        "confidence": 78
+      },
+      {
+        "word": "striking",
+        "confidence": 90
+      }
+    ]
+  }
+}

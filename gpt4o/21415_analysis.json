@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "awareness",
+        "confidence": 85
+      },
+      {
+        "word": "denial",
+        "confidence": 80
+      },
+      {
+        "word": "politicization",
+        "confidence": 75
+      },
+      {
+        "word": "priority",
+        "confidence": 78
+      },
+      {
+        "word": "criticized",
+        "confidence": 70
+      },
+      {
+        "word": "threat",
+        "confidence": 92
+      },
+      {
+        "word": "vowed",
+        "confidence": 65
+      }
+    ]
+  }
+}

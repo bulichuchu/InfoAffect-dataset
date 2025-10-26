@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "threat",
+        "confidence": 90
+      },
+      {
+        "word": "risk",
+        "confidence": 85
+      },
+      {
+        "word": "annoying",
+        "confidence": 80
+      },
+      {
+        "word": "shying",
+        "confidence": 75
+      },
+      {
+        "word": "prevalent",
+        "confidence": 70
+      },
+      {
+        "word": "consequences",
+        "confidence": 65
+      }
+    ]
+  }
+}

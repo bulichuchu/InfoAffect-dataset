@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "ridicule",
+        "confidence": 90
+      },
+      {
+        "word": "revulsion",
+        "confidence": 85
+      },
+      {
+        "word": "eye-watering",
+        "confidence": 80
+      },
+      {
+        "word": "ominous",
+        "confidence": 75
+      },
+      {
+        "word": "luxury",
+        "confidence": 70
+      },
+      {
+        "word": "expensive",
+        "confidence": 85
+      },
+      {
+        "word": "beast-like",
+        "confidence": 65
+      }
+    ]
+  }
+}

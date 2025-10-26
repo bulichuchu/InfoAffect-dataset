@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "lucrative",
+        "confidence": 90
+      },
+      {
+        "word": "incredible",
+        "confidence": 85
+      },
+      {
+        "word": "impressive",
+        "confidence": 80
+      },
+      {
+        "word": "envious",
+        "confidence": 75
+      },
+      {
+        "word": "astonishing",
+        "confidence": 78
+      },
+      {
+        "word": "privileged",
+        "confidence": 70
+      },
+      {
+        "word": "opportunistic",
+        "confidence": 65
+      }
+    ]
+  }
+}

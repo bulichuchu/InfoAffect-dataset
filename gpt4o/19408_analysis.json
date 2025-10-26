@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "chaos",
+        "confidence": 90
+      },
+      {
+        "word": "popular",
+        "confidence": 85
+      },
+      {
+        "word": "crisis",
+        "confidence": 80
+      },
+      {
+        "word": "negatively",
+        "confidence": 75
+      },
+      {
+        "word": "improved",
+        "confidence": 70
+      },
+      {
+        "word": "comparison",
+        "confidence": 60
+      }
+    ]
+  }
+}

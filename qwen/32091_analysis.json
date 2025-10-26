@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "relief",
+        "confidence": 90
+      },
+      {
+        "word": "frustration",
+        "confidence": 85
+      },
+      {
+        "word": "determination",
+        "confidence": 80
+      },
+      {
+        "word": "disappointment",
+        "confidence": 75
+      },
+      {
+        "word": "hopeful",
+        "confidence": 70
+      },
+      {
+        "word": "resilient",
+        "confidence": 65
+      },
+      {
+        "word": "incremental",
+        "confidence": 60
+      },
+      {
+        "word": "persistent",
+        "confidence": 68
+      }
+    ]
+  }
+}

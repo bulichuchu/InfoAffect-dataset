@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "threat",
+        "confidence": 90
+      },
+      {
+        "word": "epidemic",
+        "confidence": 88
+      },
+      {
+        "word": "interference",
+        "confidence": 75
+      },
+      {
+        "word": "progress",
+        "confidence": 70
+      },
+      {
+        "word": "deterrent",
+        "confidence": 68
+      },
+      {
+        "word": "appeal",
+        "confidence": 65
+      }
+    ]
+  }
+}

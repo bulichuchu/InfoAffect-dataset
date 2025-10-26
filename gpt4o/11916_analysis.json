@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "military",
+        "confidence": 90
+      },
+      {
+        "word": "combat",
+        "confidence": 85
+      },
+      {
+        "word": "peacekeeping",
+        "confidence": 88
+      },
+      {
+        "word": "deployments",
+        "confidence": 80
+      },
+      {
+        "word": "presence",
+        "confidence": 75
+      },
+      {
+        "word": "commitments",
+        "confidence": 70
+      },
+      {
+        "word": "operations",
+        "confidence": 78
+      }
+    ]
+  }
+}

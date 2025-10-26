@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "nostalgic",
+        "confidence": 95
+      },
+      {
+        "word": "comforting",
+        "confidence": 88
+      },
+      {
+        "word": "resurgent",
+        "confidence": 82
+      },
+      {
+        "word": "reassuring",
+        "confidence": 78
+      },
+      {
+        "word": "escapist",
+        "confidence": 75
+      },
+      {
+        "word": "surging",
+        "confidence": 70
+      },
+      {
+        "word": "familiar",
+        "confidence": 65
+      },
+      {
+        "word": "uplifting",
+        "confidence": 60
+      }
+    ]
+  }
+}

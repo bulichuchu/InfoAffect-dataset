@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "casual",
+        "confidence": 90
+      },
+      {
+        "word": "familiar",
+        "confidence": 85
+      },
+      {
+        "word": "simple",
+        "confidence": 80
+      },
+      {
+        "word": "engagement",
+        "confidence": 75
+      },
+      {
+        "word": "niche",
+        "confidence": 70
+      }
+    ]
+  }
+}

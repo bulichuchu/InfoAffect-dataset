@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "debate",
+        "confidence": 85
+      },
+      {
+        "word": "opulence",
+        "confidence": 80
+      },
+      {
+        "word": "controversy",
+        "confidence": 75
+      },
+      {
+        "word": "legacy",
+        "confidence": 70
+      },
+      {
+        "word": "tradition",
+        "confidence": 65
+      },
+      {
+        "word": "security",
+        "confidence": 78
+      },
+      {
+        "word": "upgrade",
+        "confidence": 72
+      },
+      {
+        "word": "delays",
+        "confidence": 82
+      }
+    ]
+  }
+}

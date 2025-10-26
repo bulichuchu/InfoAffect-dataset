@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "excited",
+        "confidence": 85
+      },
+      {
+        "word": "anticipatory",
+        "confidence": 80
+      },
+      {
+        "word": "surprised",
+        "confidence": 75
+      },
+      {
+        "word": "competitive",
+        "confidence": 78
+      },
+      {
+        "word": "thrilling",
+        "confidence": 82
+      },
+      {
+        "word": "proud",
+        "confidence": 70
+      },
+      {
+        "word": "impressive",
+        "confidence": 76
+      },
+      {
+        "word": "feast",
+        "confidence": 83
+      }
+    ]
+  }
+}

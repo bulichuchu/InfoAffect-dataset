@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "insightful",
+        "confidence": 90
+      },
+      {
+        "word": "strategic",
+        "confidence": 88
+      },
+      {
+        "word": "significant",
+        "confidence": 92
+      },
+      {
+        "word": "forward-looking",
+        "confidence": 85
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 80
+      },
+      {
+        "word": "confident",
+        "confidence": 75
+      }
+    ]
+  }
+}

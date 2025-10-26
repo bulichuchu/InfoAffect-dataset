@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "historical",
+        "confidence": 85
+      },
+      {
+        "word": "rare",
+        "confidence": 90
+      },
+      {
+        "word": "transition",
+        "confidence": 80
+      },
+      {
+        "word": "underrepresented",
+        "confidence": 85
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 75
+      },
+      {
+        "word": "evolution",
+        "confidence": 78
+      }
+    ]
+  }
+}

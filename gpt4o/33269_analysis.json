@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concern",
+        "confidence": 90
+      },
+      {
+        "word": "stagnation",
+        "confidence": 85
+      },
+      {
+        "word": "uncertainty",
+        "confidence": 80
+      },
+      {
+        "word": "fragility",
+        "confidence": 75
+      },
+      {
+        "word": "warning",
+        "confidence": 72
+      },
+      {
+        "word": "inequality",
+        "confidence": 70
+      },
+      {
+        "word": "challenge",
+        "confidence": 68
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "contentious",
+          "confidence": 90
+        },
+        {
+          "word": "escalating",
+          "confidence": 88
+        },
+        {
+          "word": "tense",
+          "confidence": 85
+        },
+        {
+          "word": "unresolved",
+          "confidence": 82
+        },
+        {
+          "word": "strained",
+          "confidence": 78
+        },
+        {
+          "word": "adversarial",
+          "confidence": 75
+        }
+      ]
+    }
+  }
+]

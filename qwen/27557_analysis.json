@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "optimistic",
+        "confidence": 85
+      },
+      {
+        "word": "disappointing",
+        "confidence": 78
+      },
+      {
+        "word": "resilient",
+        "confidence": 80
+      },
+      {
+        "word": "volatile",
+        "confidence": 75
+      },
+      {
+        "word": "competitive",
+        "confidence": 72
+      },
+      {
+        "word": "downgraded",
+        "confidence": 76
+      },
+      {
+        "word": "promising",
+        "confidence": 82
+      },
+      {
+        "word": "dynamic",
+        "confidence": 70
+      }
+    ]
+  }
+}

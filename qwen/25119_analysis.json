@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "daunting",
+        "confidence": 85
+      },
+      {
+        "word": "ambitious",
+        "confidence": 80
+      },
+      {
+        "word": "strategic",
+        "confidence": 75
+      },
+      {
+        "word": "curious",
+        "confidence": 70
+      },
+      {
+        "word": "urgent",
+        "confidence": 65
+      },
+      {
+        "word": "transformative",
+        "confidence": 72
+      },
+      {
+        "word": "complex",
+        "confidence": 68
+      },
+      {
+        "word": "visionary",
+        "confidence": 60
+      }
+    ]
+  }
+}

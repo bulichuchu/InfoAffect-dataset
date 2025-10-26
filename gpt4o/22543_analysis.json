@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "popular",
+        "confidence": 90
+      },
+      {
+        "word": "favorable",
+        "confidence": 85
+      },
+      {
+        "word": "fearless",
+        "confidence": 80
+      },
+      {
+        "word": "consistent",
+        "confidence": 75
+      },
+      {
+        "word": "criticism",
+        "confidence": 70
+      },
+      {
+        "word": "asset",
+        "confidence": 72
+      },
+      {
+        "word": "heritage",
+        "confidence": 65
+      }
+    ]
+  }
+}

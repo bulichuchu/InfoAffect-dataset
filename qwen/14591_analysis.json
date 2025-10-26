@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "thrilling",
+        "confidence": 85
+      },
+      {
+        "word": "controversial",
+        "confidence": 80
+      },
+      {
+        "word": "dangerous",
+        "confidence": 75
+      },
+      {
+        "word": "adventurous",
+        "confidence": 70
+      },
+      {
+        "word": "alarming",
+        "confidence": 65
+      },
+      {
+        "word": "exciting",
+        "confidence": 60
+      },
+      {
+        "word": "tense",
+        "confidence": 55
+      },
+      {
+        "word": "divisive",
+        "confidence": 50
+      }
+    ]
+  }
+}

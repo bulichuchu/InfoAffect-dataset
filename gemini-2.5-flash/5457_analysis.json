@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "critical",
+        "confidence": 90
+      },
+      {
+        "word": "disillusioned",
+        "confidence": 88
+      },
+      {
+        "word": "sobering",
+        "confidence": 85
+      },
+      {
+        "word": "transformative",
+        "confidence": 82
+      },
+      {
+        "word": "provocative",
+        "confidence": 75
+      },
+      {
+        "word": "insightful",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "welcoming",
+        "confidence": 95
+      },
+      {
+        "word": "positive",
+        "confidence": 90
+      },
+      {
+        "word": "appreciative",
+        "confidence": 85
+      },
+      {
+        "word": "celebratory",
+        "confidence": 80
+      },
+      {
+        "word": "rewarding",
+        "confidence": 78
+      },
+      {
+        "word": "honored",
+        "confidence": 75
+      }
+    ]
+  }
+}

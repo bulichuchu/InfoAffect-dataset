@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "envious",
+        "confidence": 90
+      },
+      {
+        "word": "resentful",
+        "confidence": 85
+      },
+      {
+        "word": "toxic",
+        "confidence": 82
+      },
+      {
+        "word": "livid",
+        "confidence": 88
+      },
+      {
+        "word": "greedy",
+        "confidence": 75
+      },
+      {
+        "word": "contentious",
+        "confidence": 78
+      },
+      {
+        "word": "divisive",
+        "confidence": 80
+      },
+      {
+        "word": "cynical",
+        "confidence": 70
+      }
+    ]
+  }
+}

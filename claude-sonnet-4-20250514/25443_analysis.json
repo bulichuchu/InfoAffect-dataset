@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "overwhelming",
+        "confidence": 88
+      },
+      {
+        "word": "fast-paced",
+        "confidence": 85
+      },
+      {
+        "word": "energetic",
+        "confidence": 82
+      },
+      {
+        "word": "dynamic",
+        "confidence": 80
+      },
+      {
+        "word": "astounding",
+        "confidence": 78
+      },
+      {
+        "word": "bustling",
+        "confidence": 75
+      },
+      {
+        "word": "incredible",
+        "confidence": 72
+      },
+      {
+        "word": "vibrant",
+        "confidence": 68
+      }
+    ]
+  }
+}

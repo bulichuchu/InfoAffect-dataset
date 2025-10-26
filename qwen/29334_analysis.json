@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "indifferent",
+        "confidence": 85
+      },
+      {
+        "word": "skeptical",
+        "confidence": 80
+      },
+      {
+        "word": "cautious",
+        "confidence": 75
+      },
+      {
+        "word": "disinterested",
+        "confidence": 78
+      },
+      {
+        "word": "reserved",
+        "confidence": 72
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 68
+      },
+      {
+        "word": "unenthusiastic",
+        "confidence": 70
+      },
+      {
+        "word": "traditional",
+        "confidence": 65
+      }
+    ]
+  }
+}

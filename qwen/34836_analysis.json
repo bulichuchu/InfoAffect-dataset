@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "shifting",
+        "confidence": 82
+      },
+      {
+        "word": "strategic",
+        "confidence": 78
+      },
+      {
+        "word": "pressured",
+        "confidence": 75
+      },
+      {
+        "word": "uneasy",
+        "confidence": 70
+      },
+      {
+        "word": "competitive",
+        "confidence": 68
+      },
+      {
+        "word": "uncertain",
+        "confidence": 65
+      },
+      {
+        "word": "critical",
+        "confidence": 60
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "decisive",
+        "confidence": 78
+      },
+      {
+        "word": "partisan",
+        "confidence": 85
+      },
+      {
+        "word": "preferential",
+        "confidence": 80
+      },
+      {
+        "word": "aligned",
+        "confidence": 76
+      },
+      {
+        "word": "polarized",
+        "confidence": 82
+      },
+      {
+        "word": "determined",
+        "confidence": 77
+      }
+    ]
+  }
+}

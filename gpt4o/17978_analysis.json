@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "uncertain",
+        "confidence": 90
+      },
+      {
+        "word": "pessimistic",
+        "confidence": 88
+      },
+      {
+        "word": "stirring",
+        "confidence": 85
+      },
+      {
+        "word": "unlikely",
+        "confidence": 84
+      },
+      {
+        "word": "fading",
+        "confidence": 82
+      },
+      {
+        "word": "momentum",
+        "confidence": 80
+      }
+    ]
+  }
+}

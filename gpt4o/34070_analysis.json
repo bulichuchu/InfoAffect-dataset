@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "celebrated",
+        "confidence": 90
+      },
+      {
+        "word": "disparity",
+        "confidence": 85
+      },
+      {
+        "word": "concern",
+        "confidence": 80
+      },
+      {
+        "word": "improvement",
+        "confidence": 75
+      },
+      {
+        "word": "underrepresentation",
+        "confidence": 78
+      },
+      {
+        "word": "parity",
+        "confidence": 70
+      },
+      {
+        "word": "declined",
+        "confidence": 82
+      }
+    ]
+  }
+}

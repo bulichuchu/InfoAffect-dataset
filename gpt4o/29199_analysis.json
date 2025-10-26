@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "progressive",
+        "confidence": 90
+      },
+      {
+        "word": "open",
+        "confidence": 85
+      },
+      {
+        "word": "barrier",
+        "confidence": 80
+      },
+      {
+        "word": "cohesion",
+        "confidence": 75
+      },
+      {
+        "word": "freedom",
+        "confidence": 83
+      },
+      {
+        "word": "fear",
+        "confidence": 70
+      }
+    ]
+  }
+}

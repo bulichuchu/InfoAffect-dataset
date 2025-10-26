@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "inequality",
+        "confidence": 90
+      },
+      {
+        "word": "frustration",
+        "confidence": 85
+      },
+      {
+        "word": "disparity",
+        "confidence": 82
+      },
+      {
+        "word": "setbacks",
+        "confidence": 78
+      },
+      {
+        "word": "slow-progress",
+        "confidence": 76
+      },
+      {
+        "word": "persistent",
+        "confidence": 74
+      },
+      {
+        "word": "challenging",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "busiest",
+        "confidence": 90
+      },
+      {
+        "word": "record",
+        "confidence": 85
+      },
+      {
+        "word": "crowded",
+        "confidence": 82
+      },
+      {
+        "word": "battling",
+        "confidence": 78
+      },
+      {
+        "word": "stuck",
+        "confidence": 74
+      },
+      {
+        "word": "gearing",
+        "confidence": 70
+      },
+      {
+        "word": "nasty",
+        "confidence": 68
+      }
+    ]
+  }
+}

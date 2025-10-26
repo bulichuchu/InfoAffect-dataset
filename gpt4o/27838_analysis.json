@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "tense",
+        "confidence": 90
+      },
+      {
+        "word": "strategic",
+        "confidence": 85
+      },
+      {
+        "word": "united",
+        "confidence": 80
+      },
+      {
+        "word": "assertive",
+        "confidence": 78
+      },
+      {
+        "word": "resilient",
+        "confidence": 75
+      }
+    ]
+  }
+}

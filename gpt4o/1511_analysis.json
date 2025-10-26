@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "popular",
+        "confidence": 90
+      },
+      {
+        "word": "dominant",
+        "confidence": 85
+      },
+      {
+        "word": "preferred",
+        "confidence": 80
+      },
+      {
+        "word": "leading",
+        "confidence": 78
+      },
+      {
+        "word": "trendy",
+        "confidence": 75
+      },
+      {
+        "word": "trusted",
+        "confidence": 70
+      }
+    ]
+  }
+}

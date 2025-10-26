@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "significant",
+        "confidence": 90
+      },
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "committed",
+        "confidence": 80
+      },
+      {
+        "word": "critical",
+        "confidence": 75
+      },
+      {
+        "word": "costly",
+        "confidence": 88
+      },
+      {
+        "word": "controversial",
+        "confidence": 70
+      },
+      {
+        "word": "resolute",
+        "confidence": 72
+      },
+      {
+        "word": "alarming",
+        "confidence": 65
+      }
+    ]
+  }
+}

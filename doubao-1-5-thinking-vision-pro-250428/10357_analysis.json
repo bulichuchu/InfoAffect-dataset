@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 75
+      },
+      {
+        "word": "informative",
+        "confidence": 80
+      },
+      {
+        "word": "analytical",
+        "confidence": 70
+      },
+      {
+        "word": "cautious",
+        "confidence": 65
+      },
+      {
+        "word": "health - conscious",
+        "confidence": 75
+      },
+      {
+        "word": "evaluative",
+        "confidence": 70
+      }
+    ]
+  }
+}

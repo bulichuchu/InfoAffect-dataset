@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "relief",
+        "confidence": 90
+      },
+      {
+        "word": "pride",
+        "confidence": 85
+      },
+      {
+        "word": "envy",
+        "confidence": 80
+      },
+      {
+        "word": "astonishment",
+        "confidence": 75
+      },
+      {
+        "word": "hopeful",
+        "confidence": 88
+      },
+      {
+        "word": "triumphant",
+        "confidence": 78
+      },
+      {
+        "word": "reassuring",
+        "confidence": 82
+      },
+      {
+        "word": "surprising",
+        "confidence": 70
+      }
+    ]
+  }
+}

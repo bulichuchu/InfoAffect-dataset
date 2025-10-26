@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "recovery",
+        "confidence": 88
+      },
+      {
+        "word": "optimistic",
+        "confidence": 82
+      },
+      {
+        "word": "turbulent",
+        "confidence": 78
+      },
+      {
+        "word": "gradual",
+        "confidence": 74
+      },
+      {
+        "word": "resilience",
+        "confidence": 80
+      },
+      {
+        "word": "hopeful",
+        "confidence": 76
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concentration",
+        "confidence": 85
+      },
+      {
+        "word": "disparity",
+        "confidence": 80
+      },
+      {
+        "word": "imbalance",
+        "confidence": 75
+      },
+      {
+        "word": "contrast",
+        "confidence": 70
+      },
+      {
+        "word": "dominance",
+        "confidence": 75
+      },
+      {
+        "word": "significant",
+        "confidence": 65
+      }
+    ]
+  }
+}

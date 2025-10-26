@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 88
+      },
+      {
+        "word": "alarming",
+        "confidence": 85
+      },
+      {
+        "word": "protest",
+        "confidence": 82
+      },
+      {
+        "word": "restrictive",
+        "confidence": 78
+      },
+      {
+        "word": "urgent",
+        "confidence": 76
+      },
+      {
+        "word": "disturbing",
+        "confidence": 74
+      },
+      {
+        "word": "defiant",
+        "confidence": 70
+      },
+      {
+        "word": "oppressive",
+        "confidence": 68
+      }
+    ]
+  }
+}

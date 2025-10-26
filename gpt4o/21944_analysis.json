@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "awareness",
+        "confidence": 90
+      },
+      {
+        "word": "concern",
+        "confidence": 88
+      },
+      {
+        "word": "disapproval",
+        "confidence": 85
+      },
+      {
+        "word": "recognition",
+        "confidence": 84
+      },
+      {
+        "word": "problematic",
+        "confidence": 82
+      },
+      {
+        "word": "support",
+        "confidence": 78
+      },
+      {
+        "word": "isolation",
+        "confidence": 75
+      }
+    ]
+  }
+}

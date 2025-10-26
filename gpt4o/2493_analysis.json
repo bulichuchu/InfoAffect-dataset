@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "poverty",
+        "confidence": 95
+      },
+      {
+        "word": "struggling",
+        "confidence": 90
+      },
+      {
+        "word": "crisis",
+        "confidence": 88
+      },
+      {
+        "word": "disheartening",
+        "confidence": 85
+      },
+      {
+        "word": "economic downturn",
+        "confidence": 82
+      },
+      {
+        "word": "challenge",
+        "confidence": 80
+      },
+      {
+        "word": "unemployment",
+        "confidence": 78
+      }
+    ]
+  }
+}

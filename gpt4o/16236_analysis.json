@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "decline",
+        "confidence": 85
+      },
+      {
+        "word": "fall",
+        "confidence": 80
+      },
+      {
+        "word": "sharp",
+        "confidence": 75
+      },
+      {
+        "word": "low",
+        "confidence": 70
+      },
+      {
+        "word": "increase",
+        "confidence": 65
+      }
+    ]
+  }
+}

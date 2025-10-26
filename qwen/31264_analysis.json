@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 88
+      },
+      {
+        "word": "alarming",
+        "confidence": 85
+      },
+      {
+        "word": "pressured",
+        "confidence": 82
+      },
+      {
+        "word": "stressed",
+        "confidence": 78
+      },
+      {
+        "word": "uneasy",
+        "confidence": 75
+      },
+      {
+        "word": "overwhelmed",
+        "confidence": 70
+      },
+      {
+        "word": "resigned",
+        "confidence": 65
+      },
+      {
+        "word": "cautious",
+        "confidence": 60
+      }
+    ]
+  }
+}

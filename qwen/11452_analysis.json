@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "impressive",
+        "confidence": 85
+      },
+      {
+        "word": "busy",
+        "confidence": 80
+      },
+      {
+        "word": "dynamic",
+        "confidence": 75
+      },
+      {
+        "word": "thriving",
+        "confidence": 72
+      },
+      {
+        "word": "record-breaking",
+        "confidence": 78
+      },
+      {
+        "word": "competitive",
+        "confidence": 68
+      },
+      {
+        "word": "significant",
+        "confidence": 70
+      },
+      {
+        "word": "efficient",
+        "confidence": 65
+      }
+    ]
+  }
+}

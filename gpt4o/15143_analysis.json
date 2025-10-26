@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "worrying",
+        "confidence": 85
+      },
+      {
+        "word": "discrepancy",
+        "confidence": 80
+      },
+      {
+        "word": "wasteful",
+        "confidence": 82
+      },
+      {
+        "word": "unaware",
+        "confidence": 75
+      },
+      {
+        "word": "concerning",
+        "confidence": 77
+      }
+    ]
+  }
+}

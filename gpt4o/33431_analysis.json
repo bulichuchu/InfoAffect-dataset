@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "shift",
+        "confidence": 85
+      },
+      {
+        "word": "frustration",
+        "confidence": 80
+      },
+      {
+        "word": "conservative",
+        "confidence": 78
+      },
+      {
+        "word": "progressive",
+        "confidence": 75
+      },
+      {
+        "word": "dominant",
+        "confidence": 70
+      },
+      {
+        "word": "controversial",
+        "confidence": 68
+      },
+      {
+        "word": "ridicule",
+        "confidence": 65
+      }
+    ]
+  }
+}

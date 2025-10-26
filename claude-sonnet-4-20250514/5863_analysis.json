@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "reverent",
+        "confidence": 90
+      },
+      {
+        "word": "grateful",
+        "confidence": 85
+      },
+      {
+        "word": "solemn",
+        "confidence": 82
+      },
+      {
+        "word": "heroic",
+        "confidence": 88
+      },
+      {
+        "word": "melancholic",
+        "confidence": 75
+      },
+      {
+        "word": "proud",
+        "confidence": 80
+      },
+      {
+        "word": "forgotten",
+        "confidence": 78
+      },
+      {
+        "word": "sacrificial",
+        "confidence": 83
+      }
+    ]
+  }
+}

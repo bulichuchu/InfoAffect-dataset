@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "malaise",
+        "confidence": 90
+      },
+      {
+        "word": "authoritarian",
+        "confidence": 85
+      },
+      {
+        "word": "polarization",
+        "confidence": 82
+      },
+      {
+        "word": "decline",
+        "confidence": 78
+      },
+      {
+        "word": "flawed",
+        "confidence": 76
+      },
+      {
+        "word": "disheartening",
+        "confidence": 74
+      }
+    ]
+  }
+}

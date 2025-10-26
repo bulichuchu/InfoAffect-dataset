@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anticipation",
+        "confidence": 88
+      },
+      {
+        "word": "growth",
+        "confidence": 85
+      },
+      {
+        "word": "opportunity",
+        "confidence": 83
+      },
+      {
+        "word": "demand",
+        "confidence": 80
+      },
+      {
+        "word": "change",
+        "confidence": 77
+      },
+      {
+        "word": "transition",
+        "confidence": 75
+      },
+      {
+        "word": "future",
+        "confidence": 78
+      }
+    ]
+  }
+}

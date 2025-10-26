@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "strategic",
+        "confidence": 80
+      },
+      {
+        "word": "steady",
+        "confidence": 78
+      },
+      {
+        "word": "business - oriented",
+        "confidence": 75
+      },
+      {
+        "word": "acquisitive",
+        "confidence": 72
+      },
+      {
+        "word": "growth - focused",
+        "confidence": 70
+      },
+      {
+        "word": "neutral",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 88
+      },
+      {
+        "word": "pressured",
+        "confidence": 85
+      },
+      {
+        "word": "escalating",
+        "confidence": 90
+      },
+      {
+        "word": "burdened",
+        "confidence": 82
+      },
+      {
+        "word": "alarming",
+        "confidence": 78
+      },
+      {
+        "word": "strained",
+        "confidence": 75
+      },
+      {
+        "word": "inevitable",
+        "confidence": 70
+      },
+      {
+        "word": "resistant",
+        "confidence": 65
+      }
+    ]
+  }
+}

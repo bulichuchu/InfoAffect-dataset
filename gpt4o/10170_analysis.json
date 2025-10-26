@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "decline",
+        "confidence": 90
+      },
+      {
+        "word": "concern",
+        "confidence": 85
+      },
+      {
+        "word": "decrease",
+        "confidence": 88
+      },
+      {
+        "word": "sync",
+        "confidence": 60
+      },
+      {
+        "word": "corrected",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "critical",
+        "confidence": 88
+      },
+      {
+        "word": "problematic",
+        "confidence": 85
+      },
+      {
+        "word": "concerning",
+        "confidence": 82
+      },
+      {
+        "word": "fraught",
+        "confidence": 78
+      },
+      {
+        "word": "resistant",
+        "confidence": 75
+      },
+      {
+        "word": "contentious",
+        "confidence": 72
+      },
+      {
+        "word": "overwhelming",
+        "confidence": 70
+      },
+      {
+        "word": "beneficial",
+        "confidence": 65
+      }
+    ]
+  }
+}

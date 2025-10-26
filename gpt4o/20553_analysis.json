@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "challenged",
+        "confidence": 90
+      },
+      {
+        "word": "dominance",
+        "confidence": 85
+      },
+      {
+        "word": "progress",
+        "confidence": 80
+      },
+      {
+        "word": "intensity",
+        "confidence": 75
+      },
+      {
+        "word": "leader",
+        "confidence": 82
+      },
+      {
+        "word": "closing",
+        "confidence": 78
+      }
+    ]
+  }
+}

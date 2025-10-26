@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "catching up",
+        "confidence": 85
+      },
+      {
+        "word": "lagging",
+        "confidence": 80
+      },
+      {
+        "word": "collaborative",
+        "confidence": 75
+      },
+      {
+        "word": "determined",
+        "confidence": 70
+      },
+      {
+        "word": "competitive",
+        "confidence": 65
+      },
+      {
+        "word": "progressive",
+        "confidence": 60
+      },
+      {
+        "word": "hopeful",
+        "confidence": 55
+      },
+      {
+        "word": "strategic",
+        "confidence": 50
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "affordable",
+        "confidence": 90
+      },
+      {
+        "word": "surprising",
+        "confidence": 85
+      },
+      {
+        "word": "humorous",
+        "confidence": 80
+      },
+      {
+        "word": "impressive",
+        "confidence": 75
+      },
+      {
+        "word": "playful",
+        "confidence": 70
+      },
+      {
+        "word": "ironic",
+        "confidence": 65
+      },
+      {
+        "word": "accessible",
+        "confidence": 78
+      },
+      {
+        "word": "lighthearted",
+        "confidence": 72
+      }
+    ]
+  }
+}

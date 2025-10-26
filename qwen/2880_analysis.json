@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "confrontational",
+        "confidence": 85
+      },
+      {
+        "word": "tense",
+        "confidence": 80
+      },
+      {
+        "word": "resistant",
+        "confidence": 75
+      },
+      {
+        "word": "assertive",
+        "confidence": 70
+      },
+      {
+        "word": "contentious",
+        "confidence": 65
+      },
+      {
+        "word": "defiant",
+        "confidence": 60
+      },
+      {
+        "word": "serious",
+        "confidence": 72
+      },
+      {
+        "word": "political",
+        "confidence": 68
+      }
+    ]
+  }
+}

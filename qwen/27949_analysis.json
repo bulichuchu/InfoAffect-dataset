@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surge",
+        "confidence": 90
+      },
+      {
+        "word": "stand out",
+        "confidence": 85
+      },
+      {
+        "word": "remarkable",
+        "confidence": 80
+      },
+      {
+        "word": "empowering",
+        "confidence": 75
+      },
+      {
+        "word": "dynamic",
+        "confidence": 70
+      },
+      {
+        "word": "optimistic",
+        "confidence": 65
+      },
+      {
+        "word": "transformative",
+        "confidence": 60
+      },
+      {
+        "word": "confident",
+        "confidence": 55
+      }
+    ]
+  }
+}

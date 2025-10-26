@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "hesitant",
+        "confidence": 85
+      },
+      {
+        "word": "puzzled",
+        "confidence": 80
+      },
+      {
+        "word": "reluctant",
+        "confidence": 78
+      },
+      {
+        "word": "tense",
+        "confidence": 75
+      },
+      {
+        "word": "uncertain",
+        "confidence": 72
+      },
+      {
+        "word": "frustrated",
+        "confidence": 68
+      },
+      {
+        "word": "strategic",
+        "confidence": 65
+      },
+      {
+        "word": "cautious",
+        "confidence": 70
+      }
+    ]
+  }
+}

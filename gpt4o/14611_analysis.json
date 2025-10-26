@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anticipation",
+        "confidence": 90
+      },
+      {
+        "word": "historical",
+        "confidence": 85
+      },
+      {
+        "word": "competitive",
+        "confidence": 80
+      },
+      {
+        "word": "underdog",
+        "confidence": 75
+      },
+      {
+        "word": "rivalry",
+        "confidence": 70
+      },
+      {
+        "word": "superior",
+        "confidence": 68
+      },
+      {
+        "word": "valuable",
+        "confidence": 65
+      }
+    ]
+  }
+}

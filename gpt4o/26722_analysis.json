@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "growth",
+        "confidence": 90
+      },
+      {
+        "word": "demand",
+        "confidence": 85
+      },
+      {
+        "word": "innovation",
+        "confidence": 80
+      },
+      {
+        "word": "stable",
+        "confidence": 75
+      },
+      {
+        "word": "projected",
+        "confidence": 70
+      },
+      {
+        "word": "market",
+        "confidence": 65
+      },
+      {
+        "word": "aging",
+        "confidence": 60
+      }
+    ]
+  }
+}

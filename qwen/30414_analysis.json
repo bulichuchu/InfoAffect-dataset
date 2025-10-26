@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "romantic",
+        "confidence": 85
+      },
+      {
+        "word": "playful",
+        "confidence": 80
+      },
+      {
+        "word": "connected",
+        "confidence": 75
+      },
+      {
+        "word": "vulnerable",
+        "confidence": 70
+      },
+      {
+        "word": "modern",
+        "confidence": 65
+      },
+      {
+        "word": "expressive",
+        "confidence": 78
+      },
+      {
+        "word": "relational",
+        "confidence": 72
+      },
+      {
+        "word": "sentimental",
+        "confidence": 68
+      }
+    ]
+  }
+}

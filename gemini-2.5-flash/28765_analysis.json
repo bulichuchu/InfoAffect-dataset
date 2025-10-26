@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anticipation",
+        "confidence": 95
+      },
+      {
+        "word": "ambition",
+        "confidence": 90
+      },
+      {
+        "word": "excitement",
+        "confidence": 88
+      },
+      {
+        "word": "hope",
+        "confidence": 85
+      },
+      {
+        "word": "desire",
+        "confidence": 80
+      },
+      {
+        "word": "redemption",
+        "confidence": 75
+      }
+    ]
+  }
+}

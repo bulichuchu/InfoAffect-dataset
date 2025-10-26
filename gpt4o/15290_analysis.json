@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "desirable",
+        "confidence": 85
+      },
+      {
+        "word": "declining",
+        "confidence": 88
+      },
+      {
+        "word": "willing",
+        "confidence": 80
+      },
+      {
+        "word": "popular",
+        "confidence": 82
+      },
+      {
+        "word": "conspicuous",
+        "confidence": 70
+      },
+      {
+        "word": "absent",
+        "confidence": 75
+      }
+    ]
+  }
+}

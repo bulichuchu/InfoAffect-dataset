@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "skeptical",
+        "confidence": 88
+      },
+      {
+        "word": "analytical",
+        "confidence": 85
+      },
+      {
+        "word": "cautious",
+        "confidence": 82
+      },
+      {
+        "word": "nuanced",
+        "confidence": 78
+      },
+      {
+        "word": "measured",
+        "confidence": 75
+      },
+      {
+        "word": "questioning",
+        "confidence": 73
+      },
+      {
+        "word": "balanced",
+        "confidence": 70
+      },
+      {
+        "word": "thoughtful",
+        "confidence": 68
+      }
+    ]
+  }
+}

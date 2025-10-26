@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surprising",
+        "confidence": 90
+      },
+      {
+        "word": "enthusiastic",
+        "confidence": 85
+      },
+      {
+        "word": "competitive",
+        "confidence": 80
+      },
+      {
+        "word": "popular",
+        "confidence": 88
+      },
+      {
+        "word": "unexpected",
+        "confidence": 82
+      }
+    ]
+  }
+}

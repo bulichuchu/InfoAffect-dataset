@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "forward-looking",
+        "confidence": 88
+      },
+      {
+        "word": "analytical",
+        "confidence": 85
+      },
+      {
+        "word": "comparative",
+        "confidence": 80
+      },
+      {
+        "word": "informative",
+        "confidence": 90
+      },
+      {
+        "word": "statistical",
+        "confidence": 75
+      },
+      {
+        "word": "global",
+        "confidence": 78
+      },
+      {
+        "word": "transformative",
+        "confidence": 72
+      },
+      {
+        "word": "developmental",
+        "confidence": 68
+      }
+    ]
+  }
+}

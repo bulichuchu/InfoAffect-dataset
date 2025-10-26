@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "popular",
+        "confidence": 90
+      },
+      {
+        "word": "successful",
+        "confidence": 85
+      },
+      {
+        "word": "controversial",
+        "confidence": 80
+      },
+      {
+        "word": "concerned",
+        "confidence": 75
+      },
+      {
+        "word": "inconvenienced",
+        "confidence": 70
+      },
+      {
+        "word": "affected",
+        "confidence": 68
+      },
+      {
+        "word": "bustling",
+        "confidence": 65
+      }
+    ]
+  }
+}

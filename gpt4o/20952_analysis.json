@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "favorability",
+        "confidence": 90
+      },
+      {
+        "word": "viability",
+        "confidence": 85
+      },
+      {
+        "word": "support",
+        "confidence": 80
+      },
+      {
+        "word": "confidence",
+        "confidence": 75
+      },
+      {
+        "word": "trounce",
+        "confidence": 70
+      },
+      {
+        "word": "lead",
+        "confidence": 65
+      }
+    ]
+  }
+}

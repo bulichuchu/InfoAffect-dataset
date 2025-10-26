@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frustrating",
+        "confidence": 90
+      },
+      {
+        "word": "bewildered",
+        "confidence": 85
+      },
+      {
+        "word": "nightmarish",
+        "confidence": 88
+      },
+      {
+        "word": "delays",
+        "confidence": 80
+      },
+      {
+        "word": "worst",
+        "confidence": 75
+      },
+      {
+        "word": "longest",
+        "confidence": 70
+      },
+      {
+        "word": "waiting",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "decline",
+        "confidence": 90
+      },
+      {
+        "word": "awareness",
+        "confidence": 85
+      },
+      {
+        "word": "improvement",
+        "confidence": 80
+      },
+      {
+        "word": "proactive",
+        "confidence": 75
+      },
+      {
+        "word": "dramatically",
+        "confidence": 70
+      },
+      {
+        "word": "historic",
+        "confidence": 68
+      }
+    ]
+  }
+}

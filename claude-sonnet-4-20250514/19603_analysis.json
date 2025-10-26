@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "empathetic",
+        "confidence": 88
+      },
+      {
+        "word": "hopeful",
+        "confidence": 82
+      },
+      {
+        "word": "concerning",
+        "confidence": 85
+      },
+      {
+        "word": "supportive",
+        "confidence": 78
+      },
+      {
+        "word": "serious",
+        "confidence": 90
+      },
+      {
+        "word": "compassionate",
+        "confidence": 75
+      },
+      {
+        "word": "sobering",
+        "confidence": 80
+      },
+      {
+        "word": "empowering",
+        "confidence": 70
+      }
+    ]
+  }
+}

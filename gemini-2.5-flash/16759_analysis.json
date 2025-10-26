@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "divisive",
+        "confidence": 95
+      },
+      {
+        "word": "contrasting",
+        "confidence": 90
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 85
+      },
+      {
+        "word": "accepting",
+        "confidence": 78
+      },
+      {
+        "word": "guarded",
+        "confidence": 72
+      },
+      {
+        "word": "skeptical",
+        "confidence": 65
+      }
+    ]
+  }
+}

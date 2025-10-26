@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "nostalgic",
+        "confidence": 82
+      },
+      {
+        "word": "melancholic",
+        "confidence": 78
+      },
+      {
+        "word": "concerning",
+        "confidence": 85
+      },
+      {
+        "word": "disappointing",
+        "confidence": 80
+      },
+      {
+        "word": "dismal",
+        "confidence": 88
+      },
+      {
+        "word": "wistful",
+        "confidence": 75
+      },
+      {
+        "word": "resigned",
+        "confidence": 70
+      },
+      {
+        "word": "bleak",
+        "confidence": 83
+      }
+    ]
+  }
+}

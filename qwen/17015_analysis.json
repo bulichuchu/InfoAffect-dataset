@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "forgiving",
+        "confidence": 85
+      },
+      {
+        "word": "divisive",
+        "confidence": 80
+      },
+      {
+        "word": "scandalous",
+        "confidence": 75
+      },
+      {
+        "word": "disappointing",
+        "confidence": 70
+      },
+      {
+        "word": "partisan",
+        "confidence": 78
+      },
+      {
+        "word": "tolerant",
+        "confidence": 65
+      },
+      {
+        "word": "shocking",
+        "confidence": 60
+      }
+    ]
+  }
+}

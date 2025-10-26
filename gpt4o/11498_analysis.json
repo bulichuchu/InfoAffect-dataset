@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "uncomfortable",
+        "confidence": 90
+      },
+      {
+        "word": "tracked",
+        "confidence": 88
+      },
+      {
+        "word": "aware",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 80
+      },
+      {
+        "word": "privacy",
+        "confidence": 78
+      },
+      {
+        "word": "intrusive",
+        "confidence": 70
+      },
+      {
+        "word": "defensive",
+        "confidence": 65
+      },
+      {
+        "word": "resistant",
+        "confidence": 60
+      }
+    ]
+  }
+}

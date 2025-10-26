@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "excited",
+        "confidence": 88
+      },
+      {
+        "word": "enthusiastic",
+        "confidence": 85
+      },
+      {
+        "word": "passionate",
+        "confidence": 82
+      },
+      {
+        "word": "driven",
+        "confidence": 78
+      },
+      {
+        "word": "eager",
+        "confidence": 76
+      },
+      {
+        "word": "supportive",
+        "confidence": 74
+      },
+      {
+        "word": "empowered",
+        "confidence": 70
+      },
+      {
+        "word": "competitive",
+        "confidence": 65
+      }
+    ]
+  }
+}

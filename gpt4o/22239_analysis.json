@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "justice",
+        "confidence": 85
+      },
+      {
+        "word": "concern",
+        "confidence": 82
+      },
+      {
+        "word": "controversial",
+        "confidence": 78
+      },
+      {
+        "word": "trust",
+        "confidence": 75
+      },
+      {
+        "word": "reform",
+        "confidence": 80
+      },
+      {
+        "word": "awareness",
+        "confidence": 70
+      }
+    ]
+  }
+}

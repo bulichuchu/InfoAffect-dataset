@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "variation",
+        "confidence": 90
+      },
+      {
+        "word": "preference",
+        "confidence": 85
+      },
+      {
+        "word": "encouraging",
+        "confidence": 80
+      },
+      {
+        "word": "contrast",
+        "confidence": 75
+      },
+      {
+        "word": "highlight",
+        "confidence": 70
+      },
+      {
+        "word": "disparity",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disapproval",
+        "confidence": 90
+      },
+      {
+        "word": "division",
+        "confidence": 85
+      },
+      {
+        "word": "polarizing",
+        "confidence": 82
+      },
+      {
+        "word": "discontent",
+        "confidence": 78
+      },
+      {
+        "word": "partisan",
+        "confidence": 75
+      }
+    ]
+  }
+}

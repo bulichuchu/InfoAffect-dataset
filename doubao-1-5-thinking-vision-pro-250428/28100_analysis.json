@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 80
+      },
+      {
+        "word": "hopeful",
+        "confidence": 75
+      },
+      {
+        "word": "responsible",
+        "confidence": 85
+      },
+      {
+        "word": "community - focused",
+        "confidence": 78
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 70
+      },
+      {
+        "word": "conscious",
+        "confidence": 82
+      }
+    ]
+  }
+}

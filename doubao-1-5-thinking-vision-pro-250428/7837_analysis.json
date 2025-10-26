@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "costly",
+        "confidence": 80
+      },
+      {
+        "word": "concerning",
+        "confidence": 75
+      },
+      {
+        "word": "pricey",
+        "confidence": 72
+      },
+      {
+        "word": "worrying",
+        "confidence": 68
+      },
+      {
+        "word": "elevated",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerning",
+        "confidence": 90
+      },
+      {
+        "word": "alarming",
+        "confidence": 85
+      },
+      {
+        "word": "unsustainable",
+        "confidence": 82
+      },
+      {
+        "word": "challenging",
+        "confidence": 78
+      },
+      {
+        "word": "grave",
+        "confidence": 75
+      },
+      {
+        "word": "worrisome",
+        "confidence": 73
+      },
+      {
+        "word": "pressing",
+        "confidence": 70
+      },
+      {
+        "word": "disappointing",
+        "confidence": 65
+      }
+    ]
+  }
+}

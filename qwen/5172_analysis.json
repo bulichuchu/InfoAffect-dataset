@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "ubiquitous",
+        "confidence": 90
+      },
+      {
+        "word": "connected",
+        "confidence": 85
+      },
+      {
+        "word": "modern",
+        "confidence": 80
+      },
+      {
+        "word": "widespread",
+        "confidence": 78
+      },
+      {
+        "word": "technological",
+        "confidence": 75
+      },
+      {
+        "word": "convenient",
+        "confidence": 72
+      },
+      {
+        "word": "normalized",
+        "confidence": 68
+      },
+      {
+        "word": "dominant",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unpredictable",
+        "confidence": 90
+      },
+      {
+        "word": "surprising",
+        "confidence": 85
+      },
+      {
+        "word": "hopeful",
+        "confidence": 78
+      },
+      {
+        "word": "confident",
+        "confidence": 75
+      },
+      {
+        "word": "discrepant",
+        "confidence": 72
+      },
+      {
+        "word": "analytical",
+        "confidence": 68
+      },
+      {
+        "word": "competitive",
+        "confidence": 65
+      },
+      {
+        "word": "optimistic",
+        "confidence": 60
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "celebration",
+        "confidence": 85
+      },
+      {
+        "word": "achievement",
+        "confidence": 82
+      },
+      {
+        "word": "challenge",
+        "confidence": 78
+      },
+      {
+        "word": "inequality",
+        "confidence": 90
+      },
+      {
+        "word": "lagging",
+        "confidence": 76
+      },
+      {
+        "word": "disparity",
+        "confidence": 88
+      },
+      {
+        "word": "progress",
+        "confidence": 80
+      }
+    ]
+  }
+}

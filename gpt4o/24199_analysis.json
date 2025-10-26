@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "decline",
+        "confidence": 90
+      },
+      {
+        "word": "renewal",
+        "confidence": 85
+      },
+      {
+        "word": "transition",
+        "confidence": 80
+      },
+      {
+        "word": "growth",
+        "confidence": 75
+      },
+      {
+        "word": "hopeful",
+        "confidence": 70
+      },
+      {
+        "word": "challenge",
+        "confidence": 65
+      }
+    ]
+  }
+}

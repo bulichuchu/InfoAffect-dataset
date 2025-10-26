@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "privileged",
+        "confidence": 95
+      },
+      {
+        "word": "restricted",
+        "confidence": 95
+      },
+      {
+        "word": "disparate",
+        "confidence": 90
+      },
+      {
+        "word": "inequitable",
+        "confidence": 88
+      },
+      {
+        "word": "informative",
+        "confidence": 85
+      },
+      {
+        "word": "sobering",
+        "confidence": 80
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "united",
+        "confidence": 85
+      },
+      {
+        "word": "divided",
+        "confidence": 80
+      },
+      {
+        "word": "concerned",
+        "confidence": 75
+      },
+      {
+        "word": "cautious",
+        "confidence": 70
+      },
+      {
+        "word": "supportive",
+        "confidence": 82
+      },
+      {
+        "word": "anxious",
+        "confidence": 65
+      },
+      {
+        "word": "partisan",
+        "confidence": 78
+      },
+      {
+        "word": "resolute",
+        "confidence": 72
+      }
+    ]
+  }
+}

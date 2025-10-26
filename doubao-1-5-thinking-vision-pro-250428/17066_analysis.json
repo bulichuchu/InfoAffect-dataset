@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "competitive",
+        "confidence": 85
+      },
+      {
+        "word": "anticipatory",
+        "confidence": 82
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 78
+      },
+      {
+        "word": "tense",
+        "confidence": 75
+      },
+      {
+        "word": "confident",
+        "confidence": 72
+      },
+      {
+        "word": "reflective",
+        "confidence": 70
+      },
+      {
+        "word": "bittersweet",
+        "confidence": 68
+      }
+    ]
+  }
+}

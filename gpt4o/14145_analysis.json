@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "trendy",
+        "confidence": 82
+      },
+      {
+        "word": "youthful",
+        "confidence": 79
+      },
+      {
+        "word": "cynical",
+        "confidence": 75
+      },
+      {
+        "word": "satirical",
+        "confidence": 70
+      },
+      {
+        "word": "playful",
+        "confidence": 68
+      },
+      {
+        "word": "materialistic",
+        "confidence": 66
+      },
+      {
+        "word": "global",
+        "confidence": 63
+      }
+    ]
+  }
+}

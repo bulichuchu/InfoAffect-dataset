@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "creepy",
+        "confidence": 85
+      },
+      {
+        "word": "ominous",
+        "confidence": 80
+      },
+      {
+        "word": "thrilling",
+        "confidence": 75
+      },
+      {
+        "word": "suspenseful",
+        "confidence": 78
+      },
+      {
+        "word": "frightening",
+        "confidence": 72
+      },
+      {
+        "word": "dramatic",
+        "confidence": 70
+      },
+      {
+        "word": "iconic",
+        "confidence": 65
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 60
+      }
+    ]
+  }
+}

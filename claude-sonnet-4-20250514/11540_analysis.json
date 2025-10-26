@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "controversial",
+        "confidence": 95
+      },
+      {
+        "word": "divisive",
+        "confidence": 88
+      },
+      {
+        "word": "disapproving",
+        "confidence": 85
+      },
+      {
+        "word": "resistant",
+        "confidence": 82
+      },
+      {
+        "word": "skeptical",
+        "confidence": 78
+      },
+      {
+        "word": "reluctant",
+        "confidence": 75
+      },
+      {
+        "word": "comparative",
+        "confidence": 70
+      },
+      {
+        "word": "preferential",
+        "confidence": 65
+      }
+    ]
+  }
+}

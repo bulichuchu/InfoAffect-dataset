@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "reassuring",
+        "confidence": 95
+      },
+      {
+        "word": "stable",
+        "confidence": 90
+      },
+      {
+        "word": "positive",
+        "confidence": 88
+      },
+      {
+        "word": "relieved",
+        "confidence": 85
+      },
+      {
+        "word": "calm",
+        "confidence": 80
+      },
+      {
+        "word": "balanced",
+        "confidence": 75
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "progressive",
+        "confidence": 85
+      },
+      {
+        "word": "contrasting",
+        "confidence": 80
+      },
+      {
+        "word": "restrictive",
+        "confidence": 78
+      },
+      {
+        "word": "draconian",
+        "confidence": 75
+      },
+      {
+        "word": "divided",
+        "confidence": 72
+      },
+      {
+        "word": "hopeful",
+        "confidence": 68
+      },
+      {
+        "word": "tense",
+        "confidence": 65
+      },
+      {
+        "word": "inconsistent",
+        "confidence": 63
+      }
+    ]
+  }
+}

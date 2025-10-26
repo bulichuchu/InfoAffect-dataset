@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "displeasure",
+        "confidence": 90
+      },
+      {
+        "word": "reluctantly",
+        "confidence": 85
+      },
+      {
+        "word": "eager",
+        "confidence": 70
+      },
+      {
+        "word": "support",
+        "confidence": 75
+      },
+      {
+        "word": "unknown",
+        "confidence": 65
+      },
+      {
+        "word": "prominent",
+        "confidence": 60
+      }
+    ]
+  }
+}

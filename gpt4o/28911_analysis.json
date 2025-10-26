@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "viral",
+        "confidence": 90
+      },
+      {
+        "word": "sensational",
+        "confidence": 85
+      },
+      {
+        "word": "controversial",
+        "confidence": 85
+      },
+      {
+        "word": "tempting",
+        "confidence": 80
+      },
+      {
+        "word": "impressive",
+        "confidence": 78
+      },
+      {
+        "word": "concerned",
+        "confidence": 75
+      },
+      {
+        "word": "prominent",
+        "confidence": 70
+      }
+    ]
+  }
+}

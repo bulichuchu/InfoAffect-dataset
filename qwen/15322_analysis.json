@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "overwhelming",
+        "confidence": 90
+      },
+      {
+        "word": "unanimous",
+        "confidence": 85
+      },
+      {
+        "word": "ambivalent",
+        "confidence": 75
+      },
+      {
+        "word": "dislike",
+        "confidence": 80
+      },
+      {
+        "word": "favorable",
+        "confidence": 78
+      },
+      {
+        "word": "concerned",
+        "confidence": 72
+      },
+      {
+        "word": "supportive",
+        "confidence": 76
+      },
+      {
+        "word": "divided",
+        "confidence": 70
+      }
+    ]
+  }
+}

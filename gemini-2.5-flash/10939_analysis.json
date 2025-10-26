@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "evolving",
+        "confidence": 90
+      },
+      {
+        "word": "anticipatory",
+        "confidence": 88
+      },
+      {
+        "word": "amused",
+        "confidence": 85
+      },
+      {
+        "word": "reflective",
+        "confidence": 78
+      },
+      {
+        "word": "curious",
+        "confidence": 70
+      },
+      {
+        "word": "whimsical",
+        "confidence": 65
+      }
+    ]
+  }
+}

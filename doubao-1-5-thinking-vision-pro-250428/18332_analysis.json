@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "contradictory",
+        "confidence": 88
+      },
+      {
+        "word": "wary",
+        "confidence": 85
+      },
+      {
+        "word": "resistant",
+        "confidence": 82
+      },
+      {
+        "word": "doubtful",
+        "confidence": 78
+      },
+      {
+        "word": "concerned",
+        "confidence": 75
+      },
+      {
+        "word": "hesitant",
+        "confidence": 72
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "stressful",
+        "confidence": 90
+      },
+      {
+        "word": "strained",
+        "confidence": 85
+      },
+      {
+        "word": "bracing",
+        "confidence": 80
+      },
+      {
+        "word": "stretched",
+        "confidence": 82
+      },
+      {
+        "word": "enormous",
+        "confidence": 78
+      },
+      {
+        "word": "hiring",
+        "confidence": 75
+      },
+      {
+        "word": "seasonal",
+        "confidence": 70
+      }
+    ]
+  }
+}

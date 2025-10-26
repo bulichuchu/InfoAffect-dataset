@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "awe-inspiring",
+        "confidence": 90
+      },
+      {
+        "word": "exciting",
+        "confidence": 85
+      },
+      {
+        "word": "futuristic",
+        "confidence": 80
+      },
+      {
+        "word": "ambitious",
+        "confidence": 75
+      },
+      {
+        "word": "promising",
+        "confidence": 78
+      },
+      {
+        "word": "colossal",
+        "confidence": 82
+      },
+      {
+        "word": "transformative",
+        "confidence": 70
+      },
+      {
+        "word": "optimistic",
+        "confidence": 73
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dominant",
+        "confidence": 90
+      },
+      {
+        "word": "concerned",
+        "confidence": 78
+      },
+      {
+        "word": "surprising",
+        "confidence": 75
+      },
+      {
+        "word": "optimistic",
+        "confidence": 72
+      },
+      {
+        "word": "ironic",
+        "confidence": 68
+      },
+      {
+        "word": "growing",
+        "confidence": 80
+      },
+      {
+        "word": "sustainable",
+        "confidence": 65
+      },
+      {
+        "word": "conflicted",
+        "confidence": 70
+      }
+    ]
+  }
+}

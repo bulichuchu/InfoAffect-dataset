@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "illusion",
+        "confidence": 85
+      },
+      {
+        "word": "dominance",
+        "confidence": 80
+      },
+      {
+        "word": "consolidation",
+        "confidence": 75
+      },
+      {
+        "word": "control",
+        "confidence": 78
+      },
+      {
+        "word": "overshadowed",
+        "confidence": 82
+      },
+      {
+        "word": "dwarfed",
+        "confidence": 88
+      }
+    ]
+  }
+}

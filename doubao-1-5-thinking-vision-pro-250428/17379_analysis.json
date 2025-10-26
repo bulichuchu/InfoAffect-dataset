@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "serious",
+        "confidence": 90
+      },
+      {
+        "word": "contemplative",
+        "confidence": 85
+      },
+      {
+        "word": "reforming",
+        "confidence": 80
+      },
+      {
+        "word": "sobering",
+        "confidence": 78
+      },
+      {
+        "word": "deliberate",
+        "confidence": 75
+      },
+      {
+        "word": "pensive",
+        "confidence": 72
+      },
+      {
+        "word": "critical",
+        "confidence": 68
+      }
+    ]
+  }
+}

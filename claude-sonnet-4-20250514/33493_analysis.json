@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "commercial",
+        "confidence": 88
+      },
+      {
+        "word": "opportunistic",
+        "confidence": 85
+      },
+      {
+        "word": "informative",
+        "confidence": 82
+      },
+      {
+        "word": "analytical",
+        "confidence": 80
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 78
+      },
+      {
+        "word": "descriptive",
+        "confidence": 75
+      },
+      {
+        "word": "neutral",
+        "confidence": 72
+      }
+    ]
+  }
+}

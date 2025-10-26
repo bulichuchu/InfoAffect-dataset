@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "determined",
+        "confidence": 95
+      },
+      {
+        "word": "ambitious",
+        "confidence": 92
+      },
+      {
+        "word": "confident",
+        "confidence": 90
+      },
+      {
+        "word": "contentious",
+        "confidence": 88
+      },
+      {
+        "word": "strategic",
+        "confidence": 82
+      }
+    ]
+  }
+}

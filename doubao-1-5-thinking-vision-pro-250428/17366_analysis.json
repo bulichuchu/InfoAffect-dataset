@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dire",
+        "confidence": 90
+      },
+      {
+        "word": "critical",
+        "confidence": 85
+      },
+      {
+        "word": "disheartening",
+        "confidence": 80
+      },
+      {
+        "word": "concerning",
+        "confidence": 75
+      },
+      {
+        "word": "turbulent",
+        "confidence": 70
+      },
+      {
+        "word": "mismanged",
+        "confidence": 80
+      },
+      {
+        "word": "deteriorating",
+        "confidence": 85
+      }
+    ]
+  }
+}

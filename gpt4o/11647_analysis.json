@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "successful",
+        "confidence": 90
+      },
+      {
+        "word": "bullish",
+        "confidence": 85
+      },
+      {
+        "word": "hype",
+        "confidence": 80
+      },
+      {
+        "word": "doubled",
+        "confidence": 75
+      },
+      {
+        "word": "expectations",
+        "confidence": 70
+      },
+      {
+        "word": "discontinued",
+        "confidence": 65
+      },
+      {
+        "word": "unbeloved",
+        "confidence": 60
+      }
+    ]
+  }
+}

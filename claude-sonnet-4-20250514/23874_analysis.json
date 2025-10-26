@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disappointing",
+        "confidence": 88
+      },
+      {
+        "word": "critical",
+        "confidence": 85
+      },
+      {
+        "word": "staggering",
+        "confidence": 82
+      },
+      {
+        "word": "concerning",
+        "confidence": 80
+      },
+      {
+        "word": "notable",
+        "confidence": 75
+      },
+      {
+        "word": "contrasting",
+        "confidence": 70
+      },
+      {
+        "word": "ironic",
+        "confidence": 68
+      }
+    ]
+  }
+}

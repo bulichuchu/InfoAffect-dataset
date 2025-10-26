@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "reassuring",
+        "confidence": 90
+      },
+      {
+        "word": "worried",
+        "confidence": 85
+      },
+      {
+        "word": "commitment",
+        "confidence": 80
+      },
+      {
+        "word": "ferocious",
+        "confidence": 75
+      },
+      {
+        "word": "disparity",
+        "confidence": 70
+      },
+      {
+        "word": "lagging",
+        "confidence": 68
+      },
+      {
+        "word": "dwarf",
+        "confidence": 65
+      }
+    ]
+  }
+}

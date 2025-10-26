@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "stereotypical",
+        "confidence": 90
+      },
+      {
+        "word": "satirical",
+        "confidence": 85
+      },
+      {
+        "word": "playful",
+        "confidence": 80
+      },
+      {
+        "word": "analytical",
+        "confidence": 78
+      },
+      {
+        "word": "informative",
+        "confidence": 75
+      },
+      {
+        "word": "observational",
+        "confidence": 72
+      },
+      {
+        "word": "comparative",
+        "confidence": 70
+      }
+    ]
+  }
+}

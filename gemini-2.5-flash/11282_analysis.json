@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "prosperous",
+        "confidence": 92
+      },
+      {
+        "word": "impressive",
+        "confidence": 90
+      },
+      {
+        "word": "thriving",
+        "confidence": 88
+      },
+      {
+        "word": "ambitious",
+        "confidence": 85
+      },
+      {
+        "word": "leading",
+        "confidence": 80
+      },
+      {
+        "word": "optimistic",
+        "confidence": 78
+      }
+    ]
+  }
+}

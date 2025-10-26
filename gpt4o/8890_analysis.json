@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "sinking",
+        "confidence": 90
+      },
+      {
+        "word": "relief",
+        "confidence": 85
+      },
+      {
+        "word": "discrepancy",
+        "confidence": 80
+      },
+      {
+        "word": "serious",
+        "confidence": 78
+      },
+      {
+        "word": "unforgiving",
+        "confidence": 83
+      },
+      {
+        "word": "interrupted",
+        "confidence": 77
+      }
+    ]
+  }
+}

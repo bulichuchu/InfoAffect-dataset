@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disappointing",
+        "confidence": 85
+      },
+      {
+        "word": "triumphant",
+        "confidence": 80
+      },
+      {
+        "word": "elite",
+        "confidence": 75
+      },
+      {
+        "word": "exceptional",
+        "confidence": 70
+      },
+      {
+        "word": "special",
+        "confidence": 65
+      }
+    ]
+  }
+}

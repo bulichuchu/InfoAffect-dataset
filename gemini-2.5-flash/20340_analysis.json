@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "Concern",
+        "confidence": 90
+      },
+      {
+        "word": "Insecurity",
+        "confidence": 88
+      },
+      {
+        "word": "Hopeful",
+        "confidence": 85
+      },
+      {
+        "word": "Reassuring",
+        "confidence": 82
+      },
+      {
+        "word": "Discontent",
+        "confidence": 80
+      },
+      {
+        "word": "Transformative",
+        "confidence": 75
+      },
+      {
+        "word": "Contemplative",
+        "confidence": 70
+      }
+    ]
+  }
+}

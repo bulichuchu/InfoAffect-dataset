@@ -1,0 +1,28 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "capable",
+          "confidence": 90
+        },
+        {
+          "word": "concerning",
+          "confidence": 85
+        },
+        {
+          "word": "disparity",
+          "confidence": 80
+        },
+        {
+          "word": "encouraging",
+          "confidence": 75
+        },
+        {
+          "word": "unfortunate",
+          "confidence": 70
+        }
+      ]
+    }
+  }
+]

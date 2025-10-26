@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "contentious",
+        "confidence": 85
+      },
+      {
+        "word": "stagnant",
+        "confidence": 80
+      },
+      {
+        "word": "strained",
+        "confidence": 78
+      },
+      {
+        "word": "precarious",
+        "confidence": 75
+      },
+      {
+        "word": "ambivalent",
+        "confidence": 72
+      },
+      {
+        "word": "tense",
+        "confidence": 70
+      },
+      {
+        "word": "challenging",
+        "confidence": 68
+      }
+    ]
+  }
+}

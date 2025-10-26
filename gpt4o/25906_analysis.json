@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "controversial",
+        "confidence": 90
+      },
+      {
+        "word": "exposed",
+        "confidence": 85
+      },
+      {
+        "word": "scandal",
+        "confidence": 80
+      },
+      {
+        "word": "secretive",
+        "confidence": 75
+      },
+      {
+        "word": "elite",
+        "confidence": 70
+      },
+      {
+        "word": "unveiled",
+        "confidence": 65
+      }
+    ]
+  }
+}

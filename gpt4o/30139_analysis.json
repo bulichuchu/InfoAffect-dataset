@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "comfortable",
+        "confidence": 85
+      },
+      {
+        "word": "interested",
+        "confidence": 80
+      },
+      {
+        "word": "embraced",
+        "confidence": 75
+      },
+      {
+        "word": "fatigue",
+        "confidence": 70
+      },
+      {
+        "word": "bleisure",
+        "confidence": 78
+      },
+      {
+        "word": "necessity",
+        "confidence": 65
+      }
+    ]
+  }
+}

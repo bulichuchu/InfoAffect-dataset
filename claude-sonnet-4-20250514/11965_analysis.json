@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fresh",
+        "confidence": 85
+      },
+      {
+        "word": "convenient",
+        "confidence": 80
+      },
+      {
+        "word": "appealing",
+        "confidence": 75
+      },
+      {
+        "word": "satisfying",
+        "confidence": 70
+      },
+      {
+        "word": "practical",
+        "confidence": 78
+      },
+      {
+        "word": "popular",
+        "confidence": 82
+      },
+      {
+        "word": "informative",
+        "confidence": 65
+      }
+    ]
+  }
+}

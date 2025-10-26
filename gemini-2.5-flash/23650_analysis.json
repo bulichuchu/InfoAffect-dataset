@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "engaged",
+        "confidence": 90
+      },
+      {
+        "word": "proactive",
+        "confidence": 88
+      },
+      {
+        "word": "hopeful",
+        "confidence": 85
+      },
+      {
+        "word": "responsible",
+        "confidence": 82
+      },
+      {
+        "word": "aware",
+        "confidence": 80
+      },
+      {
+        "word": "positive",
+        "confidence": 78
+      },
+      {
+        "word": "motivated",
+        "confidence": 75
+      }
+    ]
+  }
+}

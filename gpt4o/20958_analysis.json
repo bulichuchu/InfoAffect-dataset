@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "avoidance",
+        "confidence": 85
+      },
+      {
+        "word": "preference",
+        "confidence": 80
+      },
+      {
+        "word": "unfavorable",
+        "confidence": 78
+      },
+      {
+        "word": "reluctance",
+        "confidence": 75
+      },
+      {
+        "word": "consensus",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "congested",
+        "confidence": 90
+      },
+      {
+        "word": "frustrating",
+        "confidence": 85
+      },
+      {
+        "word": "overwhelmed",
+        "confidence": 78
+      },
+      {
+        "word": "challenging",
+        "confidence": 75
+      },
+      {
+        "word": "pressured",
+        "confidence": 72
+      },
+      {
+        "word": "resilient",
+        "confidence": 65
+      },
+      {
+        "word": "progressive",
+        "confidence": 60
+      },
+      {
+        "word": "concerned",
+        "confidence": 68
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "impact",
+        "confidence": 90
+      },
+      {
+        "word": "shock",
+        "confidence": 85
+      },
+      {
+        "word": "suffering",
+        "confidence": 80
+      },
+      {
+        "word": "deteriorate",
+        "confidence": 78
+      },
+      {
+        "word": "negative",
+        "confidence": 75
+      },
+      {
+        "word": "balloon",
+        "confidence": 70
+      }
+    ]
+  }
+}

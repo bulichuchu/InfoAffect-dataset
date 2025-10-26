@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "milestone",
+        "confidence": 90
+      },
+      {
+        "word": "achievement",
+        "confidence": 85
+      },
+      {
+        "word": "success",
+        "confidence": 82
+      },
+      {
+        "word": "growth",
+        "confidence": 78
+      },
+      {
+        "word": "progress",
+        "confidence": 75
+      }
+    ]
+  }
+}

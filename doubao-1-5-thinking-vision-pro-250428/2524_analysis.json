@@ -1,0 +1,32 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "strong",
+          "confidence": 90
+        },
+        {
+          "word": "growth",
+          "confidence": 85
+        },
+        {
+          "word": "consistent",
+          "confidence": 80
+        },
+        {
+          "word": "impressive",
+          "confidence": 75
+        },
+        {
+          "word": "robust",
+          "confidence": 70
+        },
+        {
+          "word": "successful",
+          "confidence": 65
+        }
+      ]
+    }
+  }
+]

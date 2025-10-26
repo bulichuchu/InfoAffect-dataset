@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disappointing",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 80
+      },
+      {
+        "word": "shifting",
+        "confidence": 75
+      },
+      {
+        "word": "declining",
+        "confidence": 78
+      },
+      {
+        "word": "contrasting",
+        "confidence": 72
+      },
+      {
+        "word": "unsettling",
+        "confidence": 68
+      },
+      {
+        "word": "competitive",
+        "confidence": 65
+      },
+      {
+        "word": "polarized",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "invasive",
+        "confidence": 85
+      },
+      {
+        "word": "unsettling",
+        "confidence": 80
+      },
+      {
+        "word": "surveilled",
+        "confidence": 75
+      },
+      {
+        "word": "manipulative",
+        "confidence": 70
+      },
+      {
+        "word": "alarming",
+        "confidence": 78
+      },
+      {
+        "word": "intrusive",
+        "confidence": 82
+      },
+      {
+        "word": "helpless",
+        "confidence": 65
+      },
+      {
+        "word": "aware",
+        "confidence": 60
+      }
+    ]
+  }
+}

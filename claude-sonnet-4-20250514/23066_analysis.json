@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "chaotic",
+        "confidence": 95
+      },
+      {
+        "word": "bitter",
+        "confidence": 90
+      },
+      {
+        "word": "annoyed",
+        "confidence": 88
+      },
+      {
+        "word": "negative",
+        "confidence": 85
+      },
+      {
+        "word": "awful",
+        "confidence": 82
+      },
+      {
+        "word": "messy",
+        "confidence": 80
+      },
+      {
+        "word": "frustrated",
+        "confidence": 78
+      },
+      {
+        "word": "disappointed",
+        "confidence": 75
+      }
+    ]
+  }
+}

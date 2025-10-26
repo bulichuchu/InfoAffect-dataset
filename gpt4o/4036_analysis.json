@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "taboo",
+        "confidence": 85
+      },
+      {
+        "word": "vulnerable",
+        "confidence": 90
+      },
+      {
+        "word": "severe",
+        "confidence": 87
+      },
+      {
+        "word": "improved",
+        "confidence": 75
+      },
+      {
+        "word": "lacking",
+        "confidence": 80
+      },
+      {
+        "word": "progress",
+        "confidence": 70
+      },
+      {
+        "word": "efforts",
+        "confidence": 78
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "relief",
+        "confidence": 90
+      },
+      {
+        "word": "improvement",
+        "confidence": 85
+      },
+      {
+        "word": "notorious",
+        "confidence": 75
+      },
+      {
+        "word": "welcome",
+        "confidence": 80
+      },
+      {
+        "word": "decrease",
+        "confidence": 78
+      },
+      {
+        "word": "concern",
+        "confidence": 65
+      },
+      {
+        "word": "progress",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surprise",
+        "confidence": 85
+      },
+      {
+        "word": "powerful",
+        "confidence": 80
+      },
+      {
+        "word": "unprecedented",
+        "confidence": 78
+      },
+      {
+        "word": "popular",
+        "confidence": 75
+      },
+      {
+        "word": "iconic",
+        "confidence": 72
+      },
+      {
+        "word": "visibility",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "responsible",
+        "confidence": 90
+      },
+      {
+        "word": "conscious",
+        "confidence": 85
+      },
+      {
+        "word": "positive",
+        "confidence": 80
+      },
+      {
+        "word": "hopeful",
+        "confidence": 75
+      },
+      {
+        "word": "motivated",
+        "confidence": 78
+      },
+      {
+        "word": "intentional",
+        "confidence": 70
+      }
+    ]
+  }
+}

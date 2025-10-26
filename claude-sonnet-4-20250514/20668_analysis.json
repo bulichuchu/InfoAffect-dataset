@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frustrating",
+        "confidence": 90
+      },
+      {
+        "word": "exasperating",
+        "confidence": 85
+      },
+      {
+        "word": "burdensome",
+        "confidence": 82
+      },
+      {
+        "word": "stressful",
+        "confidence": 80
+      },
+      {
+        "word": "tedious",
+        "confidence": 78
+      },
+      {
+        "word": "exhausting",
+        "confidence": 75
+      },
+      {
+        "word": "concerning",
+        "confidence": 70
+      }
+    ]
+  }
+}

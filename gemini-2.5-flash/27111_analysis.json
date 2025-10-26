@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "condemnatory",
+        "confidence": 95
+      },
+      {
+        "word": "skeptical",
+        "confidence": 90
+      },
+      {
+        "word": "somber",
+        "confidence": 88
+      },
+      {
+        "word": "grave",
+        "confidence": 85
+      },
+      {
+        "word": "futility",
+        "confidence": 80
+      },
+      {
+        "word": "troubling",
+        "confidence": 75
+      },
+      {
+        "word": "pessimistic",
+        "confidence": 70
+      }
+    ]
+  }
+}

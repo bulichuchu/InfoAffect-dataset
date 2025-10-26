@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "suppressed",
+        "confidence": 90
+      },
+      {
+        "word": "crackdowns",
+        "confidence": 88
+      },
+      {
+        "word": "xenophobia",
+        "confidence": 85
+      },
+      {
+        "word": "decline",
+        "confidence": 82
+      },
+      {
+        "word": "pressure",
+        "confidence": 80
+      },
+      {
+        "word": "concern",
+        "confidence": 78
+      },
+      {
+        "word": "authoritarian",
+        "confidence": 75
+      }
+    ]
+  }
+}

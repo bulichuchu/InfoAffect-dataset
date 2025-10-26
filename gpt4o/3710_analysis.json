@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "skepticism",
+        "confidence": 90
+      },
+      {
+        "word": "disapproval",
+        "confidence": 88
+      },
+      {
+        "word": "support",
+        "confidence": 80
+      },
+      {
+        "word": "confidence",
+        "confidence": 75
+      },
+      {
+        "word": "regional",
+        "confidence": 70
+      }
+    ]
+  }
+}

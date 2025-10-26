@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "polarized",
+        "confidence": 90
+      },
+      {
+        "word": "support",
+        "confidence": 85
+      },
+      {
+        "word": "criticism",
+        "confidence": 88
+      },
+      {
+        "word": "tight",
+        "confidence": 80
+      },
+      {
+        "word": "unjustified",
+        "confidence": 75
+      },
+      {
+        "word": "loss",
+        "confidence": 70
+      },
+      {
+        "word": "advantage",
+        "confidence": 68
+      }
+    ]
+  }
+}

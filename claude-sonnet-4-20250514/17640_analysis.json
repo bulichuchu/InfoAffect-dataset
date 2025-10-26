@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "supportive",
+        "confidence": 88
+      },
+      {
+        "word": "significant",
+        "confidence": 85
+      },
+      {
+        "word": "impressive",
+        "confidence": 82
+      },
+      {
+        "word": "caring",
+        "confidence": 80
+      },
+      {
+        "word": "dedicated",
+        "confidence": 78
+      },
+      {
+        "word": "substantial",
+        "confidence": 75
+      },
+      {
+        "word": "impactful",
+        "confidence": 73
+      },
+      {
+        "word": "hopeful",
+        "confidence": 68
+      }
+    ]
+  }
+}

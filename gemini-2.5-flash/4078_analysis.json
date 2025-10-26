@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "informative",
+        "confidence": 90
+      },
+      {
+        "word": "practical",
+        "confidence": 85
+      },
+      {
+        "word": "modern",
+        "confidence": 80
+      },
+      {
+        "word": "relevant",
+        "confidence": 80
+      },
+      {
+        "word": "sober",
+        "confidence": 75
+      },
+      {
+        "word": "evolving",
+        "confidence": 70
+      }
+    ]
+  }
+}

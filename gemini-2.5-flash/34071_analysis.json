@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "intense",
+        "confidence": 90
+      },
+      {
+        "word": "heightened",
+        "confidence": 85
+      },
+      {
+        "word": "significant",
+        "confidence": 80
+      },
+      {
+        "word": "consequential",
+        "confidence": 75
+      },
+      {
+        "word": "vigilant",
+        "confidence": 70
+      },
+      {
+        "word": "scrutinizing",
+        "confidence": 65
+      }
+    ]
+  }
+}

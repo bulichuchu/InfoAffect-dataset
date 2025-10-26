@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "challenge",
+        "confidence": 85
+      },
+      {
+        "word": "unlikely",
+        "confidence": 75
+      },
+      {
+        "word": "common",
+        "confidence": 70
+      },
+      {
+        "word": "habitual",
+        "confidence": 65
+      },
+      {
+        "word": "barrier",
+        "confidence": 60
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "thought-provoking",
+        "confidence": 85
+      },
+      {
+        "word": "principled",
+        "confidence": 80
+      },
+      {
+        "word": "objective",
+        "confidence": 75
+      },
+      {
+        "word": "contemplative",
+        "confidence": 70
+      },
+      {
+        "word": "deliberative",
+        "confidence": 65
+      },
+      {
+        "word": "serious",
+        "confidence": 60
+      }
+    ]
+  }
+}

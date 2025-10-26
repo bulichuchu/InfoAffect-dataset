@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "record-breaking",
+        "confidence": 90
+      },
+      {
+        "word": "significant",
+        "confidence": 85
+      },
+      {
+        "word": "historical",
+        "confidence": 80
+      },
+      {
+        "word": "projected",
+        "confidence": 75
+      },
+      {
+        "word": "growing",
+        "confidence": 78
+      },
+      {
+        "word": "notable",
+        "confidence": 72
+      },
+      {
+        "word": "trend-setting",
+        "confidence": 68
+      },
+      {
+        "word": "transformative",
+        "confidence": 65
+      }
+    ]
+  }
+}

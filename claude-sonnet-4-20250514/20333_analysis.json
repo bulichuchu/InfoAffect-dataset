@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "startled",
+        "confidence": 90
+      },
+      {
+        "word": "tense",
+        "confidence": 85
+      },
+      {
+        "word": "resistant",
+        "confidence": 88
+      },
+      {
+        "word": "pressured",
+        "confidence": 82
+      },
+      {
+        "word": "concerned",
+        "confidence": 80
+      },
+      {
+        "word": "defiant",
+        "confidence": 75
+      },
+      {
+        "word": "strained",
+        "confidence": 78
+      },
+      {
+        "word": "conflicted",
+        "confidence": 70
+      }
+    ]
+  }
+}

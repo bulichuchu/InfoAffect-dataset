@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "progressing",
+        "confidence": 85
+      },
+      {
+        "word": "practical",
+        "confidence": 80
+      },
+      {
+        "word": "informative",
+        "confidence": 78
+      },
+      {
+        "word": "growth - oriented",
+        "confidence": 75
+      },
+      {
+        "word": "efficient",
+        "confidence": 72
+      },
+      {
+        "word": "convenient",
+        "confidence": 70
+      }
+    ]
+  }
+}

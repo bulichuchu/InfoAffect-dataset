@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "cautious",
+        "confidence": 88
+      },
+      {
+        "word": "strategic",
+        "confidence": 82
+      },
+      {
+        "word": "resigned",
+        "confidence": 76
+      },
+      {
+        "word": "disappointed",
+        "confidence": 70
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 78
+      },
+      {
+        "word": "stable",
+        "confidence": 65
+      },
+      {
+        "word": "frustrated",
+        "confidence": 60
+      },
+      {
+        "word": "calculated",
+        "confidence": 74
+      }
+    ]
+  }
+}

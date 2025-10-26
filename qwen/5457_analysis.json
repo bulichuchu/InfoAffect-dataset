@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "disillusioned",
+        "confidence": 80
+      },
+      {
+        "word": "shifting",
+        "confidence": 78
+      },
+      {
+        "word": "critical",
+        "confidence": 75
+      },
+      {
+        "word": "progressive",
+        "confidence": 72
+      },
+      {
+        "word": "resistant",
+        "confidence": 68
+      },
+      {
+        "word": "transformative",
+        "confidence": 65
+      },
+      {
+        "word": "polarized",
+        "confidence": 60
+      }
+    ]
+  }
+}

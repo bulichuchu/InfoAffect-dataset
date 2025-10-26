@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "inspiring",
+        "confidence": 90
+      },
+      {
+        "word": "exciting",
+        "confidence": 85
+      },
+      {
+        "word": "trustworthy",
+        "confidence": 80
+      },
+      {
+        "word": "social",
+        "confidence": 75
+      },
+      {
+        "word": "connected",
+        "confidence": 70
+      },
+      {
+        "word": "modern",
+        "confidence": 65
+      },
+      {
+        "word": "reliable",
+        "confidence": 60
+      },
+      {
+        "word": "hopeful",
+        "confidence": 55
+      }
+    ]
+  }
+}

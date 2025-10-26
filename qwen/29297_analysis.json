@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "restrictive",
+        "confidence": 90
+      },
+      {
+        "word": "concerning",
+        "confidence": 85
+      },
+      {
+        "word": "divisive",
+        "confidence": 80
+      },
+      {
+        "word": "urgent",
+        "confidence": 78
+      },
+      {
+        "word": "alarming",
+        "confidence": 75
+      },
+      {
+        "word": "oppressive",
+        "confidence": 72
+      },
+      {
+        "word": "contentious",
+        "confidence": 70
+      },
+      {
+        "word": "discriminatory",
+        "confidence": 68
+      }
+    ]
+  }
+}

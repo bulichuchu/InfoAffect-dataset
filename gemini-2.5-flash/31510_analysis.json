@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "informative",
+        "confidence": 90
+      },
+      {
+        "word": "practical",
+        "confidence": 85
+      },
+      {
+        "word": "supportive",
+        "confidence": 80
+      },
+      {
+        "word": "solution-oriented",
+        "confidence": 80
+      },
+      {
+        "word": "forward-looking",
+        "confidence": 75
+      },
+      {
+        "word": "constructive",
+        "confidence": 70
+      },
+      {
+        "word": "exploratory",
+        "confidence": 65
+      }
+    ]
+  }
+}

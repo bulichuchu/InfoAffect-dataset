@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "teasing",
+        "confidence": 92
+      },
+      {
+        "word": "amused",
+        "confidence": 90
+      },
+      {
+        "word": "playful",
+        "confidence": 88
+      },
+      {
+        "word": "humorous",
+        "confidence": 85
+      },
+      {
+        "word": "lighthearted",
+        "confidence": 80
+      },
+      {
+        "word": "curious",
+        "confidence": 75
+      },
+      {
+        "word": "embarrassed",
+        "confidence": 65
+      }
+    ]
+  }
+}

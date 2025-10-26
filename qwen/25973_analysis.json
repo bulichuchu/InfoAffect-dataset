@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dynamic",
+        "confidence": 85
+      },
+      {
+        "word": "vibrant",
+        "confidence": 80
+      },
+      {
+        "word": "welcoming",
+        "confidence": 75
+      },
+      {
+        "word": "opportunistic",
+        "confidence": 78
+      },
+      {
+        "word": "energetic",
+        "confidence": 82
+      },
+      {
+        "word": "inclusive",
+        "confidence": 70
+      },
+      {
+        "word": "promising",
+        "confidence": 73
+      },
+      {
+        "word": "ambitious",
+        "confidence": 68
+      }
+    ]
+  }
+}

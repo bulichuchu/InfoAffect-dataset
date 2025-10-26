@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "crisis",
+        "confidence": 90
+      },
+      {
+        "word": "epidemic",
+        "confidence": 88
+      },
+      {
+        "word": "warning",
+        "confidence": 85
+      },
+      {
+        "word": "scourge",
+        "confidence": 82
+      },
+      {
+        "word": "prominent",
+        "confidence": 78
+      },
+      {
+        "word": "provoking",
+        "confidence": 76
+      },
+      {
+        "word": "sustained",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frustration",
+        "confidence": 95
+      },
+      {
+        "word": "burdensome",
+        "confidence": 90
+      },
+      {
+        "word": "dissatisfaction",
+        "confidence": 88
+      },
+      {
+        "word": "challenging",
+        "confidence": 80
+      },
+      {
+        "word": "tedious",
+        "confidence": 75
+      },
+      {
+        "word": "overwhelmed",
+        "confidence": 70
+      }
+    ]
+  }
+}

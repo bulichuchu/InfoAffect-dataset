@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "habitual",
+        "confidence": 85
+      },
+      {
+        "word": "convenient",
+        "confidence": 80
+      },
+      {
+        "word": "reluctant",
+        "confidence": 75
+      },
+      {
+        "word": "comfortable",
+        "confidence": 70
+      },
+      {
+        "word": "resistant",
+        "confidence": 65
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 60
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 72
+      },
+      {
+        "word": "unwilling",
+        "confidence": 68
+      }
+    ]
+  }
+}

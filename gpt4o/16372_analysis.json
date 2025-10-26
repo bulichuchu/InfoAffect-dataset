@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "inspiring",
+        "confidence": 90
+      },
+      {
+        "word": "celebratory",
+        "confidence": 85
+      },
+      {
+        "word": "accomplishment",
+        "confidence": 80
+      },
+      {
+        "word": "recognition",
+        "confidence": 75
+      },
+      {
+        "word": "historical",
+        "confidence": 70
+      },
+      {
+        "word": "prestigious",
+        "confidence": 75
+      },
+      {
+        "word": "remarkable",
+        "confidence": 78
+      }
+    ]
+  }
+}

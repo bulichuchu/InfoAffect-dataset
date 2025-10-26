@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "nostalgic",
+        "confidence": 85
+      },
+      {
+        "word": "introspective",
+        "confidence": 82
+      },
+      {
+        "word": "imaginative",
+        "confidence": 80
+      },
+      {
+        "word": "softer",
+        "confidence": 76
+      },
+      {
+        "word": "continuation",
+        "confidence": 74
+      },
+      {
+        "word": "torn",
+        "confidence": 70
+      }
+    ]
+  }
+}

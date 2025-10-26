@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "significant",
+        "confidence": 95
+      },
+      {
+        "word": "strained",
+        "confidence": 90
+      },
+      {
+        "word": "ambitious",
+        "confidence": 88
+      },
+      {
+        "word": "momentous",
+        "confidence": 85
+      },
+      {
+        "word": "shifting",
+        "confidence": 82
+      },
+      {
+        "word": "consequential",
+        "confidence": 78
+      }
+    ]
+  }
+}

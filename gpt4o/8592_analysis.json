@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "influential",
+        "confidence": 90
+      },
+      {
+        "word": "surprising",
+        "confidence": 70
+      },
+      {
+        "word": "powerful",
+        "confidence": 85
+      },
+      {
+        "word": "dominant",
+        "confidence": 80
+      },
+      {
+        "word": "strong",
+        "confidence": 88
+      },
+      {
+        "word": "significant",
+        "confidence": 82
+      }
+    ]
+  }
+}

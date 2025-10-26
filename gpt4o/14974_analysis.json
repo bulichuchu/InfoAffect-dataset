@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "extravagant",
+        "confidence": 90
+      },
+      {
+        "word": "luxurious",
+        "confidence": 88
+      },
+      {
+        "word": "opulent",
+        "confidence": 85
+      },
+      {
+        "word": "exclusive",
+        "confidence": 80
+      },
+      {
+        "word": "prestigious",
+        "confidence": 78
+      },
+      {
+        "word": "elite",
+        "confidence": 75
+      },
+      {
+        "word": "lavish",
+        "confidence": 72
+      }
+    ]
+  }
+}

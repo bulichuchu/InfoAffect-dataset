@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anticipation",
+        "confidence": 85
+      },
+      {
+        "word": "excitement",
+        "confidence": 80
+      },
+      {
+        "word": "hope",
+        "confidence": 78
+      },
+      {
+        "word": "pride",
+        "confidence": 76
+      },
+      {
+        "word": "competitive",
+        "confidence": 82
+      },
+      {
+        "word": "celebration",
+        "confidence": 74
+      }
+    ]
+  }
+}

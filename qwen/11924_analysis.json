@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frustrating",
+        "confidence": 85
+      },
+      {
+        "word": "restrictive",
+        "confidence": 82
+      },
+      {
+        "word": "unfair",
+        "confidence": 78
+      },
+      {
+        "word": "relieving",
+        "confidence": 75
+      },
+      {
+        "word": "progressive",
+        "confidence": 70
+      },
+      {
+        "word": "disappointing",
+        "confidence": 68
+      },
+      {
+        "word": "hopeful",
+        "confidence": 65
+      },
+      {
+        "word": "empowering",
+        "confidence": 60
+      }
+    ]
+  }
+}

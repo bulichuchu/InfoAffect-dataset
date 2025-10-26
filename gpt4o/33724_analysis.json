@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "record",
+        "confidence": 90
+      },
+      {
+        "word": "threaten",
+        "confidence": 85
+      },
+      {
+        "word": "detrimental",
+        "confidence": 82
+      },
+      {
+        "word": "deflationary",
+        "confidence": 78
+      },
+      {
+        "word": "innovation",
+        "confidence": 75
+      },
+      {
+        "word": "growth",
+        "confidence": 70
+      }
+    ]
+  }
+}

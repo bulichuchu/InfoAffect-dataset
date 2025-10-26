@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "relieved",
+        "confidence": 85
+      },
+      {
+        "word": "surprised",
+        "confidence": 80
+      },
+      {
+        "word": "positive",
+        "confidence": 75
+      },
+      {
+        "word": "optimistic",
+        "confidence": 70
+      },
+      {
+        "word": "calm",
+        "confidence": 65
+      },
+      {
+        "word": "grateful",
+        "confidence": 60
+      },
+      {
+        "word": "polite",
+        "confidence": 55
+      },
+      {
+        "word": "reassuring",
+        "confidence": 72
+      }
+    ]
+  }
+}

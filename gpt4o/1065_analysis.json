@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "pride",
+        "confidence": 90
+      },
+      {
+        "word": "competitive",
+        "confidence": 85
+      },
+      {
+        "word": "contrast",
+        "confidence": 80
+      },
+      {
+        "word": "superiority",
+        "confidence": 75
+      },
+      {
+        "word": "impressive",
+        "confidence": 70
+      },
+      {
+        "word": "envious",
+        "confidence": 65
+      }
+    ]
+  }
+}

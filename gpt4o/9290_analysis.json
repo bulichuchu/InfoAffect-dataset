@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "celebrating",
+        "confidence": 85
+      },
+      {
+        "word": "confident",
+        "confidence": 80
+      },
+      {
+        "word": "concerning",
+        "confidence": 75
+      },
+      {
+        "word": "impressive",
+        "confidence": 78
+      },
+      {
+        "word": "polarising",
+        "confidence": 72
+      },
+      {
+        "word": "unconvinced",
+        "confidence": 70
+      }
+    ]
+  }
+}

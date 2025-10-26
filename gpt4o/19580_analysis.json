@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fragmented",
+        "confidence": 90
+      },
+      {
+        "word": "control",
+        "confidence": 85
+      },
+      {
+        "word": "influence",
+        "confidence": 80
+      },
+      {
+        "word": "threat",
+        "confidence": 85
+      },
+      {
+        "word": "conflict",
+        "confidence": 80
+      },
+      {
+        "word": "occupation",
+        "confidence": 75
+      },
+      {
+        "word": "autonomy",
+        "confidence": 70
+      }
+    ]
+  }
+}

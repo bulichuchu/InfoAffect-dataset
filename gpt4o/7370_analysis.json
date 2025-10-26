@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "somber",
+        "confidence": 90
+      },
+      {
+        "word": "reflective",
+        "confidence": 85
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 80
+      },
+      {
+        "word": "loss",
+        "confidence": 88
+      },
+      {
+        "word": "impactful",
+        "confidence": 78
+      },
+      {
+        "word": "unexpected",
+        "confidence": 75
+      }
+    ]
+  }
+}

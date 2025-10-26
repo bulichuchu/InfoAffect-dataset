@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "ambitious",
+        "confidence": 90
+      },
+      {
+        "word": "monumental",
+        "confidence": 88
+      },
+      {
+        "word": "visionary",
+        "confidence": 85
+      },
+      {
+        "word": "challenging",
+        "confidence": 80
+      },
+      {
+        "word": "setback",
+        "confidence": 78
+      },
+      {
+        "word": "persistent",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "gruesome",
+        "confidence": 90
+      },
+      {
+        "word": "alarming",
+        "confidence": 88
+      },
+      {
+        "word": "disadvantaged",
+        "confidence": 85
+      },
+      {
+        "word": "severe",
+        "confidence": 82
+      },
+      {
+        "word": "somber",
+        "confidence": 80
+      },
+      {
+        "word": "urgent",
+        "confidence": 75
+      },
+      {
+        "word": "confusion",
+        "confidence": 70
+      }
+    ]
+  }
+}

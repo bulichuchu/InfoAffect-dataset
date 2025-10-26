@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dispute",
+        "confidence": 90
+      },
+      {
+        "word": "fear",
+        "confidence": 85
+      },
+      {
+        "word": "crisis",
+        "confidence": 82
+      },
+      {
+        "word": "tension",
+        "confidence": 80
+      },
+      {
+        "word": "claim",
+        "confidence": 78
+      },
+      {
+        "word": "annexation",
+        "confidence": 75
+      },
+      {
+        "word": "control",
+        "confidence": 73
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "challenging",
+        "confidence": 90
+      },
+      {
+        "word": "enormous",
+        "confidence": 85
+      },
+      {
+        "word": "logistical",
+        "confidence": 80
+      },
+      {
+        "word": "burdensome",
+        "confidence": 75
+      },
+      {
+        "word": "growing",
+        "confidence": 70
+      },
+      {
+        "word": "daunting",
+        "confidence": 65
+      },
+      {
+        "word": "increasing",
+        "confidence": 68
+      }
+    ]
+  }
+}

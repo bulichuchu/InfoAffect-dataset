@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "tragic",
+        "confidence": 90
+      },
+      {
+        "word": "dangerous",
+        "confidence": 85
+      },
+      {
+        "word": "reckless",
+        "confidence": 82
+      },
+      {
+        "word": "awareness",
+        "confidence": 78
+      },
+      {
+        "word": "careless",
+        "confidence": 75
+      },
+      {
+        "word": "harmful",
+        "confidence": 80
+      }
+    ]
+  }
+}

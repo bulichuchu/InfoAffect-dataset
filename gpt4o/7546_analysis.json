@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "struggle",
+        "confidence": 85
+      },
+      {
+        "word": "challenge",
+        "confidence": 80
+      },
+      {
+        "word": "concern",
+        "confidence": 78
+      },
+      {
+        "word": "frustration",
+        "confidence": 75
+      },
+      {
+        "word": "contrast",
+        "confidence": 70
+      },
+      {
+        "word": "stagnation",
+        "confidence": 72
+      },
+      {
+        "word": "gap",
+        "confidence": 68
+      }
+    ]
+  }
+}

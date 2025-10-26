@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "excited",
+        "confidence": 85
+      },
+      {
+        "word": "enthusiastic",
+        "confidence": 80
+      },
+      {
+        "word": "divided",
+        "confidence": 75
+      },
+      {
+        "word": "anticipatory",
+        "confidence": 70
+      },
+      {
+        "word": "competitive",
+        "confidence": 65
+      },
+      {
+        "word": "generational",
+        "confidence": 72
+      },
+      {
+        "word": "consumer-driven",
+        "confidence": 68
+      },
+      {
+        "word": "trendy",
+        "confidence": 60
+      }
+    ]
+  }
+}

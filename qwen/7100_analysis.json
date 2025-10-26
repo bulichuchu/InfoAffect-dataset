@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "inspiring",
+        "confidence": 95
+      },
+      {
+        "word": "admiring",
+        "confidence": 90
+      },
+      {
+        "word": "visionary",
+        "confidence": 85
+      },
+      {
+        "word": "determined",
+        "confidence": 80
+      },
+      {
+        "word": "creative",
+        "confidence": 78
+      },
+      {
+        "word": "reverent",
+        "confidence": 75
+      },
+      {
+        "word": "aspirational",
+        "confidence": 72
+      },
+      {
+        "word": "innovative",
+        "confidence": 70
+      }
+    ]
+  }
+}

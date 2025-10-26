@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dislike",
+        "confidence": 95
+      },
+      {
+        "word": "fear",
+        "confidence": 88
+      },
+      {
+        "word": "aversion",
+        "confidence": 82
+      },
+      {
+        "word": "distaste",
+        "confidence": 78
+      },
+      {
+        "word": "unease",
+        "confidence": 75
+      },
+      {
+        "word": "revulsion",
+        "confidence": 70
+      },
+      {
+        "word": "anxiety",
+        "confidence": 65
+      },
+      {
+        "word": "irritation",
+        "confidence": 60
+      }
+    ]
+  }
+}

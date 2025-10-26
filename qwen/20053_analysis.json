@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "controversial",
+        "confidence": 88
+      },
+      {
+        "word": "uncertain",
+        "confidence": 85
+      },
+      {
+        "word": "restricted",
+        "confidence": 80
+      },
+      {
+        "word": "challenged",
+        "confidence": 78
+      },
+      {
+        "word": "declining",
+        "confidence": 75
+      },
+      {
+        "word": "tense",
+        "confidence": 72
+      },
+      {
+        "word": "problematic",
+        "confidence": 70
+      },
+      {
+        "word": "morbid",
+        "confidence": 65
+      }
+    ]
+  }
+}

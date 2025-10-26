@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "trustworthy",
+        "confidence": 85
+      },
+      {
+        "word": "untrustworthy",
+        "confidence": 85
+      },
+      {
+        "word": "contrasting",
+        "confidence": 80
+      },
+      {
+        "word": "evaluative",
+        "confidence": 75
+      },
+      {
+        "word": "analytical",
+        "confidence": 70
+      },
+      {
+        "word": "comparative",
+        "confidence": 75
+      },
+      {
+        "word": "differentiating",
+        "confidence": 70
+      }
+    ]
+  }
+}

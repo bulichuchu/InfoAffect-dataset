@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "altruistic",
+        "confidence": 88
+      },
+      {
+        "word": "compassionate",
+        "confidence": 85
+      },
+      {
+        "word": "disparate",
+        "confidence": 82
+      },
+      {
+        "word": "contrasting",
+        "confidence": 78
+      },
+      {
+        "word": "generous",
+        "confidence": 75
+      },
+      {
+        "word": "revealing",
+        "confidence": 70
+      },
+      {
+        "word": "thoughtful",
+        "confidence": 68
+      }
+    ]
+  }
+}

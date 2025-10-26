@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "ironic",
+        "confidence": 95
+      },
+      {
+        "word": "unsuccessful",
+        "confidence": 92
+      },
+      {
+        "word": "critical",
+        "confidence": 90
+      },
+      {
+        "word": "embarrassing",
+        "confidence": 88
+      },
+      {
+        "word": "disappointing",
+        "confidence": 85
+      },
+      {
+        "word": "derisive",
+        "confidence": 80
+      }
+    ]
+  }
+}

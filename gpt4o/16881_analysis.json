@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dominate",
+        "confidence": 90
+      },
+      {
+        "word": "imbalanced",
+        "confidence": 85
+      },
+      {
+        "word": "disparity",
+        "confidence": 80
+      },
+      {
+        "word": "underrepresented",
+        "confidence": 75
+      },
+      {
+        "word": "concerning",
+        "confidence": 70
+      }
+    ]
+  }
+}

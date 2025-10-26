@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "steady",
+        "confidence": 90
+      },
+      {
+        "word": "reassuring",
+        "confidence": 85
+      },
+      {
+        "word": "consistent",
+        "confidence": 88
+      },
+      {
+        "word": "perception",
+        "confidence": 75
+      },
+      {
+        "word": "misunderstood",
+        "confidence": 70
+      },
+      {
+        "word": "surprising",
+        "confidence": 68
+      }
+    ]
+  }
+}

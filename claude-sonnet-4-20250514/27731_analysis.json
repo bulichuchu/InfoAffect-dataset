@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "ironic",
+        "confidence": 95
+      },
+      {
+        "word": "critical",
+        "confidence": 88
+      },
+      {
+        "word": "dismissive",
+        "confidence": 85
+      },
+      {
+        "word": "mocking",
+        "confidence": 82
+      },
+      {
+        "word": "unsuccessful",
+        "confidence": 90
+      },
+      {
+        "word": "embattled",
+        "confidence": 78
+      },
+      {
+        "word": "forced",
+        "confidence": 75
+      },
+      {
+        "word": "unwanted",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "enthusiastic",
+        "confidence": 87
+      },
+      {
+        "word": "popular",
+        "confidence": 82
+      },
+      {
+        "word": "encouraging",
+        "confidence": 78
+      },
+      {
+        "word": "exciting",
+        "confidence": 76
+      },
+      {
+        "word": "impressive",
+        "confidence": 74
+      },
+      {
+        "word": "triumphant",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "pragmatic",
+        "confidence": 90
+      },
+      {
+        "word": "analytical",
+        "confidence": 85
+      },
+      {
+        "word": "informative",
+        "confidence": 82
+      },
+      {
+        "word": "neutral",
+        "confidence": 78
+      },
+      {
+        "word": "logical",
+        "confidence": 75
+      },
+      {
+        "word": "objective",
+        "confidence": 73
+      },
+      {
+        "word": "unbiased",
+        "confidence": 70
+      },
+      {
+        "word": "data-driven",
+        "confidence": 80
+      }
+    ]
+  }
+}

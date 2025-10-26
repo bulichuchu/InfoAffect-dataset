@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rising",
+        "confidence": 85
+      },
+      {
+        "word": "steady",
+        "confidence": 75
+      },
+      {
+        "word": "prefer",
+        "confidence": 80
+      },
+      {
+        "word": "taboo",
+        "confidence": 70
+      },
+      {
+        "word": "humane",
+        "confidence": 80
+      },
+      {
+        "word": "secure",
+        "confidence": 78
+      },
+      {
+        "word": "affordable",
+        "confidence": 65
+      }
+    ]
+  }
+}

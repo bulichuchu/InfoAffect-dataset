@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "isolationism",
+        "confidence": 85
+      },
+      {
+        "word": "neglect",
+        "confidence": 80
+      },
+      {
+        "word": "decline",
+        "confidence": 78
+      },
+      {
+        "word": "retreat",
+        "confidence": 75
+      },
+      {
+        "word": "rivalry",
+        "confidence": 72
+      },
+      {
+        "word": "cutback",
+        "confidence": 70
+      },
+      {
+        "word": "engagement",
+        "confidence": 65
+      }
+    ]
+  }
+}

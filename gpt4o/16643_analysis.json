@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "devastating",
+        "confidence": 90
+      },
+      {
+        "word": "brutal",
+        "confidence": 88
+      },
+      {
+        "word": "abuse",
+        "confidence": 85
+      },
+      {
+        "word": "torture",
+        "confidence": 92
+      },
+      {
+        "word": "purge",
+        "confidence": 87
+      },
+      {
+        "word": "denial",
+        "confidence": 80
+      },
+      {
+        "word": "shock",
+        "confidence": 75
+      }
+    ]
+  }
+}

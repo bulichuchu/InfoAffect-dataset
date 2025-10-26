@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "ominous",
+        "confidence": 88
+      },
+      {
+        "word": "fascinating",
+        "confidence": 85
+      },
+      {
+        "word": "sobering",
+        "confidence": 82
+      },
+      {
+        "word": "awe-inspiring",
+        "confidence": 78
+      },
+      {
+        "word": "cautionary",
+        "confidence": 75
+      },
+      {
+        "word": "educational",
+        "confidence": 72
+      },
+      {
+        "word": "dramatic",
+        "confidence": 68
+      }
+    ]
+  }
+}

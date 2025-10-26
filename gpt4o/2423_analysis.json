@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "entertaining",
+        "confidence": 90
+      },
+      {
+        "word": "dull",
+        "confidence": 85
+      },
+      {
+        "word": "surprisingly",
+        "confidence": 80
+      },
+      {
+        "word": "stifled",
+        "confidence": 78
+      },
+      {
+        "word": "hope",
+        "confidence": 73
+      },
+      {
+        "word": "high stakes",
+        "confidence": 70
+      }
+    ]
+  }
+}

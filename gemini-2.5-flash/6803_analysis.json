@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "exorbitant",
+        "confidence": 90
+      },
+      {
+        "word": "prestigious",
+        "confidence": 88
+      },
+      {
+        "word": "exclusive",
+        "confidence": 85
+      },
+      {
+        "word": "awe-inspiring",
+        "confidence": 78
+      },
+      {
+        "word": "opulent",
+        "confidence": 72
+      },
+      {
+        "word": "elite",
+        "confidence": 70
+      }
+    ]
+  }
+}

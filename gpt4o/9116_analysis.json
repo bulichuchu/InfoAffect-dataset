@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "expensive",
+        "confidence": 90
+      },
+      {
+        "word": "rising",
+        "confidence": 85
+      },
+      {
+        "word": "contrast",
+        "confidence": 75
+      },
+      {
+        "word": "withdrawal",
+        "confidence": 70
+      },
+      {
+        "word": "reduction",
+        "confidence": 65
+      },
+      {
+        "word": "funded",
+        "confidence": 60
+      }
+    ]
+  }
+}

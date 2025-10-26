@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "supportive",
+        "confidence": 85
+      },
+      {
+        "word": "strong",
+        "confidence": 80
+      },
+      {
+        "word": "divisive",
+        "confidence": 75
+      },
+      {
+        "word": "controversial",
+        "confidence": 72
+      },
+      {
+        "word": "cultural",
+        "confidence": 68
+      },
+      {
+        "word": "significant",
+        "confidence": 65
+      },
+      {
+        "word": "regional",
+        "confidence": 60
+      },
+      {
+        "word": "authoritative",
+        "confidence": 55
+      }
+    ]
+  }
+}

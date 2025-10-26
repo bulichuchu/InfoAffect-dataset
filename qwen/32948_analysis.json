@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "pressing",
+        "confidence": 88
+      },
+      {
+        "word": "struggling",
+        "confidence": 85
+      },
+      {
+        "word": "controversial",
+        "confidence": 80
+      },
+      {
+        "word": "lagging",
+        "confidence": 75
+      },
+      {
+        "word": "concerned",
+        "confidence": 72
+      },
+      {
+        "word": "determined",
+        "confidence": 68
+      },
+      {
+        "word": "challenged",
+        "confidence": 70
+      },
+      {
+        "word": "urgent",
+        "confidence": 78
+      }
+    ]
+  }
+}

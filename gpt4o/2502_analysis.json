@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "strategic",
+        "confidence": 88
+      },
+      {
+        "word": "ambitious",
+        "confidence": 85
+      },
+      {
+        "word": "groundbreaking",
+        "confidence": 82
+      },
+      {
+        "word": "competitive",
+        "confidence": 80
+      },
+      {
+        "word": "aggressive",
+        "confidence": 78
+      },
+      {
+        "word": "innovative",
+        "confidence": 76
+      }
+    ]
+  }
+}

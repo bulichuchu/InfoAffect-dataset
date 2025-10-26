@@ -1,0 +1,32 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "uncomfortable",
+          "confidence": 90
+        },
+        {
+          "word": "beneficial",
+          "confidence": 85
+        },
+        {
+          "word": "concerned",
+          "confidence": 80
+        },
+        {
+          "word": "annoyed",
+          "confidence": 75
+        },
+        {
+          "word": "invasive",
+          "confidence": 70
+        },
+        {
+          "word": "proactive",
+          "confidence": 65
+        }
+      ]
+    }
+  }
+]

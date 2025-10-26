@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "definitive",
+        "confidence": 85
+      },
+      {
+        "word": "inevitable",
+        "confidence": 80
+      },
+      {
+        "word": "resigned",
+        "confidence": 75
+      },
+      {
+        "word": "dominant",
+        "confidence": 82
+      },
+      {
+        "word": "settled",
+        "confidence": 78
+      },
+      {
+        "word": "predictable",
+        "confidence": 70
+      },
+      {
+        "word": "unchanging",
+        "confidence": 65
+      },
+      {
+        "word": "competitive",
+        "confidence": 60
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "irresistible",
+        "confidence": 90
+      },
+      {
+        "word": "alarming",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 80
+      },
+      {
+        "word": "unhealthy",
+        "confidence": 75
+      },
+      {
+        "word": "distracting",
+        "confidence": 70
+      },
+      {
+        "word": "restless",
+        "confidence": 65
+      }
+    ]
+  }
+}

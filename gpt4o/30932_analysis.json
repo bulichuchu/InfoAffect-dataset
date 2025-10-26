@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "pleasure",
+        "confidence": 90
+      },
+      {
+        "word": "guilty",
+        "confidence": 85
+      },
+      {
+        "word": "fond",
+        "confidence": 80
+      },
+      {
+        "word": "constrained",
+        "confidence": 75
+      },
+      {
+        "word": "trash",
+        "confidence": 70
+      },
+      {
+        "word": "appeal",
+        "confidence": 78
+      },
+      {
+        "word": "success",
+        "confidence": 82
+      }
+    ]
+  }
+}

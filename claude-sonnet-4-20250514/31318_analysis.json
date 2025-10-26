@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "skeptical",
+        "confidence": 89
+      },
+      {
+        "word": "cautious",
+        "confidence": 85
+      },
+      {
+        "word": "doubtful",
+        "confidence": 82
+      },
+      {
+        "word": "analytical",
+        "confidence": 78
+      },
+      {
+        "word": "informative",
+        "confidence": 75
+      },
+      {
+        "word": "balanced",
+        "confidence": 72
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 68
+      }
+    ]
+  }
+}

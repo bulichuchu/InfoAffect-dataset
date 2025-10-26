@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "annoyed",
+        "confidence": 95
+      },
+      {
+        "word": "cringed",
+        "confidence": 88
+      },
+      {
+        "word": "frustrated",
+        "confidence": 82
+      },
+      {
+        "word": "irritated",
+        "confidence": 78
+      },
+      {
+        "word": "displeased",
+        "confidence": 75
+      },
+      {
+        "word": "weary",
+        "confidence": 70
+      },
+      {
+        "word": "skeptical",
+        "confidence": 65
+      },
+      {
+        "word": "amused",
+        "confidence": 60
+      }
+    ]
+  }
+}

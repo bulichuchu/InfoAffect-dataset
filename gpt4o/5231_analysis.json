@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "historic",
+        "confidence": 85
+      },
+      {
+        "word": "contrast",
+        "confidence": 80
+      },
+      {
+        "word": "significant",
+        "confidence": 78
+      },
+      {
+        "word": "moderate",
+        "confidence": 75
+      },
+      {
+        "word": "conservative",
+        "confidence": 70
+      },
+      {
+        "word": "change",
+        "confidence": 68
+      }
+    ]
+  }
+}

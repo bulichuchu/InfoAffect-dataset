@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "impactful",
+        "confidence": 85
+      },
+      {
+        "word": "decline",
+        "confidence": 95
+      },
+      {
+        "word": "competition",
+        "confidence": 80
+      },
+      {
+        "word": "transformation",
+        "confidence": 78
+      },
+      {
+        "word": "advantage",
+        "confidence": 82
+      },
+      {
+        "word": "shift",
+        "confidence": 76
+      }
+    ]
+  }
+}

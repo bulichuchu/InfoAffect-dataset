@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "scrutinizing",
+        "confidence": 85
+      },
+      {
+        "word": "tense",
+        "confidence": 80
+      },
+      {
+        "word": "serious",
+        "confidence": 90
+      },
+      {
+        "word": "critical",
+        "confidence": 82
+      },
+      {
+        "word": "consequential",
+        "confidence": 78
+      },
+      {
+        "word": "sobering",
+        "confidence": 75
+      }
+    ]
+  }
+}

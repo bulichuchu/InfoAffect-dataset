@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "risk",
+        "confidence": 90
+      },
+      {
+        "word": "volatile",
+        "confidence": 85
+      },
+      {
+        "word": "competition",
+        "confidence": 80
+      },
+      {
+        "word": "resilience",
+        "confidence": 75
+      },
+      {
+        "word": "disruption",
+        "confidence": 82
+      },
+      {
+        "word": "opportunity",
+        "confidence": 70
+      },
+      {
+        "word": "interconnectedness",
+        "confidence": 65
+      },
+      {
+        "word": "planning",
+        "confidence": 78
+      }
+    ]
+  }
+}

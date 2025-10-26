@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "efficient",
+        "confidence": 85
+      },
+      {
+        "word": "stressful",
+        "confidence": 80
+      },
+      {
+        "word": "familiar",
+        "confidence": 75
+      },
+      {
+        "word": "safe",
+        "confidence": 70
+      },
+      {
+        "word": "cost-effective",
+        "confidence": 78
+      },
+      {
+        "word": "unfamiliar",
+        "confidence": 68
+      }
+    ]
+  }
+}

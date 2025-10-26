@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "competitive",
+        "confidence": 90
+      },
+      {
+        "word": "dominant",
+        "confidence": 85
+      },
+      {
+        "word": "cost-effective",
+        "confidence": 80
+      },
+      {
+        "word": "efficient",
+        "confidence": 78
+      },
+      {
+        "word": "contrast",
+        "confidence": 75
+      },
+      {
+        "word": "challenging",
+        "confidence": 72
+      }
+    ]
+  }
+}

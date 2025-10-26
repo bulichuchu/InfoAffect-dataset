@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disparities",
+        "confidence": 88
+      },
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "resilient",
+        "confidence": 78
+      },
+      {
+        "word": "diverse",
+        "confidence": 82
+      },
+      {
+        "word": "marginalized",
+        "confidence": 80
+      },
+      {
+        "word": "informative",
+        "confidence": 75
+      },
+      {
+        "word": "sobering",
+        "confidence": 77
+      },
+      {
+        "word": "empowering",
+        "confidence": 65
+      }
+    ]
+  }
+}

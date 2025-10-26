@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "social",
+        "confidence": 80
+      },
+      {
+        "word": "festive",
+        "confidence": 75
+      },
+      {
+        "word": "casual",
+        "confidence": 70
+      },
+      {
+        "word": "warm",
+        "confidence": 72
+      },
+      {
+        "word": "communal",
+        "confidence": 78
+      },
+      {
+        "word": "relaxed",
+        "confidence": 65
+      }
+    ]
+  }
+}

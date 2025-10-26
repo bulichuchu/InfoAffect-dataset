@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fortunate",
+        "confidence": 85
+      },
+      {
+        "word": "unlucky",
+        "confidence": 82
+      },
+      {
+        "word": "hopeful",
+        "confidence": 78
+      },
+      {
+        "word": "disappointment",
+        "confidence": 80
+      },
+      {
+        "word": "recognition",
+        "confidence": 75
+      }
+    ]
+  }
+}

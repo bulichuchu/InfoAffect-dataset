@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "competitive",
+        "confidence": 85
+      },
+      {
+        "word": "ambitious",
+        "confidence": 80
+      },
+      {
+        "word": "futuristic",
+        "confidence": 78
+      },
+      {
+        "word": "intimidating",
+        "confidence": 75
+      },
+      {
+        "word": "lucrative",
+        "confidence": 72
+      },
+      {
+        "word": "confident",
+        "confidence": 70
+      },
+      {
+        "word": "gambling",
+        "confidence": 65
+      },
+      {
+        "word": "innovative",
+        "confidence": 68
+      }
+    ]
+  }
+}

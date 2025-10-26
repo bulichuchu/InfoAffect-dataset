@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "pride",
+        "confidence": 90
+      },
+      {
+        "word": "thankful",
+        "confidence": 85
+      },
+      {
+        "word": "welcoming",
+        "confidence": 80
+      },
+      {
+        "word": "inclusive",
+        "confidence": 85
+      },
+      {
+        "word": "distressing",
+        "confidence": 70
+      },
+      {
+        "word": "diverse",
+        "confidence": 78
+      },
+      {
+        "word": "acceptance",
+        "confidence": 75
+      }
+    ]
+  }
+}

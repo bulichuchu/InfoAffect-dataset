@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "exorbitant",
+        "confidence": 90
+      },
+      {
+        "word": "disparity",
+        "confidence": 85
+      },
+      {
+        "word": "astonishment",
+        "confidence": 80
+      },
+      {
+        "word": "envy",
+        "confidence": 75
+      },
+      {
+        "word": "resentment",
+        "confidence": 70
+      },
+      {
+        "word": "opulence",
+        "confidence": 65
+      },
+      {
+        "word": "privilege",
+        "confidence": 60
+      }
+    ]
+  }
+}

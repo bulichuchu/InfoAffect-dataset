@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fascinating",
+        "confidence": 85
+      },
+      {
+        "word": "extreme",
+        "confidence": 92
+      },
+      {
+        "word": "unique",
+        "confidence": 88
+      },
+      {
+        "word": "playful",
+        "confidence": 70
+      },
+      {
+        "word": "intriguing",
+        "confidence": 80
+      },
+      {
+        "word": "shocking",
+        "confidence": 75
+      },
+      {
+        "word": "celebratory",
+        "confidence": 65
+      },
+      {
+        "word": "devotional",
+        "confidence": 78
+      }
+    ]
+  }
+}

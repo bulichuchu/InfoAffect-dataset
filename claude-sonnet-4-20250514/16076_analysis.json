@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "aspirational",
+        "confidence": 90
+      },
+      {
+        "word": "exciting",
+        "confidence": 85
+      },
+      {
+        "word": "optimistic",
+        "confidence": 80
+      },
+      {
+        "word": "adventurous",
+        "confidence": 78
+      },
+      {
+        "word": "appealing",
+        "confidence": 75
+      },
+      {
+        "word": "cosmopolitan",
+        "confidence": 72
+      },
+      {
+        "word": "inspiring",
+        "confidence": 70
+      },
+      {
+        "word": "confident",
+        "confidence": 68
+      }
+    ]
+  }
+}

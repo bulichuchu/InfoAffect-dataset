@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "critical",
+        "confidence": 90
+      },
+      {
+        "word": "shaming",
+        "confidence": 88
+      },
+      {
+        "word": "obstructive",
+        "confidence": 85
+      },
+      {
+        "word": "undermine",
+        "confidence": 83
+      },
+      {
+        "word": "blame",
+        "confidence": 78
+      },
+      {
+        "word": "distracted",
+        "confidence": 75
+      },
+      {
+        "word": "excuse",
+        "confidence": 70
+      },
+      {
+        "word": "suffocated",
+        "confidence": 72
+      }
+    ]
+  }
+}

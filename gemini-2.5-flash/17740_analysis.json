@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "incomplete",
+        "confidence": 95
+      },
+      {
+        "word": "awaiting",
+        "confidence": 85
+      },
+      {
+        "word": "neutral",
+        "confidence": 80
+      },
+      {
+        "word": "informative",
+        "confidence": 70
+      },
+      {
+        "word": "direct",
+        "confidence": 65
+      }
+    ]
+  }
+}

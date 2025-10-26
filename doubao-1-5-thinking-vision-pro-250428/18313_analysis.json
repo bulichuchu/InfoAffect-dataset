@@ -1,0 +1,32 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "success",
+          "confidence": 90
+        },
+        {
+          "word": "revolution",
+          "confidence": 85
+        },
+        {
+          "word": "rapid",
+          "confidence": 80
+        },
+        {
+          "word": "jump",
+          "confidence": 75
+        },
+        {
+          "word": "rise",
+          "confidence": 70
+        },
+        {
+          "word": "joined",
+          "confidence": 65
+        }
+      ]
+    }
+  }
+]

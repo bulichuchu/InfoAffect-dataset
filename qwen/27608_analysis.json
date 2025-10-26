@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surprising",
+        "confidence": 85
+      },
+      {
+        "word": "revealing",
+        "confidence": 80
+      },
+      {
+        "word": "critical",
+        "confidence": 75
+      },
+      {
+        "word": "thought-provoking",
+        "confidence": 82
+      },
+      {
+        "word": "transformative",
+        "confidence": 78
+      },
+      {
+        "word": "underutilized",
+        "confidence": 70
+      },
+      {
+        "word": "valuable",
+        "confidence": 73
+      },
+      {
+        "word": "ambitious",
+        "confidence": 68
+      }
+    ]
+  }
+}

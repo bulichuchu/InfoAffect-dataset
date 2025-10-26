@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "reject",
+        "confidence": 90
+      },
+      {
+        "word": "startled",
+        "confidence": 85
+      },
+      {
+        "word": "refuse",
+        "confidence": 80
+      },
+      {
+        "word": "negotiate",
+        "confidence": 75
+      },
+      {
+        "word": "leverage",
+        "confidence": 70
+      },
+      {
+        "word": "maneuvering",
+        "confidence": 68
+      }
+    ]
+  }
+}

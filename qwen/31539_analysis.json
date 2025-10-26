@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concentrated",
+        "confidence": 85
+      },
+      {
+        "word": "dominant",
+        "confidence": 80
+      },
+      {
+        "word": "predictable",
+        "confidence": 75
+      },
+      {
+        "word": "practical",
+        "confidence": 70
+      },
+      {
+        "word": "familiar",
+        "confidence": 65
+      },
+      {
+        "word": "statistical",
+        "confidence": 90
+      },
+      {
+        "word": "neutral",
+        "confidence": 88
+      },
+      {
+        "word": "informative",
+        "confidence": 82
+      }
+    ]
+  }
+}

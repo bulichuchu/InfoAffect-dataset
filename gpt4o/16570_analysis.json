@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "uncertainty",
+        "confidence": 88
+      },
+      {
+        "word": "tension",
+        "confidence": 85
+      },
+      {
+        "word": "challenge",
+        "confidence": 80
+      },
+      {
+        "word": "controversy",
+        "confidence": 78
+      },
+      {
+        "word": "disruption",
+        "confidence": 82
+      },
+      {
+        "word": "renewed",
+        "confidence": 75
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "strategic",
+        "confidence": 85
+      },
+      {
+        "word": "expansive",
+        "confidence": 80
+      },
+      {
+        "word": "geopolitical",
+        "confidence": 78
+      },
+      {
+        "word": "tense",
+        "confidence": 72
+      },
+      {
+        "word": "formal",
+        "confidence": 75
+      },
+      {
+        "word": "anticipatory",
+        "confidence": 68
+      },
+      {
+        "word": "comparative",
+        "confidence": 65
+      },
+      {
+        "word": "diplomatic",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "competitive",
+        "confidence": 88
+      },
+      {
+        "word": "dismissive",
+        "confidence": 85
+      },
+      {
+        "word": "comparative",
+        "confidence": 82
+      },
+      {
+        "word": "corrective",
+        "confidence": 78
+      },
+      {
+        "word": "assertive",
+        "confidence": 75
+      },
+      {
+        "word": "informative",
+        "confidence": 72
+      },
+      {
+        "word": "challenging",
+        "confidence": 68
+      }
+    ]
+  }
+}

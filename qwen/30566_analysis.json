@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dominant",
+        "confidence": 85
+      },
+      {
+        "word": "volatile",
+        "confidence": 80
+      },
+      {
+        "word": "reliant",
+        "confidence": 75
+      },
+      {
+        "word": "steady",
+        "confidence": 70
+      },
+      {
+        "word": "seasonal",
+        "confidence": 78
+      },
+      {
+        "word": "significant",
+        "confidence": 82
+      },
+      {
+        "word": "fluctuating",
+        "confidence": 76
+      },
+      {
+        "word": "robust",
+        "confidence": 68
+      }
+    ]
+  }
+}

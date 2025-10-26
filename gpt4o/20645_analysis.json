@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "urgent",
+        "confidence": 90
+      },
+      {
+        "word": "conflict",
+        "confidence": 85
+      },
+      {
+        "word": "pressure",
+        "confidence": 80
+      },
+      {
+        "word": "denouncing",
+        "confidence": 75
+      },
+      {
+        "word": "annexation",
+        "confidence": 70
+      },
+      {
+        "word": "collision",
+        "confidence": 68
+      }
+    ]
+  }
+}

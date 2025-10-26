@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "responsible",
+        "confidence": 85
+      },
+      {
+        "word": "conscious",
+        "confidence": 80
+      },
+      {
+        "word": "positive",
+        "confidence": 75
+      },
+      {
+        "word": "hopeful",
+        "confidence": 70
+      },
+      {
+        "word": "empowered",
+        "confidence": 65
+      },
+      {
+        "word": "practical",
+        "confidence": 60
+      },
+      {
+        "word": "committed",
+        "confidence": 68
+      },
+      {
+        "word": "encouraging",
+        "confidence": 72
+      }
+    ]
+  }
+}

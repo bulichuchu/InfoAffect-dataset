@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dissatisfaction",
+        "confidence": 90
+      },
+      {
+        "word": "faith",
+        "confidence": 85
+      },
+      {
+        "word": "waning",
+        "confidence": 83
+      },
+      {
+        "word": "shaken",
+        "confidence": 78
+      },
+      {
+        "word": "authoritarian",
+        "confidence": 76
+      },
+      {
+        "word": "unhappy",
+        "confidence": 81
+      }
+    ]
+  }
+}

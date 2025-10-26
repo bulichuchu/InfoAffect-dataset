@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "control",
+        "confidence": 90
+      },
+      {
+        "word": "censorship",
+        "confidence": 85
+      },
+      {
+        "word": "declined",
+        "confidence": 80
+      },
+      {
+        "word": "honor",
+        "confidence": 75
+      },
+      {
+        "word": "freedom",
+        "confidence": 70
+      },
+      {
+        "word": "restricted",
+        "confidence": 78
+      },
+      {
+        "word": "tightening",
+        "confidence": 72
+      }
+    ]
+  }
+}

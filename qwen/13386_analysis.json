@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "recovery",
+        "confidence": 85
+      },
+      {
+        "word": "optimistic",
+        "confidence": 80
+      },
+      {
+        "word": "prosperous",
+        "confidence": 75
+      },
+      {
+        "word": "resilient",
+        "confidence": 70
+      },
+      {
+        "word": "impressive",
+        "confidence": 72
+      },
+      {
+        "word": "significant",
+        "confidence": 68
+      },
+      {
+        "word": "encouraging",
+        "confidence": 65
+      },
+      {
+        "word": "record-breaking",
+        "confidence": 60
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surprising",
+        "confidence": 86
+      },
+      {
+        "word": "concerning",
+        "confidence": 82
+      },
+      {
+        "word": "waning",
+        "confidence": 78
+      },
+      {
+        "word": "inequality",
+        "confidence": 75
+      },
+      {
+        "word": "significant",
+        "confidence": 80
+      },
+      {
+        "word": "improvement",
+        "confidence": 70
+      }
+    ]
+  }
+}

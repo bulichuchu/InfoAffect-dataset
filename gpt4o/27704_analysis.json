@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "condemning",
+        "confidence": 85
+      },
+      {
+        "word": "alarming",
+        "confidence": 82
+      },
+      {
+        "word": "concerned",
+        "confidence": 80
+      },
+      {
+        "word": "fearful",
+        "confidence": 78
+      },
+      {
+        "word": "sacrifices",
+        "confidence": 74
+      },
+      {
+        "word": "uncertain",
+        "confidence": 73
+      },
+      {
+        "word": "supportive",
+        "confidence": 70
+      }
+    ]
+  }
+}

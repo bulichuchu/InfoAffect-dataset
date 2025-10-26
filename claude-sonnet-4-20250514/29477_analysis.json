@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "celebratory",
+        "confidence": 88
+      },
+      {
+        "word": "hopeful",
+        "confidence": 85
+      },
+      {
+        "word": "historic",
+        "confidence": 92
+      },
+      {
+        "word": "inspiring",
+        "confidence": 82
+      },
+      {
+        "word": "reflective",
+        "confidence": 78
+      },
+      {
+        "word": "concerned",
+        "confidence": 70
+      },
+      {
+        "word": "proud",
+        "confidence": 80
+      },
+      {
+        "word": "analytical",
+        "confidence": 75
+      }
+    ]
+  }
+}

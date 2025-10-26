@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "ominous",
+        "confidence": 88
+      },
+      {
+        "word": "concerning",
+        "confidence": 85
+      },
+      {
+        "word": "violent",
+        "confidence": 82
+      },
+      {
+        "word": "exploitative",
+        "confidence": 78
+      },
+      {
+        "word": "strategic",
+        "confidence": 75
+      },
+      {
+        "word": "unsettling",
+        "confidence": 73
+      },
+      {
+        "word": "authoritarian",
+        "confidence": 70
+      },
+      {
+        "word": "controversial",
+        "confidence": 68
+      }
+    ]
+  }
+}

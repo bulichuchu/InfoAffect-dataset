@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "proud",
+        "confidence": 85
+      },
+      {
+        "word": "competitive",
+        "confidence": 80
+      },
+      {
+        "word": "celebratory",
+        "confidence": 75
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 70
+      },
+      {
+        "word": "hopeful",
+        "confidence": 65
+      },
+      {
+        "word": "rivalrous",
+        "confidence": 60
+      },
+      {
+        "word": "ironic",
+        "confidence": 55
+      },
+      {
+        "word": "unifying",
+        "confidence": 50
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "evolving",
+        "confidence": 90
+      },
+      {
+        "word": "mixed",
+        "confidence": 88
+      },
+      {
+        "word": "cautious",
+        "confidence": 80
+      },
+      {
+        "word": "prospective",
+        "confidence": 75
+      },
+      {
+        "word": "concern",
+        "confidence": 70
+      },
+      {
+        "word": "progressive",
+        "confidence": 65
+      }
+    ]
+  }
+}

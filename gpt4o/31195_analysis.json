@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "crisis",
+        "confidence": 90
+      },
+      {
+        "word": "surge",
+        "confidence": 85
+      },
+      {
+        "word": "isolation",
+        "confidence": 80
+      },
+      {
+        "word": "desperate",
+        "confidence": 78
+      },
+      {
+        "word": "struggle",
+        "confidence": 75
+      },
+      {
+        "word": "deterioration",
+        "confidence": 72
+      }
+    ]
+  }
+}

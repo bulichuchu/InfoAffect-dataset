@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "commemorative",
+        "confidence": 95
+      },
+      {
+        "word": "enduring",
+        "confidence": 90
+      },
+      {
+        "word": "reverent",
+        "confidence": 85
+      },
+      {
+        "word": "principled",
+        "confidence": 80
+      },
+      {
+        "word": "dignified",
+        "confidence": 75
+      },
+      {
+        "word": "appreciative",
+        "confidence": 70
+      }
+    ]
+  }
+}

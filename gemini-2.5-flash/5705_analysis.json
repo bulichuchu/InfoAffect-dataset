@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unwelcome",
+        "confidence": 95
+      },
+      {
+        "word": "serious",
+        "confidence": 90
+      },
+      {
+        "word": "unfairness",
+        "confidence": 88
+      },
+      {
+        "word": "concern",
+        "confidence": 85
+      },
+      {
+        "word": "disappointment",
+        "confidence": 75
+      },
+      {
+        "word": "frustration",
+        "confidence": 70
+      }
+    ]
+  }
+}

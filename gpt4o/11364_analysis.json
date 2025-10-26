@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "popular",
+        "confidence": 90
+      },
+      {
+        "word": "integral",
+        "confidence": 85
+      },
+      {
+        "word": "central",
+        "confidence": 80
+      },
+      {
+        "word": "welcoming",
+        "confidence": 75
+      },
+      {
+        "word": "homey",
+        "confidence": 70
+      },
+      {
+        "word": "comforting",
+        "confidence": 65
+      },
+      {
+        "word": "convenient",
+        "confidence": 60
+      }
+    ]
+  }
+}

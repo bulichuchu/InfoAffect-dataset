@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "jubilant",
+        "confidence": 90
+      },
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "impactful",
+        "confidence": 80
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      },
+      {
+        "word": "volatile",
+        "confidence": 70
+      },
+      {
+        "word": "concerned",
+        "confidence": 65
+      },
+      {
+        "word": "significant",
+        "confidence": 72
+      },
+      {
+        "word": "polarized",
+        "confidence": 68
+      }
+    ]
+  }
+}

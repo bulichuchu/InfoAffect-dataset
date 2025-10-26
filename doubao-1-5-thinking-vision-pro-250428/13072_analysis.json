@@ -1,0 +1,36 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "severe",
+          "confidence": 90
+        },
+        {
+          "word": "alarming",
+          "confidence": 85
+        },
+        {
+          "word": "distressing",
+          "confidence": 80
+        },
+        {
+          "word": "dire",
+          "confidence": 78
+        },
+        {
+          "word": "harsh",
+          "confidence": 75
+        },
+        {
+          "word": "grim",
+          "confidence": 72
+        },
+        {
+          "word": "unprecedented",
+          "confidence": 70
+        }
+      ]
+    }
+  }
+]

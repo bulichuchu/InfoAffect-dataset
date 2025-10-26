@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "compliance",
+        "confidence": 85
+      },
+      {
+        "word": "mandatory",
+        "confidence": 80
+      },
+      {
+        "word": "authority",
+        "confidence": 78
+      },
+      {
+        "word": "approval",
+        "confidence": 75
+      },
+      {
+        "word": "requirement",
+        "confidence": 72
+      },
+      {
+        "word": "legal",
+        "confidence": 70
+      }
+    ]
+  }
+}

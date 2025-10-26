@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "diverse",
+        "confidence": 90
+      },
+      {
+        "word": "endangered",
+        "confidence": 85
+      },
+      {
+        "word": "underrepresented",
+        "confidence": 82
+      },
+      {
+        "word": "proud",
+        "confidence": 78
+      },
+      {
+        "word": "challenging",
+        "confidence": 75
+      },
+      {
+        "word": "vulnerable",
+        "confidence": 88
+      },
+      {
+        "word": "resilient",
+        "confidence": 80
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "expensive",
+        "confidence": 90
+      },
+      {
+        "word": "inflation",
+        "confidence": 85
+      },
+      {
+        "word": "decline",
+        "confidence": 75
+      },
+      {
+        "word": "stubbornly",
+        "confidence": 80
+      },
+      {
+        "word": "elevated",
+        "confidence": 70
+      },
+      {
+        "word": "recovery",
+        "confidence": 65
+      }
+    ]
+  }
+}

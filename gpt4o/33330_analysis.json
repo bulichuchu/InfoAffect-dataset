@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "sustainable",
+        "confidence": 90
+      },
+      {
+        "word": "affinity",
+        "confidence": 85
+      },
+      {
+        "word": "upward",
+        "confidence": 80
+      },
+      {
+        "word": "growing",
+        "confidence": 75
+      },
+      {
+        "word": "trajectory",
+        "confidence": 70
+      },
+      {
+        "word": "profit",
+        "confidence": 60
+      }
+    ]
+  }
+}

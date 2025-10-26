@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "painful",
+        "confidence": 88
+      },
+      {
+        "word": "somber",
+        "confidence": 82
+      },
+      {
+        "word": "reflective",
+        "confidence": 85
+      },
+      {
+        "word": "cautionary",
+        "confidence": 80
+      },
+      {
+        "word": "hopeful",
+        "confidence": 65
+      },
+      {
+        "word": "concerning",
+        "confidence": 78
+      },
+      {
+        "word": "thankful",
+        "confidence": 70
+      },
+      {
+        "word": "vigilant",
+        "confidence": 75
+      }
+    ]
+  }
+}

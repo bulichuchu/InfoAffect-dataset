@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "empowering",
+        "confidence": 88
+      },
+      {
+        "word": "transformative",
+        "confidence": 85
+      },
+      {
+        "word": "regulatory",
+        "confidence": 82
+      },
+      {
+        "word": "authoritative",
+        "confidence": 78
+      },
+      {
+        "word": "hopeful",
+        "confidence": 75
+      },
+      {
+        "word": "determined",
+        "confidence": 72
+      },
+      {
+        "word": "structured",
+        "confidence": 70
+      },
+      {
+        "word": "accountable",
+        "confidence": 68
+      }
+    ]
+  }
+}

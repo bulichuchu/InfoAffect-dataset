@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "insignificant",
+        "confidence": 90
+      },
+      {
+        "word": "sarcastic",
+        "confidence": 85
+      },
+      {
+        "word": "dismissive",
+        "confidence": 83
+      },
+      {
+        "word": "trivial",
+        "confidence": 80
+      },
+      {
+        "word": "sardonic",
+        "confidence": 75
+      },
+      {
+        "word": "critical",
+        "confidence": 72
+      }
+    ]
+  }
+}

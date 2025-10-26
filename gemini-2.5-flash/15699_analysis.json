@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "underestimated",
+        "confidence": 90
+      },
+      {
+        "word": "limited",
+        "confidence": 88
+      },
+      {
+        "word": "developing",
+        "confidence": 85
+      },
+      {
+        "word": "sobering",
+        "confidence": 78
+      },
+      {
+        "word": "surprising",
+        "confidence": 70
+      },
+      {
+        "word": "realistic",
+        "confidence": 65
+      }
+    ]
+  }
+}

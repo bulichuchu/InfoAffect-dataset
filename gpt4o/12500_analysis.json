@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "growth",
+        "confidence": 90
+      },
+      {
+        "word": "increased",
+        "confidence": 85
+      },
+      {
+        "word": "impressive",
+        "confidence": 80
+      },
+      {
+        "word": "mandatory",
+        "confidence": 78
+      },
+      {
+        "word": "comparison",
+        "confidence": 70
+      },
+      {
+        "word": "accelerated",
+        "confidence": 75
+      }
+    ]
+  }
+}

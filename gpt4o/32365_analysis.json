@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "conscious",
+        "confidence": 90
+      },
+      {
+        "word": "ethical",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 80
+      },
+      {
+        "word": "aware",
+        "confidence": 75
+      },
+      {
+        "word": "responsible",
+        "confidence": 78
+      },
+      {
+        "word": "considerate",
+        "confidence": 70
+      },
+      {
+        "word": "sustainable",
+        "confidence": 88
+      }
+    ]
+  }
+}

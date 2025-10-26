@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "threaten",
+        "confidence": 90
+      },
+      {
+        "word": "hurt",
+        "confidence": 85
+      },
+      {
+        "word": "limiting",
+        "confidence": 80
+      },
+      {
+        "word": "unaffordable",
+        "confidence": 78
+      },
+      {
+        "word": "retaliation",
+        "confidence": 82
+      },
+      {
+        "word": "blow",
+        "confidence": 75
+      }
+    ]
+  }
+}

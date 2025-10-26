@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concern",
+        "confidence": 85
+      },
+      {
+        "word": "escalation",
+        "confidence": 80
+      },
+      {
+        "word": "surge",
+        "confidence": 78
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      },
+      {
+        "word": "dominance",
+        "confidence": 70
+      },
+      {
+        "word": "pressure",
+        "confidence": 68
+      }
+    ]
+  }
+}

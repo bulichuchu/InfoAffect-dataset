@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "pride",
+        "confidence": 90
+      },
+      {
+        "word": "optimism",
+        "confidence": 85
+      },
+      {
+        "word": "accomplishment",
+        "confidence": 88
+      },
+      {
+        "word": "inspiration",
+        "confidence": 80
+      },
+      {
+        "word": "admiration",
+        "confidence": 82
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "tense",
+        "confidence": 90
+      },
+      {
+        "word": "frustrated",
+        "confidence": 85
+      },
+      {
+        "word": "defiant",
+        "confidence": 82
+      },
+      {
+        "word": "contentious",
+        "confidence": 80
+      },
+      {
+        "word": "divisive",
+        "confidence": 78
+      },
+      {
+        "word": "determined",
+        "confidence": 75
+      },
+      {
+        "word": "conflicted",
+        "confidence": 70
+      },
+      {
+        "word": "symbolic",
+        "confidence": 65
+      }
+    ]
+  }
+}

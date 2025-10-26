@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unique",
+        "confidence": 90
+      },
+      {
+        "word": "devout",
+        "confidence": 85
+      },
+      {
+        "word": "extreme",
+        "confidence": 80
+      },
+      {
+        "word": "playful",
+        "confidence": 75
+      },
+      {
+        "word": "intricate",
+        "confidence": 70
+      },
+      {
+        "word": "traditional",
+        "confidence": 78
+      },
+      {
+        "word": "celebratory",
+        "confidence": 72
+      }
+    ]
+  }
+}

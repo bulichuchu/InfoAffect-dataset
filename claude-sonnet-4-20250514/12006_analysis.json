@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "infuriating",
+        "confidence": 95
+      },
+      {
+        "word": "foreboding",
+        "confidence": 88
+      },
+      {
+        "word": "stressful",
+        "confidence": 85
+      },
+      {
+        "word": "overwhelming",
+        "confidence": 82
+      },
+      {
+        "word": "anxious",
+        "confidence": 78
+      },
+      {
+        "word": "frustrating",
+        "confidence": 90
+      },
+      {
+        "word": "chaotic",
+        "confidence": 75
+      },
+      {
+        "word": "dreading",
+        "confidence": 80
+      }
+    ]
+  }
+}

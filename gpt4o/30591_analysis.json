@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "productive",
+        "confidence": 85
+      },
+      {
+        "word": "performative",
+        "confidence": 80
+      },
+      {
+        "word": "busy",
+        "confidence": 78
+      },
+      {
+        "word": "comparison",
+        "confidence": 72
+      },
+      {
+        "word": "spectrum",
+        "confidence": 70
+      },
+      {
+        "word": "appearing",
+        "confidence": 68
+      }
+    ]
+  }
+}

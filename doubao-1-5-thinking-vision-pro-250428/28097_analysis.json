@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "comparative",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 80
+      },
+      {
+        "word": "informative",
+        "confidence": 78
+      },
+      {
+        "word": "analytical",
+        "confidence": 75
+      },
+      {
+        "word": "disparate",
+        "confidence": 75
+      },
+      {
+        "word": "lukewarm",
+        "confidence": 70
+      },
+      {
+        "word": "enthusiastic",
+        "confidence": 65
+      }
+    ]
+  }
+}

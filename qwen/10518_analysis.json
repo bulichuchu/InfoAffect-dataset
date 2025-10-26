@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "successful",
+        "confidence": 90
+      },
+      {
+        "word": "lucrative",
+        "confidence": 85
+      },
+      {
+        "word": "competitive",
+        "confidence": 78
+      },
+      {
+        "word": "disruptive",
+        "confidence": 75
+      },
+      {
+        "word": "impressive",
+        "confidence": 82
+      },
+      {
+        "word": "exclusive",
+        "confidence": 70
+      },
+      {
+        "word": "celebratory",
+        "confidence": 65
+      },
+      {
+        "word": "gender-imbalanced",
+        "confidence": 73
+      }
+    ]
+  }
+}

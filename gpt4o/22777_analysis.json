@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "optimistic",
+        "confidence": 90
+      },
+      {
+        "word": "concerns",
+        "confidence": 85
+      },
+      {
+        "word": "coerced",
+        "confidence": 80
+      },
+      {
+        "word": "mandatory",
+        "confidence": 75
+      },
+      {
+        "word": "resonated",
+        "confidence": 70
+      },
+      {
+        "word": "uncertain",
+        "confidence": 78
+      }
+    ]
+  }
+}

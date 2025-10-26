@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "exciting",
+        "confidence": 90
+      },
+      {
+        "word": "thriller",
+        "confidence": 85
+      },
+      {
+        "word": "determination",
+        "confidence": 80
+      },
+      {
+        "word": "glory",
+        "confidence": 75
+      },
+      {
+        "word": "dominant",
+        "confidence": 70
+      },
+      {
+        "word": "skillful",
+        "confidence": 65
+      },
+      {
+        "word": "advantage",
+        "confidence": 60
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surprising",
+        "confidence": 90
+      },
+      {
+        "word": "disappointing",
+        "confidence": 75
+      },
+      {
+        "word": "revealing",
+        "confidence": 85
+      },
+      {
+        "word": "thought-provoking",
+        "confidence": 78
+      },
+      {
+        "word": "curious",
+        "confidence": 70
+      },
+      {
+        "word": "unfulfilled",
+        "confidence": 65
+      }
+    ]
+  }
+}

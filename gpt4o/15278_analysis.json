@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unawareness",
+        "confidence": 90
+      },
+      {
+        "word": "neglect",
+        "confidence": 85
+      },
+      {
+        "word": "indifference",
+        "confidence": 80
+      },
+      {
+        "word": "disinterest",
+        "confidence": 78
+      },
+      {
+        "word": "unknown",
+        "confidence": 82
+      },
+      {
+        "word": "apathy",
+        "confidence": 75
+      }
+    ]
+  }
+}

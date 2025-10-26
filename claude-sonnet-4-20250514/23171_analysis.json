@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "triumphant",
+        "confidence": 95
+      },
+      {
+        "word": "vindicated",
+        "confidence": 88
+      },
+      {
+        "word": "euphoric",
+        "confidence": 85
+      },
+      {
+        "word": "historic",
+        "confidence": 90
+      },
+      {
+        "word": "celebratory",
+        "confidence": 92
+      },
+      {
+        "word": "relieved",
+        "confidence": 80
+      },
+      {
+        "word": "proud",
+        "confidence": 87
+      },
+      {
+        "word": "elated",
+        "confidence": 83
+      }
+    ]
+  }
+}

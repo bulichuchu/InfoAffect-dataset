@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transformative",
+        "confidence": 88
+      },
+      {
+        "word": "ambivalent",
+        "confidence": 82
+      },
+      {
+        "word": "concern",
+        "confidence": 78
+      },
+      {
+        "word": "promising",
+        "confidence": 75
+      },
+      {
+        "word": "evolving",
+        "confidence": 70
+      },
+      {
+        "word": "curiosity",
+        "confidence": 65
+      }
+    ]
+  }
+}

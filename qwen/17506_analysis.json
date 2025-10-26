@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "exciting",
+        "confidence": 85
+      },
+      {
+        "word": "impressive",
+        "confidence": 80
+      },
+      {
+        "word": "advanced",
+        "confidence": 75
+      },
+      {
+        "word": "revolutionary",
+        "confidence": 78
+      },
+      {
+        "word": "hopeful",
+        "confidence": 70
+      },
+      {
+        "word": "eagerly_anticipated",
+        "confidence": 82
+      },
+      {
+        "word": "cutting_edge",
+        "confidence": 76
+      },
+      {
+        "word": "transformative",
+        "confidence": 73
+      }
+    ]
+  }
+}

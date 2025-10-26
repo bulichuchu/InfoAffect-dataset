@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "tense",
+        "confidence": 85
+      },
+      {
+        "word": "hopeful",
+        "confidence": 70
+      },
+      {
+        "word": "critical",
+        "confidence": 80
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      },
+      {
+        "word": "threatening",
+        "confidence": 85
+      },
+      {
+        "word": "ambitious",
+        "confidence": 65
+      },
+      {
+        "word": "weighty",
+        "confidence": 80
+      }
+    ]
+  }
+}

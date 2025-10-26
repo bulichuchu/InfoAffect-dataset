@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "relieved",
+        "confidence": 80
+      },
+      {
+        "word": "freezing",
+        "confidence": 85
+      },
+      {
+        "word": "relief",
+        "confidence": 75
+      },
+      {
+        "word": "harsh",
+        "confidence": 70
+      },
+      {
+        "word": "cold",
+        "confidence": 75
+      },
+      {
+        "word": "concerned",
+        "confidence": 65
+      }
+    ]
+  }
+}

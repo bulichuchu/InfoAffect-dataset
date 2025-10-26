@@ -1,0 +1,32 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "appreciative",
+          "confidence": 90
+        },
+        {
+          "word": "urgent",
+          "confidence": 88
+        },
+        {
+          "word": "celebratory",
+          "confidence": 85
+        },
+        {
+          "word": "concerned",
+          "confidence": 80
+        },
+        {
+          "word": "admiration",
+          "confidence": 82
+        },
+        {
+          "word": "critical",
+          "confidence": 75
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "scarcity",
+        "confidence": 90
+      },
+      {
+        "word": "difficulty",
+        "confidence": 85
+      },
+      {
+        "word": "challenge",
+        "confidence": 80
+      },
+      {
+        "word": "need",
+        "confidence": 75
+      },
+      {
+        "word": "availability",
+        "confidence": 70
+      },
+      {
+        "word": "seasonal",
+        "confidence": 68
+      }
+    ]
+  }
+}

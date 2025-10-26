@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "restrictive",
+        "confidence": 90
+      },
+      {
+        "word": "cautious",
+        "confidence": 85
+      },
+      {
+        "word": "controlled",
+        "confidence": 80
+      },
+      {
+        "word": "suspended",
+        "confidence": 75
+      },
+      {
+        "word": "impactful",
+        "confidence": 70
+      },
+      {
+        "word": "regulatory",
+        "confidence": 65
+      },
+      {
+        "word": "constrained",
+        "confidence": 72
+      },
+      {
+        "word": "authoritative",
+        "confidence": 68
+      }
+    ]
+  }
+}

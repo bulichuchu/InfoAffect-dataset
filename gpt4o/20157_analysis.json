@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "deteriorated",
+        "confidence": 90
+      },
+      {
+        "word": "popular",
+        "confidence": 85
+      },
+      {
+        "word": "pronounced",
+        "confidence": 80
+      },
+      {
+        "word": "support",
+        "confidence": 78
+      },
+      {
+        "word": "favor",
+        "confidence": 75
+      },
+      {
+        "word": "tied",
+        "confidence": 70
+      }
+    ]
+  }
+}

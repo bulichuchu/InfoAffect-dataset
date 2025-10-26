@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "astronomical",
+        "confidence": 95
+      },
+      {
+        "word": "shocking",
+        "confidence": 90
+      },
+      {
+        "word": "daunting",
+        "confidence": 85
+      },
+      {
+        "word": "intimidating",
+        "confidence": 80
+      },
+      {
+        "word": "expensive",
+        "confidence": 88
+      },
+      {
+        "word": "surprising",
+        "confidence": 75
+      }
+    ]
+  }
+}

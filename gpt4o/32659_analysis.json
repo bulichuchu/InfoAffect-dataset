@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "relief",
+        "confidence": 90
+      },
+      {
+        "word": "efficiency",
+        "confidence": 85
+      },
+      {
+        "word": "convenience",
+        "confidence": 80
+      },
+      {
+        "word": "awareness",
+        "confidence": 75
+      },
+      {
+        "word": "time-saving",
+        "confidence": 87
+      }
+    ]
+  }
+}

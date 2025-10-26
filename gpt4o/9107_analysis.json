@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "divide",
+        "confidence": 90
+      },
+      {
+        "word": "critical",
+        "confidence": 85
+      },
+      {
+        "word": "profit",
+        "confidence": 80
+      },
+      {
+        "word": "impact",
+        "confidence": 78
+      },
+      {
+        "word": "avoid",
+        "confidence": 75
+      },
+      {
+        "word": "legacy",
+        "confidence": 70
+      }
+    ]
+  }
+}

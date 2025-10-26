@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "turbulent",
+        "confidence": 90
+      },
+      {
+        "word": "fractious",
+        "confidence": 85
+      },
+      {
+        "word": "defeated",
+        "confidence": 82
+      },
+      {
+        "word": "rebellious",
+        "confidence": 78
+      },
+      {
+        "word": "tense",
+        "confidence": 75
+      },
+      {
+        "word": "contentious",
+        "confidence": 72
+      },
+      {
+        "word": "embattled",
+        "confidence": 70
+      }
+    ]
+  }
+}

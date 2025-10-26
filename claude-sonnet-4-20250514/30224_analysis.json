@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerning",
+        "confidence": 88
+      },
+      {
+        "word": "troubling",
+        "confidence": 85
+      },
+      {
+        "word": "hopeful",
+        "confidence": 70
+      },
+      {
+        "word": "disparate",
+        "confidence": 82
+      },
+      {
+        "word": "stark",
+        "confidence": 78
+      },
+      {
+        "word": "sobering",
+        "confidence": 80
+      },
+      {
+        "word": "revealing",
+        "confidence": 75
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disappointed",
+        "confidence": 70
+      },
+      {
+        "word": "impressive",
+        "confidence": 85
+      },
+      {
+        "word": "optimistic",
+        "confidence": 78
+      },
+      {
+        "word": "profitable",
+        "confidence": 90
+      },
+      {
+        "word": "strategic",
+        "confidence": 75
+      },
+      {
+        "word": "concerned",
+        "confidence": 65
+      },
+      {
+        "word": "successful",
+        "confidence": 88
+      },
+      {
+        "word": "dominant",
+        "confidence": 80
+      }
+    ]
+  }
+}

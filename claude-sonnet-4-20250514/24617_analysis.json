@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "envious",
+        "confidence": 90
+      },
+      {
+        "word": "astonished",
+        "confidence": 85
+      },
+      {
+        "word": "vindicated",
+        "confidence": 82
+      },
+      {
+        "word": "relieved",
+        "confidence": 78
+      },
+      {
+        "word": "optimistic",
+        "confidence": 75
+      },
+      {
+        "word": "triumphant",
+        "confidence": 70
+      },
+      {
+        "word": "hopeful",
+        "confidence": 68
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "triumph",
+        "confidence": 95
+      },
+      {
+        "word": "prestigious",
+        "confidence": 90
+      },
+      {
+        "word": "overshadowed",
+        "confidence": 80
+      },
+      {
+        "word": "misfortune",
+        "confidence": 78
+      },
+      {
+        "word": "contender",
+        "confidence": 85
+      },
+      {
+        "word": "glory",
+        "confidence": 87
+      }
+    ]
+  }
+}

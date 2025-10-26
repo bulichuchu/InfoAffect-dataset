@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "uncertain",
+        "confidence": 80
+      },
+      {
+        "word": "schadenfreude",
+        "confidence": 85
+      },
+      {
+        "word": "skeptical",
+        "confidence": 75
+      },
+      {
+        "word": "divided",
+        "confidence": 70
+      },
+      {
+        "word": "apprehensive",
+        "confidence": 65
+      },
+      {
+        "word": "ambivalent",
+        "confidence": 60
+      }
+    ]
+  }
+}

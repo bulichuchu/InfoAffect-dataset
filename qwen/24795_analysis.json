@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "exciting",
+        "confidence": 90
+      },
+      {
+        "word": "optimistic",
+        "confidence": 85
+      },
+      {
+        "word": "thrilling",
+        "confidence": 80
+      },
+      {
+        "word": "dynamic",
+        "confidence": 75
+      },
+      {
+        "word": "booming",
+        "confidence": 70
+      },
+      {
+        "word": "aspirational",
+        "confidence": 65
+      },
+      {
+        "word": "volatile",
+        "confidence": 60
+      },
+      {
+        "word": "triumphant",
+        "confidence": 78
+      }
+    ]
+  }
+}

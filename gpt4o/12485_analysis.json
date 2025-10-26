@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "negativity",
+        "confidence": 90
+      },
+      {
+        "word": "frustration",
+        "confidence": 85
+      },
+      {
+        "word": "discontent",
+        "confidence": 80
+      },
+      {
+        "word": "hostility",
+        "confidence": 75
+      },
+      {
+        "word": "annoyance",
+        "confidence": 70
+      }
+    ]
+  }
+}

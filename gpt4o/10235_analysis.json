@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surge",
+        "confidence": 90
+      },
+      {
+        "word": "increase",
+        "confidence": 85
+      },
+      {
+        "word": "threats",
+        "confidence": 80
+      },
+      {
+        "word": "fall",
+        "confidence": 75
+      },
+      {
+        "word": "punitive",
+        "confidence": 70
+      },
+      {
+        "word": "majority",
+        "confidence": 65
+      },
+      {
+        "word": "contrast",
+        "confidence": 60
+      }
+    ]
+  }
+}

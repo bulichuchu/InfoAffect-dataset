@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerning",
+        "confidence": 85
+      },
+      {
+        "word": "alarming",
+        "confidence": 80
+      },
+      {
+        "word": "excessive",
+        "confidence": 75
+      },
+      {
+        "word": "wasteful",
+        "confidence": 70
+      },
+      {
+        "word": "problematic",
+        "confidence": 75
+      },
+      {
+        "word": "unsustainable",
+        "confidence": 82
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 88
+      },
+      {
+        "word": "divided",
+        "confidence": 82
+      },
+      {
+        "word": "strained",
+        "confidence": 79
+      },
+      {
+        "word": "wavering",
+        "confidence": 76
+      },
+      {
+        "word": "pressured",
+        "confidence": 74
+      },
+      {
+        "word": "conflicted",
+        "confidence": 72
+      },
+      {
+        "word": "resilient",
+        "confidence": 65
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 60
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "landmark",
+        "confidence": 90
+      },
+      {
+        "word": "discriminatory",
+        "confidence": 85
+      },
+      {
+        "word": "hopeful",
+        "confidence": 80
+      },
+      {
+        "word": "historic",
+        "confidence": 78
+      },
+      {
+        "word": "oppression",
+        "confidence": 75
+      },
+      {
+        "word": "progress",
+        "confidence": 70
+      },
+      {
+        "word": "challenging",
+        "confidence": 65
+      },
+      {
+        "word": "advocacy",
+        "confidence": 60
+      }
+    ]
+  }
+}

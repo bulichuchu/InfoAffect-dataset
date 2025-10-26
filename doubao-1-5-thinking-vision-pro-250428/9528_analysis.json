@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "embattled",
+        "confidence": 90
+      },
+      {
+        "word": "dire",
+        "confidence": 85
+      },
+      {
+        "word": "troubled",
+        "confidence": 82
+      },
+      {
+        "word": "unfavorable",
+        "confidence": 80
+      },
+      {
+        "word": "precarious",
+        "confidence": 78
+      },
+      {
+        "word": "worsening",
+        "confidence": 75
+      }
+    ]
+  }
+}

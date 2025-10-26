@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disruption",
+        "confidence": 88
+      },
+      {
+        "word": "isolation",
+        "confidence": 85
+      },
+      {
+        "word": "loneliness",
+        "confidence": 82
+      },
+      {
+        "word": "restrictive",
+        "confidence": 80
+      },
+      {
+        "word": "concern",
+        "confidence": 78
+      },
+      {
+        "word": "delayed",
+        "confidence": 75
+      },
+      {
+        "word": "deprived",
+        "confidence": 73
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "worried",
+        "confidence": 90
+      },
+      {
+        "word": "assurance",
+        "confidence": 85
+      },
+      {
+        "word": "stay",
+        "confidence": 75
+      },
+      {
+        "word": "equal",
+        "confidence": 78
+      },
+      {
+        "word": "impact",
+        "confidence": 82
+      },
+      {
+        "word": "living",
+        "confidence": 70
+      },
+      {
+        "word": "negotiating",
+        "confidence": 65
+      }
+    ]
+  }
+}

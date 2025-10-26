@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "polarized",
+        "confidence": 90
+      },
+      {
+        "word": "divisive",
+        "confidence": 85
+      },
+      {
+        "word": "admired",
+        "confidence": 80
+      },
+      {
+        "word": "competitive",
+        "confidence": 75
+      },
+      {
+        "word": "surprising",
+        "confidence": 70
+      },
+      {
+        "word": "respectful",
+        "confidence": 65
+      },
+      {
+        "word": "partisan",
+        "confidence": 82
+      },
+      {
+        "word": "significant",
+        "confidence": 78
+      }
+    ]
+  }
+}

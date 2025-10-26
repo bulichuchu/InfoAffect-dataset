@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "uncertainty",
+        "confidence": 90
+      },
+      {
+        "word": "spiraling",
+        "confidence": 88
+      },
+      {
+        "word": "reluctant",
+        "confidence": 85
+      },
+      {
+        "word": "suffering",
+        "confidence": 80
+      },
+      {
+        "word": "insecure",
+        "confidence": 82
+      },
+      {
+        "word": "exacerbated",
+        "confidence": 78
+      }
+    ]
+  }
+}

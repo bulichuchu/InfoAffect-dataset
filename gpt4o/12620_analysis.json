@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "erosion",
+        "confidence": 85
+      },
+      {
+        "word": "fall",
+        "confidence": 80
+      },
+      {
+        "word": "decline",
+        "confidence": 78
+      },
+      {
+        "word": "distrust",
+        "confidence": 84
+      },
+      {
+        "word": "unsettling",
+        "confidence": 75
+      },
+      {
+        "word": "disheartening",
+        "confidence": 82
+      }
+    ]
+  }
+}

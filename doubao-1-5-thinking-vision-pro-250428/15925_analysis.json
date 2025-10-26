@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "stagnant",
+        "confidence": 90
+      },
+      {
+        "word": "unceremonious",
+        "confidence": 85
+      },
+      {
+        "word": "declining",
+        "confidence": 82
+      },
+      {
+        "word": "concerned",
+        "confidence": 78
+      },
+      {
+        "word": "subdued",
+        "confidence": 75
+      },
+      {
+        "word": "melancholic",
+        "confidence": 70
+      },
+      {
+        "word": "challenged",
+        "confidence": 68
+      }
+    ]
+  }
+}

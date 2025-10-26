@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "achievement",
+        "confidence": 90
+      },
+      {
+        "word": "triumph",
+        "confidence": 85
+      },
+      {
+        "word": "peace",
+        "confidence": 80
+      },
+      {
+        "word": "identity",
+        "confidence": 78
+      },
+      {
+        "word": "freedom",
+        "confidence": 75
+      },
+      {
+        "word": "concern",
+        "confidence": 70
+      }
+    ]
+  }
+}

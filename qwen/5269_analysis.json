@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surprising",
+        "confidence": 85
+      },
+      {
+        "word": "disruptive",
+        "confidence": 80
+      },
+      {
+        "word": "strategic",
+        "confidence": 75
+      },
+      {
+        "word": "decisive",
+        "confidence": 78
+      },
+      {
+        "word": "controversial",
+        "confidence": 72
+      },
+      {
+        "word": "transformative",
+        "confidence": 76
+      },
+      {
+        "word": "political",
+        "confidence": 82
+      },
+      {
+        "word": "calculated",
+        "confidence": 70
+      }
+    ]
+  }
+}

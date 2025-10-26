@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "eagerly",
+        "confidence": 90
+      },
+      {
+        "word": "epic",
+        "confidence": 85
+      },
+      {
+        "word": "legendary",
+        "confidence": 88
+      },
+      {
+        "word": "exciting",
+        "confidence": 82
+      },
+      {
+        "word": "competitive",
+        "confidence": 78
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 75
+      },
+      {
+        "word": "celebratory",
+        "confidence": 80
+      }
+    ]
+  }
+}

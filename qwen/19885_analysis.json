@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "analytical",
+        "confidence": 90
+      },
+      {
+        "word": "neutral",
+        "confidence": 80
+      },
+      {
+        "word": "informative",
+        "confidence": 88
+      },
+      {
+        "word": "somber",
+        "confidence": 75
+      },
+      {
+        "word": "regional",
+        "confidence": 70
+      },
+      {
+        "word": "trendy",
+        "confidence": 65
+      },
+      {
+        "word": "statistical",
+        "confidence": 92
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "formal",
+        "confidence": 88
+      },
+      {
+        "word": "diplomatic",
+        "confidence": 85
+      },
+      {
+        "word": "ceremonial",
+        "confidence": 82
+      },
+      {
+        "word": "strategic",
+        "confidence": 78
+      },
+      {
+        "word": "significant",
+        "confidence": 75
+      },
+      {
+        "word": "unusual",
+        "confidence": 72
+      },
+      {
+        "word": "historic",
+        "confidence": 68
+      },
+      {
+        "word": "ambitious",
+        "confidence": 65
+      }
+    ]
+  }
+}

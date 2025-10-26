@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "overwhelmed",
+        "confidence": 90
+      },
+      {
+        "word": "burdened",
+        "confidence": 85
+      },
+      {
+        "word": "exhausting",
+        "confidence": 80
+      },
+      {
+        "word": "challenging",
+        "confidence": 75
+      },
+      {
+        "word": "demanding",
+        "confidence": 78
+      },
+      {
+        "word": "stressful",
+        "confidence": 82
+      }
+    ]
+  }
+}

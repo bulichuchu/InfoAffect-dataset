@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "satisfying",
+        "confidence": 85
+      },
+      {
+        "word": "cherished",
+        "confidence": 80
+      },
+      {
+        "word": "indulgent",
+        "confidence": 75
+      },
+      {
+        "word": "popular",
+        "confidence": 90
+      },
+      {
+        "word": "craving",
+        "confidence": 78
+      },
+      {
+        "word": "comforting",
+        "confidence": 72
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 65
+      },
+      {
+        "word": "pleasurable",
+        "confidence": 70
+      }
+    ]
+  }
+}

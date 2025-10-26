@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "varied",
+        "confidence": 85
+      },
+      {
+        "word": "expensive",
+        "confidence": 80
+      },
+      {
+        "word": "accessible",
+        "confidence": 75
+      },
+      {
+        "word": "comparative",
+        "confidence": 70
+      },
+      {
+        "word": "informative",
+        "confidence": 90
+      },
+      {
+        "word": "practical",
+        "confidence": 65
+      },
+      {
+        "word": "neutral",
+        "confidence": 82
+      },
+      {
+        "word": "analytical",
+        "confidence": 78
+      }
+    ]
+  }
+}

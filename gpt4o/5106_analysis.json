@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disconnect",
+        "confidence": 85
+      },
+      {
+        "word": "opportunity",
+        "confidence": 80
+      },
+      {
+        "word": "gap",
+        "confidence": 75
+      },
+      {
+        "word": "saturation",
+        "confidence": 70
+      },
+      {
+        "word": "investment",
+        "confidence": 68
+      }
+    ]
+  }
+}

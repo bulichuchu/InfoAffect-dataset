@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concern",
+        "confidence": 85
+      },
+      {
+        "word": "inevitable",
+        "confidence": 80
+      },
+      {
+        "word": "dependency",
+        "confidence": 78
+      },
+      {
+        "word": "burden",
+        "confidence": 75
+      },
+      {
+        "word": "aging",
+        "confidence": 70
+      },
+      {
+        "word": "escalation",
+        "confidence": 68
+      }
+    ]
+  }
+}

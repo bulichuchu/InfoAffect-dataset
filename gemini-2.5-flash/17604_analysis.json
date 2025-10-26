@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "uncertainty",
+        "confidence": 95
+      },
+      {
+        "word": "division",
+        "confidence": 90
+      },
+      {
+        "word": "tension",
+        "confidence": 88
+      },
+      {
+        "word": "frustration",
+        "confidence": 85
+      },
+      {
+        "word": "stalemate",
+        "confidence": 80
+      },
+      {
+        "word": "complexity",
+        "confidence": 75
+      }
+    ]
+  }
+}

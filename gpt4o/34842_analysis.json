@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dependency",
+        "confidence": 90
+      },
+      {
+        "word": "struggle",
+        "confidence": 85
+      },
+      {
+        "word": "opportunism",
+        "confidence": 80
+      },
+      {
+        "word": "pressure",
+        "confidence": 78
+      },
+      {
+        "word": "threatened",
+        "confidence": 82
+      },
+      {
+        "word": "crush",
+        "confidence": 86
+      },
+      {
+        "word": "wean",
+        "confidence": 75
+      }
+    ]
+  }
+}

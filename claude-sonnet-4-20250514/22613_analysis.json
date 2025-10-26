@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "celebratory",
+        "confidence": 92
+      },
+      {
+        "word": "festive",
+        "confidence": 89
+      },
+      {
+        "word": "informative",
+        "confidence": 85
+      },
+      {
+        "word": "cultural",
+        "confidence": 82
+      },
+      {
+        "word": "harmonious",
+        "confidence": 75
+      },
+      {
+        "word": "controversial",
+        "confidence": 68
+      },
+      {
+        "word": "diverse",
+        "confidence": 78
+      },
+      {
+        "word": "traditional",
+        "confidence": 80
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "devastating",
+        "confidence": 90
+      },
+      {
+        "word": "challenging",
+        "confidence": 85
+      },
+      {
+        "word": "hopeful",
+        "confidence": 75
+      },
+      {
+        "word": "plummet",
+        "confidence": 80
+      },
+      {
+        "word": "expectation",
+        "confidence": 70
+      },
+      {
+        "word": "reassess",
+        "confidence": 65
+      }
+    ]
+  }
+}

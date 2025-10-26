@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "nostalgic",
+        "confidence": 85
+      },
+      {
+        "word": "playful",
+        "confidence": 80
+      },
+      {
+        "word": "indulgent",
+        "confidence": 75
+      },
+      {
+        "word": "culturally_proud",
+        "confidence": 70
+      },
+      {
+        "word": "controversial",
+        "confidence": 65
+      },
+      {
+        "word": "ironic",
+        "confidence": 60
+      },
+      {
+        "word": "health_concerned",
+        "confidence": 55
+      },
+      {
+        "word": "globalized",
+        "confidence": 50
+      }
+    ]
+  }
+}

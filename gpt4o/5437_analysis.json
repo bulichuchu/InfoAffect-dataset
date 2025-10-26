@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "infested",
+        "confidence": 90
+      },
+      {
+        "word": "problematic",
+        "confidence": 85
+      },
+      {
+        "word": "concerning",
+        "confidence": 80
+      },
+      {
+        "word": "alarming",
+        "confidence": 78
+      },
+      {
+        "word": "notorious",
+        "confidence": 75
+      },
+      {
+        "word": "unpleasant",
+        "confidence": 70
+      }
+    ]
+  }
+}

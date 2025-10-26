@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "relaxed",
+        "confidence": 88
+      },
+      {
+        "word": "comfortable",
+        "confidence": 85
+      },
+      {
+        "word": "content",
+        "confidence": 82
+      },
+      {
+        "word": "leisurely",
+        "confidence": 80
+      },
+      {
+        "word": "indulgent",
+        "confidence": 75
+      },
+      {
+        "word": "peaceful",
+        "confidence": 73
+      },
+      {
+        "word": "informative",
+        "confidence": 70
+      }
+    ]
+  }
+}

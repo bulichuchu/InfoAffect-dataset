@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concern",
+        "confidence": 85
+      },
+      {
+        "word": "protest",
+        "confidence": 80
+      },
+      {
+        "word": "disappointment",
+        "confidence": 78
+      },
+      {
+        "word": "frustration",
+        "confidence": 75
+      },
+      {
+        "word": "decline",
+        "confidence": 70
+      },
+      {
+        "word": "impact",
+        "confidence": 68
+      }
+    ]
+  }
+}

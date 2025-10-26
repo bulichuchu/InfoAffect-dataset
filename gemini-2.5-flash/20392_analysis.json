@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "regretful",
+        "confidence": 90
+      },
+      {
+        "word": "aspirational",
+        "confidence": 88
+      },
+      {
+        "word": "astonishing",
+        "confidence": 85
+      },
+      {
+        "word": "wistful",
+        "confidence": 80
+      },
+      {
+        "word": "envious",
+        "confidence": 75
+      },
+      {
+        "word": "reflective",
+        "confidence": 70
+      }
+    ]
+  }
+}

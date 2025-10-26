@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concern",
+        "confidence": 90
+      },
+      {
+        "word": "impact",
+        "confidence": 85
+      },
+      {
+        "word": "alarm",
+        "confidence": 80
+      },
+      {
+        "word": "intense",
+        "confidence": 78
+      },
+      {
+        "word": "burden",
+        "confidence": 75
+      },
+      {
+        "word": "responsibility",
+        "confidence": 72
+      },
+      {
+        "word": "critical",
+        "confidence": 70
+      }
+    ]
+  }
+}

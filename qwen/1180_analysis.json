@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transformative",
+        "confidence": 88
+      },
+      {
+        "word": "concerned",
+        "confidence": 82
+      },
+      {
+        "word": "disruptive",
+        "confidence": 79
+      },
+      {
+        "word": "uncertain",
+        "confidence": 76
+      },
+      {
+        "word": "adaptive",
+        "confidence": 74
+      },
+      {
+        "word": "declining",
+        "confidence": 70
+      },
+      {
+        "word": "competitive",
+        "confidence": 68
+      },
+      {
+        "word": "evolving",
+        "confidence": 75
+      }
+    ]
+  }
+}

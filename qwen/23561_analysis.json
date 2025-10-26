@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarming",
+        "confidence": 90
+      },
+      {
+        "word": "frustrating",
+        "confidence": 85
+      },
+      {
+        "word": "critical",
+        "confidence": 80
+      },
+      {
+        "word": "outrageous",
+        "confidence": 75
+      },
+      {
+        "word": "disappointing",
+        "confidence": 70
+      },
+      {
+        "word": "urgent",
+        "confidence": 78
+      },
+      {
+        "word": "systemic",
+        "confidence": 65
+      },
+      {
+        "word": "injustice",
+        "confidence": 82
+      }
+    ]
+  }
+}

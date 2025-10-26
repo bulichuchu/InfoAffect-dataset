@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "influential",
+        "confidence": 85
+      },
+      {
+        "word": "reliant",
+        "confidence": 80
+      },
+      {
+        "word": "confident",
+        "confidence": 75
+      },
+      {
+        "word": "persuasive",
+        "confidence": 78
+      },
+      {
+        "word": "decisive",
+        "confidence": 72
+      },
+      {
+        "word": "trustworthy",
+        "confidence": 70
+      },
+      {
+        "word": "informative",
+        "confidence": 65
+      }
+    ]
+  }
+}

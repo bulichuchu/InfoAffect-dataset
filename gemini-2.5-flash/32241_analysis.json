@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dilemmatic",
+        "confidence": 90
+      },
+      {
+        "word": "responsible",
+        "confidence": 88
+      },
+      {
+        "word": "challenging",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 80
+      },
+      {
+        "word": "contemplative",
+        "confidence": 75
+      },
+      {
+        "word": "opportunistic",
+        "confidence": 70
+      },
+      {
+        "word": "earnest",
+        "confidence": 65
+      }
+    ]
+  }
+}

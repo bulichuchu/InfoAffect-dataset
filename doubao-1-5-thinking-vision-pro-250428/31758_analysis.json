@@ -1,0 +1,32 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "divisive",
+          "confidence": 85
+        },
+        {
+          "word": "resistant",
+          "confidence": 80
+        },
+        {
+          "word": "evolving",
+          "confidence": 75
+        },
+        {
+          "word": "contentious",
+          "confidence": 70
+        },
+        {
+          "word": "persistent",
+          "confidence": 65
+        },
+        {
+          "word": "stagnant",
+          "confidence": 60
+        }
+      ]
+    }
+  }
+]

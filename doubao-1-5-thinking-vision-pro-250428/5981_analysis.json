@@ -1,0 +1,36 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "generous",
+          "confidence": 90
+        },
+        {
+          "word": "compassionate",
+          "confidence": 85
+        },
+        {
+          "word": "devout",
+          "confidence": 80
+        },
+        {
+          "word": "hopeful",
+          "confidence": 75
+        },
+        {
+          "word": "positive",
+          "confidence": 88
+        },
+        {
+          "word": "encouraging",
+          "confidence": 70
+        },
+        {
+          "word": "faith-driven",
+          "confidence": 72
+        }
+      ]
+    }
+  }
+]

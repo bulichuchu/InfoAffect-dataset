@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "somber",
+        "confidence": 90
+      },
+      {
+        "word": "decline",
+        "confidence": 85
+      },
+      {
+        "word": "commemorate",
+        "confidence": 80
+      },
+      {
+        "word": "aging",
+        "confidence": 82
+      },
+      {
+        "word": "reflective",
+        "confidence": 75
+      },
+      {
+        "word": "loss",
+        "confidence": 78
+      }
+    ]
+  }
+}

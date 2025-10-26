@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "growth",
+        "confidence": 85
+      },
+      {
+        "word": "steady",
+        "confidence": 80
+      },
+      {
+        "word": "spike",
+        "confidence": 75
+      },
+      {
+        "word": "record-high",
+        "confidence": 70
+      },
+      {
+        "word": "normalize",
+        "confidence": 65
+      }
+    ]
+  }
+}

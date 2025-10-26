@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "cathartic",
+        "confidence": 90
+      },
+      {
+        "word": "redemptive",
+        "confidence": 85
+      },
+      {
+        "word": "relieved",
+        "confidence": 88
+      },
+      {
+        "word": "hopeful",
+        "confidence": 82
+      },
+      {
+        "word": "triumphant",
+        "confidence": 78
+      },
+      {
+        "word": "frustrated",
+        "confidence": 75
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 70
+      },
+      {
+        "word": "believe",
+        "confidence": 76
+      }
+    ]
+  }
+}

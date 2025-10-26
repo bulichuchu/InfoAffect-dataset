@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anticipation",
+        "confidence": 80
+      },
+      {
+        "word": "foreboding",
+        "confidence": 85
+      },
+      {
+        "word": "darkness",
+        "confidence": 90
+      },
+      {
+        "word": "cold",
+        "confidence": 75
+      },
+      {
+        "word": "change",
+        "confidence": 70
+      }
+    ]
+  }
+}

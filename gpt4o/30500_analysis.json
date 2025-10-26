@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "empowered",
+        "confidence": 85
+      },
+      {
+        "word": "privileged",
+        "confidence": 80
+      },
+      {
+        "word": "opportunity",
+        "confidence": 78
+      },
+      {
+        "word": "restricted",
+        "confidence": 75
+      },
+      {
+        "word": "aspirational",
+        "confidence": 72
+      }
+    ]
+  }
+}

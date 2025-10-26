@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "setback",
+        "confidence": 90
+      },
+      {
+        "word": "defeat",
+        "confidence": 88
+      },
+      {
+        "word": "recession",
+        "confidence": 85
+      },
+      {
+        "word": "soaring",
+        "confidence": 82
+      },
+      {
+        "word": "rising",
+        "confidence": 80
+      },
+      {
+        "word": "tense",
+        "confidence": 75
+      },
+      {
+        "word": "concerned",
+        "confidence": 72
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "critical",
+        "confidence": 85
+      },
+      {
+        "word": "controversial",
+        "confidence": 80
+      },
+      {
+        "word": "innovative",
+        "confidence": 75
+      },
+      {
+        "word": "youthful",
+        "confidence": 70
+      },
+      {
+        "word": "environmental",
+        "confidence": 68
+      },
+      {
+        "word": "influential",
+        "confidence": 65
+      }
+    ]
+  }
+}

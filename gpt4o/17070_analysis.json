@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "struggling",
+        "confidence": 90
+      },
+      {
+        "word": "setback",
+        "confidence": 85
+      },
+      {
+        "word": "soaring",
+        "confidence": 82
+      },
+      {
+        "word": "dream",
+        "confidence": 78
+      },
+      {
+        "word": "derailed",
+        "confidence": 88
+      },
+      {
+        "word": "overruns",
+        "confidence": 83
+      }
+    ]
+  }
+}

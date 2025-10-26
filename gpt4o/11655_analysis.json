@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concern",
+        "confidence": 90
+      },
+      {
+        "word": "support",
+        "confidence": 85
+      },
+      {
+        "word": "opponent",
+        "confidence": 80
+      },
+      {
+        "word": "benefiting",
+        "confidence": 75
+      },
+      {
+        "word": "impasse",
+        "confidence": 70
+      },
+      {
+        "word": "negotiations",
+        "confidence": 65
+      }
+    ]
+  }
+}

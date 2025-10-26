@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "popular",
+        "confidence": 90
+      },
+      {
+        "word": "welcoming",
+        "confidence": 85
+      },
+      {
+        "word": "exciting",
+        "confidence": 80
+      },
+      {
+        "word": "incredible",
+        "confidence": 78
+      },
+      {
+        "word": "crowded",
+        "confidence": 75
+      },
+      {
+        "word": "inviting",
+        "confidence": 70
+      }
+    ]
+  }
+}

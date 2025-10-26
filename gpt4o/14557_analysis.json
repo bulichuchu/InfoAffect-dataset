@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "catharsis",
+        "confidence": 95
+      },
+      {
+        "word": "historic",
+        "confidence": 90
+      },
+      {
+        "word": "redemption",
+        "confidence": 88
+      },
+      {
+        "word": "frustration",
+        "confidence": 85
+      },
+      {
+        "word": "belief",
+        "confidence": 80
+      },
+      {
+        "word": "pain",
+        "confidence": 78
+      },
+      {
+        "word": "ironic",
+        "confidence": 70
+      }
+    ]
+  }
+}

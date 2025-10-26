@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "desperate",
+        "confidence": 90
+      },
+      {
+        "word": "grim",
+        "confidence": 85
+      },
+      {
+        "word": "restrictive",
+        "confidence": 80
+      },
+      {
+        "word": "tense",
+        "confidence": 75
+      },
+      {
+        "word": "hazardous",
+        "confidence": 82
+      },
+      {
+        "word": "difficult",
+        "confidence": 78
+      },
+      {
+        "word": "traumatic",
+        "confidence": 88
+      }
+    ]
+  }
+}

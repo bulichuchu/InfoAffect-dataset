@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "engaging",
+        "confidence": 90
+      },
+      {
+        "word": "social",
+        "confidence": 85
+      },
+      {
+        "word": "compelling",
+        "confidence": 82
+      },
+      {
+        "word": "strategic",
+        "confidence": 78
+      },
+      {
+        "word": "immersive",
+        "confidence": 75
+      },
+      {
+        "word": "connected",
+        "confidence": 73
+      },
+      {
+        "word": "competitive",
+        "confidence": 70
+      },
+      {
+        "word": "addictive",
+        "confidence": 68
+      }
+    ]
+  }
+}

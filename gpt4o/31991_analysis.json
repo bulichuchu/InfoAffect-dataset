@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unequal",
+        "confidence": 90
+      },
+      {
+        "word": "concerning",
+        "confidence": 85
+      },
+      {
+        "word": "disparity",
+        "confidence": 80
+      },
+      {
+        "word": "alarming",
+        "confidence": 83
+      },
+      {
+        "word": "challenging",
+        "confidence": 78
+      },
+      {
+        "word": "unjust",
+        "confidence": 76
+      },
+      {
+        "word": "inequitable",
+        "confidence": 74
+      }
+    ]
+  }
+}

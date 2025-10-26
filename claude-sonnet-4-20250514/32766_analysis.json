@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "convenient",
+        "confidence": 88
+      },
+      {
+        "word": "casual",
+        "confidence": 82
+      },
+      {
+        "word": "informative",
+        "confidence": 85
+      },
+      {
+        "word": "neutral",
+        "confidence": 80
+      },
+      {
+        "word": "accessible",
+        "confidence": 75
+      },
+      {
+        "word": "practical",
+        "confidence": 78
+      },
+      {
+        "word": "lazy",
+        "confidence": 65
+      },
+      {
+        "word": "straightforward",
+        "confidence": 72
+      }
+    ]
+  }
+}

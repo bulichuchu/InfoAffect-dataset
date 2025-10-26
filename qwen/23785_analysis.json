@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "adaptable",
+        "confidence": 85
+      },
+      {
+        "word": "resigned",
+        "confidence": 78
+      },
+      {
+        "word": "practical",
+        "confidence": 80
+      },
+      {
+        "word": "cautious",
+        "confidence": 75
+      },
+      {
+        "word": "somber",
+        "confidence": 70
+      },
+      {
+        "word": "determined",
+        "confidence": 65
+      },
+      {
+        "word": "accepting",
+        "confidence": 72
+      },
+      {
+        "word": "melancholic",
+        "confidence": 68
+      }
+    ]
+  }
+}

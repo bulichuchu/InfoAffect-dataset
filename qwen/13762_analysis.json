@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "steady",
+        "confidence": 90
+      },
+      {
+        "word": "growth",
+        "confidence": 85
+      },
+      {
+        "word": "positive",
+        "confidence": 80
+      },
+      {
+        "word": "confident",
+        "confidence": 75
+      },
+      {
+        "word": "monopolize",
+        "confidence": 70
+      },
+      {
+        "word": "unstoppable",
+        "confidence": 65
+      },
+      {
+        "word": "satisfying",
+        "confidence": 60
+      },
+      {
+        "word": "strategic",
+        "confidence": 55
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "rising",
+        "confidence": 90
+      },
+      {
+        "word": "competitive",
+        "confidence": 78
+      },
+      {
+        "word": "volatile",
+        "confidence": 75
+      },
+      {
+        "word": "strategic",
+        "confidence": 70
+      },
+      {
+        "word": "uncertain",
+        "confidence": 68
+      },
+      {
+        "word": "dramatic",
+        "confidence": 65
+      },
+      {
+        "word": "tense",
+        "confidence": 62
+      }
+    ]
+  }
+}

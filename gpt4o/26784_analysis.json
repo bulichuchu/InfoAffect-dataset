@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "satisfied",
+        "confidence": 95
+      },
+      {
+        "word": "loyal",
+        "confidence": 90
+      },
+      {
+        "word": "positive",
+        "confidence": 88
+      },
+      {
+        "word": "easy",
+        "confidence": 85
+      },
+      {
+        "word": "best-selling",
+        "confidence": 80
+      },
+      {
+        "word": "favorable",
+        "confidence": 78
+      }
+    ]
+  }
+}

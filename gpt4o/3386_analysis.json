@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "pride",
+        "confidence": 90
+      },
+      {
+        "word": "admiration",
+        "confidence": 88
+      },
+      {
+        "word": "satisfaction",
+        "confidence": 85
+      },
+      {
+        "word": "trust",
+        "confidence": 82
+      },
+      {
+        "word": "prestige",
+        "confidence": 80
+      },
+      {
+        "word": "confidence",
+        "confidence": 78
+      },
+      {
+        "word": "respect",
+        "confidence": 75
+      }
+    ]
+  }
+}

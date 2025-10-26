@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "organised",
+        "confidence": 85
+      },
+      {
+        "word": "efficient",
+        "confidence": 80
+      },
+      {
+        "word": "collaborative",
+        "confidence": 75
+      },
+      {
+        "word": "necessary",
+        "confidence": 70
+      },
+      {
+        "word": "supportive",
+        "confidence": 65
+      }
+    ]
+  }
+}

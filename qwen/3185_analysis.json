@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "enthusiastic",
+        "confidence": 85
+      },
+      {
+        "word": "global",
+        "confidence": 80
+      },
+      {
+        "word": "expansive",
+        "confidence": 75
+      },
+      {
+        "word": "popular",
+        "confidence": 82
+      },
+      {
+        "word": "impressive",
+        "confidence": 78
+      },
+      {
+        "word": "positive",
+        "confidence": 76
+      },
+      {
+        "word": "engaging",
+        "confidence": 70
+      },
+      {
+        "word": "thriving",
+        "confidence": 68
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "futuristic",
+        "confidence": 90
+      },
+      {
+        "word": "extravagant",
+        "confidence": 85
+      },
+      {
+        "word": "practical",
+        "confidence": 80
+      },
+      {
+        "word": "convincing",
+        "confidence": 75
+      },
+      {
+        "word": "ambitious",
+        "confidence": 78
+      },
+      {
+        "word": "rugged",
+        "confidence": 72
+      },
+      {
+        "word": "innovative",
+        "confidence": 82
+      },
+      {
+        "word": "strategic",
+        "confidence": 76
+      }
+    ]
+  }
+}

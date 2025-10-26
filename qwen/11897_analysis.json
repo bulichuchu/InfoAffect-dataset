@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "competitive",
+        "confidence": 85
+      },
+      {
+        "word": "prestigious",
+        "confidence": 80
+      },
+      {
+        "word": "excellence",
+        "confidence": 78
+      },
+      {
+        "word": "aspirational",
+        "confidence": 75
+      },
+      {
+        "word": "accomplished",
+        "confidence": 72
+      },
+      {
+        "word": "reassuring",
+        "confidence": 68
+      },
+      {
+        "word": "elite",
+        "confidence": 70
+      },
+      {
+        "word": "motivating",
+        "confidence": 65
+      }
+    ]
+  }
+}

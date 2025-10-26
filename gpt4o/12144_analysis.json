@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "investment",
+        "confidence": 85
+      },
+      {
+        "word": "shifting",
+        "confidence": 80
+      },
+      {
+        "word": "competitive",
+        "confidence": 75
+      },
+      {
+        "word": "concern",
+        "confidence": 70
+      },
+      {
+        "word": "decline",
+        "confidence": 65
+      },
+      {
+        "word": "evolving",
+        "confidence": 72
+      }
+    ]
+  }
+}

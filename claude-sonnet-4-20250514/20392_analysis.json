@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "regretful",
+        "confidence": 90
+      },
+      {
+        "word": "wistful",
+        "confidence": 85
+      },
+      {
+        "word": "aspirational",
+        "confidence": 82
+      },
+      {
+        "word": "envious",
+        "confidence": 78
+      },
+      {
+        "word": "optimistic",
+        "confidence": 75
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 72
+      },
+      {
+        "word": "hopeful",
+        "confidence": 68
+      },
+      {
+        "word": "cautionary",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "responsible",
+        "confidence": 80
+      },
+      {
+        "word": "urgent",
+        "confidence": 75
+      },
+      {
+        "word": "regretful",
+        "confidence": 70
+      },
+      {
+        "word": "problematic",
+        "confidence": 78
+      },
+      {
+        "word": "calling",
+        "confidence": 65
+      }
+    ]
+  }
+}

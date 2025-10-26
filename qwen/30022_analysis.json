@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "curious",
+        "confidence": 85
+      },
+      {
+        "word": "admiring",
+        "confidence": 80
+      },
+      {
+        "word": "engaged",
+        "confidence": 78
+      },
+      {
+        "word": "appreciative",
+        "confidence": 75
+      },
+      {
+        "word": "wonderful",
+        "confidence": 72
+      },
+      {
+        "word": "cultural",
+        "confidence": 70
+      },
+      {
+        "word": "inspired",
+        "confidence": 68
+      },
+      {
+        "word": "proud",
+        "confidence": 65
+      }
+    ]
+  }
+}

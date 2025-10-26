@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frustrated",
+        "confidence": 90
+      },
+      {
+        "word": "stalemate",
+        "confidence": 88
+      },
+      {
+        "word": "urgent",
+        "confidence": 85
+      },
+      {
+        "word": "obstructive",
+        "confidence": 80
+      },
+      {
+        "word": "exasperated",
+        "confidence": 78
+      },
+      {
+        "word": "concerned",
+        "confidence": 75
+      }
+    ]
+  }
+}

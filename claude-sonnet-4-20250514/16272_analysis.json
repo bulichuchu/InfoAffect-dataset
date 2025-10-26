@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mysterious",
+        "confidence": 75
+      },
+      {
+        "word": "revealing",
+        "confidence": 82
+      },
+      {
+        "word": "prejudicial",
+        "confidence": 70
+      },
+      {
+        "word": "healthy",
+        "confidence": 78
+      },
+      {
+        "word": "poisoned",
+        "confidence": 85
+      },
+      {
+        "word": "concerning",
+        "confidence": 72
+      },
+      {
+        "word": "informative",
+        "confidence": 80
+      }
+    ]
+  }
+}

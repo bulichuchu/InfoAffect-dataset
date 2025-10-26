@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "serious",
+        "confidence": 90
+      },
+      {
+        "word": "confrontational",
+        "confidence": 85
+      },
+      {
+        "word": "tense",
+        "confidence": 80
+      },
+      {
+        "word": "accusatory",
+        "confidence": 75
+      },
+      {
+        "word": "significant",
+        "confidence": 70
+      },
+      {
+        "word": "critical",
+        "confidence": 65
+      },
+      {
+        "word": "formal",
+        "confidence": 60
+      },
+      {
+        "word": "strategic",
+        "confidence": 55
+      }
+    ]
+  }
+}

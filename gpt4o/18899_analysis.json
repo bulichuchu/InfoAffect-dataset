@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "blow",
+        "confidence": 90
+      },
+      {
+        "word": "peril",
+        "confidence": 85
+      },
+      {
+        "word": "defection",
+        "confidence": 80
+      },
+      {
+        "word": "overturned",
+        "confidence": 75
+      },
+      {
+        "word": "slim",
+        "confidence": 70
+      },
+      {
+        "word": "lost",
+        "confidence": 88
+      }
+    ]
+  }
+}

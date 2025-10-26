@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dominant",
+        "confidence": 85
+      },
+      {
+        "word": "surging",
+        "confidence": 80
+      },
+      {
+        "word": "overwhelming",
+        "confidence": 75
+      },
+      {
+        "word": "pervasive",
+        "confidence": 78
+      },
+      {
+        "word": "transformative",
+        "confidence": 72
+      },
+      {
+        "word": "impactful",
+        "confidence": 70
+      },
+      {
+        "word": "ubiquitous",
+        "confidence": 68
+      },
+      {
+        "word": "disruptive",
+        "confidence": 65
+      }
+    ]
+  }
+}

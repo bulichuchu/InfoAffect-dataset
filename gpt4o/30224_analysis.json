@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unequal",
+        "confidence": 90
+      },
+      {
+        "word": "disproportionate",
+        "confidence": 85
+      },
+      {
+        "word": "opportunity",
+        "confidence": 78
+      },
+      {
+        "word": "concern",
+        "confidence": 82
+      },
+      {
+        "word": "inequality",
+        "confidence": 88
+      },
+      {
+        "word": "profited",
+        "confidence": 75
+      },
+      {
+        "word": "wealthy",
+        "confidence": 80
+      }
+    ]
+  }
+}

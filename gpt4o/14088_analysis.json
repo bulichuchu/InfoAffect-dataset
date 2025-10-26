@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "isolated",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 80
+      },
+      {
+        "word": "overwhelmed",
+        "confidence": 78
+      },
+      {
+        "word": "addicted",
+        "confidence": 82
+      },
+      {
+        "word": "connected",
+        "confidence": 75
+      },
+      {
+        "word": "dependent",
+        "confidence": 77
+      },
+      {
+        "word": "ubiquitous",
+        "confidence": 70
+      },
+      {
+        "word": "disconnected",
+        "confidence": 73
+      }
+    ]
+  }
+}

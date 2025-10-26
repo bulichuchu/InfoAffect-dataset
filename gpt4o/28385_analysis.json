@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "costliest",
+        "confidence": 90
+      },
+      {
+        "word": "devastating",
+        "confidence": 85
+      },
+      {
+        "word": "deadliest",
+        "confidence": 82
+      },
+      {
+        "word": "preparing",
+        "confidence": 75
+      },
+      {
+        "word": "uncertain",
+        "confidence": 70
+      },
+      {
+        "word": "alarming",
+        "confidence": 88
+      }
+    ]
+  }
+}

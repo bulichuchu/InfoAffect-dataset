@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "battlefield",
+        "confidence": 90
+      },
+      {
+        "word": "skyrocket",
+        "confidence": 85
+      },
+      {
+        "word": "targeted",
+        "confidence": 80
+      },
+      {
+        "word": "illegal",
+        "confidence": 75
+      },
+      {
+        "word": "infringement",
+        "confidence": 70
+      },
+      {
+        "word": "fight",
+        "confidence": 68
+      },
+      {
+        "word": "claims",
+        "confidence": 65
+      }
+    ]
+  }
+}

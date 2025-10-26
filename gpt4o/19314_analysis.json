@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "troubling",
+        "confidence": 90
+      },
+      {
+        "word": "determination",
+        "confidence": 85
+      },
+      {
+        "word": "escalation",
+        "confidence": 82
+      },
+      {
+        "word": "surprising",
+        "confidence": 78
+      },
+      {
+        "word": "cost",
+        "confidence": 75
+      },
+      {
+        "word": "crime",
+        "confidence": 80
+      }
+    ]
+  }
+}

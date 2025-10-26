@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "miserable",
+        "confidence": 85
+      },
+      {
+        "word": "uncomfortable",
+        "confidence": 82
+      },
+      {
+        "word": "determined",
+        "confidence": 78
+      },
+      {
+        "word": "resigned",
+        "confidence": 75
+      },
+      {
+        "word": "weary",
+        "confidence": 70
+      },
+      {
+        "word": "persevering",
+        "confidence": 68
+      },
+      {
+        "word": "burdened",
+        "confidence": 65
+      }
+    ]
+  }
+}

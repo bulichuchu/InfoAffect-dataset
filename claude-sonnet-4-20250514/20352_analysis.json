@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "uncomfortable",
+        "confidence": 92
+      },
+      {
+        "word": "cringe",
+        "confidence": 88
+      },
+      {
+        "word": "awkward",
+        "confidence": 85
+      },
+      {
+        "word": "vulnerable",
+        "confidence": 78
+      },
+      {
+        "word": "relatable",
+        "confidence": 75
+      },
+      {
+        "word": "empathetic",
+        "confidence": 70
+      },
+      {
+        "word": "conflicted",
+        "confidence": 68
+      }
+    ]
+  }
+}

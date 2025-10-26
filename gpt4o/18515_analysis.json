@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "stable",
+        "confidence": 85
+      },
+      {
+        "word": "stalled",
+        "confidence": 80
+      },
+      {
+        "word": "lowest",
+        "confidence": 78
+      },
+      {
+        "word": "interesting",
+        "confidence": 70
+      },
+      {
+        "word": "revealing",
+        "confidence": 68
+      },
+      {
+        "word": "change",
+        "confidence": 75
+      }
+    ]
+  }
+}

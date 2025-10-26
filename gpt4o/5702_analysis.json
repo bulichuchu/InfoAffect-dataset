@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "regret",
+        "confidence": 90
+      },
+      {
+        "word": "pressure",
+        "confidence": 85
+      },
+      {
+        "word": "common",
+        "confidence": 80
+      },
+      {
+        "word": "unsuitable",
+        "confidence": 75
+      },
+      {
+        "word": "worry",
+        "confidence": 70
+      }
+    ]
+  }
+}

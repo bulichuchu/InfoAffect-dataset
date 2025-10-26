@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unexpected",
+        "confidence": 88
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 82
+      },
+      {
+        "word": "skeptical",
+        "confidence": 79
+      },
+      {
+        "word": "ambitious",
+        "confidence": 75
+      },
+      {
+        "word": "uncertain",
+        "confidence": 73
+      },
+      {
+        "word": "proud",
+        "confidence": 70
+      },
+      {
+        "word": "informative",
+        "confidence": 85
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "admired",
+        "confidence": 90
+      },
+      {
+        "word": "polarized",
+        "confidence": 85
+      },
+      {
+        "word": "popular",
+        "confidence": 80
+      },
+      {
+        "word": "consecutive",
+        "confidence": 75
+      },
+      {
+        "word": "tied",
+        "confidence": 70
+      },
+      {
+        "word": "independents",
+        "confidence": 65
+      }
+    ]
+  }
+}

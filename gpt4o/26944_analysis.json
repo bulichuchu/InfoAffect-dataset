@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "shaken",
+        "confidence": 90
+      },
+      {
+        "word": "crippling",
+        "confidence": 85
+      },
+      {
+        "word": "isolate",
+        "confidence": 80
+      },
+      {
+        "word": "historical",
+        "confidence": 75
+      },
+      {
+        "word": "surprised",
+        "confidence": 70
+      },
+      {
+        "word": "hyperinflation",
+        "confidence": 65
+      }
+    ]
+  }
+}

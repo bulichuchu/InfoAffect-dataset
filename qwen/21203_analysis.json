@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "devastating",
+        "confidence": 90
+      },
+      {
+        "word": "urgent",
+        "confidence": 85
+      },
+      {
+        "word": "alarming",
+        "confidence": 88
+      },
+      {
+        "word": "desperate",
+        "confidence": 75
+      },
+      {
+        "word": "grim",
+        "confidence": 80
+      },
+      {
+        "word": "sudden",
+        "confidence": 78
+      },
+      {
+        "word": "catastrophic",
+        "confidence": 82
+      },
+      {
+        "word": "hopeful",
+        "confidence": 65
+      }
+    ]
+  }
+}

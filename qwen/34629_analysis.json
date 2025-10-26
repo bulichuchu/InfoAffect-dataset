@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "favorable",
+        "confidence": 85
+      },
+      {
+        "word": "patriotic",
+        "confidence": 78
+      },
+      {
+        "word": "dominant",
+        "confidence": 75
+      },
+      {
+        "word": "reassuring",
+        "confidence": 70
+      },
+      {
+        "word": "competitive",
+        "confidence": 65
+      },
+      {
+        "word": "trusted",
+        "confidence": 80
+      },
+      {
+        "word": "nationalistic",
+        "confidence": 72
+      },
+      {
+        "word": "established",
+        "confidence": 68
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "pride",
+        "confidence": 85
+      },
+      {
+        "word": "trust",
+        "confidence": 80
+      },
+      {
+        "word": "credit",
+        "confidence": 78
+      },
+      {
+        "word": "catastrophe",
+        "confidence": 70
+      },
+      {
+        "word": "recovery",
+        "confidence": 75
+      },
+      {
+        "word": "prowess",
+        "confidence": 82
+      }
+    ]
+  }
+}

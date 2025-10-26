@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mania",
+        "confidence": 90
+      },
+      {
+        "word": "excitement",
+        "confidence": 85
+      },
+      {
+        "word": "gratitude",
+        "confidence": 80
+      },
+      {
+        "word": "success",
+        "confidence": 88
+      },
+      {
+        "word": "astonishment",
+        "confidence": 70
+      },
+      {
+        "word": "encouraged",
+        "confidence": 75
+      },
+      {
+        "word": "appreciation",
+        "confidence": 78
+      },
+      {
+        "word": "noteworthy",
+        "confidence": 73
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "detrimental",
+        "confidence": 90
+      },
+      {
+        "word": "likely",
+        "confidence": 80
+      },
+      {
+        "word": "emergence",
+        "confidence": 75
+      },
+      {
+        "word": "terminated",
+        "confidence": 85
+      },
+      {
+        "word": "increasing",
+        "confidence": 78
+      }
+    ]
+  }
+}

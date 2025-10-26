@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disruption",
+        "confidence": 90
+      },
+      {
+        "word": "decline",
+        "confidence": 85
+      },
+      {
+        "word": "cautious",
+        "confidence": 80
+      },
+      {
+        "word": "pressures",
+        "confidence": 78
+      },
+      {
+        "word": "riskier",
+        "confidence": 75
+      },
+      {
+        "word": "focus",
+        "confidence": 73
+      }
+    ]
+  }
+}

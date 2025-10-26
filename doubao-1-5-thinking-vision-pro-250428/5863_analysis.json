@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "reverent",
+        "confidence": 90
+      },
+      {
+        "word": "grateful",
+        "confidence": 85
+      },
+      {
+        "word": "somber",
+        "confidence": 82
+      },
+      {
+        "word": "reflective",
+        "confidence": 80
+      },
+      {
+        "word": "poignant",
+        "confidence": 78
+      },
+      {
+        "word": "remembrance",
+        "confidence": 75
+      },
+      {
+        "word": "regretful",
+        "confidence": 65
+      }
+    ]
+  }
+}

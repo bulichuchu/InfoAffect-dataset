@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "powerful",
+        "confidence": 90
+      },
+      {
+        "word": "influential",
+        "confidence": 88
+      },
+      {
+        "word": "stoic",
+        "confidence": 85
+      },
+      {
+        "word": "resilient",
+        "confidence": 83
+      },
+      {
+        "word": "admirable",
+        "confidence": 80
+      },
+      {
+        "word": "enduring",
+        "confidence": 78
+      },
+      {
+        "word": "reflective",
+        "confidence": 75
+      }
+    ]
+  }
+}

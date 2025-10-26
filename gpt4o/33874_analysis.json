@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerns",
+        "confidence": 90
+      },
+      {
+        "word": "safety",
+        "confidence": 85
+      },
+      {
+        "word": "decline",
+        "confidence": 80
+      },
+      {
+        "word": "damage",
+        "confidence": 75
+      },
+      {
+        "word": "assure",
+        "confidence": 70
+      },
+      {
+        "word": "recovery",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "welcoming",
+        "confidence": 90
+      },
+      {
+        "word": "compassionate",
+        "confidence": 85
+      },
+      {
+        "word": "hopeful",
+        "confidence": 78
+      },
+      {
+        "word": "divided",
+        "confidence": 75
+      },
+      {
+        "word": "concerned",
+        "confidence": 70
+      },
+      {
+        "word": "discouraging",
+        "confidence": 65
+      },
+      {
+        "word": "inclusive",
+        "confidence": 80
+      },
+      {
+        "word": "reflective",
+        "confidence": 68
+      }
+    ]
+  }
+}

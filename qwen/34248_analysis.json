@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disappointing",
+        "confidence": 90
+      },
+      {
+        "word": "negative",
+        "confidence": 88
+      },
+      {
+        "word": "underwhelming",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 80
+      },
+      {
+        "word": "dragging",
+        "confidence": 78
+      },
+      {
+        "word": "lackluster",
+        "confidence": 75
+      },
+      {
+        "word": "worrisome",
+        "confidence": 72
+      },
+      {
+        "word": "frustrating",
+        "confidence": 68
+      }
+    ]
+  }
+}

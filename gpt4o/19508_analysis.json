@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "exclusive",
+        "confidence": 85
+      },
+      {
+        "word": "elite",
+        "confidence": 82
+      },
+      {
+        "word": "privileged",
+        "confidence": 80
+      },
+      {
+        "word": "dominant",
+        "confidence": 78
+      },
+      {
+        "word": "aspirational",
+        "confidence": 75
+      },
+      {
+        "word": "competitive",
+        "confidence": 74
+      }
+    ]
+  }
+}

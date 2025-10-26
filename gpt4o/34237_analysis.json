@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "trust",
+        "confidence": 85
+      },
+      {
+        "word": "curiosity",
+        "confidence": 80
+      },
+      {
+        "word": "confidence",
+        "confidence": 75
+      },
+      {
+        "word": "influence",
+        "confidence": 70
+      },
+      {
+        "word": "cautious",
+        "confidence": 65
+      },
+      {
+        "word": "engaged",
+        "confidence": 60
+      }
+    ]
+  }
+}

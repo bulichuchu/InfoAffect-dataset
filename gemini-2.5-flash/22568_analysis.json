@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "joyful",
+        "confidence": 95
+      },
+      {
+        "word": "unifying",
+        "confidence": 98
+      },
+      {
+        "word": "relieved",
+        "confidence": 90
+      },
+      {
+        "word": "purposeful",
+        "confidence": 90
+      },
+      {
+        "word": "resilient",
+        "confidence": 85
+      },
+      {
+        "word": "hopeful",
+        "confidence": 80
+      }
+    ]
+  }
+}

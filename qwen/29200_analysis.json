@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dominant",
+        "confidence": 90
+      },
+      {
+        "word": "remarkable",
+        "confidence": 85
+      },
+      {
+        "word": "resurgence",
+        "confidence": 80
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 75
+      },
+      {
+        "word": "impressive",
+        "confidence": 88
+      },
+      {
+        "word": "surprising",
+        "confidence": 70
+      },
+      {
+        "word": "celebratory",
+        "confidence": 72
+      },
+      {
+        "word": "modern",
+        "confidence": 65
+      }
+    ]
+  }
+}

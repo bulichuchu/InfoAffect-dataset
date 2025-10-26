@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "controversial",
+        "confidence": 85
+      },
+      {
+        "word": "criticism",
+        "confidence": 80
+      },
+      {
+        "word": "awareness",
+        "confidence": 75
+      },
+      {
+        "word": "concern",
+        "confidence": 70
+      },
+      {
+        "word": "caution",
+        "confidence": 65
+      },
+      {
+        "word": "accountability",
+        "confidence": 60
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "historical",
+        "confidence": 90
+      },
+      {
+        "word": "respectful",
+        "confidence": 85
+      },
+      {
+        "word": "solemn",
+        "confidence": 80
+      },
+      {
+        "word": "proud",
+        "confidence": 75
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 70
+      },
+      {
+        "word": "ceremonial",
+        "confidence": 78
+      },
+      {
+        "word": "transitional",
+        "confidence": 72
+      },
+      {
+        "word": "reverent",
+        "confidence": 76
+      }
+    ]
+  }
+}

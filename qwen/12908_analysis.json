@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "romantic",
+        "confidence": 85
+      },
+      {
+        "word": "generous",
+        "confidence": 80
+      },
+      {
+        "word": "competitive",
+        "confidence": 75
+      },
+      {
+        "word": "affectionate",
+        "confidence": 72
+      },
+      {
+        "word": "materialistic",
+        "confidence": 68
+      },
+      {
+        "word": "surprised",
+        "confidence": 65
+      },
+      {
+        "word": "playful",
+        "confidence": 60
+      },
+      {
+        "word": "sentimental",
+        "confidence": 70
+      }
+    ]
+  }
+}

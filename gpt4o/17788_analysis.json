@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dominant",
+        "confidence": 90
+      },
+      {
+        "word": "imbalanced",
+        "confidence": 85
+      },
+      {
+        "word": "disproportionate",
+        "confidence": 80
+      },
+      {
+        "word": "concentrated",
+        "confidence": 78
+      },
+      {
+        "word": "significant",
+        "confidence": 75
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "influential",
+        "confidence": 90
+      },
+      {
+        "word": "corrupt",
+        "confidence": 85
+      },
+      {
+        "word": "critical",
+        "confidence": 80
+      },
+      {
+        "word": "concern",
+        "confidence": 75
+      },
+      {
+        "word": "discontent",
+        "confidence": 75
+      },
+      {
+        "word": "imbalanced",
+        "confidence": 70
+      }
+    ]
+  }
+}

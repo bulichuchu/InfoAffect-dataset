@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "contentious",
+        "confidence": 70
+      },
+      {
+        "word": "concerned",
+        "confidence": 75
+      },
+      {
+        "word": "supportive",
+        "confidence": 80
+      },
+      {
+        "word": "bipartisan",
+        "confidence": 75
+      },
+      {
+        "word": "resolute",
+        "confidence": 70
+      },
+      {
+        "word": "informative",
+        "confidence": 85
+      },
+      {
+        "word": "cautious",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anticipation",
+        "confidence": 95
+      },
+      {
+        "word": "hype",
+        "confidence": 90
+      },
+      {
+        "word": "excitement",
+        "confidence": 85
+      },
+      {
+        "word": "speculation",
+        "confidence": 80
+      },
+      {
+        "word": "diversified",
+        "confidence": 75
+      },
+      {
+        "word": "buzz",
+        "confidence": 85
+      }
+    ]
+  }
+}

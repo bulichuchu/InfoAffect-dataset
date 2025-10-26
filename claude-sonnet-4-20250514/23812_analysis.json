@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "hopeful",
+        "confidence": 88
+      },
+      {
+        "word": "optimistic",
+        "confidence": 85
+      },
+      {
+        "word": "reflective",
+        "confidence": 82
+      },
+      {
+        "word": "appealing",
+        "confidence": 78
+      },
+      {
+        "word": "motivated",
+        "confidence": 75
+      },
+      {
+        "word": "longing",
+        "confidence": 72
+      },
+      {
+        "word": "determined",
+        "confidence": 70
+      },
+      {
+        "word": "rejuvenating",
+        "confidence": 68
+      }
+    ]
+  }
+}

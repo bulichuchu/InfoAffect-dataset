@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "admiration",
+        "confidence": 90
+      },
+      {
+        "word": "respect",
+        "confidence": 85
+      },
+      {
+        "word": "satisfaction",
+        "confidence": 80
+      },
+      {
+        "word": "valued",
+        "confidence": 75
+      },
+      {
+        "word": "appreciation",
+        "confidence": 78
+      },
+      {
+        "word": "trust",
+        "confidence": 82
+      }
+    ]
+  }
+}

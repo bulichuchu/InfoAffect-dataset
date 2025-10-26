@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "ineffective",
+        "confidence": 93
+      },
+      {
+        "word": "fragmented",
+        "confidence": 92
+      },
+      {
+        "word": "frustrating",
+        "confidence": 90
+      },
+      {
+        "word": "disappointing",
+        "confidence": 88
+      },
+      {
+        "word": "worrisome",
+        "confidence": 85
+      },
+      {
+        "word": "chaotic",
+        "confidence": 75
+      }
+    ]
+  }
+}

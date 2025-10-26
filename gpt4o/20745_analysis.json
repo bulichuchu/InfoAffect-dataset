@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "partisan",
+        "confidence": 90
+      },
+      {
+        "word": "historic",
+        "confidence": 85
+      },
+      {
+        "word": "impossible",
+        "confidence": 80
+      },
+      {
+        "word": "convicting",
+        "confidence": 75
+      },
+      {
+        "word": "acquitted",
+        "confidence": 70
+      },
+      {
+        "word": "narrowly",
+        "confidence": 68
+      },
+      {
+        "word": "faith",
+        "confidence": 65
+      }
+    ]
+  }
+}

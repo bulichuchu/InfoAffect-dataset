@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 90
+      },
+      {
+        "word": "cautious",
+        "confidence": 85
+      },
+      {
+        "word": "practical",
+        "confidence": 80
+      },
+      {
+        "word": "discerning",
+        "confidence": 75
+      },
+      {
+        "word": "safety-conscious",
+        "confidence": 88
+      },
+      {
+        "word": "value-driven",
+        "confidence": 70
+      },
+      {
+        "word": "informed",
+        "confidence": 72
+      },
+      {
+        "word": "hesitant",
+        "confidence": 65
+      }
+    ]
+  }
+}

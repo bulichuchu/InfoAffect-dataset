@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "impressive",
+        "confidence": 85
+      },
+      {
+        "word": "optimistic",
+        "confidence": 80
+      },
+      {
+        "word": "hopeful",
+        "confidence": 75
+      },
+      {
+        "word": "underdeveloped",
+        "confidence": 70
+      },
+      {
+        "word": "potential",
+        "confidence": 78
+      },
+      {
+        "word": "cautious",
+        "confidence": 65
+      },
+      {
+        "word": "realistic",
+        "confidence": 72
+      },
+      {
+        "word": "aspirational",
+        "confidence": 68
+      }
+    ]
+  }
+}

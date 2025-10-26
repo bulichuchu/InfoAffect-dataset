@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disappointing",
+        "confidence": 90
+      },
+      {
+        "word": "defensive",
+        "confidence": 85
+      },
+      {
+        "word": "resilient",
+        "confidence": 80
+      },
+      {
+        "word": "exaggerated",
+        "confidence": 75
+      },
+      {
+        "word": "dominant",
+        "confidence": 82
+      },
+      {
+        "word": "misjudged",
+        "confidence": 78
+      },
+      {
+        "word": "reassuring",
+        "confidence": 70
+      },
+      {
+        "word": "controversial",
+        "confidence": 65
+      }
+    ]
+  }
+}

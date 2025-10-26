@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "underwhelming",
+        "confidence": 80
+      },
+      {
+        "word": "cautious",
+        "confidence": 75
+      },
+      {
+        "word": "muted",
+        "confidence": 70
+      },
+      {
+        "word": "unimpressive",
+        "confidence": 75
+      },
+      {
+        "word": "neutral",
+        "confidence": 85
+      }
+    ]
+  }
+}

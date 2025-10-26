@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "costly",
+        "confidence": 90
+      },
+      {
+        "word": "luxurious",
+        "confidence": 85
+      },
+      {
+        "word": "exclusive",
+        "confidence": 82
+      },
+      {
+        "word": "competitive",
+        "confidence": 78
+      },
+      {
+        "word": "prestigious",
+        "confidence": 80
+      },
+      {
+        "word": "business - oriented",
+        "confidence": 75
+      }
+    ]
+  }
+}

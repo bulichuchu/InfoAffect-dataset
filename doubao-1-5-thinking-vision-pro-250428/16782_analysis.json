@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "advocative",
+        "confidence": 80
+      },
+      {
+        "word": "controversial",
+        "confidence": 75
+      },
+      {
+        "word": "historic",
+        "confidence": 78
+      },
+      {
+        "word": "supportive",
+        "confidence": 72
+      },
+      {
+        "word": "reforming",
+        "confidence": 70
+      },
+      {
+        "word": "polarizing",
+        "confidence": 68
+      },
+      {
+        "word": "analytical",
+        "confidence": 75
+      }
+    ]
+  }
+}

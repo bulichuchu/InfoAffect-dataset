@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "defeat",
+        "confidence": 90
+      },
+      {
+        "word": "peril",
+        "confidence": 85
+      },
+      {
+        "word": "blow",
+        "confidence": 80
+      },
+      {
+        "word": "fragile",
+        "confidence": 75
+      },
+      {
+        "word": "unstable",
+        "confidence": 70
+      },
+      {
+        "word": "shaken",
+        "confidence": 65
+      },
+      {
+        "word": "critical",
+        "confidence": 60
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "insignificant",
+        "confidence": 85
+      },
+      {
+        "word": "overestimate",
+        "confidence": 80
+      },
+      {
+        "word": "enthusiastic",
+        "confidence": 75
+      },
+      {
+        "word": "thriller",
+        "confidence": 72
+      },
+      {
+        "word": "spectacle",
+        "confidence": 70
+      },
+      {
+        "word": "fussed",
+        "confidence": 68
+      }
+    ]
+  }
+}

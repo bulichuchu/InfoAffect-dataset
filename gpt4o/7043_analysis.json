@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frustrated",
+        "confidence": 90
+      },
+      {
+        "word": "disapprove",
+        "confidence": 85
+      },
+      {
+        "word": "skeptical",
+        "confidence": 80
+      },
+      {
+        "word": "resign",
+        "confidence": 75
+      },
+      {
+        "word": "turning",
+        "confidence": 70
+      },
+      {
+        "word": "anti-establishment",
+        "confidence": 65
+      }
+    ]
+  }
+}

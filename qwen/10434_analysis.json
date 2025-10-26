@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frustrated",
+        "confidence": 85
+      },
+      {
+        "word": "tired",
+        "confidence": 82
+      },
+      {
+        "word": "stressed",
+        "confidence": 78
+      },
+      {
+        "word": "overwhelmed",
+        "confidence": 75
+      },
+      {
+        "word": "helpless",
+        "confidence": 70
+      },
+      {
+        "word": "guilty",
+        "confidence": 65
+      },
+      {
+        "word": "resigned",
+        "confidence": 60
+      },
+      {
+        "word": "pressured",
+        "confidence": 72
+      }
+    ]
+  }
+}

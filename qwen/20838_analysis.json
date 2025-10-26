@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "pessimistic",
+        "confidence": 90
+      },
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "alarming",
+        "confidence": 82
+      },
+      {
+        "word": "deteriorating",
+        "confidence": 78
+      },
+      {
+        "word": "fearful",
+        "confidence": 75
+      },
+      {
+        "word": "stagnant",
+        "confidence": 70
+      },
+      {
+        "word": "worrisome",
+        "confidence": 73
+      },
+      {
+        "word": "grim",
+        "confidence": 68
+      }
+    ]
+  }
+}

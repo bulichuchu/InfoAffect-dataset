@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "controversial",
+        "confidence": 90
+      },
+      {
+        "word": "catastrophic",
+        "confidence": 88
+      },
+      {
+        "word": "critical",
+        "confidence": 82
+      },
+      {
+        "word": "concerning",
+        "confidence": 78
+      },
+      {
+        "word": "competitive",
+        "confidence": 75
+      },
+      {
+        "word": "disappointing",
+        "confidence": 72
+      },
+      {
+        "word": "analytical",
+        "confidence": 68
+      },
+      {
+        "word": "factual",
+        "confidence": 65
+      }
+    ]
+  }
+}

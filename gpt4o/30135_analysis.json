@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "influential",
+        "confidence": 90
+      },
+      {
+        "word": "trust",
+        "confidence": 85
+      },
+      {
+        "word": "familiarity",
+        "confidence": 80
+      },
+      {
+        "word": "inspiration",
+        "confidence": 88
+      },
+      {
+        "word": "engaging",
+        "confidence": 75
+      },
+      {
+        "word": "connected",
+        "confidence": 82
+      }
+    ]
+  }
+}

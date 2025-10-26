@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "problematic",
+        "confidence": 85
+      },
+      {
+        "word": "unhealthy",
+        "confidence": 90
+      },
+      {
+        "word": "positive",
+        "confidence": 80
+      },
+      {
+        "word": "dominate",
+        "confidence": 75
+      },
+      {
+        "word": "dangerous",
+        "confidence": 88
+      },
+      {
+        "word": "alarming",
+        "confidence": 82
+      },
+      {
+        "word": "significant",
+        "confidence": 70
+      }
+    ]
+  }
+}

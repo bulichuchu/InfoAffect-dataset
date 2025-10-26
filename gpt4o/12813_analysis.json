@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "reputable",
+        "confidence": 90
+      },
+      {
+        "word": "prestigious",
+        "confidence": 85
+      },
+      {
+        "word": "trusted",
+        "confidence": 80
+      },
+      {
+        "word": "satisfied",
+        "confidence": 78
+      },
+      {
+        "word": "recommended",
+        "confidence": 75
+      },
+      {
+        "word": "valued",
+        "confidence": 72
+      },
+      {
+        "word": "admired",
+        "confidence": 70
+      }
+    ]
+  }
+}

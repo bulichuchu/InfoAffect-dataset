@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "divided",
+        "confidence": 90
+      },
+      {
+        "word": "struggling",
+        "confidence": 85
+      },
+      {
+        "word": "uncertainty",
+        "confidence": 82
+      },
+      {
+        "word": "downward",
+        "confidence": 78
+      },
+      {
+        "word": "slump",
+        "confidence": 76
+      },
+      {
+        "word": "hit",
+        "confidence": 70
+      },
+      {
+        "word": "effect",
+        "confidence": 68
+      }
+    ]
+  }
+}

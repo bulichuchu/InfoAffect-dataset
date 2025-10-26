@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "uncomfortable",
+        "confidence": 95
+      },
+      {
+        "word": "awkward",
+        "confidence": 90
+      },
+      {
+        "word": "reluctant",
+        "confidence": 88
+      },
+      {
+        "word": "reserved",
+        "confidence": 80
+      },
+      {
+        "word": "hesitant",
+        "confidence": 75
+      },
+      {
+        "word": "private",
+        "confidence": 65
+      }
+    ]
+  }
+}

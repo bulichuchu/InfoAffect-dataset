@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concern",
+        "confidence": 85
+      },
+      {
+        "word": "impact",
+        "confidence": 80
+      },
+      {
+        "word": "unaffordability",
+        "confidence": 78
+      },
+      {
+        "word": "limited",
+        "confidence": 70
+      },
+      {
+        "word": "mitigate",
+        "confidence": 75
+      },
+      {
+        "word": "balancing",
+        "confidence": 65
+      }
+    ]
+  }
+}

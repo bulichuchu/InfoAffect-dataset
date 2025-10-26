@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "guilty",
+        "confidence": 85
+      },
+      {
+        "word": "fond",
+        "confidence": 80
+      },
+      {
+        "word": "constrained",
+        "confidence": 75
+      },
+      {
+        "word": "indulged",
+        "confidence": 70
+      },
+      {
+        "word": "trash",
+        "confidence": 65
+      },
+      {
+        "word": "popular",
+        "confidence": 78
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 60
+      },
+      {
+        "word": "entertaining",
+        "confidence": 72
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disastrous",
+        "confidence": 90
+      },
+      {
+        "word": "defiant",
+        "confidence": 85
+      },
+      {
+        "word": "crash",
+        "confidence": 80
+      },
+      {
+        "word": "massive",
+        "confidence": 75
+      },
+      {
+        "word": "alarming",
+        "confidence": 88
+      },
+      {
+        "word": "dominant",
+        "confidence": 70
+      },
+      {
+        "word": "troubled",
+        "confidence": 78
+      },
+      {
+        "word": "critical",
+        "confidence": 82
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "destructive",
+        "confidence": 85
+      },
+      {
+        "word": "intense",
+        "confidence": 80
+      },
+      {
+        "word": "targeted",
+        "confidence": 78
+      },
+      {
+        "word": "strategic",
+        "confidence": 75
+      },
+      {
+        "word": "focused",
+        "confidence": 72
+      },
+      {
+        "word": "deliberate",
+        "confidence": 70
+      },
+      {
+        "word": "lethal",
+        "confidence": 68
+      }
+    ]
+  }
+}

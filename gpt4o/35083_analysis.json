@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disappointment",
+        "confidence": 90
+      },
+      {
+        "word": "fatigue",
+        "confidence": 88
+      },
+      {
+        "word": "decline",
+        "confidence": 85
+      },
+      {
+        "word": "abundance",
+        "confidence": 75
+      },
+      {
+        "word": "lazy",
+        "confidence": 80
+      },
+      {
+        "word": "positive",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "struggling",
+        "confidence": 88
+      },
+      {
+        "word": "tight",
+        "confidence": 85
+      },
+      {
+        "word": "sting",
+        "confidence": 82
+      },
+      {
+        "word": "concerned",
+        "confidence": 78
+      },
+      {
+        "word": "pressured",
+        "confidence": 76
+      },
+      {
+        "word": "anxious",
+        "confidence": 74
+      },
+      {
+        "word": "alarming",
+        "confidence": 70
+      },
+      {
+        "word": "weary",
+        "confidence": 65
+      }
+    ]
+  }
+}

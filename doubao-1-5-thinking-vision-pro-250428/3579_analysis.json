@@ -1,0 +1,28 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "diverse",
+          "confidence": 90
+        },
+        {
+          "word": "useful",
+          "confidence": 85
+        },
+        {
+          "word": "dominant",
+          "confidence": 80
+        },
+        {
+          "word": "capable",
+          "confidence": 75
+        },
+        {
+          "word": "unique",
+          "confidence": 70
+        }
+      ]
+    }
+  }
+]

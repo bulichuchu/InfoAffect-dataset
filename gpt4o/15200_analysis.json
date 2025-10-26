@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "allegation",
+        "confidence": 85
+      },
+      {
+        "word": "silence",
+        "confidence": 80
+      },
+      {
+        "word": "controversy",
+        "confidence": 78
+      },
+      {
+        "word": "investigation",
+        "confidence": 75
+      },
+      {
+        "word": "scandal",
+        "confidence": 72
+      },
+      {
+        "word": "tension",
+        "confidence": 70
+      },
+      {
+        "word": "accusation",
+        "confidence": 68
+      }
+    ]
+  }
+}

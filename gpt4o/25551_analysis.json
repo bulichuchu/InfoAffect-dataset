@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "essential",
+        "confidence": 85
+      },
+      {
+        "word": "luxury",
+        "confidence": 80
+      },
+      {
+        "word": "divide",
+        "confidence": 75
+      },
+      {
+        "word": "capable",
+        "confidence": 70
+      },
+      {
+        "word": "surprise",
+        "confidence": 65
+      },
+      {
+        "word": "adoption",
+        "confidence": 68
+      }
+    ]
+  }
+}

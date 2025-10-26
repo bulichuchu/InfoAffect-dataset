@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "perilous",
+        "confidence": 85
+      },
+      {
+        "word": "oppressive",
+        "confidence": 80
+      },
+      {
+        "word": "hopeful",
+        "confidence": 75
+      },
+      {
+        "word": "resilient",
+        "confidence": 70
+      },
+      {
+        "word": "grave",
+        "confidence": 65
+      },
+      {
+        "word": "determined",
+        "confidence": 60
+      },
+      {
+        "word": "urgent",
+        "confidence": 55
+      },
+      {
+        "word": "relieved",
+        "confidence": 50
+      }
+    ]
+  }
+}

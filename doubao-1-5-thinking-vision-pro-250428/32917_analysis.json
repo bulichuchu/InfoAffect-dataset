@@ -1,0 +1,28 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "record-breaking",
+          "confidence": 90
+        },
+        {
+          "word": "equal",
+          "confidence": 85
+        },
+        {
+          "word": "struggle",
+          "confidence": 80
+        },
+        {
+          "word": "significant",
+          "confidence": 75
+        },
+        {
+          "word": "unique",
+          "confidence": 70
+        }
+      ]
+    }
+  }
+]

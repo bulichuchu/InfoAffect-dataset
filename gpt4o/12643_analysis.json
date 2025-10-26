@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "lucrative",
+        "confidence": 85
+      },
+      {
+        "word": "livid",
+        "confidence": 90
+      },
+      {
+        "word": "toxic",
+        "confidence": 88
+      },
+      {
+        "word": "funny",
+        "confidence": 60
+      },
+      {
+        "word": "unsurprisingly",
+        "confidence": 70
+      },
+      {
+        "word": "demanded",
+        "confidence": 75
+      }
+    ]
+  }
+}

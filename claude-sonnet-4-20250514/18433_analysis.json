@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "distrustful",
+        "confidence": 90
+      },
+      {
+        "word": "betrayed",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 88
+      },
+      {
+        "word": "skeptical",
+        "confidence": 82
+      },
+      {
+        "word": "awakened",
+        "confidence": 75
+      },
+      {
+        "word": "violated",
+        "confidence": 78
+      },
+      {
+        "word": "demanding",
+        "confidence": 70
+      },
+      {
+        "word": "realistic",
+        "confidence": 65
+      }
+    ]
+  }
+}

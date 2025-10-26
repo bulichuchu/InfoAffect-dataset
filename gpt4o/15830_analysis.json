@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "inspired",
+        "confidence": 90
+      },
+      {
+        "word": "empowerment",
+        "confidence": 85
+      },
+      {
+        "word": "motivated",
+        "confidence": 82
+      },
+      {
+        "word": "aspirational",
+        "confidence": 78
+      },
+      {
+        "word": "personal-growth",
+        "confidence": 75
+      },
+      {
+        "word": "inclusive",
+        "confidence": 70
+      }
+    ]
+  }
+}

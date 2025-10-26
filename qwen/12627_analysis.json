@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "expensive",
+        "confidence": 90
+      },
+      {
+        "word": "shocking",
+        "confidence": 85
+      },
+      {
+        "word": "overwhelming",
+        "confidence": 78
+      },
+      {
+        "word": "disappointing",
+        "confidence": 75
+      },
+      {
+        "word": "frustrating",
+        "confidence": 72
+      },
+      {
+        "word": "surprising",
+        "confidence": 68
+      },
+      {
+        "word": "daunting",
+        "confidence": 65
+      },
+      {
+        "word": "costly",
+        "confidence": 80
+      }
+    ]
+  }
+}

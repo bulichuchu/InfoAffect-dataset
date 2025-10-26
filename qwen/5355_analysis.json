@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "joyful",
+        "confidence": 85
+      },
+      {
+        "word": "relieved",
+        "confidence": 80
+      },
+      {
+        "word": "envious",
+        "confidence": 75
+      },
+      {
+        "word": "disappointed",
+        "confidence": 70
+      },
+      {
+        "word": "generous",
+        "confidence": 65
+      },
+      {
+        "word": "unfair",
+        "confidence": 60
+      },
+      {
+        "word": "leisurely",
+        "confidence": 55
+      },
+      {
+        "word": "comparative",
+        "confidence": 50
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerning",
+        "confidence": 88
+      },
+      {
+        "word": "surprising",
+        "confidence": 85
+      },
+      {
+        "word": "contradictory",
+        "confidence": 80
+      },
+      {
+        "word": "complicated",
+        "confidence": 75
+      },
+      {
+        "word": "alarming",
+        "confidence": 72
+      },
+      {
+        "word": "ambitious",
+        "confidence": 68
+      },
+      {
+        "word": "tense",
+        "confidence": 65
+      },
+      {
+        "word": "uncertain",
+        "confidence": 63
+      }
+    ]
+  }
+}

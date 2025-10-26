@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "convenient",
+        "confidence": 85
+      },
+      {
+        "word": "modern",
+        "confidence": 80
+      },
+      {
+        "word": "widespread",
+        "confidence": 78
+      },
+      {
+        "word": "practical",
+        "confidence": 75
+      },
+      {
+        "word": "relaxed",
+        "confidence": 70
+      },
+      {
+        "word": "neutral",
+        "confidence": 65
+      },
+      {
+        "word": "informative",
+        "confidence": 90
+      },
+      {
+        "word": "data-driven",
+        "confidence": 88
+      }
+    ]
+  }
+}

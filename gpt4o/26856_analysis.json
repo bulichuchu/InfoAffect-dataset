@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "controversy",
+        "confidence": 88
+      },
+      {
+        "word": "suspected",
+        "confidence": 82
+      },
+      {
+        "word": "accusations",
+        "confidence": 80
+      },
+      {
+        "word": "doping",
+        "confidence": 85
+      },
+      {
+        "word": "scandal",
+        "confidence": 78
+      },
+      {
+        "word": "banned",
+        "confidence": 76
+      },
+      {
+        "word": "forfeit",
+        "confidence": 75
+      }
+    ]
+  }
+}

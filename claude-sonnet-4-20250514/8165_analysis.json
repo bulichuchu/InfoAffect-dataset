@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "combative",
+        "confidence": 90
+      },
+      {
+        "word": "confrontational",
+        "confidence": 85
+      },
+      {
+        "word": "ironic",
+        "confidence": 82
+      },
+      {
+        "word": "opportunistic",
+        "confidence": 78
+      },
+      {
+        "word": "cynical",
+        "confidence": 75
+      },
+      {
+        "word": "competitive",
+        "confidence": 72
+      },
+      {
+        "word": "provocative",
+        "confidence": 70
+      }
+    ]
+  }
+}

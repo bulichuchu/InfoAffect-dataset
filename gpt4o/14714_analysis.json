@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "meteoric",
+        "confidence": 90
+      },
+      {
+        "word": "hampered",
+        "confidence": 85
+      },
+      {
+        "word": "conservative",
+        "confidence": 80
+      },
+      {
+        "word": "stress",
+        "confidence": 75
+      },
+      {
+        "word": "pessimistic",
+        "confidence": 78
+      },
+      {
+        "word": "rising",
+        "confidence": 88
+      }
+    ]
+  }
+}

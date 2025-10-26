@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "devastating",
+        "confidence": 90
+      },
+      {
+        "word": "alarming",
+        "confidence": 88
+      },
+      {
+        "word": "fraudulent",
+        "confidence": 85
+      },
+      {
+        "word": "betrayed",
+        "confidence": 82
+      },
+      {
+        "word": "unregulated",
+        "confidence": 78
+      },
+      {
+        "word": "shocking",
+        "confidence": 75
+      },
+      {
+        "word": "deceptive",
+        "confidence": 72
+      },
+      {
+        "word": "urgent",
+        "confidence": 68
+      }
+    ]
+  }
+}

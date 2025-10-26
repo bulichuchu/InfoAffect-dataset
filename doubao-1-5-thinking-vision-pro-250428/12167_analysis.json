@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "desirable",
+        "confidence": 90
+      },
+      {
+        "word": "impressive",
+        "confidence": 88
+      },
+      {
+        "word": "successful",
+        "confidence": 85
+      },
+      {
+        "word": "approving",
+        "confidence": 82
+      },
+      {
+        "word": "positive",
+        "confidence": 78
+      },
+      {
+        "word": "high-rated",
+        "confidence": 75
+      }
+    ]
+  }
+}

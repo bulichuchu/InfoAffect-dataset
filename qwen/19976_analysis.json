@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "lucrative",
+        "confidence": 90
+      },
+      {
+        "word": "premium",
+        "confidence": 85
+      },
+      {
+        "word": "explosive",
+        "confidence": 80
+      },
+      {
+        "word": "fluctuating",
+        "confidence": 75
+      },
+      {
+        "word": "hefty",
+        "confidence": 70
+      },
+      {
+        "word": "surprising",
+        "confidence": 65
+      },
+      {
+        "word": "competitive",
+        "confidence": 60
+      },
+      {
+        "word": "dynamic",
+        "confidence": 55
+      }
+    ]
+  }
+}

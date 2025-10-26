@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "wary",
+        "confidence": 85
+      },
+      {
+        "word": "recognition",
+        "confidence": 80
+      },
+      {
+        "word": "balloon",
+        "confidence": 75
+      },
+      {
+        "word": "modest",
+        "confidence": 70
+      },
+      {
+        "word": "intervention",
+        "confidence": 65
+      },
+      {
+        "word": "extended",
+        "confidence": 60
+      }
+    ]
+  }
+}

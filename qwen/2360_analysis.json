@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "indifferent",
+        "confidence": 90
+      },
+      {
+        "word": "surprised",
+        "confidence": 75
+      },
+      {
+        "word": "competitive",
+        "confidence": 80
+      },
+      {
+        "word": "divided",
+        "confidence": 85
+      },
+      {
+        "word": "varied",
+        "confidence": 78
+      },
+      {
+        "word": "disconnected",
+        "confidence": 72
+      },
+      {
+        "word": "engaged",
+        "confidence": 65
+      },
+      {
+        "word": "polarized",
+        "confidence": 70
+      }
+    ]
+  }
+}

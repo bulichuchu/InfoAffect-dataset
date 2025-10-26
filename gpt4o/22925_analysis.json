@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "divided",
+        "confidence": 90
+      },
+      {
+        "word": "important",
+        "confidence": 85
+      },
+      {
+        "word": "inequality",
+        "confidence": 78
+      },
+      {
+        "word": "significant",
+        "confidence": 75
+      },
+      {
+        "word": "motivated",
+        "confidence": 70
+      },
+      {
+        "word": "gap",
+        "confidence": 68
+      }
+    ]
+  }
+}

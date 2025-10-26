@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "distracted",
+        "confidence": 85
+      },
+      {
+        "word": "positive",
+        "confidence": 80
+      },
+      {
+        "word": "engaged",
+        "confidence": 75
+      },
+      {
+        "word": "celebratory",
+        "confidence": 72
+      },
+      {
+        "word": "surprised",
+        "confidence": 68
+      },
+      {
+        "word": "optimistic",
+        "confidence": 70
+      },
+      {
+        "word": "lighthearted",
+        "confidence": 65
+      },
+      {
+        "word": "productive",
+        "confidence": 60
+      }
+    ]
+  }
+}

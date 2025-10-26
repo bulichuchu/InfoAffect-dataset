@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concern",
+        "confidence": 85
+      },
+      {
+        "word": "awareness",
+        "confidence": 78
+      },
+      {
+        "word": "proactive",
+        "confidence": 72
+      },
+      {
+        "word": "obligation",
+        "confidence": 70
+      },
+      {
+        "word": "barriers",
+        "confidence": 68
+      },
+      {
+        "word": "disparity",
+        "confidence": 75
+      }
+    ]
+  }
+}

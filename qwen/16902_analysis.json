@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "daunting",
+        "confidence": 88
+      },
+      {
+        "word": "concerning",
+        "confidence": 85
+      },
+      {
+        "word": "overwhelming",
+        "confidence": 80
+      },
+      {
+        "word": "frustrating",
+        "confidence": 75
+      },
+      {
+        "word": "disheartening",
+        "confidence": 72
+      },
+      {
+        "word": "shocking",
+        "confidence": 68
+      },
+      {
+        "word": "pressing",
+        "confidence": 65
+      },
+      {
+        "word": "unfair",
+        "confidence": 60
+      }
+    ]
+  }
+}

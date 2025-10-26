@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concern",
+        "confidence": 85
+      },
+      {
+        "word": "frustration",
+        "confidence": 80
+      },
+      {
+        "word": "alarm",
+        "confidence": 78
+      },
+      {
+        "word": "exploitation",
+        "confidence": 75
+      },
+      {
+        "word": "resurgence",
+        "confidence": 72
+      }
+    ]
+  }
+}

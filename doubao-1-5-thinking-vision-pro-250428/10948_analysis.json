@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "desperate",
+        "confidence": 75
+      },
+      {
+        "word": "convincing",
+        "confidence": 80
+      },
+      {
+        "word": "competent",
+        "confidence": 82
+      },
+      {
+        "word": "credible",
+        "confidence": 82
+      },
+      {
+        "word": "competitive",
+        "confidence": 78
+      },
+      {
+        "word": "undecided",
+        "confidence": 70
+      },
+      {
+        "word": "victorious",
+        "confidence": 85
+      }
+    ]
+  }
+}

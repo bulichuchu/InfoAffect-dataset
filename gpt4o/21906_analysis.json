@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "struggling",
+        "confidence": 90
+      },
+      {
+        "word": "skyrocket",
+        "confidence": 85
+      },
+      {
+        "word": "momentum",
+        "confidence": 75
+      },
+      {
+        "word": "difficult",
+        "confidence": 80
+      },
+      {
+        "word": "competition",
+        "confidence": 78
+      },
+      {
+        "word": "potential",
+        "confidence": 72
+      },
+      {
+        "word": "slowdown",
+        "confidence": 88
+      }
+    ]
+  }
+}

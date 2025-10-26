@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "snubbed",
+        "confidence": 85
+      },
+      {
+        "word": "ambitions",
+        "confidence": 80
+      },
+      {
+        "word": "competitive",
+        "confidence": 78
+      },
+      {
+        "word": "development",
+        "confidence": 75
+      },
+      {
+        "word": "infrastructure",
+        "confidence": 70
+      },
+      {
+        "word": "connectivity",
+        "confidence": 65
+      }
+    ]
+  }
+}

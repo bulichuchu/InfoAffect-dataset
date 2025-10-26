@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surprising",
+        "confidence": 85
+      },
+      {
+        "word": "competitive",
+        "confidence": 80
+      },
+      {
+        "word": "dynamic",
+        "confidence": 75
+      },
+      {
+        "word": "shifting",
+        "confidence": 78
+      },
+      {
+        "word": "unexpected",
+        "confidence": 82
+      },
+      {
+        "word": "intense",
+        "confidence": 70
+      },
+      {
+        "word": "strategic",
+        "confidence": 65
+      },
+      {
+        "word": "engaging",
+        "confidence": 68
+      }
+    ]
+  }
+}

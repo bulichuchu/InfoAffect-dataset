@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disruptive",
+        "confidence": 90
+      },
+      {
+        "word": "sacrifice",
+        "confidence": 85
+      },
+      {
+        "word": "resilient",
+        "confidence": 80
+      },
+      {
+        "word": "challenging",
+        "confidence": 75
+      },
+      {
+        "word": "burden",
+        "confidence": 78
+      },
+      {
+        "word": "dedication",
+        "confidence": 80
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "lockdown",
+        "confidence": 90
+      },
+      {
+        "word": "restrictions",
+        "confidence": 85
+      },
+      {
+        "word": "curfew",
+        "confidence": 80
+      },
+      {
+        "word": "easing",
+        "confidence": 70
+      },
+      {
+        "word": "confined",
+        "confidence": 75
+      },
+      {
+        "word": "surged",
+        "confidence": 78
+      },
+      {
+        "word": "stubbornly",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "discriminated",
+        "confidence": 90
+      },
+      {
+        "word": "hopeless",
+        "confidence": 88
+      },
+      {
+        "word": "sad",
+        "confidence": 85
+      },
+      {
+        "word": "pressured",
+        "confidence": 82
+      },
+      {
+        "word": "vulnerable",
+        "confidence": 78
+      },
+      {
+        "word": "distressed",
+        "confidence": 75
+      },
+      {
+        "word": "resilient",
+        "confidence": 65
+      },
+      {
+        "word": "concerned",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "responsibility",
+        "confidence": 85
+      },
+      {
+        "word": "contrast",
+        "confidence": 80
+      },
+      {
+        "word": "inequality",
+        "confidence": 75
+      },
+      {
+        "word": "provision",
+        "confidence": 70
+      },
+      {
+        "word": "burden",
+        "confidence": 78
+      },
+      {
+        "word": "generosity",
+        "confidence": 68
+      },
+      {
+        "word": "comparison",
+        "confidence": 72
+      }
+    ]
+  }
+}

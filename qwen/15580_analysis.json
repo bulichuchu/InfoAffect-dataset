@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "triumphant",
+        "confidence": 90
+      },
+      {
+        "word": "historic",
+        "confidence": 85
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 78
+      },
+      {
+        "word": "resilient",
+        "confidence": 82
+      },
+      {
+        "word": "bittersweet",
+        "confidence": 75
+      },
+      {
+        "word": "celebratory",
+        "confidence": 88
+      },
+      {
+        "word": "conclusive",
+        "confidence": 76
+      },
+      {
+        "word": "inspirational",
+        "confidence": 80
+      }
+    ]
+  }
+}

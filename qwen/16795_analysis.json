@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "expensive",
+        "confidence": 90
+      },
+      {
+        "word": "competitive",
+        "confidence": 85
+      },
+      {
+        "word": "prestigious",
+        "confidence": 80
+      },
+      {
+        "word": "dominant",
+        "confidence": 75
+      },
+      {
+        "word": "exclusive",
+        "confidence": 70
+      },
+      {
+        "word": "elite",
+        "confidence": 65
+      },
+      {
+        "word": "costly",
+        "confidence": 85
+      },
+      {
+        "word": "disappointing",
+        "confidence": 60
+      }
+    ]
+  }
+}

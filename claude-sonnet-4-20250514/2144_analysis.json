@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "ironic",
+        "confidence": 90
+      },
+      {
+        "word": "contradictory",
+        "confidence": 85
+      },
+      {
+        "word": "cynical",
+        "confidence": 82
+      },
+      {
+        "word": "disappointing",
+        "confidence": 78
+      },
+      {
+        "word": "hypocritical",
+        "confidence": 75
+      },
+      {
+        "word": "disillusioning",
+        "confidence": 72
+      },
+      {
+        "word": "critical",
+        "confidence": 80
+      }
+    ]
+  }
+}

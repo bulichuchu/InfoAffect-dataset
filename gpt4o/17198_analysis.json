@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "skeptical",
+        "confidence": 90
+      },
+      {
+        "word": "absurd",
+        "confidence": 85
+      },
+      {
+        "word": "overdone",
+        "confidence": 80
+      },
+      {
+        "word": "inflated",
+        "confidence": 75
+      },
+      {
+        "word": "unrealistic",
+        "confidence": 78
+      },
+      {
+        "word": "disconnected",
+        "confidence": 82
+      }
+    ]
+  }
+}

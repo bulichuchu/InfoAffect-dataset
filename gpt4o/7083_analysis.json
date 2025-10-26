@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disparity",
+        "confidence": 90
+      },
+      {
+        "word": "contrasting",
+        "confidence": 85
+      },
+      {
+        "word": "significant",
+        "confidence": 82
+      },
+      {
+        "word": "polarization",
+        "confidence": 78
+      },
+      {
+        "word": "complexity",
+        "confidence": 74
+      },
+      {
+        "word": "revealing",
+        "confidence": 70
+      }
+    ]
+  }
+}

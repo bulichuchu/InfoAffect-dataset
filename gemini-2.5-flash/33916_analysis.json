@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "accepting",
+        "confidence": 95
+      },
+      {
+        "word": "positive",
+        "confidence": 90
+      },
+      {
+        "word": "agreeable",
+        "confidence": 88
+      },
+      {
+        "word": "receptive",
+        "confidence": 85
+      },
+      {
+        "word": "understanding",
+        "confidence": 75
+      },
+      {
+        "word": "tolerant",
+        "confidence": 70
+      }
+    ]
+  }
+}

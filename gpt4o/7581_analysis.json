@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "layoffs",
+        "confidence": 95
+      },
+      {
+        "word": "grim",
+        "confidence": 85
+      },
+      {
+        "word": "growth",
+        "confidence": 80
+      },
+      {
+        "word": "cost-cutting",
+        "confidence": 75
+      },
+      {
+        "word": "uncertainty",
+        "confidence": 70
+      },
+      {
+        "word": "surprising",
+        "confidence": 65
+      }
+    ]
+  }
+}

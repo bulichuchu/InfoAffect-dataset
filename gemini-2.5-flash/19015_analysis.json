@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "resentful",
+        "confidence": 92
+      },
+      {
+        "word": "tense",
+        "confidence": 90
+      },
+      {
+        "word": "confrontational",
+        "confidence": 88
+      },
+      {
+        "word": "defiant",
+        "confidence": 85
+      },
+      {
+        "word": "embittered",
+        "confidence": 80
+      },
+      {
+        "word": "strained",
+        "confidence": 75
+      },
+      {
+        "word": "assertive",
+        "confidence": 70
+      }
+    ]
+  }
+}

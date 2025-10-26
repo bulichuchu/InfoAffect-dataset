@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "grateful",
+        "confidence": 90
+      },
+      {
+        "word": "challenging",
+        "confidence": 85
+      },
+      {
+        "word": "escape",
+        "confidence": 80
+      },
+      {
+        "word": "growth",
+        "confidence": 88
+      },
+      {
+        "word": "joy",
+        "confidence": 82
+      },
+      {
+        "word": "uncertainty",
+        "confidence": 78
+      },
+      {
+        "word": "milestone",
+        "confidence": 87
+      }
+    ]
+  }
+}

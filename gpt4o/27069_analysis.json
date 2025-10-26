@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "embracing",
+        "confidence": 85
+      },
+      {
+        "word": "volatile",
+        "confidence": 80
+      },
+      {
+        "word": "extreme",
+        "confidence": 78
+      },
+      {
+        "word": "independent",
+        "confidence": 75
+      },
+      {
+        "word": "regulated",
+        "confidence": 70
+      },
+      {
+        "word": "restrictive",
+        "confidence": 68
+      }
+    ]
+  }
+}

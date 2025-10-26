@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "triumphant",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 80
+      },
+      {
+        "word": "polarizing",
+        "confidence": 75
+      },
+      {
+        "word": "uncertain",
+        "confidence": 70
+      },
+      {
+        "word": "divided",
+        "confidence": 72
+      },
+      {
+        "word": "challenging",
+        "confidence": 68
+      },
+      {
+        "word": "emphatic",
+        "confidence": 65
+      },
+      {
+        "word": "disillusioned",
+        "confidence": 60
+      }
+    ]
+  }
+}

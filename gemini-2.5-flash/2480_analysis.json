@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dominant",
+        "confidence": 95
+      },
+      {
+        "word": "pivotal",
+        "confidence": 90
+      },
+      {
+        "word": "staggering",
+        "confidence": 88
+      },
+      {
+        "word": "contrasting",
+        "confidence": 85
+      },
+      {
+        "word": "underwhelming",
+        "confidence": 80
+      },
+      {
+        "word": "disparate",
+        "confidence": 78
+      }
+    ]
+  }
+}

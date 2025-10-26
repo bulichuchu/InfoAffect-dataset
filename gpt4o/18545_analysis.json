@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "attention",
+        "confidence": 85
+      },
+      {
+        "word": "impassioned",
+        "confidence": 90
+      },
+      {
+        "word": "buoyed",
+        "confidence": 75
+      },
+      {
+        "word": "exchange",
+        "confidence": 70
+      },
+      {
+        "word": "leading",
+        "confidence": 80
+      },
+      {
+        "word": "stealing",
+        "confidence": 65
+      }
+    ]
+  }
+}

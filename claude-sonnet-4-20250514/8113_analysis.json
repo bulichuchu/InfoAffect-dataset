@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "ominous",
+        "confidence": 90
+      },
+      {
+        "word": "foreboding",
+        "confidence": 85
+      },
+      {
+        "word": "dystopian",
+        "confidence": 88
+      },
+      {
+        "word": "alarming",
+        "confidence": 82
+      },
+      {
+        "word": "unsettling",
+        "confidence": 80
+      },
+      {
+        "word": "cautionary",
+        "confidence": 78
+      },
+      {
+        "word": "apprehensive",
+        "confidence": 75
+      },
+      {
+        "word": "sobering",
+        "confidence": 72
+      }
+    ]
+  }
+}

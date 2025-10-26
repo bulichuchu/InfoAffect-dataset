@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "proud",
+        "confidence": 85
+      },
+      {
+        "word": "confident",
+        "confidence": 80
+      },
+      {
+        "word": "positive",
+        "confidence": 75
+      },
+      {
+        "word": "nationalistic",
+        "confidence": 70
+      },
+      {
+        "word": "satisfied",
+        "confidence": 65
+      },
+      {
+        "word": "optimistic",
+        "confidence": 60
+      },
+      {
+        "word": "reassuring",
+        "confidence": 55
+      },
+      {
+        "word": "supportive",
+        "confidence": 50
+      }
+    ]
+  }
+}

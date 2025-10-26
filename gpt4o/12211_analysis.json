@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarming",
+        "confidence": 90
+      },
+      {
+        "word": "concerning",
+        "confidence": 85
+      },
+      {
+        "word": "guilty",
+        "confidence": 80
+      },
+      {
+        "word": "polluting",
+        "confidence": 78
+      },
+      {
+        "word": "mismanagement",
+        "confidence": 75
+      },
+      {
+        "word": "clogging",
+        "confidence": 70
+      }
+    ]
+  }
+}

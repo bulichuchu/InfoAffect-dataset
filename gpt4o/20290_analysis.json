@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "distrust",
+        "confidence": 90
+      },
+      {
+        "word": "accusation",
+        "confidence": 85
+      },
+      {
+        "word": "negative",
+        "confidence": 80
+      },
+      {
+        "word": "critical",
+        "confidence": 75
+      },
+      {
+        "word": "skepticism",
+        "confidence": 78
+      },
+      {
+        "word": "controversial",
+        "confidence": 70
+      }
+    ]
+  }
+}

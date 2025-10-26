@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "confrontational",
+        "confidence": 90
+      },
+      {
+        "word": "defensive",
+        "confidence": 88
+      },
+      {
+        "word": "contentious",
+        "confidence": 85
+      },
+      {
+        "word": "repetitive",
+        "confidence": 82
+      },
+      {
+        "word": "persistent",
+        "confidence": 80
+      },
+      {
+        "word": "critical",
+        "confidence": 78
+      },
+      {
+        "word": "escalating",
+        "confidence": 75
+      }
+    ]
+  }
+}

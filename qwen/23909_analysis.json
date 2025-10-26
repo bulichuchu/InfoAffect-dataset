@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dominant",
+        "confidence": 90
+      },
+      {
+        "word": "modern",
+        "confidence": 85
+      },
+      {
+        "word": "transformative",
+        "confidence": 80
+      },
+      {
+        "word": "generational",
+        "confidence": 75
+      },
+      {
+        "word": "declining",
+        "confidence": 70
+      },
+      {
+        "word": "digital",
+        "confidence": 88
+      },
+      {
+        "word": "evolving",
+        "confidence": 78
+      },
+      {
+        "word": "predictable",
+        "confidence": 65
+      }
+    ]
+  }
+}

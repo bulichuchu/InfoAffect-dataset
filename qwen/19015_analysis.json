@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "tense",
+        "confidence": 85
+      },
+      {
+        "word": "confrontational",
+        "confidence": 80
+      },
+      {
+        "word": "resistant",
+        "confidence": 75
+      },
+      {
+        "word": "confident",
+        "confidence": 70
+      },
+      {
+        "word": "strained",
+        "confidence": 78
+      },
+      {
+        "word": "historical",
+        "confidence": 65
+      },
+      {
+        "word": "unequal",
+        "confidence": 72
+      },
+      {
+        "word": "boycott",
+        "confidence": 68
+      }
+    ]
+  }
+}

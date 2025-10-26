@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disappointed",
+        "confidence": 90
+      },
+      {
+        "word": "disillusioned",
+        "confidence": 88
+      },
+      {
+        "word": "tainted",
+        "confidence": 85
+      },
+      {
+        "word": "betrayed",
+        "confidence": 82
+      },
+      {
+        "word": "scandalous",
+        "confidence": 80
+      },
+      {
+        "word": "suspicious",
+        "confidence": 78
+      },
+      {
+        "word": "frustrated",
+        "confidence": 75
+      },
+      {
+        "word": "cynical",
+        "confidence": 72
+      }
+    ]
+  }
+}

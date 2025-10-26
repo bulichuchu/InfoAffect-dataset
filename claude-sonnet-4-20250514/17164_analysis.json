@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "tense",
+        "confidence": 88
+      },
+      {
+        "word": "threatening",
+        "confidence": 85
+      },
+      {
+        "word": "critical",
+        "confidence": 82
+      },
+      {
+        "word": "hopeful",
+        "confidence": 75
+      },
+      {
+        "word": "uncertain",
+        "confidence": 78
+      },
+      {
+        "word": "historic",
+        "confidence": 70
+      },
+      {
+        "word": "skeptical",
+        "confidence": 73
+      },
+      {
+        "word": "high-stakes",
+        "confidence": 90
+      }
+    ]
+  }
+}

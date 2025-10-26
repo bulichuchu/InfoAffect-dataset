@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "growth",
+        "confidence": 90
+      },
+      {
+        "word": "explosion",
+        "confidence": 85
+      },
+      {
+        "word": "diversification",
+        "confidence": 80
+      },
+      {
+        "word": "popularity",
+        "confidence": 88
+      },
+      {
+        "word": "disruptive",
+        "confidence": 75
+      },
+      {
+        "word": "access",
+        "confidence": 83
+      },
+      {
+        "word": "exclusivity",
+        "confidence": 78
+      },
+      {
+        "word": "investment",
+        "confidence": 82
+      }
+    ]
+  }
+}

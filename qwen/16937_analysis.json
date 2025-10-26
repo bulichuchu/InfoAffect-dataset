@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disconnected",
+        "confidence": 88
+      },
+      {
+        "word": "surprising",
+        "confidence": 82
+      },
+      {
+        "word": "unequal",
+        "confidence": 85
+      },
+      {
+        "word": "frustrating",
+        "confidence": 75
+      },
+      {
+        "word": "divided",
+        "confidence": 80
+      },
+      {
+        "word": "concerning",
+        "confidence": 78
+      },
+      {
+        "word": "revealing",
+        "confidence": 76
+      },
+      {
+        "word": "disparities",
+        "confidence": 83
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "competitive",
+        "confidence": 90
+      },
+      {
+        "word": "excited",
+        "confidence": 85
+      },
+      {
+        "word": "praised",
+        "confidence": 80
+      },
+      {
+        "word": "debatable",
+        "confidence": 75
+      },
+      {
+        "word": "concerned",
+        "confidence": 70
+      },
+      {
+        "word": "premium",
+        "confidence": 65
+      }
+    ]
+  }
+}

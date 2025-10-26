@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "controversial",
+        "confidence": 85
+      },
+      {
+        "word": "embattled",
+        "confidence": 80
+      },
+      {
+        "word": "necessary",
+        "confidence": 78
+      },
+      {
+        "word": "dilemma",
+        "confidence": 74
+      },
+      {
+        "word": "critical",
+        "confidence": 70
+      },
+      {
+        "word": "resignation",
+        "confidence": 72
+      },
+      {
+        "word": "worry",
+        "confidence": 68
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerning",
+        "confidence": 90
+      },
+      {
+        "word": "inequality",
+        "confidence": 85
+      },
+      {
+        "word": "alarming",
+        "confidence": 88
+      },
+      {
+        "word": "threatening",
+        "confidence": 82
+      },
+      {
+        "word": "disturbing",
+        "confidence": 80
+      },
+      {
+        "word": "unhealthy",
+        "confidence": 86
+      },
+      {
+        "word": "risk",
+        "confidence": 84
+      }
+    ]
+  }
+}

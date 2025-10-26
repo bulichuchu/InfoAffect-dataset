@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "credible",
+        "confidence": 70
+      },
+      {
+        "word": "trust",
+        "confidence": 82
+      },
+      {
+        "word": "stagnant",
+        "confidence": 77
+      },
+      {
+        "word": "popular",
+        "confidence": 85
+      },
+      {
+        "word": "exceptional",
+        "confidence": 78
+      },
+      {
+        "word": "youthful",
+        "confidence": 80
+      }
+    ]
+  }
+}

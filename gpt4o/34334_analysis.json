@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "sorrow",
+        "confidence": 90
+      },
+      {
+        "word": "humility",
+        "confidence": 85
+      },
+      {
+        "word": "courage",
+        "confidence": 80
+      },
+      {
+        "word": "compassion",
+        "confidence": 88
+      },
+      {
+        "word": "change",
+        "confidence": 82
+      },
+      {
+        "word": "opposition",
+        "confidence": 75
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "competitive",
+        "confidence": 95
+      },
+      {
+        "word": "challenging",
+        "confidence": 90
+      },
+      {
+        "word": "fluctuating",
+        "confidence": 88
+      },
+      {
+        "word": "rivalrous",
+        "confidence": 85
+      },
+      {
+        "word": "downturn",
+        "confidence": 80
+      },
+      {
+        "word": "volatile",
+        "confidence": 75
+      }
+    ]
+  }
+}

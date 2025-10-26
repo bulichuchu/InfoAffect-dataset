@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "increased",
+        "confidence": 90
+      },
+      {
+        "word": "shifting",
+        "confidence": 85
+      },
+      {
+        "word": "persisting",
+        "confidence": 80
+      },
+      {
+        "word": "dedicated",
+        "confidence": 75
+      },
+      {
+        "word": "decreased",
+        "confidence": 70
+      },
+      {
+        "word": "impactful",
+        "confidence": 65
+      }
+    ]
+  }
+}

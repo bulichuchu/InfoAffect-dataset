@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "pride",
+        "confidence": 85
+      },
+      {
+        "word": "generation gap",
+        "confidence": 80
+      },
+      {
+        "word": "identity",
+        "confidence": 75
+      },
+      {
+        "word": "cultural shift",
+        "confidence": 70
+      },
+      {
+        "word": "disconnection",
+        "confidence": 65
+      }
+    ]
+  }
+}

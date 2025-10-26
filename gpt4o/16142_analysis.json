@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "entertained",
+        "confidence": 90
+      },
+      {
+        "word": "secure",
+        "confidence": 85
+      },
+      {
+        "word": "anonymous",
+        "confidence": 80
+      },
+      {
+        "word": "connected",
+        "confidence": 75
+      },
+      {
+        "word": "informed",
+        "confidence": 70
+      }
+    ]
+  }
+}

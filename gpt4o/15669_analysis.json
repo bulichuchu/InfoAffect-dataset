@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "profitable",
+        "confidence": 85
+      },
+      {
+        "word": "exploitation",
+        "confidence": 90
+      },
+      {
+        "word": "disturbing",
+        "confidence": 82
+      },
+      {
+        "word": "shocking",
+        "confidence": 78
+      },
+      {
+        "word": "greed",
+        "confidence": 80
+      },
+      {
+        "word": "lucrative",
+        "confidence": 75
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "inevitable",
+        "confidence": 95
+      },
+      {
+        "word": "transformative",
+        "confidence": 90
+      },
+      {
+        "word": "declining",
+        "confidence": 88
+      },
+      {
+        "word": "dominant",
+        "confidence": 85
+      },
+      {
+        "word": "conclusive",
+        "confidence": 80
+      },
+      {
+        "word": "concerning",
+        "confidence": 70
+      }
+    ]
+  }
+}

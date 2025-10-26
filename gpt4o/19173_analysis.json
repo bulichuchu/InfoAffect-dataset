@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "furious",
+        "confidence": 90
+      },
+      {
+        "word": "backlash",
+        "confidence": 85
+      },
+      {
+        "word": "protests",
+        "confidence": 88
+      },
+      {
+        "word": "affront",
+        "confidence": 82
+      },
+      {
+        "word": "complexity",
+        "confidence": 78
+      },
+      {
+        "word": "lambasted",
+        "confidence": 80
+      }
+    ]
+  }
+}

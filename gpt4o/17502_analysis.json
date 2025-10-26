@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "prestigious",
+        "confidence": 90
+      },
+      {
+        "word": "celebratory",
+        "confidence": 85
+      },
+      {
+        "word": "notable",
+        "confidence": 80
+      },
+      {
+        "word": "elite",
+        "confidence": 78
+      },
+      {
+        "word": "acclaimed",
+        "confidence": 82
+      },
+      {
+        "word": "honored",
+        "confidence": 75
+      }
+    ]
+  }
+}

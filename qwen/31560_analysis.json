@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "pressured",
+        "confidence": 90
+      },
+      {
+        "word": "confrontational",
+        "confidence": 85
+      },
+      {
+        "word": "escalating",
+        "confidence": 82
+      },
+      {
+        "word": "restrictive",
+        "confidence": 78
+      },
+      {
+        "word": "punitive",
+        "confidence": 75
+      },
+      {
+        "word": "serious",
+        "confidence": 73
+      },
+      {
+        "word": "determined",
+        "confidence": 70
+      },
+      {
+        "word": "intense",
+        "confidence": 68
+      }
+    ]
+  }
+}

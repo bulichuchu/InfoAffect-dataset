@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "innovative",
+        "confidence": 90
+      },
+      {
+        "word": "historical",
+        "confidence": 85
+      },
+      {
+        "word": "groundbreaking",
+        "confidence": 88
+      },
+      {
+        "word": "skepticism",
+        "confidence": 75
+      },
+      {
+        "word": "eradication",
+        "confidence": 82
+      },
+      {
+        "word": "scientific",
+        "confidence": 80
+      }
+    ]
+  }
+}

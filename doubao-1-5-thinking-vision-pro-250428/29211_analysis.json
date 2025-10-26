@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "welcoming",
+        "confidence": 85
+      },
+      {
+        "word": "inviting",
+        "confidence": 80
+      },
+      {
+        "word": "diverse",
+        "confidence": 75
+      },
+      {
+        "word": "celebratory",
+        "confidence": 70
+      },
+      {
+        "word": "positive",
+        "confidence": 75
+      },
+      {
+        "word": "travel - inspiring",
+        "confidence": 65
+      }
+    ]
+  }
+}

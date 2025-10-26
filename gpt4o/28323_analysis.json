@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "prosperity",
+        "confidence": 90
+      },
+      {
+        "word": "growth",
+        "confidence": 85
+      },
+      {
+        "word": "inequality",
+        "confidence": 78
+      },
+      {
+        "word": "wealth",
+        "confidence": 92
+      },
+      {
+        "word": "disparity",
+        "confidence": 75
+      },
+      {
+        "word": "increase",
+        "confidence": 81
+      },
+      {
+        "word": "exclusivity",
+        "confidence": 80
+      }
+    ]
+  }
+}

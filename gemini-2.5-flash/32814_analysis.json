@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "deplorable",
+        "confidence": 95
+      },
+      {
+        "word": "unjust",
+        "confidence": 93
+      },
+      {
+        "word": "shocking",
+        "confidence": 90
+      },
+      {
+        "word": "harsh",
+        "confidence": 88
+      },
+      {
+        "word": "dismaying",
+        "confidence": 85
+      },
+      {
+        "word": "sobering",
+        "confidence": 82
+      },
+      {
+        "word": "disturbing",
+        "confidence": 78
+      }
+    ]
+  }
+}

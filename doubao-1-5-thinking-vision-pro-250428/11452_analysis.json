@@ -1,0 +1,32 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "record",
+          "confidence": 90
+        },
+        {
+          "word": "busiest",
+          "confidence": 85
+        },
+        {
+          "word": "most",
+          "confidence": 80
+        },
+        {
+          "word": "top",
+          "confidence": 75
+        },
+        {
+          "word": "prominent",
+          "confidence": 70
+        },
+        {
+          "word": "thriving",
+          "confidence": 65
+        }
+      ]
+    }
+  }
+]

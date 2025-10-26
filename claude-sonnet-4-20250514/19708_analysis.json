@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "miraculous",
+        "confidence": 90
+      },
+      {
+        "word": "incredible",
+        "confidence": 88
+      },
+      {
+        "word": "terrifying",
+        "confidence": 85
+      },
+      {
+        "word": "remarkable",
+        "confidence": 82
+      },
+      {
+        "word": "harrowing",
+        "confidence": 78
+      },
+      {
+        "word": "fascinating",
+        "confidence": 75
+      },
+      {
+        "word": "devastating",
+        "confidence": 70
+      },
+      {
+        "word": "hopeful",
+        "confidence": 65
+      }
+    ]
+  }
+}

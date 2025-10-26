@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "discrepant",
+        "confidence": 95
+      },
+      {
+        "word": "complacent",
+        "confidence": 90
+      },
+      {
+        "word": "varied",
+        "confidence": 88
+      },
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "polarizing",
+        "confidence": 80
+      },
+      {
+        "word": "unresolved",
+        "confidence": 75
+      }
+    ]
+  }
+}

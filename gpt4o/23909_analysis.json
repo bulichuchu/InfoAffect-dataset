@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dominance",
+        "confidence": 90
+      },
+      {
+        "word": "transition",
+        "confidence": 85
+      },
+      {
+        "word": "modernity",
+        "confidence": 82
+      },
+      {
+        "word": "shift",
+        "confidence": 80
+      },
+      {
+        "word": "decline",
+        "confidence": 78
+      },
+      {
+        "word": "adaptation",
+        "confidence": 75
+      }
+    ]
+  }
+}

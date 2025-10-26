@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "uneven",
+        "confidence": 90
+      },
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "hopeful",
+        "confidence": 78
+      },
+      {
+        "word": "disparities",
+        "confidence": 82
+      },
+      {
+        "word": "urgent",
+        "confidence": 75
+      },
+      {
+        "word": "cautious",
+        "confidence": 70
+      },
+      {
+        "word": "pressing",
+        "confidence": 73
+      },
+      {
+        "word": "divided",
+        "confidence": 76
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "informative",
+        "confidence": 90
+      },
+      {
+        "word": "encouraging",
+        "confidence": 85
+      },
+      {
+        "word": "beneficial",
+        "confidence": 80
+      },
+      {
+        "word": "empowering",
+        "confidence": 75
+      },
+      {
+        "word": "helpful",
+        "confidence": 70
+      },
+      {
+        "word": "positive",
+        "confidence": 65
+      },
+      {
+        "word": "inspiring",
+        "confidence": 60
+      }
+    ]
+  }
+}

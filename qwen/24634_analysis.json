@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "solemn",
+        "confidence": 88
+      },
+      {
+        "word": "resolute",
+        "confidence": 85
+      },
+      {
+        "word": "weary",
+        "confidence": 80
+      },
+      {
+        "word": "heavy",
+        "confidence": 78
+      },
+      {
+        "word": "prolonged",
+        "confidence": 90
+      },
+      {
+        "word": "decisive",
+        "confidence": 75
+      },
+      {
+        "word": "somber",
+        "confidence": 72
+      },
+      {
+        "word": "burdened",
+        "confidence": 70
+      }
+    ]
+  }
+}

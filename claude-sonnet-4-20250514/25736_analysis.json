@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "authoritative",
+        "confidence": 88
+      },
+      {
+        "word": "matter-of-fact",
+        "confidence": 85
+      },
+      {
+        "word": "formal",
+        "confidence": 82
+      },
+      {
+        "word": "pressing",
+        "confidence": 75
+      },
+      {
+        "word": "systematic",
+        "confidence": 72
+      },
+      {
+        "word": "decisive",
+        "confidence": 68
+      },
+      {
+        "word": "regulatory",
+        "confidence": 78
+      }
+    ]
+  }
+}

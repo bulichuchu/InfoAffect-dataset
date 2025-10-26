@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "competitive",
+        "confidence": 85
+      },
+      {
+        "word": "intense",
+        "confidence": 80
+      },
+      {
+        "word": "confrontational",
+        "confidence": 75
+      },
+      {
+        "word": "strategic",
+        "confidence": 70
+      },
+      {
+        "word": "dominant",
+        "confidence": 82
+      },
+      {
+        "word": "tense",
+        "confidence": 68
+      },
+      {
+        "word": "charged",
+        "confidence": 72
+      },
+      {
+        "word": "focused",
+        "confidence": 65
+      }
+    ]
+  }
+}

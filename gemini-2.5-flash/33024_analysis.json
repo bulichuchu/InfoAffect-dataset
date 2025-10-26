@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "encouraging",
+        "confidence": 88
+      },
+      {
+        "word": "uncertain",
+        "confidence": 92
+      },
+      {
+        "word": "tense",
+        "confidence": 85
+      },
+      {
+        "word": "pivotal",
+        "confidence": 80
+      },
+      {
+        "word": "cautionary",
+        "confidence": 78
+      },
+      {
+        "word": "somber",
+        "confidence": 65
+      }
+    ]
+  }
+}

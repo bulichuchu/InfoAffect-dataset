@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "significant",
+        "confidence": 85
+      },
+      {
+        "word": "comparative",
+        "confidence": 80
+      },
+      {
+        "word": "analytical",
+        "confidence": 78
+      },
+      {
+        "word": "neutral",
+        "confidence": 75
+      },
+      {
+        "word": "informative",
+        "confidence": 82
+      },
+      {
+        "word": "strategic",
+        "confidence": 70
+      },
+      {
+        "word": "minimalist",
+        "confidence": 65
+      },
+      {
+        "word": "geopolitical",
+        "confidence": 73
+      }
+    ]
+  }
+}

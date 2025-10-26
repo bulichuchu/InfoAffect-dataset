@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "achievement",
+        "confidence": 90
+      },
+      {
+        "word": "contribution",
+        "confidence": 85
+      },
+      {
+        "word": "dominance",
+        "confidence": 80
+      },
+      {
+        "word": "pride",
+        "confidence": 78
+      },
+      {
+        "word": "support",
+        "confidence": 82
+      }
+    ]
+  }
+}

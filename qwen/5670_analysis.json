@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "staggering",
+        "confidence": 90
+      },
+      {
+        "word": "record-breaking",
+        "confidence": 85
+      },
+      {
+        "word": "mammoth",
+        "confidence": 80
+      },
+      {
+        "word": "eclipsed",
+        "confidence": 75
+      },
+      {
+        "word": "smashed",
+        "confidence": 78
+      },
+      {
+        "word": "world",
+        "confidence": 70
+      },
+      {
+        "word": "helped",
+        "confidence": 65
+      },
+      {
+        "word": "collectively",
+        "confidence": 60
+      }
+    ]
+  }
+}

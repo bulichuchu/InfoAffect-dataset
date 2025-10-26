@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "reservations",
+        "confidence": 85
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 80
+      },
+      {
+        "word": "surprising",
+        "confidence": 75
+      },
+      {
+        "word": "balanced",
+        "confidence": 72
+      },
+      {
+        "word": "democratized",
+        "confidence": 68
+      },
+      {
+        "word": "flexible",
+        "confidence": 65
+      },
+      {
+        "word": "reserved",
+        "confidence": 70
+      },
+      {
+        "word": "adaptable",
+        "confidence": 63
+      }
+    ]
+  }
+}

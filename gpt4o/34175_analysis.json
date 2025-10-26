@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dependent",
+        "confidence": 85
+      },
+      {
+        "word": "reliance",
+        "confidence": 80
+      },
+      {
+        "word": "independence",
+        "confidence": 75
+      },
+      {
+        "word": "progress",
+        "confidence": 70
+      },
+      {
+        "word": "important",
+        "confidence": 65
+      },
+      {
+        "word": "support",
+        "confidence": 60
+      }
+    ]
+  }
+}

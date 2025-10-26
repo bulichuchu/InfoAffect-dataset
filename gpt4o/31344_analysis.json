@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "hardship",
+        "confidence": 95
+      },
+      {
+        "word": "crisis",
+        "confidence": 90
+      },
+      {
+        "word": "insecurity",
+        "confidence": 85
+      },
+      {
+        "word": "displacement",
+        "confidence": 80
+      },
+      {
+        "word": "contribution",
+        "confidence": 75
+      },
+      {
+        "word": "required",
+        "confidence": 70
+      }
+    ]
+  }
+}

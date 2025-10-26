@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "hope",
+        "confidence": 88
+      },
+      {
+        "word": "disparity",
+        "confidence": 82
+      },
+      {
+        "word": "connectivity",
+        "confidence": 80
+      },
+      {
+        "word": "accessibility",
+        "confidence": 78
+      },
+      {
+        "word": "progress",
+        "confidence": 76
+      },
+      {
+        "word": "potential",
+        "confidence": 74
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "triumphant",
+        "confidence": 85
+      },
+      {
+        "word": "disappointed",
+        "confidence": 80
+      },
+      {
+        "word": "surprised",
+        "confidence": 75
+      },
+      {
+        "word": "polarized",
+        "confidence": 78
+      },
+      {
+        "word": "upset",
+        "confidence": 72
+      },
+      {
+        "word": "transformative",
+        "confidence": 70
+      },
+      {
+        "word": "rejectionary",
+        "confidence": 68
+      }
+    ]
+  }
+}

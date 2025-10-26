@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "abandoned",
+        "confidence": 90
+      },
+      {
+        "word": "obsolete",
+        "confidence": 88
+      },
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "conclusive",
+        "confidence": 82
+      },
+      {
+        "word": "vicious",
+        "confidence": 80
+      },
+      {
+        "word": "irreversible",
+        "confidence": 78
+      },
+      {
+        "word": "disappointment",
+        "confidence": 75
+      }
+    ]
+  }
+}

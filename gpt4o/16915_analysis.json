@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "pledge",
+        "confidence": 85
+      },
+      {
+        "word": "determined",
+        "confidence": 82
+      },
+      {
+        "word": "hopeful",
+        "confidence": 78
+      },
+      {
+        "word": "urgent",
+        "confidence": 76
+      },
+      {
+        "word": "concerned",
+        "confidence": 74
+      },
+      {
+        "word": "focused",
+        "confidence": 70
+      }
+    ]
+  }
+}

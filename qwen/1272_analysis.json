@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surprising",
+        "confidence": 85
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 78
+      },
+      {
+        "word": "transformative",
+        "confidence": 82
+      },
+      {
+        "word": "declining",
+        "confidence": 75
+      },
+      {
+        "word": "evolving",
+        "confidence": 80
+      },
+      {
+        "word": "curious",
+        "confidence": 70
+      },
+      {
+        "word": "comparative",
+        "confidence": 65
+      },
+      {
+        "word": "reflective",
+        "confidence": 72
+      }
+    ]
+  }
+}

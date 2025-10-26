@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "important",
+        "confidence": 90
+      },
+      {
+        "word": "significant",
+        "confidence": 85
+      },
+      {
+        "word": "valued",
+        "confidence": 80
+      },
+      {
+        "word": "connected",
+        "confidence": 75
+      },
+      {
+        "word": "preferential",
+        "confidence": 70
+      },
+      {
+        "word": "focused",
+        "confidence": 65
+      }
+    ]
+  }
+}

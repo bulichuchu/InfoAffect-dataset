@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "strikes",
+        "confidence": 90
+      },
+      {
+        "word": "conflict",
+        "confidence": 85
+      },
+      {
+        "word": "ceasefire",
+        "confidence": 80
+      },
+      {
+        "word": "tensions",
+        "confidence": 75
+      },
+      {
+        "word": "human toll",
+        "confidence": 78
+      },
+      {
+        "word": "reintegration",
+        "confidence": 72
+      }
+    ]
+  }
+}

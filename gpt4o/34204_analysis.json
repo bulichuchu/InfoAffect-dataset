@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "threat",
+        "confidence": 88
+      },
+      {
+        "word": "stable",
+        "confidence": 75
+      },
+      {
+        "word": "protection",
+        "confidence": 82
+      },
+      {
+        "word": "surged",
+        "confidence": 80
+      },
+      {
+        "word": "decline",
+        "confidence": 77
+      },
+      {
+        "word": "outsourcing",
+        "confidence": 70
+      },
+      {
+        "word": "fluctuating",
+        "confidence": 65
+      }
+    ]
+  }
+}

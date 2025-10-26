@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "plummeted",
+        "confidence": 90
+      },
+      {
+        "word": "criticism",
+        "confidence": 85
+      },
+      {
+        "word": "resignation",
+        "confidence": 88
+      },
+      {
+        "word": "insults",
+        "confidence": 80
+      },
+      {
+        "word": "overtake",
+        "confidence": 75
+      },
+      {
+        "word": "rambling",
+        "confidence": 78
+      },
+      {
+        "word": "false",
+        "confidence": 83
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "urgent",
+        "confidence": 85
+      },
+      {
+        "word": "desperate",
+        "confidence": 80
+      },
+      {
+        "word": "strategic",
+        "confidence": 75
+      },
+      {
+        "word": "competitive",
+        "confidence": 70
+      },
+      {
+        "word": "shifting",
+        "confidence": 65
+      },
+      {
+        "word": "profitable",
+        "confidence": 60
+      },
+      {
+        "word": "crucial",
+        "confidence": 72
+      },
+      {
+        "word": "transformative",
+        "confidence": 68
+      }
+    ]
+  }
+}

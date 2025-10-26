@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "influential",
+        "confidence": 95
+      },
+      {
+        "word": "inspirational",
+        "confidence": 90
+      },
+      {
+        "word": "honor",
+        "confidence": 85
+      },
+      {
+        "word": "historic",
+        "confidence": 80
+      },
+      {
+        "word": "impactful",
+        "confidence": 78
+      },
+      {
+        "word": "trailblazing",
+        "confidence": 75
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surprised",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 80
+      },
+      {
+        "word": "skeptical",
+        "confidence": 75
+      },
+      {
+        "word": "curious",
+        "confidence": 70
+      },
+      {
+        "word": "frustrated",
+        "confidence": 65
+      },
+      {
+        "word": "intrigued",
+        "confidence": 60
+      },
+      {
+        "word": "value-conscious",
+        "confidence": 78
+      },
+      {
+        "word": "debating",
+        "confidence": 72
+      }
+    ]
+  }
+}

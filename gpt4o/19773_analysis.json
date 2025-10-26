@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disappointed",
+        "confidence": 90
+      },
+      {
+        "word": "decline",
+        "confidence": 85
+      },
+      {
+        "word": "concern",
+        "confidence": 80
+      },
+      {
+        "word": "investment-heavy",
+        "confidence": 78
+      },
+      {
+        "word": "loss",
+        "confidence": 82
+      }
+    ]
+  }
+}

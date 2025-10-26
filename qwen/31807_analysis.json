@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 88
+      },
+      {
+        "word": "unequal",
+        "confidence": 85
+      },
+      {
+        "word": "incomplete",
+        "confidence": 82
+      },
+      {
+        "word": "serious",
+        "confidence": 78
+      },
+      {
+        "word": "frustrating",
+        "confidence": 75
+      },
+      {
+        "word": "urgent",
+        "confidence": 70
+      },
+      {
+        "word": "disjointed",
+        "confidence": 65
+      },
+      {
+        "word": "protective",
+        "confidence": 60
+      }
+    ]
+  }
+}

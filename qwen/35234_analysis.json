@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 88
+      },
+      {
+        "word": "anxious",
+        "confidence": 82
+      },
+      {
+        "word": "urgent",
+        "confidence": 79
+      },
+      {
+        "word": "volatile",
+        "confidence": 75
+      },
+      {
+        "word": "disruptive",
+        "confidence": 73
+      },
+      {
+        "word": "resilient",
+        "confidence": 68
+      },
+      {
+        "word": "forward-looking",
+        "confidence": 65
+      },
+      {
+        "word": "interconnected",
+        "confidence": 60
+      }
+    ]
+  }
+}

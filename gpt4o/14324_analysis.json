@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frustration",
+        "confidence": 90
+      },
+      {
+        "word": "corruption",
+        "confidence": 88
+      },
+      {
+        "word": "hopeful",
+        "confidence": 55
+      },
+      {
+        "word": "struggle",
+        "confidence": 80
+      },
+      {
+        "word": "barriers",
+        "confidence": 78
+      },
+      {
+        "word": "optimism",
+        "confidence": 60
+      },
+      {
+        "word": "hurdles",
+        "confidence": 75
+      }
+    ]
+  }
+}

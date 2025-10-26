@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "cosmopolitan",
+        "confidence": 90
+      },
+      {
+        "word": "inclusive",
+        "confidence": 85
+      },
+      {
+        "word": "welcoming",
+        "confidence": 80
+      },
+      {
+        "word": "dynamic",
+        "confidence": 75
+      },
+      {
+        "word": "proud",
+        "confidence": 70
+      },
+      {
+        "word": "competitive",
+        "confidence": 65
+      },
+      {
+        "word": "aspirational",
+        "confidence": 60
+      },
+      {
+        "word": "prestigious",
+        "confidence": 68
+      }
+    ]
+  }
+}

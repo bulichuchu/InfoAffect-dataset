@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "excited",
+        "confidence": 85
+      },
+      {
+        "word": "noteworthy",
+        "confidence": 80
+      },
+      {
+        "word": "inspiring",
+        "confidence": 78
+      },
+      {
+        "word": "concerned",
+        "confidence": 73
+      },
+      {
+        "word": "materialise",
+        "confidence": 70
+      },
+      {
+        "word": "carried away",
+        "confidence": 75
+      }
+    ]
+  }
+}

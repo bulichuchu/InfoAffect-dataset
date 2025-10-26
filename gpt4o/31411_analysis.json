@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "popular",
+        "confidence": 90
+      },
+      {
+        "word": "keen",
+        "confidence": 85
+      },
+      {
+        "word": "enjoying",
+        "confidence": 82
+      },
+      {
+        "word": "concern",
+        "confidence": 78
+      },
+      {
+        "word": "unsustainable",
+        "confidence": 80
+      },
+      {
+        "word": "temporary",
+        "confidence": 75
+      }
+    ]
+  }
+}

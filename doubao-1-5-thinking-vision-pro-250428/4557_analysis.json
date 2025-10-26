@@ -1,0 +1,32 @@
+[
+  {
+    "emotional_analysis": {
+      "affective_words": [
+        {
+          "word": "unstoppable",
+          "confidence": 90
+        },
+        {
+          "word": "historical",
+          "confidence": 85
+        },
+        {
+          "word": "significant",
+          "confidence": 80
+        },
+        {
+          "word": "rapid",
+          "confidence": 75
+        },
+        {
+          "word": "dominant",
+          "confidence": 70
+        },
+        {
+          "word": "successful",
+          "confidence": 65
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "important",
+        "confidence": 90
+      },
+      {
+        "word": "significant",
+        "confidence": 85
+      },
+      {
+        "word": "comparative",
+        "confidence": 75
+      },
+      {
+        "word": "cultural",
+        "confidence": 70
+      },
+      {
+        "word": "varied",
+        "confidence": 65
+      },
+      {
+        "word": "insightful",
+        "confidence": 60
+      },
+      {
+        "word": "neutral",
+        "confidence": 55
+      },
+      {
+        "word": "analytical",
+        "confidence": 80
+      }
+    ]
+  }
+}

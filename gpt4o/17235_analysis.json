@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "honor",
+        "confidence": 90
+      },
+      {
+        "word": "heroic",
+        "confidence": 88
+      },
+      {
+        "word": "perilous",
+        "confidence": 85
+      },
+      {
+        "word": "commemorate",
+        "confidence": 82
+      },
+      {
+        "word": "achievement",
+        "confidence": 80
+      },
+      {
+        "word": "adaptation",
+        "confidence": 75
+      },
+      {
+        "word": "resilience",
+        "confidence": 78
+      }
+    ]
+  }
+}

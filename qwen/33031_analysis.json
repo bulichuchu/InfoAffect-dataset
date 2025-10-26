@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dominant",
+        "confidence": 85
+      },
+      {
+        "word": "proud",
+        "confidence": 80
+      },
+      {
+        "word": "confident",
+        "confidence": 75
+      },
+      {
+        "word": "nationalistic",
+        "confidence": 70
+      },
+      {
+        "word": "satisfied",
+        "confidence": 65
+      },
+      {
+        "word": "resilient",
+        "confidence": 60
+      },
+      {
+        "word": "competitive",
+        "confidence": 55
+      },
+      {
+        "word": "empowered",
+        "confidence": 50
+      }
+    ]
+  }
+}

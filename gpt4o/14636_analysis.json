@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fear",
+        "confidence": 88
+      },
+      {
+        "word": "doubt",
+        "confidence": 82
+      },
+      {
+        "word": "tension",
+        "confidence": 80
+      },
+      {
+        "word": "success",
+        "confidence": 76
+      },
+      {
+        "word": "criticism",
+        "confidence": 74
+      },
+      {
+        "word": "overhaul",
+        "confidence": 70
+      },
+      {
+        "word": "contention",
+        "confidence": 68
+      },
+      {
+        "word": "support",
+        "confidence": 65
+      }
+    ]
+  }
+}

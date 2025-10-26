@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "informative",
+        "confidence": 85
+      },
+      {
+        "word": "impressive",
+        "confidence": 80
+      },
+      {
+        "word": "significant",
+        "confidence": 78
+      },
+      {
+        "word": "noteworthy",
+        "confidence": 76
+      },
+      {
+        "word": "increasing",
+        "confidence": 74
+      },
+      {
+        "word": "essential",
+        "confidence": 72
+      },
+      {
+        "word": "prevalent",
+        "confidence": 70
+      }
+    ]
+  }
+}

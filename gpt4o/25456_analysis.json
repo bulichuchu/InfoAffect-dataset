@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "detrimental",
+        "confidence": 90
+      },
+      {
+        "word": "concern",
+        "confidence": 85
+      },
+      {
+        "word": "alarming",
+        "confidence": 82
+      },
+      {
+        "word": "risks",
+        "confidence": 80
+      },
+      {
+        "word": "necessary",
+        "confidence": 78
+      },
+      {
+        "word": "protection",
+        "confidence": 76
+      },
+      {
+        "word": "debate",
+        "confidence": 70
+      }
+    ]
+  }
+}

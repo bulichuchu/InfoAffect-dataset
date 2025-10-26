@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "hopeful",
+        "confidence": 85
+      },
+      {
+        "word": "relieved",
+        "confidence": 80
+      },
+      {
+        "word": "accepting",
+        "confidence": 78
+      },
+      {
+        "word": "eager",
+        "confidence": 75
+      },
+      {
+        "word": "resigned",
+        "confidence": 70
+      },
+      {
+        "word": "optimistic",
+        "confidence": 72
+      },
+      {
+        "word": "patient",
+        "confidence": 65
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 73
+      }
+    ]
+  }
+}

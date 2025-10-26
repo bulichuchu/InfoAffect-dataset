@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disconnect",
+        "confidence": 85
+      },
+      {
+        "word": "grievance",
+        "confidence": 88
+      },
+      {
+        "word": "hostile",
+        "confidence": 92
+      },
+      {
+        "word": "selfishness",
+        "confidence": 80
+      },
+      {
+        "word": "violence",
+        "confidence": 90
+      },
+      {
+        "word": "acceptable",
+        "confidence": 75
+      }
+    ]
+  }
+}

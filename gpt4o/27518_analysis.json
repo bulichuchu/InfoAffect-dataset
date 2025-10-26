@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "split",
+        "confidence": 87
+      },
+      {
+        "word": "happy",
+        "confidence": 83
+      },
+      {
+        "word": "vulnerable",
+        "confidence": 80
+      },
+      {
+        "word": "hopeful",
+        "confidence": 78
+      },
+      {
+        "word": "concerned",
+        "confidence": 75
+      },
+      {
+        "word": "facilitate",
+        "confidence": 70
+      }
+    ]
+  }
+}

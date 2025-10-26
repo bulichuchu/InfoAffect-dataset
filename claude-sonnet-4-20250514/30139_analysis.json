@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "comfortable",
+        "confidence": 88
+      },
+      {
+        "word": "optimistic",
+        "confidence": 82
+      },
+      {
+        "word": "adaptable",
+        "confidence": 85
+      },
+      {
+        "word": "liberated",
+        "confidence": 78
+      },
+      {
+        "word": "innovative",
+        "confidence": 75
+      },
+      {
+        "word": "fatigued",
+        "confidence": 70
+      },
+      {
+        "word": "progressive",
+        "confidence": 73
+      },
+      {
+        "word": "flexible",
+        "confidence": 80
+      }
+    ]
+  }
+}

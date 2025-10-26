@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "opposition",
+        "confidence": 90
+      },
+      {
+        "word": "growing",
+        "confidence": 85
+      },
+      {
+        "word": "accusation",
+        "confidence": 80
+      },
+      {
+        "word": "public image",
+        "confidence": 75
+      },
+      {
+        "word": "support",
+        "confidence": 70
+      },
+      {
+        "word": "toll",
+        "confidence": 65
+      }
+    ]
+  }
+}

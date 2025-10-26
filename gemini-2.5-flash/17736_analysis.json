@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "indulgent",
+        "confidence": 90
+      },
+      {
+        "word": "celebratory",
+        "confidence": 85
+      },
+      {
+        "word": "abundant",
+        "confidence": 88
+      },
+      {
+        "word": "delightful",
+        "confidence": 80
+      },
+      {
+        "word": "vibrant",
+        "confidence": 75
+      },
+      {
+        "word": "prosperous",
+        "confidence": 70
+      }
+    ]
+  }
+}

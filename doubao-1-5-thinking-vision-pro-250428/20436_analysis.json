@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dramatic",
+        "confidence": 85
+      },
+      {
+        "word": "surprising",
+        "confidence": 82
+      },
+      {
+        "word": "controversial",
+        "confidence": 80
+      },
+      {
+        "word": "tense",
+        "confidence": 75
+      },
+      {
+        "word": "intriguing",
+        "confidence": 72
+      },
+      {
+        "word": "high - stakes",
+        "confidence": 70
+      }
+    ]
+  }
+}

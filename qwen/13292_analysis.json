@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "sacrificial",
+        "confidence": 90
+      },
+      {
+        "word": "heavy",
+        "confidence": 85
+      },
+      {
+        "word": "somber",
+        "confidence": 80
+      },
+      {
+        "word": "disruptive",
+        "confidence": 75
+      },
+      {
+        "word": "resilient",
+        "confidence": 70
+      },
+      {
+        "word": "profound",
+        "confidence": 65
+      },
+      {
+        "word": "heroic",
+        "confidence": 60
+      },
+      {
+        "word": "burdened",
+        "confidence": 72
+      }
+    ]
+  }
+}

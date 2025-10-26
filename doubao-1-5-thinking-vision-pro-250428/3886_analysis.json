@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "significant",
+        "confidence": 85
+      },
+      {
+        "word": "projected",
+        "confidence": 80
+      },
+      {
+        "word": "competitive",
+        "confidence": 75
+      },
+      {
+        "word": "prominent",
+        "confidence": 70
+      },
+      {
+        "word": "substantial",
+        "confidence": 75
+      },
+      {
+        "word": "forward-looking",
+        "confidence": 65
+      }
+    ]
+  }
+}

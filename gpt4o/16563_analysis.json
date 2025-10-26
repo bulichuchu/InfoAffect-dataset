@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "standoff",
+        "confidence": 85
+      },
+      {
+        "word": "speculation",
+        "confidence": 80
+      },
+      {
+        "word": "controversial",
+        "confidence": 78
+      },
+      {
+        "word": "frustration",
+        "confidence": 75
+      },
+      {
+        "word": "tense",
+        "confidence": 70
+      },
+      {
+        "word": "impasse",
+        "confidence": 68
+      },
+      {
+        "word": "stalled",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "hostile",
+        "confidence": 92
+      },
+      {
+        "word": "restrictive",
+        "confidence": 90
+      },
+      {
+        "word": "contentious",
+        "confidence": 88
+      },
+      {
+        "word": "controlled",
+        "confidence": 85
+      },
+      {
+        "word": "divisive",
+        "confidence": 80
+      },
+      {
+        "word": "disputed",
+        "confidence": 75
+      }
+    ]
+  }
+}

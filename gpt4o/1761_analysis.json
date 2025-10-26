@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dominant",
+        "confidence": 85
+      },
+      {
+        "word": "relevant",
+        "confidence": 80
+      },
+      {
+        "word": "struggling",
+        "confidence": 75
+      },
+      {
+        "word": "ubiquitous",
+        "confidence": 78
+      },
+      {
+        "word": "emergence",
+        "confidence": 72
+      },
+      {
+        "word": "shift",
+        "confidence": 70
+      }
+    ]
+  }
+}

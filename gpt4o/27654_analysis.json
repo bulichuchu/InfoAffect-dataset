@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "sustainable",
+        "confidence": 90
+      },
+      {
+        "word": "affordable",
+        "confidence": 85
+      },
+      {
+        "word": "transition",
+        "confidence": 80
+      },
+      {
+        "word": "reliable",
+        "confidence": 78
+      },
+      {
+        "word": "efficient",
+        "confidence": 77
+      },
+      {
+        "word": "connected",
+        "confidence": 75
+      },
+      {
+        "word": "disparity",
+        "confidence": 70
+      }
+    ]
+  }
+}

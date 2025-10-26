@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "protests",
+        "confidence": 90
+      },
+      {
+        "word": "infamous",
+        "confidence": 85
+      },
+      {
+        "word": "popularity",
+        "confidence": 78
+      },
+      {
+        "word": "surprise",
+        "confidence": 72
+      },
+      {
+        "word": "positive",
+        "confidence": 70
+      },
+      {
+        "word": "huge",
+        "confidence": 68
+      },
+      {
+        "word": "hard",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "contentious",
+        "confidence": 90
+      },
+      {
+        "word": "controversy",
+        "confidence": 85
+      },
+      {
+        "word": "restrictive",
+        "confidence": 80
+      },
+      {
+        "word": "commonplace",
+        "confidence": 75
+      },
+      {
+        "word": "legislative",
+        "confidence": 70
+      },
+      {
+        "word": "progressive",
+        "confidence": 65
+      },
+      {
+        "word": "inconsistent",
+        "confidence": 60
+      }
+    ]
+  }
+}

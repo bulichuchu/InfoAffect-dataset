@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "nuanced",
+        "confidence": 85
+      },
+      {
+        "word": "complex",
+        "confidence": 80
+      },
+      {
+        "word": "positive",
+        "confidence": 82
+      },
+      {
+        "word": "supportive",
+        "confidence": 75
+      },
+      {
+        "word": "corrective",
+        "confidence": 70
+      },
+      {
+        "word": "evolving",
+        "confidence": 70
+      }
+    ]
+  }
+}

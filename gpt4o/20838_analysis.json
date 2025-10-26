@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "stagnant",
+        "confidence": 85
+      },
+      {
+        "word": "pessimistic",
+        "confidence": 90
+      },
+      {
+        "word": "trouble",
+        "confidence": 88
+      },
+      {
+        "word": "declining",
+        "confidence": 80
+      },
+      {
+        "word": "fear",
+        "confidence": 82
+      },
+      {
+        "word": "recession",
+        "confidence": 95
+      }
+    ]
+  }
+}

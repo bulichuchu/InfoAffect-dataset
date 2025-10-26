@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "intolerant",
+        "confidence": 90
+      },
+      {
+        "word": "influenced",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 75
+      },
+      {
+        "word": "deterred",
+        "confidence": 80
+      },
+      {
+        "word": "weak",
+        "confidence": 88
+      },
+      {
+        "word": "extreme",
+        "confidence": 82
+      }
+    ]
+  }
+}

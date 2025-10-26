@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unexpected",
+        "confidence": 90
+      },
+      {
+        "word": "underdog",
+        "confidence": 85
+      },
+      {
+        "word": "uncertainty",
+        "confidence": 80
+      },
+      {
+        "word": "expectation",
+        "confidence": 75
+      },
+      {
+        "word": "belief",
+        "confidence": 70
+      },
+      {
+        "word": "surprise",
+        "confidence": 65
+      }
+    ]
+  }
+}

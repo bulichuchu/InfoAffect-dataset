@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surprising",
+        "confidence": 85
+      },
+      {
+        "word": "reassuring",
+        "confidence": 78
+      },
+      {
+        "word": "resilient",
+        "confidence": 75
+      },
+      {
+        "word": "traditional",
+        "confidence": 70
+      },
+      {
+        "word": "dominant",
+        "confidence": 80
+      },
+      {
+        "word": "enduring",
+        "confidence": 72
+      },
+      {
+        "word": "contrasting",
+        "confidence": 65
+      },
+      {
+        "word": "statistical",
+        "confidence": 60
+      }
+    ]
+  }
+}

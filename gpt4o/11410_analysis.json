@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "thrilling",
+        "confidence": 90
+      },
+      {
+        "word": "remarkable",
+        "confidence": 88
+      },
+      {
+        "word": "impressive",
+        "confidence": 85
+      },
+      {
+        "word": "surprising",
+        "confidence": 80
+      },
+      {
+        "word": "exciting",
+        "confidence": 83
+      },
+      {
+        "word": "pride",
+        "confidence": 78
+      }
+    ]
+  }
+}

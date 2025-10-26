@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "drastic",
+        "confidence": 90
+      },
+      {
+        "word": "halt",
+        "confidence": 85
+      },
+      {
+        "word": "declined",
+        "confidence": 80
+      },
+      {
+        "word": "permanently",
+        "confidence": 75
+      },
+      {
+        "word": "transition",
+        "confidence": 70
+      },
+      {
+        "word": "eco-friendly",
+        "confidence": 68
+      },
+      {
+        "word": "safer",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 87
+      },
+      {
+        "word": "concerned",
+        "confidence": 82
+      },
+      {
+        "word": "decreasing",
+        "confidence": 80
+      },
+      {
+        "word": "impact",
+        "confidence": 75
+      },
+      {
+        "word": "unsettled",
+        "confidence": 73
+      },
+      {
+        "word": "reduced",
+        "confidence": 78
+      }
+    ]
+  }
+}

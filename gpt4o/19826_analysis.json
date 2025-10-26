@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "defeated",
+        "confidence": 90
+      },
+      {
+        "word": "fractious",
+        "confidence": 85
+      },
+      {
+        "word": "rebelling",
+        "confidence": 80
+      },
+      {
+        "word": "rough",
+        "confidence": 78
+      },
+      {
+        "word": "indelibly",
+        "confidence": 70
+      },
+      {
+        "word": "removed",
+        "confidence": 65
+      }
+    ]
+  }
+}

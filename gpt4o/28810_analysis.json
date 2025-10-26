@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "valuable",
+        "confidence": 88
+      },
+      {
+        "word": "prized",
+        "confidence": 85
+      },
+      {
+        "word": "exorbitant",
+        "confidence": 82
+      },
+      {
+        "word": "showcase",
+        "confidence": 80
+      },
+      {
+        "word": "surprising",
+        "confidence": 75
+      },
+      {
+        "word": "tribute",
+        "confidence": 72
+      }
+    ]
+  }
+}

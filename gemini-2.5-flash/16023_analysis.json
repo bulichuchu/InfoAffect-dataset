@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "engaged",
+        "confidence": 90
+      },
+      {
+        "word": "dedicated",
+        "confidence": 85
+      },
+      {
+        "word": "intense",
+        "confidence": 80
+      },
+      {
+        "word": "absorbing",
+        "confidence": 75
+      },
+      {
+        "word": "compelling",
+        "confidence": 70
+      },
+      {
+        "word": "sacrificial",
+        "confidence": 65
+      },
+      {
+        "word": "disruptive",
+        "confidence": 60
+      }
+    ]
+  }
+}

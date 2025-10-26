@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "turbulent",
+        "confidence": 90
+      },
+      {
+        "word": "indignant",
+        "confidence": 85
+      },
+      {
+        "word": "frantic",
+        "confidence": 82
+      },
+      {
+        "word": "rocked",
+        "confidence": 78
+      },
+      {
+        "word": "assuring",
+        "confidence": 75
+      },
+      {
+        "word": "lambast",
+        "confidence": 80
+      },
+      {
+        "word": "subpoenas",
+        "confidence": 73
+      }
+    ]
+  }
+}

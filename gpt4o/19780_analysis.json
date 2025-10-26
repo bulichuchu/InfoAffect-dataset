@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "enthusiastic",
+        "confidence": 85
+      },
+      {
+        "word": "interested",
+        "confidence": 82
+      },
+      {
+        "word": "divided",
+        "confidence": 78
+      },
+      {
+        "word": "engaged",
+        "confidence": 75
+      },
+      {
+        "word": "optimistic",
+        "confidence": 70
+      },
+      {
+        "word": "apprehensive",
+        "confidence": 65
+      }
+    ]
+  }
+}

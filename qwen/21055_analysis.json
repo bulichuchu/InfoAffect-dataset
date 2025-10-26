@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "struggling",
+        "confidence": 90
+      },
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "disparaging",
+        "confidence": 80
+      },
+      {
+        "word": "alarming",
+        "confidence": 78
+      },
+      {
+        "word": "distressing",
+        "confidence": 82
+      },
+      {
+        "word": "urgent",
+        "confidence": 75
+      },
+      {
+        "word": "inequitable",
+        "confidence": 70
+      },
+      {
+        "word": "disheartening",
+        "confidence": 73
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "shocking",
+        "confidence": 85
+      },
+      {
+        "word": "controversial",
+        "confidence": 80
+      },
+      {
+        "word": "sensational",
+        "confidence": 75
+      },
+      {
+        "word": "curious",
+        "confidence": 70
+      },
+      {
+        "word": "judgmental",
+        "confidence": 65
+      },
+      {
+        "word": "intriguing",
+        "confidence": 72
+      },
+      {
+        "word": "taboo",
+        "confidence": 68
+      },
+      {
+        "word": "gossipy",
+        "confidence": 60
+      }
+    ]
+  }
+}

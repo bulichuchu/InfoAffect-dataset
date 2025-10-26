@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "chaos",
+        "confidence": 90
+      },
+      {
+        "word": "shock",
+        "confidence": 85
+      },
+      {
+        "word": "fretting",
+        "confidence": 80
+      },
+      {
+        "word": "unclear",
+        "confidence": 75
+      },
+      {
+        "word": "optimistic",
+        "confidence": 70
+      },
+      {
+        "word": "deteriorate",
+        "confidence": 68
+      },
+      {
+        "word": "unchanged",
+        "confidence": 65
+      }
+    ]
+  }
+}

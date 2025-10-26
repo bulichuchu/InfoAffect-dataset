@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "informative",
+        "confidence": 90
+      },
+      {
+        "word": "diverse",
+        "confidence": 85
+      },
+      {
+        "word": "practical",
+        "confidence": 80
+      },
+      {
+        "word": "cultural",
+        "confidence": 75
+      },
+      {
+        "word": "unifying",
+        "confidence": 70
+      }
+    ]
+  }
+}

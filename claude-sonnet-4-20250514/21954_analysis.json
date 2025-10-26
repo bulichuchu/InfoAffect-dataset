@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anxious",
+        "confidence": 88
+      },
+      {
+        "word": "uncertain",
+        "confidence": 85
+      },
+      {
+        "word": "hopeful",
+        "confidence": 78
+      },
+      {
+        "word": "concerned",
+        "confidence": 82
+      },
+      {
+        "word": "relieved",
+        "confidence": 75
+      },
+      {
+        "word": "adaptive",
+        "confidence": 70
+      },
+      {
+        "word": "cautious",
+        "confidence": 80
+      },
+      {
+        "word": "resilient",
+        "confidence": 68
+      }
+    ]
+  }
+}

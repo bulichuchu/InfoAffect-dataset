@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "plummeted",
+        "confidence": 95
+      },
+      {
+        "word": "historic",
+        "confidence": 85
+      },
+      {
+        "word": "nosedived",
+        "confidence": 90
+      },
+      {
+        "word": "concerned",
+        "confidence": 75
+      },
+      {
+        "word": "alarming",
+        "confidence": 88
+      },
+      {
+        "word": "disillusioned",
+        "confidence": 80
+      }
+    ]
+  }
+}

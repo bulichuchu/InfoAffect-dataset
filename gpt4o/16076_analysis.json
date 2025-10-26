@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "choice",
+        "confidence": 90
+      },
+      {
+        "word": "popular",
+        "confidence": 88
+      },
+      {
+        "word": "livable",
+        "confidence": 85
+      },
+      {
+        "word": "surprise",
+        "confidence": 80
+      },
+      {
+        "word": "prefer",
+        "confidence": 78
+      },
+      {
+        "word": "home",
+        "confidence": 75
+      }
+    ]
+  }
+}

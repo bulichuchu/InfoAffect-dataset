@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "pragmatic",
+        "confidence": 80
+      },
+      {
+        "word": "solution - oriented",
+        "confidence": 80
+      },
+      {
+        "word": "hopeful",
+        "confidence": 75
+      },
+      {
+        "word": "determined",
+        "confidence": 70
+      },
+      {
+        "word": "collaborative",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "indifference",
+        "confidence": 90
+      },
+      {
+        "word": "disinterest",
+        "confidence": 85
+      },
+      {
+        "word": "variation",
+        "confidence": 80
+      },
+      {
+        "word": "contrast",
+        "confidence": 78
+      },
+      {
+        "word": "consistent",
+        "confidence": 75
+      },
+      {
+        "word": "popularity",
+        "confidence": 70
+      }
+    ]
+  }
+}

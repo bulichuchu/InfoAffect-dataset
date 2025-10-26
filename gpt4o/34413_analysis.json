@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "legendary",
+        "confidence": 90
+      },
+      {
+        "word": "successful",
+        "confidence": 85
+      },
+      {
+        "word": "rational",
+        "confidence": 83
+      },
+      {
+        "word": "wisdom",
+        "confidence": 80
+      },
+      {
+        "word": "philanthropy",
+        "confidence": 78
+      },
+      {
+        "word": "cult",
+        "confidence": 75
+      },
+      {
+        "word": "popular",
+        "confidence": 70
+      }
+    ]
+  }
+}

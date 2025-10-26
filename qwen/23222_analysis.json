@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "devastated",
+        "confidence": 90
+      },
+      {
+        "word": "crushed",
+        "confidence": 85
+      },
+      {
+        "word": "grim",
+        "confidence": 80
+      },
+      {
+        "word": "desperate",
+        "confidence": 75
+      },
+      {
+        "word": "bleak",
+        "confidence": 78
+      },
+      {
+        "word": "shattered",
+        "confidence": 82
+      },
+      {
+        "word": "alarming",
+        "confidence": 70
+      },
+      {
+        "word": "hopeless",
+        "confidence": 65
+      }
+    ]
+  }
+}

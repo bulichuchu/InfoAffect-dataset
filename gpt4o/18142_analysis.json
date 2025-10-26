@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "divided",
+        "confidence": 85
+      },
+      {
+        "word": "praise",
+        "confidence": 80
+      },
+      {
+        "word": "persecution",
+        "confidence": 78
+      },
+      {
+        "word": "unlikely",
+        "confidence": 75
+      },
+      {
+        "word": "pride",
+        "confidence": 72
+      },
+      {
+        "word": "fear",
+        "confidence": 70
+      },
+      {
+        "word": "secure",
+        "confidence": 68
+      }
+    ]
+  }
+}

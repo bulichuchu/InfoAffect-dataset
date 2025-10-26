@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "personalization",
+        "confidence": 95
+      },
+      {
+        "word": "expectation",
+        "confidence": 90
+      },
+      {
+        "word": "belief",
+        "confidence": 88
+      },
+      {
+        "word": "anticipation",
+        "confidence": 85
+      },
+      {
+        "word": "confidence",
+        "confidence": 80
+      },
+      {
+        "word": "adaptation",
+        "confidence": 75
+      }
+    ]
+  }
+}
