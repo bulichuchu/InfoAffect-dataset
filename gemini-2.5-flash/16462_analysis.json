@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transitional",
+        "confidence": 90
+      },
+      {
+        "word": "challenged",
+        "confidence": 88
+      },
+      {
+        "word": "resurgent",
+        "confidence": 85
+      },
+      {
+        "word": "discontent",
+        "confidence": 82
+      },
+      {
+        "word": "speculative",
+        "confidence": 78
+      },
+      {
+        "word": "consequential",
+        "confidence": 75
+      }
+    ]
+  }
+}

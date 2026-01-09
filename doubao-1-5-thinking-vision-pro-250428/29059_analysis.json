@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 90
+      },
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "achieved",
+        "confidence": 80
+      },
+      {
+        "word": "high-grossing",
+        "confidence": 75
+      },
+      {
+        "word": "success",
+        "confidence": 70
+      },
+      {
+        "word": "struggle",
+        "confidence": 65
+      },
+      {
+        "word": "daunting",
+        "confidence": 60
+      },
+      {
+        "word": "struggle",
+        "confidence": 55
+      }
+    ]
+  }
+}

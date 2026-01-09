@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "traditional",
+        "confidence": 80
+      },
+      {
+        "word": "transitional",
+        "confidence": 75
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 70
+      },
+      {
+        "word": "success",
+        "confidence": 65
+      },
+      {
+        "word": "mixed",
+        "confidence": 60
+      },
+      {
+        "word": "practical",
+        "confidence": 55
+      },
+      {
+        "word": "reliable",
+        "confidence": 72
+      }
+    ]
+  }
+}

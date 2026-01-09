@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "harmful",
+        "confidence": 90
+      },
+      {
+        "word": "perceived",
+        "confidence": 88
+      },
+      {
+        "word": "reliable",
+        "confidence": 85
+      },
+      {
+        "word": "negative",
+        "confidence": 82
+      },
+      {
+        "word": "alarm",
+        "confidence": 78
+      },
+      {
+        "word": "discrediting",
+        "confidence": 75
+      }
+    ]
+  }
+}

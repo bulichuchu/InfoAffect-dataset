@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dependence",
+        "confidence": 90
+      },
+      {
+        "word": "effective",
+        "confidence": 85
+      },
+      {
+        "word": "vulnerable",
+        "confidence": 80
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      },
+      {
+        "word": "anger",
+        "confidence": 70
+      }
+    ]
+  }
+}

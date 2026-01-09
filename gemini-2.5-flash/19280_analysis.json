@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "contentious",
+        "confidence": 90
+      },
+      {
+        "word": "uncertain",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 80
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      },
+      {
+        "word": "inconclusive",
+        "confidence": 70
+      },
+      {
+        "word": "formal",
+        "confidence": 65
+      },
+      {
+        "word": "effective",
+        "confidence": 60
+      }
+    ]
+  }
+}

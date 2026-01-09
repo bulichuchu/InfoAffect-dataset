@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "improvement",
+        "confidence": 90
+      },
+      {
+        "word": "progress",
+        "confidence": 85
+      },
+      {
+        "word": "advancement",
+        "confidence": 80
+      },
+      {
+        "word": "increase",
+        "confidence": 75
+      },
+      {
+        "word": "upward",
+        "confidence": 70
+      },
+      {
+        "word": "joy",
+        "confidence": 65
+      },
+      {
+        "word": "rise",
+        "confidence": 60
+      },
+      {
+        "word": "enhancement",
+        "confidence": 55
+      }
+    ]
+  }
+}

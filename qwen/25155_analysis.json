@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 88
+      },
+      {
+        "word": "daunting",
+        "confidence": 85
+      },
+      {
+        "word": "lagging",
+        "confidence": 82
+      },
+      {
+        "word": "fear",
+        "confidence": 78
+      },
+      {
+        "word": "pressured",
+        "confidence": 75
+      },
+      {
+        "word": "contrasting",
+        "confidence": 70
+      },
+      {
+        "word": "uncertain",
+        "confidence": 68
+      },
+      {
+        "word": "reliable",
+        "confidence": 65
+      }
+    ]
+  }
+}

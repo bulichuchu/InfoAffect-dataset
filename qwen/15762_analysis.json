@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "determined",
+        "confidence": 80
+      },
+      {
+        "word": "assertive",
+        "confidence": 78
+      },
+      {
+        "word": "nervous",
+        "confidence": 72
+      },
+      {
+        "word": "resolute",
+        "confidence": 75
+      },
+      {
+        "word": "patriotic",
+        "confidence": 70
+      },
+      {
+        "word": "statistical",
+        "confidence": 65
+      },
+      {
+        "word": "alarm",
+        "confidence": 68
+      }
+    ]
+  }
+}

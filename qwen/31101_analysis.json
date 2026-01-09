@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "nostalgic",
+        "confidence": 85
+      },
+      {
+        "word": "nationalistic",
+        "confidence": 80
+      },
+      {
+        "word": "transitional",
+        "confidence": 75
+      },
+      {
+        "word": "statistical",
+        "confidence": 90
+      },
+      {
+        "word": "effective",
+        "confidence": 88
+      },
+      {
+        "word": "global",
+        "confidence": 72
+      },
+      {
+        "word": "resurgent",
+        "confidence": 68
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 70
+      }
+    ]
+  }
+}

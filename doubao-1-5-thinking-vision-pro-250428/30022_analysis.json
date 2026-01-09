@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "popular",
+        "confidence": 90
+      },
+      {
+        "word": "fascinating",
+        "confidence": 85
+      },
+      {
+        "word": "enjoyable",
+        "confidence": 80
+      },
+      {
+        "word": "educational",
+        "confidence": 75
+      },
+      {
+        "word": "mixed",
+        "confidence": 70
+      },
+      {
+        "word": "interesting",
+        "confidence": 65
+      },
+      {
+        "word": "joy",
+        "confidence": 60
+      },
+      {
+        "word": "engaging",
+        "confidence": 55
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "diplomatic",
+        "confidence": 85
+      },
+      {
+        "word": "effective",
+        "confidence": 80
+      },
+      {
+        "word": "statistical",
+        "confidence": 75
+      },
+      {
+        "word": "normal",
+        "confidence": 70
+      },
+      {
+        "word": "effective",
+        "confidence": 82
+      },
+      {
+        "word": "statistical",
+        "confidence": 78
+      },
+      {
+        "word": "statistical",
+        "confidence": 65
+      },
+      {
+        "word": "formal",
+        "confidence": 73
+      }
+    ]
+  }
+}

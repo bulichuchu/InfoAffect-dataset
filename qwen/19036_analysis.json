@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "shocking",
+        "confidence": 90
+      },
+      {
+        "word": "disproportionate",
+        "confidence": 88
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "anger",
+        "confidence": 82
+      },
+      {
+        "word": "inflammatory",
+        "confidence": 78
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      },
+      {
+        "word": "unequal",
+        "confidence": 80
+      },
+      {
+        "word": "alarm",
+        "confidence": 77
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "joy",
+        "confidence": 90
+      },
+      {
+        "word": "mixed",
+        "confidence": 85
+      },
+      {
+        "word": "inclusive",
+        "confidence": 80
+      },
+      {
+        "word": "festive",
+        "confidence": 78
+      },
+      {
+        "word": "curious",
+        "confidence": 75
+      },
+      {
+        "word": "effective",
+        "confidence": 82
+      },
+      {
+        "word": "wonderful",
+        "confidence": 70
+      },
+      {
+        "word": "harmonious",
+        "confidence": 65
+      }
+    ]
+  }
+}

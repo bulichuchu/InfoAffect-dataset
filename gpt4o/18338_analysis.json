@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 88
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "anger",
+        "confidence": 82
+      },
+      {
+        "word": "wary",
+        "confidence": 80
+      },
+      {
+        "word": "uncertain",
+        "confidence": 77
+      },
+      {
+        "word": "unpredictable",
+        "confidence": 75
+      },
+      {
+        "word": "complex",
+        "confidence": 70
+      }
+    ]
+  }
+}

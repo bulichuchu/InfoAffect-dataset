@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rivalry",
+        "confidence": 90
+      },
+      {
+        "word": "excitement",
+        "confidence": 85
+      },
+      {
+        "word": "anticipated",
+        "confidence": 80
+      },
+      {
+        "word": "drama",
+        "confidence": 75
+      },
+      {
+        "word": "history",
+        "confidence": 70
+      },
+      {
+        "word": "challenger",
+        "confidence": 65
+      },
+      {
+        "word": "favorite",
+        "confidence": 60
+      },
+      {
+        "word": "return",
+        "confidence": 55
+      }
+    ]
+  }
+}

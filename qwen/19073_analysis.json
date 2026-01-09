@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 88
+      },
+      {
+        "word": "disparaging",
+        "confidence": 82
+      },
+      {
+        "word": "alarm",
+        "confidence": 79
+      },
+      {
+        "word": "stressful",
+        "confidence": 75
+      },
+      {
+        "word": "unequal",
+        "confidence": 85
+      },
+      {
+        "word": "pressing",
+        "confidence": 77
+      },
+      {
+        "word": "burdensome",
+        "confidence": 80
+      },
+      {
+        "word": "effective",
+        "confidence": 70
+      }
+    ]
+  }
+}

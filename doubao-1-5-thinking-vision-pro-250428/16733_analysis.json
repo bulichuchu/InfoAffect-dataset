@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "uncertain",
+        "confidence": 90
+      },
+      {
+        "word": "distrust",
+        "confidence": 85
+      },
+      {
+        "word": "caution",
+        "confidence": 80
+      },
+      {
+        "word": "hesitation",
+        "confidence": 75
+      },
+      {
+        "word": "preference",
+        "confidence": 70
+      },
+      {
+        "word": "transitional",
+        "confidence": 65
+      },
+      {
+        "word": "uncertainity",
+        "confidence": 60
+      },
+      {
+        "word": "confusion",
+        "confidence": 55
+      }
+    ]
+  }
+}

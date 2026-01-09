@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 90
+      },
+      {
+        "word": "steep",
+        "confidence": 85
+      },
+      {
+        "word": "large",
+        "confidence": 80
+      },
+      {
+        "word": "record",
+        "confidence": 75
+      },
+      {
+        "word": "anticipated",
+        "confidence": 70
+      },
+      {
+        "word": "anticipated",
+        "confidence": 65
+      },
+      {
+        "word": "contribute",
+        "confidence": 60
+      },
+      {
+        "word": "soon",
+        "confidence": 55
+      }
+    ]
+  }
+}

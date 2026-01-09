@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "joy",
+        "confidence": 90
+      },
+      {
+        "word": "excited",
+        "confidence": 85
+      },
+      {
+        "word": "passionate",
+        "confidence": 80
+      },
+      {
+        "word": "engaged",
+        "confidence": 75
+      },
+      {
+        "word": "loyal",
+        "confidence": 70
+      },
+      {
+        "word": "support",
+        "confidence": 65
+      },
+      {
+        "word": "avid",
+        "confidence": 60
+      },
+      {
+        "word": "dedicated",
+        "confidence": 55
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "innovative",
+        "confidence": 85
+      },
+      {
+        "word": "joy",
+        "confidence": 80
+      },
+      {
+        "word": "effective",
+        "confidence": 78
+      },
+      {
+        "word": "structured",
+        "confidence": 75
+      },
+      {
+        "word": "responsible",
+        "confidence": 72
+      },
+      {
+        "word": "serene",
+        "confidence": 70
+      }
+    ]
+  }
+}

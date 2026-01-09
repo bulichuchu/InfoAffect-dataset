@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unaffordable",
+        "confidence": 90
+      },
+      {
+        "word": "increasingly",
+        "confidence": 85
+      },
+      {
+        "word": "struggle",
+        "confidence": 85
+      },
+      {
+        "word": "worrying",
+        "confidence": 80
+      },
+      {
+        "word": "mixed",
+        "confidence": 70
+      },
+      {
+        "word": "struggle",
+        "confidence": 75
+      },
+      {
+        "word": "struggle",
+        "confidence": 65
+      },
+      {
+        "word": "inefficient",
+        "confidence": 50
+      }
+    ]
+  }
+}

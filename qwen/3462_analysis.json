@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 88
+      },
+      {
+        "word": "polarizing",
+        "confidence": 85
+      },
+      {
+        "word": "transitional",
+        "confidence": 80
+      },
+      {
+        "word": "perceived",
+        "confidence": 75
+      },
+      {
+        "word": "statistical",
+        "confidence": 72
+      },
+      {
+        "word": "statistical",
+        "confidence": 68
+      },
+      {
+        "word": "effective",
+        "confidence": 70
+      },
+      {
+        "word": "normal",
+        "confidence": 65
+      }
+    ]
+  }
+}

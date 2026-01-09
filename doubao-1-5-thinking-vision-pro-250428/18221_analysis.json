@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dominates",
+        "confidence": 90
+      },
+      {
+        "word": "harmful",
+        "confidence": 95
+      },
+      {
+        "word": "enabler",
+        "confidence": 85
+      },
+      {
+        "word": "tax dodge",
+        "confidence": 90
+      },
+      {
+        "word": "avoidance",
+        "confidence": 90
+      },
+      {
+        "word": "abuse",
+        "confidence": 95
+      },
+      {
+        "word": "risk",
+        "confidence": 90
+      },
+      {
+        "word": "lost",
+        "confidence": 85
+      }
+    ]
+  }
+}

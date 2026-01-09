@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "practical",
+        "confidence": 95
+      },
+      {
+        "word": "transitional",
+        "confidence": 88
+      },
+      {
+        "word": "exorbitant",
+        "confidence": 85
+      },
+      {
+        "word": "astonishing",
+        "confidence": 75
+      },
+      {
+        "word": "harmful",
+        "confidence": 70
+      },
+      {
+        "word": "concern",
+        "confidence": 60
+      }
+    ]
+  }
+}

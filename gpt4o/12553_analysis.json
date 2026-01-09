@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "diplomatic",
+        "confidence": 90
+      },
+      {
+        "word": "assertive",
+        "confidence": 85
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 80
+      },
+      {
+        "word": "effective",
+        "confidence": 78
+      },
+      {
+        "word": "energetic",
+        "confidence": 75
+      },
+      {
+        "word": "anger",
+        "confidence": 70
+      }
+    ]
+  }
+}

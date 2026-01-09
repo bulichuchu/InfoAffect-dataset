@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unequal",
+        "confidence": 90
+      },
+      {
+        "word": "disproportionate",
+        "confidence": 85
+      },
+      {
+        "word": "disconcerting",
+        "confidence": 80
+      },
+      {
+        "word": "fear",
+        "confidence": 75
+      },
+      {
+        "word": "daunting",
+        "confidence": 70
+      },
+      {
+        "word": "stark",
+        "confidence": 65
+      },
+      {
+        "word": "striking",
+        "confidence": 60
+      },
+      {
+        "word": "astounding",
+        "confidence": 55
+      }
+    ]
+  }
+}

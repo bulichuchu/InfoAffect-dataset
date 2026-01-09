@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "high",
+        "confidence": 90
+      },
+      {
+        "word": "large",
+        "confidence": 85
+      },
+      {
+        "word": "abundance",
+        "confidence": 70
+      },
+      {
+        "word": "busy",
+        "confidence": 65
+      },
+      {
+        "word": "effective",
+        "confidence": 55
+      }
+    ]
+  }
+}

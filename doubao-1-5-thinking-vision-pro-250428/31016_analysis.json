@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rise",
+        "confidence": 90
+      },
+      {
+        "word": "increasing",
+        "confidence": 85
+      },
+      {
+        "word": "reliable",
+        "confidence": 80
+      },
+      {
+        "word": "enormous",
+        "confidence": 75
+      },
+      {
+        "word": "substantial",
+        "confidence": 70
+      },
+      {
+        "word": "future",
+        "confidence": 65
+      },
+      {
+        "word": "prevent",
+        "confidence": 60
+      },
+      {
+        "word": "increase",
+        "confidence": 55
+      }
+    ]
+  }
+}

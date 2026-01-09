@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "excellent",
+        "confidence": 90
+      },
+      {
+        "word": "balance",
+        "confidence": 85
+      },
+      {
+        "word": "healthy",
+        "confidence": 80
+      },
+      {
+        "word": "improve",
+        "confidence": 70
+      },
+      {
+        "word": "long",
+        "confidence": 65
+      },
+      {
+        "word": "stress",
+        "confidence": 60
+      },
+      {
+        "word": "time",
+        "confidence": 55
+      },
+      {
+        "word": "worse",
+        "confidence": 50
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transitional",
+        "confidence": 85
+      },
+      {
+        "word": "success",
+        "confidence": 80
+      },
+      {
+        "word": "success",
+        "confidence": 78
+      },
+      {
+        "word": "effective",
+        "confidence": 75
+      },
+      {
+        "word": "mixed",
+        "confidence": 72
+      },
+      {
+        "word": "alarm",
+        "confidence": 68
+      },
+      {
+        "word": "dramatic",
+        "confidence": 65
+      },
+      {
+        "word": "polarizing",
+        "confidence": 63
+      }
+    ]
+  }
+}

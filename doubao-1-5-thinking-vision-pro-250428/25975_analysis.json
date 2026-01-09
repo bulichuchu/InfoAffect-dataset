@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "record low",
+        "confidence": 90
+      },
+      {
+        "word": "new record",
+        "confidence": 85
+      },
+      {
+        "word": "fifth consecutive year",
+        "confidence": 80
+      },
+      {
+        "word": "below replacement level",
+        "confidence": 75
+      },
+      {
+        "word": "decreases",
+        "confidence": 70
+      }
+    ]
+  }
+}

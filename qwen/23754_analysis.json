@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "reliable",
+        "confidence": 85
+      },
+      {
+        "word": "diplomatic",
+        "confidence": 80
+      },
+      {
+        "word": "mixed",
+        "confidence": 78
+      },
+      {
+        "word": "historic",
+        "confidence": 75
+      },
+      {
+        "word": "effective",
+        "confidence": 72
+      },
+      {
+        "word": "anger",
+        "confidence": 68
+      },
+      {
+        "word": "innovative",
+        "confidence": 65
+      },
+      {
+        "word": "political",
+        "confidence": 70
+      }
+    ]
+  }
+}

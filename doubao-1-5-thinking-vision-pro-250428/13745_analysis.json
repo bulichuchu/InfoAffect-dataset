@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rise",
+        "confidence": 90
+      },
+      {
+        "word": "rise",
+        "confidence": 85
+      },
+      {
+        "word": "success",
+        "confidence": 80
+      },
+      {
+        "word": "powerful",
+        "confidence": 75
+      },
+      {
+        "word": "monstrous",
+        "confidence": 70
+      },
+      {
+        "word": "worrying",
+        "confidence": 65
+      },
+      {
+        "word": "astounding",
+        "confidence": 60
+      },
+      {
+        "word": "symbolic",
+        "confidence": 55
+      }
+    ]
+  }
+}

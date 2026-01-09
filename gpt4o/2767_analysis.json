@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "lonely",
+        "confidence": 85
+      },
+      {
+        "word": "normal",
+        "confidence": 80
+      },
+      {
+        "word": "unsustainable",
+        "confidence": 78
+      },
+      {
+        "word": "conventional",
+        "confidence": 75
+      },
+      {
+        "word": "minor",
+        "confidence": 70
+      },
+      {
+        "word": "solitary",
+        "confidence": 74
+      }
+    ]
+  }
+}

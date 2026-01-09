@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "close",
+        "confidence": 90
+      },
+      {
+        "word": "uncertain",
+        "confidence": 85
+      },
+      {
+        "word": "anger",
+        "confidence": 80
+      },
+      {
+        "word": "tight",
+        "confidence": 75
+      },
+      {
+        "word": "narrow",
+        "confidence": 70
+      },
+      {
+        "word": "doubtful",
+        "confidence": 65
+      },
+      {
+        "word": "uncertain",
+        "confidence": 60
+      },
+      {
+        "word": "uncertain",
+        "confidence": 55
+      }
+    ]
+  }
+}

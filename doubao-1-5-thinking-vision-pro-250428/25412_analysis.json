@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "drastically",
+        "confidence": 90
+      },
+      {
+        "word": "substantially",
+        "confidence": 85
+      },
+      {
+        "word": "considerably",
+        "confidence": 80
+      },
+      {
+        "word": "reliable",
+        "confidence": 75
+      },
+      {
+        "word": "widen",
+        "confidence": 70
+      },
+      {
+        "word": "capable",
+        "confidence": 65
+      },
+      {
+        "word": "needed",
+        "confidence": 60
+      }
+    ]
+  }
+}

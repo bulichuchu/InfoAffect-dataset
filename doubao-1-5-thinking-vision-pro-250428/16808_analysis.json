@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "increasing",
+        "confidence": 90
+      },
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "higher",
+        "confidence": 80
+      },
+      {
+        "word": "lower",
+        "confidence": 75
+      },
+      {
+        "word": "sharp",
+        "confidence": 70
+      },
+      {
+        "word": "steady",
+        "confidence": 65
+      },
+      {
+        "word": "more expensive",
+        "confidence": 60
+      },
+      {
+        "word": "less",
+        "confidence": 55
+      }
+    ]
+  }
+}

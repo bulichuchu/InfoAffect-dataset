@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "observational",
+        "confidence": 88
+      },
+      {
+        "word": "reflective",
+        "confidence": 85
+      },
+      {
+        "word": "matter-of-fact",
+        "confidence": 82
+      },
+      {
+        "word": "contemplative",
+        "confidence": 78
+      },
+      {
+        "word": "statistical",
+        "confidence": 75
+      },
+      {
+        "word": "normal",
+        "confidence": 72
+      },
+      {
+        "word": "effective",
+        "confidence": 70
+      }
+    ]
+  }
+}

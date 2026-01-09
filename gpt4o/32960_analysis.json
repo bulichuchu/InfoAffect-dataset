@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "pride",
+        "confidence": 85
+      },
+      {
+        "word": "empowerment",
+        "confidence": 80
+      },
+      {
+        "word": "optimism",
+        "confidence": 75
+      },
+      {
+        "word": "strength",
+        "confidence": 78
+      },
+      {
+        "word": "importance",
+        "confidence": 82
+      },
+      {
+        "word": "inspiration",
+        "confidence": 70
+      },
+      {
+        "word": "resilience",
+        "confidence": 76
+      }
+    ]
+  }
+}

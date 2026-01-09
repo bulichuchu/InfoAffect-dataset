@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "tedious",
+        "confidence": 85
+      },
+      {
+        "word": "lengthy",
+        "confidence": 90
+      },
+      {
+        "word": "demanding",
+        "confidence": 80
+      },
+      {
+        "word": "anger",
+        "confidence": 75
+      },
+      {
+        "word": "alarm",
+        "confidence": 70
+      },
+      {
+        "word": "arduous",
+        "confidence": 88
+      }
+    ]
+  }
+}

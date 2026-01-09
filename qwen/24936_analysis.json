@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "innovative",
+        "confidence": 80
+      },
+      {
+        "word": "demanding",
+        "confidence": 78
+      },
+      {
+        "word": "success",
+        "confidence": 75
+      },
+      {
+        "word": "alarm",
+        "confidence": 72
+      },
+      {
+        "word": "joy",
+        "confidence": 68
+      },
+      {
+        "word": "pressing",
+        "confidence": 70
+      },
+      {
+        "word": "effective",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "grim",
+        "confidence": 90
+      },
+      {
+        "word": "harmful",
+        "confidence": 85
+      },
+      {
+        "word": "bleak",
+        "confidence": 82
+      },
+      {
+        "word": "harmful",
+        "confidence": 78
+      },
+      {
+        "word": "severe",
+        "confidence": 75
+      },
+      {
+        "word": "devastation",
+        "confidence": 70
+      },
+      {
+        "word": "devastate",
+        "confidence": 65
+      },
+      {
+        "word": "devastates",
+        "confidence": 60
+      }
+    ]
+  }
+}

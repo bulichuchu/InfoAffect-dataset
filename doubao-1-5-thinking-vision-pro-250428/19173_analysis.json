@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 90
+      },
+      {
+        "word": "backlash",
+        "confidence": 85
+      },
+      {
+        "word": "protests",
+        "confidence": 80
+      },
+      {
+        "word": "lambast",
+        "confidence": 75
+      },
+      {
+        "word": "affront",
+        "confidence": 70
+      },
+      {
+        "word": "marathon",
+        "confidence": 65
+      },
+      {
+        "word": "complexity",
+        "confidence": 60
+      },
+      {
+        "word": "longest",
+        "confidence": 55
+      }
+    ]
+  }
+}

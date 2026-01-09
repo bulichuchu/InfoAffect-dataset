@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 90
+      },
+      {
+        "word": "landslide",
+        "confidence": 85
+      },
+      {
+        "word": "turbulence",
+        "confidence": 70
+      },
+      {
+        "word": "relevance",
+        "confidence": 65
+      },
+      {
+        "word": "lead",
+        "confidence": 80
+      }
+    ]
+  }
+}

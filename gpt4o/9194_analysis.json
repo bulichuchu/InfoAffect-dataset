@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "statistical",
+        "confidence": 90
+      },
+      {
+        "word": "discontent",
+        "confidence": 85
+      },
+      {
+        "word": "jealousy",
+        "confidence": 75
+      },
+      {
+        "word": "injustice",
+        "confidence": 80
+      },
+      {
+        "word": "frustration",
+        "confidence": 78
+      },
+      {
+        "word": "success",
+        "confidence": 70
+      }
+    ]
+  }
+}

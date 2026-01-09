@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "discrepancy",
+        "confidence": 85
+      },
+      {
+        "word": "inequality",
+        "confidence": 83
+      },
+      {
+        "word": "improvement",
+        "confidence": 75
+      },
+      {
+        "word": "concern",
+        "confidence": 78
+      },
+      {
+        "word": "progress",
+        "confidence": 70
+      },
+      {
+        "word": "hope",
+        "confidence": 65
+      }
+    ]
+  }
+}

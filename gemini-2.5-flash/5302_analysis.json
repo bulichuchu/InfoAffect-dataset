@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 95
+      },
+      {
+        "word": "failed",
+        "confidence": 90
+      },
+      {
+        "word": "pressured",
+        "confidence": 88
+      },
+      {
+        "word": "dissent",
+        "confidence": 87
+      },
+      {
+        "word": "challenged",
+        "confidence": 85
+      },
+      {
+        "word": "alarm",
+        "confidence": 80
+      }
+    ]
+  }
+}

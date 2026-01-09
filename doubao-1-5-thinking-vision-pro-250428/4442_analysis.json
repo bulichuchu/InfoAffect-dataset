@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "attached",
+        "confidence": 90
+      },
+      {
+        "word": "disconnected",
+        "confidence": 85
+      },
+      {
+        "word": " detachment",
+        "confidence": 80
+      },
+      {
+        "word": "unplugging",
+        "confidence": 75
+      },
+      {
+        "word": "wishing",
+        "confidence": 70
+      },
+      {
+        "word": "yearning",
+        "confidence": 65
+      },
+      {
+        "word": "yearn",
+        "confidence": 60
+      },
+      {
+        "word": "yearned",
+        "confidence": 55
+      }
+    ]
+  }
+}

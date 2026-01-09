@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "popular",
+        "confidence": 90
+      },
+      {
+        "word": "frequent",
+        "confidence": 85
+      },
+      {
+        "word": "normal",
+        "confidence": 80
+      },
+      {
+        "word": "visited",
+        "confidence": 75
+      },
+      {
+        "word": "energetic",
+        "confidence": 70
+      },
+      {
+        "word": "engaging",
+        "confidence": 65
+      },
+      {
+        "word": "appealing",
+        "confidence": 60
+      },
+      {
+        "word": "cultured",
+        "confidence": 55
+      }
+    ]
+  }
+}

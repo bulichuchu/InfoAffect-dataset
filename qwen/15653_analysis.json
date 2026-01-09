@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transitional",
+        "confidence": 85
+      },
+      {
+        "word": "curious",
+        "confidence": 80
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 75
+      },
+      {
+        "word": "geographical",
+        "confidence": 70
+      },
+      {
+        "word": "statistical",
+        "confidence": 65
+      },
+      {
+        "word": "effective",
+        "confidence": 60
+      },
+      {
+        "word": "unexpected",
+        "confidence": 78
+      },
+      {
+        "word": "focused",
+        "confidence": 68
+      }
+    ]
+  }
+}

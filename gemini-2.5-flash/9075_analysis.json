@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "predictable",
+        "confidence": 90
+      },
+      {
+        "word": "decisive",
+        "confidence": 85
+      },
+      {
+        "word": "conclusive",
+        "confidence": 80
+      },
+      {
+        "word": "success",
+        "confidence": 75
+      },
+      {
+        "word": "success",
+        "confidence": 70
+      },
+      {
+        "word": "unsurprising",
+        "confidence": 65
+      },
+      {
+        "word": "anticipated",
+        "confidence": 60
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "pending",
+        "confidence": 90
+      },
+      {
+        "word": "uncertain",
+        "confidence": 85
+      },
+      {
+        "word": "limbo",
+        "confidence": 95
+      },
+      {
+        "word": "indecision",
+        "confidence": 70
+      },
+      {
+        "word": "joy",
+        "confidence": 50
+      },
+      {
+        "word": "accepted",
+        "confidence": 65
+      },
+      {
+        "word": "unknown",
+        "confidence": 55
+      },
+      {
+        "word": "returned",
+        "confidence": 40
+      }
+    ]
+  }
+}

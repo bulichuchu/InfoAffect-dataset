@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "joy",
+        "confidence": 90
+      },
+      {
+        "word": "recovery",
+        "confidence": 85
+      },
+      {
+        "word": "joy",
+        "confidence": 80
+      },
+      {
+        "word": "joy",
+        "confidence": 78
+      },
+      {
+        "word": "support",
+        "confidence": 75
+      },
+      {
+        "word": "reliable",
+        "confidence": 72
+      },
+      {
+        "word": "success",
+        "confidence": 70
+      },
+      {
+        "word": "upbeat",
+        "confidence": 68
+      }
+    ]
+  }
+}

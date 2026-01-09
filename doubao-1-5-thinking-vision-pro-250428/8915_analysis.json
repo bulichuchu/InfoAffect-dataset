@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 85
+      },
+      {
+        "word": "alarm",
+        "confidence": 82
+      },
+      {
+        "word": "ominous",
+        "confidence": 78
+      },
+      {
+        "word": "confrontational",
+        "confidence": 75
+      },
+      {
+        "word": "militaristic",
+        "confidence": 72
+      },
+      {
+        "word": "foreboding",
+        "confidence": 70
+      }
+    ]
+  }
+}

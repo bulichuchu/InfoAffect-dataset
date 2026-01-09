@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "joy",
+        "confidence": 85
+      },
+      {
+        "word": "success",
+        "confidence": 80
+      },
+      {
+        "word": "concerned",
+        "confidence": 75
+      },
+      {
+        "word": "declining",
+        "confidence": 70
+      },
+      {
+        "word": "reliable",
+        "confidence": 65
+      },
+      {
+        "word": "energetic",
+        "confidence": 60
+      },
+      {
+        "word": "volatile",
+        "confidence": 55
+      },
+      {
+        "word": "success",
+        "confidence": 72
+      }
+    ]
+  }
+}

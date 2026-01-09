@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "curiosity",
+        "confidence": 85
+      },
+      {
+        "word": "admiration",
+        "confidence": 80
+      },
+      {
+        "word": "inclusivity",
+        "confidence": 78
+      },
+      {
+        "word": "insular",
+        "confidence": 70
+      },
+      {
+        "word": "contentment",
+        "confidence": 68
+      },
+      {
+        "word": "exploration",
+        "confidence": 65
+      }
+    ]
+  }
+}

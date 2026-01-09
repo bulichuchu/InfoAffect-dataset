@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "greed",
+        "confidence": 95
+      },
+      {
+        "word": "envy",
+        "confidence": 90
+      },
+      {
+        "word": "discontent",
+        "confidence": 88
+      },
+      {
+        "word": "concern",
+        "confidence": 85
+      },
+      {
+        "word": "tension",
+        "confidence": 80
+      },
+      {
+        "word": "frustration",
+        "confidence": 75
+      }
+    ]
+  }
+}

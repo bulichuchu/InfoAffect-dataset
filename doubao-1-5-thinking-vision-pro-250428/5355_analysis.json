@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "long",
+        "confidence": 90
+      },
+      {
+        "word": "short",
+        "confidence": 85
+      },
+      {
+        "word": "generous",
+        "confidence": 80
+      },
+      {
+        "word": "distant",
+        "confidence": 70
+      },
+      {
+        "word": "enjoyable",
+        "confidence": 65
+      },
+      {
+        "word": "disappointed",
+        "confidence": 55
+      },
+      {
+        "word": "unfair",
+        "confidence": 50
+      },
+      {
+        "word": "content",
+        "confidence": 45
+      }
+    ]
+  }
+}

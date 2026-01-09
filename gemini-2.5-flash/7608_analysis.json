@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rewarding",
+        "confidence": 95
+      },
+      {
+        "word": "aspirational",
+        "confidence": 90
+      },
+      {
+        "word": "desirable",
+        "confidence": 88
+      },
+      {
+        "word": "support",
+        "confidence": 85
+      },
+      {
+        "word": "prosperous",
+        "confidence": 82
+      },
+      {
+        "word": "joy",
+        "confidence": 80
+      }
+    ]
+  }
+}

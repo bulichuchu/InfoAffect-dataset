@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concern",
+        "confidence": 85
+      },
+      {
+        "word": "inequity",
+        "confidence": 80
+      },
+      {
+        "word": "joy",
+        "confidence": 75
+      },
+      {
+        "word": "costly",
+        "confidence": 78
+      },
+      {
+        "word": "aspirational",
+        "confidence": 70
+      },
+      {
+        "word": "pressured",
+        "confidence": 72
+      }
+    ]
+  }
+}

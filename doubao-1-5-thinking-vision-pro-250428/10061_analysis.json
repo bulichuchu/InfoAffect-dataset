@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transitional",
+        "confidence": 85
+      },
+      {
+        "word": "welcoming",
+        "confidence": 80
+      },
+      {
+        "word": "crisis",
+        "confidence": 75
+      },
+      {
+        "word": "different",
+        "confidence": 70
+      },
+      {
+        "word": "mainly",
+        "confidence": 65
+      },
+      {
+        "word": "normal",
+        "confidence": 60
+      },
+      {
+        "word": "second",
+        "confidence": 55
+      },
+      {
+        "word": "completely",
+        "confidence": 50
+      }
+    ]
+  }
+}

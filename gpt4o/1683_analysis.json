@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "popular",
+        "confidence": 90
+      },
+      {
+        "word": "inviting",
+        "confidence": 85
+      },
+      {
+        "word": "joy",
+        "confidence": 80
+      },
+      {
+        "word": "adventurous",
+        "confidence": 78
+      },
+      {
+        "word": "thrilling",
+        "confidence": 80
+      },
+      {
+        "word": "energetic",
+        "confidence": 75
+      },
+      {
+        "word": "welcoming",
+        "confidence": 82
+      }
+    ]
+  }
+}

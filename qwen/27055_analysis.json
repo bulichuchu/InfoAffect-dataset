@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dependent",
+        "confidence": 85
+      },
+      {
+        "word": "effective",
+        "confidence": 80
+      },
+      {
+        "word": "normal",
+        "confidence": 75
+      },
+      {
+        "word": "anger",
+        "confidence": 72
+      },
+      {
+        "word": "reliant",
+        "confidence": 78
+      },
+      {
+        "word": "concerned",
+        "confidence": 68
+      },
+      {
+        "word": "geopolitical",
+        "confidence": 70
+      },
+      {
+        "word": "statistical",
+        "confidence": 65
+      }
+    ]
+  }
+}

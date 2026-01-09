@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 85
+      },
+      {
+        "word": "annoying",
+        "confidence": 80
+      },
+      {
+        "word": "formal",
+        "confidence": 75
+      },
+      {
+        "word": "complaint-driven",
+        "confidence": 78
+      },
+      {
+        "word": "effective",
+        "confidence": 72
+      },
+      {
+        "word": "authoritative",
+        "confidence": 68
+      },
+      {
+        "word": "concerned",
+        "confidence": 65
+      }
+    ]
+  }
+}

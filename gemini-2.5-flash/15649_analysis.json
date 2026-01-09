@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "inspirational",
+        "confidence": 90
+      },
+      {
+        "word": "peaceful",
+        "confidence": 88
+      },
+      {
+        "word": "respectful",
+        "confidence": 85
+      },
+      {
+        "word": "commemorative",
+        "confidence": 82
+      },
+      {
+        "word": "empowering",
+        "confidence": 78
+      },
+      {
+        "word": "thought-provoking",
+        "confidence": 75
+      }
+    ]
+  }
+}

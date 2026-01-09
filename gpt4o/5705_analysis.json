@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 90
+      },
+      {
+        "word": "inequality",
+        "confidence": 88
+      },
+      {
+        "word": "frustration",
+        "confidence": 80
+      },
+      {
+        "word": "unfairness",
+        "confidence": 85
+      },
+      {
+        "word": "highlighted",
+        "confidence": 75
+      },
+      {
+        "word": "injustice",
+        "confidence": 82
+      },
+      {
+        "word": "contrast",
+        "confidence": 78
+      }
+    ]
+  }
+}

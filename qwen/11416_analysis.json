@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 90
+      },
+      {
+        "word": "rivalrous",
+        "confidence": 85
+      },
+      {
+        "word": "energetic",
+        "confidence": 78
+      },
+      {
+        "word": "volatile",
+        "confidence": 75
+      },
+      {
+        "word": "reliable",
+        "confidence": 72
+      },
+      {
+        "word": "effective",
+        "confidence": 68
+      },
+      {
+        "word": "anger",
+        "confidence": 65
+      },
+      {
+        "word": "statistical",
+        "confidence": 80
+      }
+    ]
+  }
+}

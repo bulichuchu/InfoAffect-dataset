@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "nostalgic",
+        "confidence": 85
+      },
+      {
+        "word": "transitional",
+        "confidence": 80
+      },
+      {
+        "word": "declining",
+        "confidence": 78
+      },
+      {
+        "word": "evolving",
+        "confidence": 75
+      },
+      {
+        "word": "success",
+        "confidence": 72
+      },
+      {
+        "word": "transitional",
+        "confidence": 70
+      },
+      {
+        "word": "modernizing",
+        "confidence": 65
+      },
+      {
+        "word": "bittersweet",
+        "confidence": 60
+      }
+    ]
+  }
+}

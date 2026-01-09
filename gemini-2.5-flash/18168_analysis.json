@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 90
+      },
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "transitional",
+        "confidence": 80
+      },
+      {
+        "word": "consequential",
+        "confidence": 75
+      },
+      {
+        "word": "decisive",
+        "confidence": 70
+      },
+      {
+        "word": "turbulent",
+        "confidence": 65
+      },
+      {
+        "word": "perceived",
+        "confidence": 60
+      }
+    ]
+  }
+}

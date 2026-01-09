@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frenzied",
+        "confidence": 88
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "success",
+        "confidence": 82
+      },
+      {
+        "word": "energetic",
+        "confidence": 78
+      },
+      {
+        "word": "anticipated",
+        "confidence": 75
+      },
+      {
+        "word": "motivated",
+        "confidence": 72
+      },
+      {
+        "word": "effective",
+        "confidence": 68
+      }
+    ]
+  }
+}

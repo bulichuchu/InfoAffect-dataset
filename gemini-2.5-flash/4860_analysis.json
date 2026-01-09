@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 90
+      },
+      {
+        "word": "empathetic",
+        "confidence": 88
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "reflective",
+        "confidence": 78
+      },
+      {
+        "word": "humanitarian",
+        "confidence": 75
+      },
+      {
+        "word": "joy",
+        "confidence": 65
+      },
+      {
+        "word": "declining",
+        "confidence": 60
+      }
+    ]
+  }
+}

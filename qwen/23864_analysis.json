@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "costly",
+        "confidence": 95
+      },
+      {
+        "word": "anger",
+        "confidence": 88
+      },
+      {
+        "word": "alarm",
+        "confidence": 82
+      },
+      {
+        "word": "disruptive",
+        "confidence": 78
+      },
+      {
+        "word": "oppressive",
+        "confidence": 75
+      },
+      {
+        "word": "alarm",
+        "confidence": 70
+      },
+      {
+        "word": "alarm",
+        "confidence": 65
+      },
+      {
+        "word": "anger",
+        "confidence": 60
+      }
+    ]
+  }
+}

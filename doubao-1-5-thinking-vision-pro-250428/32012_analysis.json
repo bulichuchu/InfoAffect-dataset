@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "debate",
+        "confidence": 90
+      },
+      {
+        "word": "heating up",
+        "confidence": 85
+      },
+      {
+        "word": "response",
+        "confidence": 80
+      },
+      {
+        "word": "high-profile",
+        "confidence": 75
+      },
+      {
+        "word": "rare",
+        "confidence": 70
+      },
+      {
+        "word": "arduous",
+        "confidence": 65
+      },
+      {
+        "word": "struggle",
+        "confidence": 60
+      }
+    ]
+  }
+}

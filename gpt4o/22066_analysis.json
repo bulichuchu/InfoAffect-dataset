@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "shocked",
+        "confidence": 90
+      },
+      {
+        "word": "misinformed",
+        "confidence": 85
+      },
+      {
+        "word": "alarm",
+        "confidence": 80
+      },
+      {
+        "word": "concerned",
+        "confidence": 78
+      },
+      {
+        "word": "misled",
+        "confidence": 75
+      },
+      {
+        "word": "alarm",
+        "confidence": 72
+      }
+    ]
+  }
+}

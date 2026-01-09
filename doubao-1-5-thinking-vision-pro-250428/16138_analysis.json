@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "record",
+        "confidence": 90
+      },
+      {
+        "word": "busy",
+        "confidence": 85
+      },
+      {
+        "word": "increasingly",
+        "confidence": 80
+      },
+      {
+        "word": "anticipated",
+        "confidence": 75
+      },
+      {
+        "word": "anticipated",
+        "confidence": 70
+      },
+      {
+        "word": "busiest",
+        "confidence": 65
+      },
+      {
+        "word": "largest",
+        "confidence": 60
+      },
+      {
+        "word": "nasty",
+        "confidence": 55
+      }
+    ]
+  }
+}

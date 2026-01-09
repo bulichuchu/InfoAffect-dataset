@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "accurate",
+        "confidence": 90
+      },
+      {
+        "word": "reliable",
+        "confidence": 85
+      },
+      {
+        "word": "success",
+        "confidence": 80
+      },
+      {
+        "word": "reliable",
+        "confidence": 75
+      },
+      {
+        "word": "normal",
+        "confidence": 70
+      },
+      {
+        "word": "uncertain",
+        "confidence": 65
+      },
+      {
+        "word": "inconclusive",
+        "confidence": 60
+      }
+    ]
+  }
+}

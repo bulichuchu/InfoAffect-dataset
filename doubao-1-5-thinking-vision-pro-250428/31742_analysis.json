@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "meltdown",
+        "confidence": 90
+      },
+      {
+        "word": "crashing",
+        "confidence": 85
+      },
+      {
+        "word": "loss",
+        "confidence": 80
+      },
+      {
+        "word": "suspension",
+        "confidence": 75
+      },
+      {
+        "word": "non-compliance",
+        "confidence": 70
+      },
+      {
+        "word": "material supervisory concerns",
+        "confidence": 65
+      },
+      {
+        "word": "fraud",
+        "confidence": 60
+      },
+      {
+        "word": "misuse",
+        "confidence": 55
+      }
+    ]
+  }
+}

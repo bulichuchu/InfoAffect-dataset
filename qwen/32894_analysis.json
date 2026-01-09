@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "innovative",
+        "confidence": 85
+      },
+      {
+        "word": "historic",
+        "confidence": 82
+      },
+      {
+        "word": "complex",
+        "confidence": 78
+      },
+      {
+        "word": "anger",
+        "confidence": 75
+      },
+      {
+        "word": "joy",
+        "confidence": 70
+      },
+      {
+        "word": "fragmented",
+        "confidence": 68
+      },
+      {
+        "word": "reliable",
+        "confidence": 73
+      },
+      {
+        "word": "uncertain",
+        "confidence": 65
+      }
+    ]
+  }
+}

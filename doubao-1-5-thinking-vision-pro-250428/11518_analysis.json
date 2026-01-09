@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "munchies",
+        "confidence": 90
+      },
+      {
+        "word": "soften",
+        "confidence": 85
+      },
+      {
+        "word": "conquer",
+        "confidence": 80
+      },
+      {
+        "word": "ally",
+        "confidence": 70
+      },
+      {
+        "word": "open",
+        "confidence": 65
+      },
+      {
+        "word": "heart",
+        "confidence": 60
+      },
+      {
+        "word": "mind",
+        "confidence": 55
+      },
+      {
+        "word": "life-time",
+        "confidence": 50
+      }
+    ]
+  }
+}

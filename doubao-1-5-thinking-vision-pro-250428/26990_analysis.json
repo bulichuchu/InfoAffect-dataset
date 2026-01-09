@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dire",
+        "confidence": 88
+      },
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "loss - heavy",
+        "confidence": 82
+      },
+      {
+        "word": "fear",
+        "confidence": 78
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      },
+      {
+        "word": "precarious",
+        "confidence": 70
+      },
+      {
+        "word": "stark",
+        "confidence": 68
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "regretful",
+        "confidence": 90
+      },
+      {
+        "word": "remorseful",
+        "confidence": 85
+      },
+      {
+        "word": "reflective",
+        "confidence": 78
+      },
+      {
+        "word": "fear",
+        "confidence": 72
+      },
+      {
+        "word": "disappointed",
+        "confidence": 75
+      },
+      {
+        "word": "determined",
+        "confidence": 68
+      },
+      {
+        "word": "embarrassed",
+        "confidence": 65
+      },
+      {
+        "word": "resolute",
+        "confidence": 60
+      }
+    ]
+  }
+}

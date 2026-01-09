@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 85
+      },
+      {
+        "word": "precarious",
+        "confidence": 82
+      },
+      {
+        "word": "unstable",
+        "confidence": 80
+      },
+      {
+        "word": "perilous",
+        "confidence": 78
+      },
+      {
+        "word": "volatile",
+        "confidence": 75
+      },
+      {
+        "word": "uncertain",
+        "confidence": 72
+      }
+    ]
+  }
+}

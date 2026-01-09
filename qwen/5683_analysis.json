@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "practical",
+        "confidence": 90
+      },
+      {
+        "word": "shocking",
+        "confidence": 85
+      },
+      {
+        "word": "disproportionate",
+        "confidence": 80
+      },
+      {
+        "word": "anger",
+        "confidence": 75
+      },
+      {
+        "word": "relief",
+        "confidence": 70
+      },
+      {
+        "word": "statistical",
+        "confidence": 65
+      },
+      {
+        "word": "alarm",
+        "confidence": 78
+      },
+      {
+        "word": "effective",
+        "confidence": 82
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anticipated",
+        "confidence": 90
+      },
+      {
+        "word": "thrilling",
+        "confidence": 85
+      },
+      {
+        "word": "anger",
+        "confidence": 82
+      },
+      {
+        "word": "exhilarating",
+        "confidence": 78
+      },
+      {
+        "word": "dramatic",
+        "confidence": 75
+      }
+    ]
+  }
+}

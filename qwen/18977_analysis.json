@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 90
+      },
+      {
+        "word": "dehumanizing",
+        "confidence": 88
+      },
+      {
+        "word": "aggressive",
+        "confidence": 85
+      },
+      {
+        "word": "fear",
+        "confidence": 82
+      },
+      {
+        "word": "alarm",
+        "confidence": 78
+      },
+      {
+        "word": "mixed",
+        "confidence": 75
+      },
+      {
+        "word": "confrontational",
+        "confidence": 72
+      },
+      {
+        "word": "alarm",
+        "confidence": 68
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "targeted",
+        "confidence": 90
+      },
+      {
+        "word": "malicious",
+        "confidence": 85
+      },
+      {
+        "word": "threats",
+        "confidence": 80
+      },
+      {
+        "word": "crisis",
+        "confidence": 75
+      },
+      {
+        "word": "pandemic",
+        "confidence": 70
+      },
+      {
+        "word": "exploit",
+        "confidence": 65
+      },
+      {
+        "word": "spam",
+        "confidence": 60
+      },
+      {
+        "word": "attacked",
+        "confidence": 55
+      }
+    ]
+  }
+}

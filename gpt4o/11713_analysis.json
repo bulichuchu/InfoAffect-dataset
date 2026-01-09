@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "coercive",
+        "confidence": 87
+      },
+      {
+        "word": "dependence",
+        "confidence": 75
+      },
+      {
+        "word": "reliable",
+        "confidence": 72
+      },
+      {
+        "word": "acceptance",
+        "confidence": 70
+      },
+      {
+        "word": "necessity",
+        "confidence": 78
+      },
+      {
+        "word": "compliance",
+        "confidence": 80
+      },
+      {
+        "word": "resigned",
+        "confidence": 65
+      }
+    ]
+  }
+}

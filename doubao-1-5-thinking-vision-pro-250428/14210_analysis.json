@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disparaging",
+        "confidence": 85
+      },
+      {
+        "word": "reclusive",
+        "confidence": 80
+      },
+      {
+        "word": "lagging",
+        "confidence": 75
+      },
+      {
+        "word": "lonely",
+        "confidence": 70
+      },
+      {
+        "word": "anger",
+        "confidence": 65
+      },
+      {
+        "word": "fear",
+        "confidence": 60
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "punitive",
+        "confidence": 95
+      },
+      {
+        "word": "authoritative",
+        "confidence": 90
+      },
+      {
+        "word": "contentious",
+        "confidence": 88
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "defiant",
+        "confidence": 80
+      },
+      {
+        "word": "formal",
+        "confidence": 75
+      }
+    ]
+  }
+}

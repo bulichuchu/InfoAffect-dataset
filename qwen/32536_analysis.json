@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "effective",
+        "confidence": 85
+      },
+      {
+        "word": "rise",
+        "confidence": 80
+      },
+      {
+        "word": "geopolitical",
+        "confidence": 78
+      },
+      {
+        "word": "anger",
+        "confidence": 72
+      },
+      {
+        "word": "formal",
+        "confidence": 75
+      },
+      {
+        "word": "anticipated",
+        "confidence": 68
+      },
+      {
+        "word": "formal",
+        "confidence": 70
+      },
+      {
+        "word": "statistical",
+        "confidence": 65
+      }
+    ]
+  }
+}

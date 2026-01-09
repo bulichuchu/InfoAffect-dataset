@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fear",
+        "confidence": 90
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "alarm",
+        "confidence": 80
+      },
+      {
+        "word": "prejudice",
+        "confidence": 75
+      },
+      {
+        "word": "intolerance",
+        "confidence": 70
+      },
+      {
+        "word": "violence",
+        "confidence": 65
+      },
+      {
+        "word": "discrimination",
+        "confidence": 60
+      },
+      {
+        "word": "unacceptable",
+        "confidence": 55
+      }
+    ]
+  }
+}

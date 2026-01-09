@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "important",
+        "confidence": 90
+      },
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "consistent",
+        "confidence": 80
+      },
+      {
+        "word": "fluctuating",
+        "confidence": 75
+      },
+      {
+        "word": "reliant",
+        "confidence": 70
+      },
+      {
+        "word": "demanding",
+        "confidence": 65
+      }
+    ]
+  }
+}

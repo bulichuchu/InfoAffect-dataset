@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "excellent",
+        "confidence": 80
+      },
+      {
+        "word": "success",
+        "confidence": 75
+      },
+      {
+        "word": "effective",
+        "confidence": 70
+      },
+      {
+        "word": "outlier",
+        "confidence": 65
+      },
+      {
+        "word": "success",
+        "confidence": 72
+      },
+      {
+        "word": "transitional",
+        "confidence": 68
+      },
+      {
+        "word": "authoritative",
+        "confidence": 78
+      }
+    ]
+  }
+}

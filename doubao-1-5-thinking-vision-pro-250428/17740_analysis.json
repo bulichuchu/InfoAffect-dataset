@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "vital",
+        "confidence": 90
+      },
+      {
+        "word": "crucial",
+        "confidence": 95
+      },
+      {
+        "word": "prosperity",
+        "confidence": 70
+      },
+      {
+        "word": "reliable",
+        "confidence": 80
+      },
+      {
+        "word": "reliable",
+        "confidence": 75
+      },
+      {
+        "word": "high-paying",
+        "confidence": 85
+      },
+      {
+        "word": "rise",
+        "confidence": 65
+      },
+      {
+        "word": "concentration",
+        "confidence": 55
+      }
+    ]
+  }
+}

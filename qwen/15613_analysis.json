@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "inspiring",
+        "confidence": 85
+      },
+      {
+        "word": "joy",
+        "confidence": 80
+      },
+      {
+        "word": "wonderful",
+        "confidence": 75
+      },
+      {
+        "word": "aspirational",
+        "confidence": 78
+      },
+      {
+        "word": "energetic",
+        "confidence": 72
+      },
+      {
+        "word": "popular",
+        "confidence": 70
+      },
+      {
+        "word": "global",
+        "confidence": 65
+      },
+      {
+        "word": "curious",
+        "confidence": 60
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "underwhelming",
+        "confidence": 85
+      },
+      {
+        "word": "disproportionate",
+        "confidence": 80
+      },
+      {
+        "word": "mixed",
+        "confidence": 75
+      },
+      {
+        "word": "minimized",
+        "confidence": 78
+      },
+      {
+        "word": "dissatisfied",
+        "confidence": 72
+      },
+      {
+        "word": "resigned",
+        "confidence": 68
+      },
+      {
+        "word": "calm",
+        "confidence": 65
+      },
+      {
+        "word": "technical",
+        "confidence": 60
+      }
+    ]
+  }
+}

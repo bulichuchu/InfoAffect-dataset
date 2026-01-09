@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "excited",
+        "confidence": 85
+      },
+      {
+        "word": "anticipated",
+        "confidence": 80
+      },
+      {
+        "word": "busy",
+        "confidence": 78
+      },
+      {
+        "word": "overwhelmed",
+        "confidence": 72
+      },
+      {
+        "word": "record-breaking",
+        "confidence": 88
+      },
+      {
+        "word": "crowded",
+        "confidence": 75
+      },
+      {
+        "word": "festive",
+        "confidence": 65
+      },
+      {
+        "word": "stressful",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 88
+      },
+      {
+        "word": "effective",
+        "confidence": 82
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 78
+      },
+      {
+        "word": "success",
+        "confidence": 75
+      },
+      {
+        "word": "statistical",
+        "confidence": 80
+      },
+      {
+        "word": "statistical",
+        "confidence": 72
+      },
+      {
+        "word": "trade-off",
+        "confidence": 76
+      },
+      {
+        "word": "data-driven",
+        "confidence": 85
+      }
+    ]
+  }
+}

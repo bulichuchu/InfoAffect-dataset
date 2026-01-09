@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "support",
+        "confidence": 85
+      },
+      {
+        "word": "joy",
+        "confidence": 80
+      },
+      {
+        "word": "unified",
+        "confidence": 75
+      },
+      {
+        "word": "joy",
+        "confidence": 72
+      },
+      {
+        "word": "joy",
+        "confidence": 68
+      },
+      {
+        "word": "support",
+        "confidence": 70
+      },
+      {
+        "word": "reliable",
+        "confidence": 65
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 60
+      }
+    ]
+  }
+}

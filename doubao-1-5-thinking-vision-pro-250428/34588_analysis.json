@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "worrying",
+        "confidence": 90
+      },
+      {
+        "word": "upward",
+        "confidence": 85
+      },
+      {
+        "word": "hottest",
+        "confidence": 80
+      },
+      {
+        "word": "soaring",
+        "confidence": 70
+      },
+      {
+        "word": "cascading",
+        "confidence": 65
+      },
+      {
+        "word": "series",
+        "confidence": 60
+      },
+      {
+        "word": "topics",
+        "confidence": 55
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "gaining",
+        "confidence": 90
+      },
+      {
+        "word": "losing",
+        "confidence": 85
+      },
+      {
+        "word": "overtaking",
+        "confidence": 80
+      },
+      {
+        "word": "prevalent",
+        "confidence": 75
+      },
+      {
+        "word": "declining",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "assertive",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 80
+      },
+      {
+        "word": "captivated",
+        "confidence": 75
+      },
+      {
+        "word": "dependant",
+        "confidence": 78
+      },
+      {
+        "word": "effective",
+        "confidence": 82
+      },
+      {
+        "word": "contentious",
+        "confidence": 77
+      }
+    ]
+  }
+}

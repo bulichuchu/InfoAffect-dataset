@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "censorship",
+        "confidence": 90
+      },
+      {
+        "word": "jeopardy",
+        "confidence": 85
+      },
+      {
+        "word": "mixed",
+        "confidence": 80
+      },
+      {
+        "word": "condemned",
+        "confidence": 75
+      },
+      {
+        "word": "threats",
+        "confidence": 72
+      },
+      {
+        "word": "energetic",
+        "confidence": 70
+      }
+    ]
+  }
+}

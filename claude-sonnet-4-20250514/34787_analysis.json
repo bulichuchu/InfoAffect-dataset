@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "energetic",
+        "confidence": 90
+      },
+      {
+        "word": "meteoric",
+        "confidence": 88
+      },
+      {
+        "word": "breathtaking",
+        "confidence": 85
+      },
+      {
+        "word": "excellent",
+        "confidence": 82
+      },
+      {
+        "word": "success",
+        "confidence": 78
+      },
+      {
+        "word": "remarkable",
+        "confidence": 75
+      },
+      {
+        "word": "uncertain",
+        "confidence": 65
+      },
+      {
+        "word": "success",
+        "confidence": 70
+      }
+    ]
+  }
+}

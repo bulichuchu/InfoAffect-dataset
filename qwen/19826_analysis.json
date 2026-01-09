@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "failed",
+        "confidence": 90
+      },
+      {
+        "word": "anger",
+        "confidence": 85
+      },
+      {
+        "word": "anger",
+        "confidence": 80
+      },
+      {
+        "word": "chaotic",
+        "confidence": 75
+      },
+      {
+        "word": "unstable",
+        "confidence": 70
+      },
+      {
+        "word": "struggle",
+        "confidence": 78
+      },
+      {
+        "word": "declining",
+        "confidence": 72
+      },
+      {
+        "word": "volatile",
+        "confidence": 68
+      }
+    ]
+  }
+}

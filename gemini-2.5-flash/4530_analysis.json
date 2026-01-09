@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 90
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "challenged",
+        "confidence": 82
+      },
+      {
+        "word": "accepting",
+        "confidence": 78
+      },
+      {
+        "word": "stark",
+        "confidence": 75
+      },
+      {
+        "word": "reliable",
+        "confidence": 70
+      }
+    ]
+  }
+}

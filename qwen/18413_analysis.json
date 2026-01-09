@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "reliable",
+        "confidence": 90
+      },
+      {
+        "word": "innovative",
+        "confidence": 85
+      },
+      {
+        "word": "anticipated",
+        "confidence": 80
+      },
+      {
+        "word": "momentous",
+        "confidence": 78
+      },
+      {
+        "word": "energetic",
+        "confidence": 75
+      },
+      {
+        "word": "inevitable",
+        "confidence": 72
+      },
+      {
+        "word": "forward-looking",
+        "confidence": 68
+      },
+      {
+        "word": "statistical",
+        "confidence": 65
+      }
+    ]
+  }
+}

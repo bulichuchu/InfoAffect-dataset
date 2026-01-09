@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "climbing",
+        "confidence": 90
+      },
+      {
+        "word": "increasing",
+        "confidence": 85
+      },
+      {
+        "word": "anticipated",
+        "confidence": 80
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      },
+      {
+        "word": "rise",
+        "confidence": 70
+      }
+    ]
+  }
+}

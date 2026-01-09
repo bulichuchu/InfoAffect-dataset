@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "crashing",
+        "confidence": 90
+      },
+      {
+        "word": "declared",
+        "confidence": 85
+      },
+      {
+        "word": "soaring",
+        "confidence": 85
+      },
+      {
+        "word": "alarm",
+        "confidence": 80
+      },
+      {
+        "word": "delicate",
+        "confidence": 70
+      },
+      {
+        "word": "record",
+        "confidence": 65
+      },
+      {
+        "word": "lower",
+        "confidence": 60
+      },
+      {
+        "word": "alarm",
+        "confidence": 55
+      }
+    ]
+  }
+}

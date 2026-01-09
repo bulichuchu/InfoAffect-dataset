@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 90
+      },
+      {
+        "word": "advancing",
+        "confidence": 85
+      },
+      {
+        "word": "ethically",
+        "confidence": 80
+      },
+      {
+        "word": "imperative",
+        "confidence": 85
+      },
+      {
+        "word": "responsible",
+        "confidence": 80
+      },
+      {
+        "word": "transparency",
+        "confidence": 85
+      },
+      {
+        "word": "networking",
+        "confidence": 70
+      },
+      {
+        "word": "disruptive",
+        "confidence": 75
+      }
+    ]
+  }
+}

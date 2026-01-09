@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "race",
+        "confidence": 90
+      },
+      {
+        "word": "correlation",
+        "confidence": 70
+      },
+      {
+        "word": "success",
+        "confidence": 65
+      },
+      {
+        "word": "money",
+        "confidence": 80
+      },
+      {
+        "word": "coffers",
+        "confidence": 75
+      },
+      {
+        "word": "polLS",
+        "confidence": 68
+      },
+      {
+        "word": "proven",
+        "confidence": 73
+      },
+      {
+        "word": "buck",
+        "confidence": 62
+      }
+    ]
+  }
+}

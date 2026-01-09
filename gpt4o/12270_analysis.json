@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "support",
+        "confidence": 90
+      },
+      {
+        "word": "unified",
+        "confidence": 85
+      },
+      {
+        "word": "determined",
+        "confidence": 80
+      },
+      {
+        "word": "oppositional",
+        "confidence": 78
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      }
+    ]
+  }
+}

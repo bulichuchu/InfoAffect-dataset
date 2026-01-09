@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 88
+      },
+      {
+        "word": "gridlocked",
+        "confidence": 85
+      },
+      {
+        "word": "alarm",
+        "confidence": 80
+      },
+      {
+        "word": "contentious",
+        "confidence": 78
+      },
+      {
+        "word": "stalemate",
+        "confidence": 75
+      },
+      {
+        "word": "anger",
+        "confidence": 72
+      },
+      {
+        "word": "intractable",
+        "confidence": 70
+      },
+      {
+        "word": "disruptive",
+        "confidence": 68
+      }
+    ]
+  }
+}

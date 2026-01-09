@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 90
+      },
+      {
+        "word": "shortage",
+        "confidence": 85
+      },
+      {
+        "word": "hard",
+        "confidence": 80
+      },
+      {
+        "word": "struggle",
+        "confidence": 75
+      },
+      {
+        "word": "unthinkable",
+        "confidence": 70
+      },
+      {
+        "word": "shrewd",
+        "confidence": 65
+      },
+      {
+        "word": "desperate",
+        "confidence": 60
+      },
+      {
+        "word": "lobby",
+        "confidence": 55
+      }
+    ]
+  }
+}

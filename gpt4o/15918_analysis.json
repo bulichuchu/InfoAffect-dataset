@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transitional",
+        "confidence": 85
+      },
+      {
+        "word": "declining",
+        "confidence": 82
+      },
+      {
+        "word": "alarm",
+        "confidence": 78
+      },
+      {
+        "word": "evolving",
+        "confidence": 75
+      },
+      {
+        "word": "transitional",
+        "confidence": 73
+      },
+      {
+        "word": "cultural",
+        "confidence": 70
+      }
+    ]
+  }
+}

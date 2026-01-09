@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "collaborative",
+        "confidence": 88
+      },
+      {
+        "word": "joy",
+        "confidence": 85
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      },
+      {
+        "word": "alarm",
+        "confidence": 70
+      },
+      {
+        "word": "support",
+        "confidence": 65
+      }
+    ]
+  }
+}

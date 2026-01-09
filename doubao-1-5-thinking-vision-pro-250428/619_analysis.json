@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "skew",
+        "confidence": 90
+      },
+      {
+        "word": "affluent",
+        "confidence": 85
+      },
+      {
+        "word": "excellent",
+        "confidence": 80
+      },
+      {
+        "word": "interesting",
+        "confidence": 75
+      },
+      {
+        "word": "weight",
+        "confidence": 70
+      }
+    ]
+  }
+}

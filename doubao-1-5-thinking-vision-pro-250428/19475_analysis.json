@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "ban",
+        "confidence": 90
+      },
+      {
+        "word": "restriction",
+        "confidence": 85
+      },
+      {
+        "word": "prohibition",
+        "confidence": 80
+      },
+      {
+        "word": "regulation",
+        "confidence": 70
+      },
+      {
+        "word": "control",
+        "confidence": 65
+      },
+      {
+        "word": "限制",
+        "confidence": 95
+      },
+      {
+        "word": "禁止",
+        "confidence": 90
+      },
+      {
+        "word": "监管",
+        "confidence": 80
+      }
+    ]
+  }
+}

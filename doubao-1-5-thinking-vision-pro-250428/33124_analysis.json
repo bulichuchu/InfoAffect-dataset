@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "prepared",
+        "confidence": 90
+      },
+      {
+        "word": "excellent",
+        "confidence": 85
+      },
+      {
+        "word": "high",
+        "confidence": 80
+      },
+      {
+        "word": "above",
+        "confidence": 75
+      },
+      {
+        "word": "lackluster",
+        "confidence": 70
+      },
+      {
+        "word": "mediocre",
+        "confidence": 65
+      },
+      {
+        "word": "lowest",
+        "confidence": 60
+      },
+      {
+        "word": "often",
+        "confidence": 55
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "struggle",
+        "confidence": 90
+      },
+      {
+        "word": "hard",
+        "confidence": 85
+      },
+      {
+        "word": "struggle",
+        "confidence": 80
+      },
+      {
+        "word": "struggle",
+        "confidence": 75
+      },
+      {
+        "word": "reduction",
+        "confidence": 70
+      },
+      {
+        "word": "cutting",
+        "confidence": 65
+      },
+      {
+        "word": "dependence",
+        "confidence": 60
+      },
+      {
+        "word": "end",
+        "confidence": 55
+      }
+    ]
+  }
+}

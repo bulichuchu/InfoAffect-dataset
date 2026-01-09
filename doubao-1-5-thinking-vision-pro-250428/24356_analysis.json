@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "weary",
+        "confidence": 90
+      },
+      {
+        "word": "support",
+        "confidence": 85
+      },
+      {
+        "word": "alarm",
+        "confidence": 80
+      },
+      {
+        "word": "majority",
+        "confidence": 75
+      },
+      {
+        "word": "conservative",
+        "confidence": 70
+      },
+      {
+        "word": "left-wing",
+        "confidence": 65
+      },
+      {
+        "word": "relaxations",
+        "confidence": 60
+      },
+      {
+        "word": "lockdown",
+        "confidence": 55
+      }
+    ]
+  }
+}

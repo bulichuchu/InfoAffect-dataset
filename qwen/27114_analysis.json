@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 85
+      },
+      {
+        "word": "fear",
+        "confidence": 82
+      },
+      {
+        "word": "bureaucratic",
+        "confidence": 90
+      },
+      {
+        "word": "inefficient",
+        "confidence": 78
+      },
+      {
+        "word": "daunting",
+        "confidence": 75
+      },
+      {
+        "word": "alarm",
+        "confidence": 70
+      },
+      {
+        "word": "harmful",
+        "confidence": 68
+      },
+      {
+        "word": "systemic",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "stalling",
+        "confidence": 90
+      },
+      {
+        "word": "slower",
+        "confidence": 85
+      },
+      {
+        "word": "below",
+        "confidence": 80
+      },
+      {
+        "word": "stagnating",
+        "confidence": 75
+      },
+      {
+        "word": "worried",
+        "confidence": 70
+      },
+      {
+        "word": "declining",
+        "confidence": 65
+      },
+      {
+        "word": "overshadowed",
+        "confidence": 60
+      },
+      {
+        "word": "weathering",
+        "confidence": 55
+      }
+    ]
+  }
+}

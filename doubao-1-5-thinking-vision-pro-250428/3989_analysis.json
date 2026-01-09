@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 90
+      },
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "aging",
+        "confidence": 80
+      },
+      {
+        "word": "narrowing",
+        "confidence": 75
+      },
+      {
+        "word": "diminishing",
+        "confidence": 70
+      }
+    ]
+  }
+}

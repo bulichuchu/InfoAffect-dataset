@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "outdated",
+        "confidence": 90
+      },
+      {
+        "word": "discriminatory",
+        "confidence": 85
+      },
+      {
+        "word": "alarm",
+        "confidence": 83
+      },
+      {
+        "word": "regressive",
+        "confidence": 80
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      },
+      {
+        "word": "unlawful",
+        "confidence": 70
+      }
+    ]
+  }
+}

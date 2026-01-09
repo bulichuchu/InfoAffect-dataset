@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frustration",
+        "confidence": 90
+      },
+      {
+        "word": "anger",
+        "confidence": 85
+      },
+      {
+        "word": "barrier",
+        "confidence": 80
+      },
+      {
+        "word": "limiting",
+        "confidence": 78
+      },
+      {
+        "word": "inconvenient",
+        "confidence": 75
+      },
+      {
+        "word": "struggle",
+        "confidence": 70
+      }
+    ]
+  }
+}

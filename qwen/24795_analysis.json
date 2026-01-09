@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "joy",
+        "confidence": 90
+      },
+      {
+        "word": "joy",
+        "confidence": 85
+      },
+      {
+        "word": "energetic",
+        "confidence": 80
+      },
+      {
+        "word": "thrilling",
+        "confidence": 75
+      },
+      {
+        "word": "soaring",
+        "confidence": 78
+      },
+      {
+        "word": "aspirational",
+        "confidence": 72
+      },
+      {
+        "word": "success",
+        "confidence": 68
+      },
+      {
+        "word": "energetic",
+        "confidence": 70
+      }
+    ]
+  }
+}

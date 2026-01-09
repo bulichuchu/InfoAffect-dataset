@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 88
+      },
+      {
+        "word": "disparaging",
+        "confidence": 82
+      },
+      {
+        "word": "alarm",
+        "confidence": 79
+      },
+      {
+        "word": "discouraging",
+        "confidence": 76
+      },
+      {
+        "word": "unfair",
+        "confidence": 74
+      },
+      {
+        "word": "mixed",
+        "confidence": 70
+      },
+      {
+        "word": "effective",
+        "confidence": 65
+      },
+      {
+        "word": "statistical",
+        "confidence": 60
+      }
+    ]
+  }
+}

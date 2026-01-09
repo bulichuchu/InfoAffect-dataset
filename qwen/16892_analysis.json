@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 90
+      },
+      {
+        "word": "historic",
+        "confidence": 85
+      },
+      {
+        "word": "defensive",
+        "confidence": 75
+      },
+      {
+        "word": "low-key",
+        "confidence": 70
+      },
+      {
+        "word": "record-breaking",
+        "confidence": 80
+      },
+      {
+        "word": "success",
+        "confidence": 72
+      },
+      {
+        "word": "joy",
+        "confidence": 65
+      },
+      {
+        "word": "statistical",
+        "confidence": 60
+      }
+    ]
+  }
+}

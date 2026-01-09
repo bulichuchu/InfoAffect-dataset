@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fined",
+        "confidence": 90
+      },
+      {
+        "word": "antitrust",
+        "confidence": 85
+      },
+      {
+        "word": "abusive",
+        "confidence": 80
+      },
+      {
+        "word": "illegal",
+        "confidence": 75
+      },
+      {
+        "word": "harmed",
+        "confidence": 70
+      },
+      {
+        "word": "scathing",
+        "confidence": 65
+      },
+      {
+        "word": "appeal",
+        "confidence": 60
+      }
+    ]
+  }
+}

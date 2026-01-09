@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "volatile",
+        "confidence": 85
+      },
+      {
+        "word": "declining",
+        "confidence": 80
+      },
+      {
+        "word": "fluctuating",
+        "confidence": 78
+      },
+      {
+        "word": "pending",
+        "confidence": 75
+      },
+      {
+        "word": "unstable",
+        "confidence": 72
+      },
+      {
+        "word": "anger",
+        "confidence": 70
+      }
+    ]
+  }
+}

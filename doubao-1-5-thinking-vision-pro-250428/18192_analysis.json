@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "inequitable",
+        "confidence": 90
+      },
+      {
+        "word": "discriminatory",
+        "confidence": 85
+      },
+      {
+        "word": "unfair",
+        "confidence": 80
+      },
+      {
+        "word": "taxed",
+        "confidence": 75
+      },
+      {
+        "word": "high",
+        "confidence": 70
+      },
+      {
+        "word": "low",
+        "confidence": 65
+      },
+      {
+        "word": "reduced",
+        "confidence": 60
+      },
+      {
+        "word": "zero",
+        "confidence": 55
+      }
+    ]
+  }
+}

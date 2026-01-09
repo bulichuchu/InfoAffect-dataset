@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 90
+      },
+      {
+        "word": "anger",
+        "confidence": 85
+      },
+      {
+        "word": "annoying",
+        "confidence": 78
+      },
+      {
+        "word": "fear",
+        "confidence": 75
+      },
+      {
+        "word": "stressful",
+        "confidence": 72
+      },
+      {
+        "word": "costly",
+        "confidence": 68
+      },
+      {
+        "word": "burdensome",
+        "confidence": 65
+      },
+      {
+        "word": "exasperating",
+        "confidence": 60
+      }
+    ]
+  }
+}

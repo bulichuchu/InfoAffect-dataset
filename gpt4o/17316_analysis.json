@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "powerful",
+        "confidence": 90
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "success",
+        "confidence": 80
+      },
+      {
+        "word": "compelling",
+        "confidence": 75
+      },
+      {
+        "word": "effective",
+        "confidence": 70
+      },
+      {
+        "word": "success",
+        "confidence": 65
+      }
+    ]
+  }
+}

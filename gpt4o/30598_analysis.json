@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "meaningful",
+        "confidence": 90
+      },
+      {
+        "word": "reflective",
+        "confidence": 85
+      },
+      {
+        "word": "spiritual",
+        "confidence": 80
+      },
+      {
+        "word": "thoughtful",
+        "confidence": 78
+      },
+      {
+        "word": "statistical",
+        "confidence": 75
+      },
+      {
+        "word": "contrast",
+        "confidence": 70
+      }
+    ]
+  }
+}

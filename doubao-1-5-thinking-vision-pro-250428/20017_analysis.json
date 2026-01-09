@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "increased",
+        "confidence": 90
+      },
+      {
+        "word": "charitable",
+        "confidence": 85
+      },
+      {
+        "word": "donations",
+        "confidence": 80
+      },
+      {
+        "word": "up",
+        "confidence": 70
+      },
+      {
+        "word": "boycotted",
+        "confidence": 75
+      },
+      {
+        "word": "protests",
+        "confidence": 75
+      },
+      {
+        "word": "opposition",
+        "confidence": 70
+      },
+      {
+        "word": "cancel",
+        "confidence": 65
+      }
+    ]
+  }
+}

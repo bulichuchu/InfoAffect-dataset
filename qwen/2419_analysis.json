@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "anger",
+        "confidence": 80
+      },
+      {
+        "word": "exclusionary",
+        "confidence": 78
+      },
+      {
+        "word": "anger",
+        "confidence": 75
+      },
+      {
+        "word": "transitional",
+        "confidence": 72
+      },
+      {
+        "word": "alarm",
+        "confidence": 70
+      },
+      {
+        "word": "limiting",
+        "confidence": 68
+      },
+      {
+        "word": "effective",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "dampened",
+        "confidence": 90
+      },
+      {
+        "word": "declining",
+        "confidence": 78
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      },
+      {
+        "word": "sluggish",
+        "confidence": 72
+      },
+      {
+        "word": "reliable",
+        "confidence": 65
+      },
+      {
+        "word": "alarm",
+        "confidence": 70
+      },
+      {
+        "word": "anger",
+        "confidence": 68
+      }
+    ]
+  }
+}

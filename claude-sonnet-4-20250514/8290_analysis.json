@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "melancholic",
+        "confidence": 88
+      },
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "sympathetic",
+        "confidence": 82
+      },
+      {
+        "word": "fear",
+        "confidence": 78
+      },
+      {
+        "word": "unfortunate",
+        "confidence": 75
+      },
+      {
+        "word": "reflective",
+        "confidence": 70
+      },
+      {
+        "word": "ironic",
+        "confidence": 65
+      }
+    ]
+  }
+}

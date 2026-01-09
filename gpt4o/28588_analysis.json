@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concern",
+        "confidence": 78
+      },
+      {
+        "word": "transitional",
+        "confidence": 82
+      },
+      {
+        "word": "trend",
+        "confidence": 80
+      },
+      {
+        "word": "transitional",
+        "confidence": 77
+      },
+      {
+        "word": "competition",
+        "confidence": 75
+      },
+      {
+        "word": "progress",
+        "confidence": 70
+      }
+    ]
+  }
+}

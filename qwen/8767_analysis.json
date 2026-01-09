@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 88
+      },
+      {
+        "word": "mixed",
+        "confidence": 85
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 75
+      },
+      {
+        "word": "transitional",
+        "confidence": 80
+      },
+      {
+        "word": "provocative",
+        "confidence": 78
+      },
+      {
+        "word": "alarm",
+        "confidence": 82
+      },
+      {
+        "word": "polarizing",
+        "confidence": 70
+      },
+      {
+        "word": "curious",
+        "confidence": 65
+      }
+    ]
+  }
+}

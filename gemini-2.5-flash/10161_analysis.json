@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anticipated",
+        "confidence": 95
+      },
+      {
+        "word": "joy",
+        "confidence": 90
+      },
+      {
+        "word": "success",
+        "confidence": 88
+      },
+      {
+        "word": "contrasting",
+        "confidence": 85
+      },
+      {
+        "word": "forward-looking",
+        "confidence": 82
+      },
+      {
+        "word": "energetic",
+        "confidence": 78
+      }
+    ]
+  }
+}

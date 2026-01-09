@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "annoying",
+        "confidence": 95
+      },
+      {
+        "word": "obnoxious",
+        "confidence": 88
+      },
+      {
+        "word": "disdainful",
+        "confidence": 80
+      },
+      {
+        "word": "irritating",
+        "confidence": 85
+      },
+      {
+        "word": "unpleasant",
+        "confidence": 78
+      }
+    ]
+  }
+}

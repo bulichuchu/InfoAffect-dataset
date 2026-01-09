@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "steady",
+        "confidence": 85
+      },
+      {
+        "word": "slight",
+        "confidence": 80
+      },
+      {
+        "word": "preferred",
+        "confidence": 75
+      },
+      {
+        "word": "incremental",
+        "confidence": 70
+      },
+      {
+        "word": "consistent",
+        "confidence": 68
+      },
+      {
+        "word": "traditional",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "understanding",
+        "confidence": 85
+      },
+      {
+        "word": "acceptance",
+        "confidence": 80
+      },
+      {
+        "word": "neutrality",
+        "confidence": 75
+      },
+      {
+        "word": "agreement",
+        "confidence": 78
+      },
+      {
+        "word": "reservation",
+        "confidence": 70
+      },
+      {
+        "word": "consensus",
+        "confidence": 75
+      }
+    ]
+  }
+}

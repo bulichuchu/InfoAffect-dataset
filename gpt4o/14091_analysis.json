@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disciplined",
+        "confidence": 85
+      },
+      {
+        "word": "industrious",
+        "confidence": 80
+      },
+      {
+        "word": "hardworking",
+        "confidence": 90
+      },
+      {
+        "word": "dedicated",
+        "confidence": 78
+      },
+      {
+        "word": "machine-like",
+        "confidence": 73
+      },
+      {
+        "word": "relaxing",
+        "confidence": 70
+      },
+      {
+        "word": "leisurely",
+        "confidence": 68
+      }
+    ]
+  }
+}

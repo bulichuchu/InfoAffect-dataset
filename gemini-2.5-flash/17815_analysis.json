@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "contrasting",
+        "confidence": 90
+      },
+      {
+        "word": "unflattering",
+        "confidence": 85
+      },
+      {
+        "word": "affirming",
+        "confidence": 80
+      },
+      {
+        "word": "perceived",
+        "confidence": 75
+      },
+      {
+        "word": "disparaging",
+        "confidence": 70
+      },
+      {
+        "word": "anticipated",
+        "confidence": 65
+      },
+      {
+        "word": "alarm",
+        "confidence": 60
+      }
+    ]
+  }
+}

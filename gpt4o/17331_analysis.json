@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 88
+      },
+      {
+        "word": "unpopular",
+        "confidence": 85
+      },
+      {
+        "word": "contrasting",
+        "confidence": 82
+      },
+      {
+        "word": "declining",
+        "confidence": 80
+      },
+      {
+        "word": "favorable",
+        "confidence": 78
+      },
+      {
+        "word": "concern",
+        "confidence": 76
+      }
+    ]
+  }
+}

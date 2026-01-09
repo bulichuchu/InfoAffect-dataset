@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rise",
+        "confidence": 90
+      },
+      {
+        "word": "soaring",
+        "confidence": 85
+      },
+      {
+        "word": "anticipated",
+        "confidence": 70
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      },
+      {
+        "word": "uncertain",
+        "confidence": 65
+      },
+      {
+        "word": "opportunity",
+        "confidence": 55
+      },
+      {
+        "word": "success",
+        "confidence": 50
+      },
+      {
+        "word": "caution",
+        "confidence": 60
+      }
+    ]
+  }
+}

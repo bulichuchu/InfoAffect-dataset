@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transitional",
+        "confidence": 90
+      },
+      {
+        "word": "unexpected",
+        "confidence": 85
+      },
+      {
+        "word": "anticipated",
+        "confidence": 70
+      },
+      {
+        "word": "rise",
+        "confidence": 65
+      },
+      {
+        "word": "future",
+        "confidence": 55
+      }
+    ]
+  }
+}

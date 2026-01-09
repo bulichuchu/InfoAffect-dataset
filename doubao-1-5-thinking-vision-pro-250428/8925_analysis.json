@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "statistical",
+        "confidence": 90
+      },
+      {
+        "word": "speculative",
+        "confidence": 85
+      },
+      {
+        "word": "contrasting",
+        "confidence": 82
+      },
+      {
+        "word": "anticipated",
+        "confidence": 80
+      },
+      {
+        "word": "success",
+        "confidence": 78
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      }
+    ]
+  }
+}

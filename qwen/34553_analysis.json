@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "relief",
+        "confidence": 85
+      },
+      {
+        "word": "volatile",
+        "confidence": 80
+      },
+      {
+        "word": "uncertain",
+        "confidence": 78
+      },
+      {
+        "word": "disruptive",
+        "confidence": 75
+      },
+      {
+        "word": "alarm",
+        "confidence": 72
+      },
+      {
+        "word": "surprised",
+        "confidence": 68
+      },
+      {
+        "word": "transitional",
+        "confidence": 65
+      },
+      {
+        "word": "reliable",
+        "confidence": 60
+      }
+    ]
+  }
+}

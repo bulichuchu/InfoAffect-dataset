@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "innovative",
+        "confidence": 90
+      },
+      {
+        "word": "targeted",
+        "confidence": 85
+      },
+      {
+        "word": "formal",
+        "confidence": 80
+      },
+      {
+        "word": "environmentally-friendly",
+        "confidence": 70
+      },
+      {
+        "word": "sustainable",
+        "confidence": 65
+      },
+      {
+        "word": "improving",
+        "confidence": 60
+      },
+      {
+        "word": "joy",
+        "confidence": 55
+      },
+      {
+        "word": "responsible",
+        "confidence": 50
+      }
+    ]
+  }
+}

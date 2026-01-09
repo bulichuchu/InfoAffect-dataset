@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "discrimination",
+        "confidence": 90
+      },
+      {
+        "word": "injustice",
+        "confidence": 85
+      },
+      {
+        "word": "restriction",
+        "confidence": 80
+      },
+      {
+        "word": "inequality",
+        "confidence": 75
+      },
+      {
+        "word": "prohibition",
+        "confidence": 70
+      },
+      {
+        "word": "barrier",
+        "confidence": 65
+      },
+      {
+        "word": "oppression",
+        "confidence": 60
+      },
+      {
+        "word": "lonely",
+        "confidence": 55
+      }
+    ]
+  }
+}

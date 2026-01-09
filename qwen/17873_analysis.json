@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "confused",
+        "confidence": 85
+      },
+      {
+        "word": "transitional",
+        "confidence": 80
+      },
+      {
+        "word": "ironic",
+        "confidence": 75
+      },
+      {
+        "word": "curious",
+        "confidence": 70
+      },
+      {
+        "word": "amusing",
+        "confidence": 65
+      },
+      {
+        "word": "perceived",
+        "confidence": 72
+      },
+      {
+        "word": "puzzling",
+        "confidence": 78
+      },
+      {
+        "word": "effective",
+        "confidence": 68
+      }
+    ]
+  }
+}

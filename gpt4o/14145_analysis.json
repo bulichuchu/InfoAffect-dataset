@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "youthful",
+        "confidence": 90
+      },
+      {
+        "word": "trendy",
+        "confidence": 85
+      },
+      {
+        "word": "innovative",
+        "confidence": 82
+      },
+      {
+        "word": "casual",
+        "confidence": 80
+      },
+      {
+        "word": "global",
+        "confidence": 78
+      },
+      {
+        "word": "connected",
+        "confidence": 75
+      }
+    ]
+  }
+}

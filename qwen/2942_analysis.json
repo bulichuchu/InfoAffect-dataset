@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "essential",
+        "confidence": 90
+      },
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "fear",
+        "confidence": 78
+      },
+      {
+        "word": "effective",
+        "confidence": 75
+      },
+      {
+        "word": "success",
+        "confidence": 70
+      },
+      {
+        "word": "opportunistic",
+        "confidence": 65
+      },
+      {
+        "word": "pressured",
+        "confidence": 60
+      },
+      {
+        "word": "inclusive",
+        "confidence": 55
+      }
+    ]
+  }
+}

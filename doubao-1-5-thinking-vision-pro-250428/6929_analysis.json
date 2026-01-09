@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "restless",
+        "confidence": 85
+      },
+      {
+        "word": "uncertain",
+        "confidence": 82
+      },
+      {
+        "word": "concerned",
+        "confidence": 78
+      },
+      {
+        "word": "discontent",
+        "confidence": 75
+      },
+      {
+        "word": "fear",
+        "confidence": 72
+      },
+      {
+        "word": "reflective",
+        "confidence": 68
+      },
+      {
+        "word": "transitional",
+        "confidence": 65
+      }
+    ]
+  }
+}

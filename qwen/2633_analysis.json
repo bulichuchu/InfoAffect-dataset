@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fear",
+        "confidence": 88
+      },
+      {
+        "word": "daunting",
+        "confidence": 85
+      },
+      {
+        "word": "alarm",
+        "confidence": 82
+      },
+      {
+        "word": "practical",
+        "confidence": 90
+      },
+      {
+        "word": "heavy",
+        "confidence": 78
+      },
+      {
+        "word": "pressing",
+        "confidence": 75
+      },
+      {
+        "word": "realistic",
+        "confidence": 70
+      },
+      {
+        "word": "alarm",
+        "confidence": 80
+      }
+    ]
+  }
+}

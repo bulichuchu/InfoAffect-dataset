@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "harmful",
+        "confidence": 90
+      },
+      {
+        "word": "decisive",
+        "confidence": 85
+      },
+      {
+        "word": "intense",
+        "confidence": 82
+      },
+      {
+        "word": "effective",
+        "confidence": 78
+      },
+      {
+        "word": "focused",
+        "confidence": 75
+      },
+      {
+        "word": "militant",
+        "confidence": 70
+      }
+    ]
+  }
+}

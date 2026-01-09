@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "harmful",
+        "confidence": 88
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "unequal",
+        "confidence": 82
+      },
+      {
+        "word": "anger",
+        "confidence": 78
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      },
+      {
+        "word": "mixed",
+        "confidence": 70
+      },
+      {
+        "word": "alarm",
+        "confidence": 68
+      },
+      {
+        "word": "declining",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "statistical",
+        "confidence": 90
+      },
+      {
+        "word": "effective",
+        "confidence": 85
+      },
+      {
+        "word": "statistical",
+        "confidence": 80
+      },
+      {
+        "word": "normal",
+        "confidence": 75
+      },
+      {
+        "word": "data-driven",
+        "confidence": 88
+      },
+      {
+        "word": "statistical",
+        "confidence": 82
+      },
+      {
+        "word": "contextual",
+        "confidence": 70
+      },
+      {
+        "word": "policy-oriented",
+        "confidence": 65
+      }
+    ]
+  }
+}

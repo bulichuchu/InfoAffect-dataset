@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "reliable",
+        "confidence": 90
+      },
+      {
+        "word": "transitional",
+        "confidence": 85
+      },
+      {
+        "word": "transitional",
+        "confidence": 88
+      },
+      {
+        "word": "success",
+        "confidence": 75
+      },
+      {
+        "word": "remarkable",
+        "confidence": 80
+      },
+      {
+        "word": "consequential",
+        "confidence": 70
+      }
+    ]
+  }
+}

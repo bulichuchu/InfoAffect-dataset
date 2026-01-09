@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "proud",
+        "confidence": 85
+      },
+      {
+        "word": "historic",
+        "confidence": 90
+      },
+      {
+        "word": "success",
+        "confidence": 88
+      },
+      {
+        "word": "innovative",
+        "confidence": 82
+      },
+      {
+        "word": "success",
+        "confidence": 78
+      },
+      {
+        "word": "innovative",
+        "confidence": 75
+      },
+      {
+        "word": "exploratory",
+        "confidence": 70
+      },
+      {
+        "word": "mysterious",
+        "confidence": 65
+      }
+    ]
+  }
+}

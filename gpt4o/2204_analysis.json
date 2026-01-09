@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "nostalgic",
+        "confidence": 85
+      },
+      {
+        "word": "comforting",
+        "confidence": 80
+      },
+      {
+        "word": "traditional",
+        "confidence": 78
+      },
+      {
+        "word": "reliable",
+        "confidence": 75
+      },
+      {
+        "word": "transitional",
+        "confidence": 70
+      }
+    ]
+  }
+}

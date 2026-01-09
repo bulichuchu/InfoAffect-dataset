@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 90
+      },
+      {
+        "word": "decisive",
+        "confidence": 85
+      },
+      {
+        "word": "fear",
+        "confidence": 82
+      },
+      {
+        "word": "reliable",
+        "confidence": 78
+      },
+      {
+        "word": "consolidated",
+        "confidence": 75
+      },
+      {
+        "word": "resigned",
+        "confidence": 70
+      },
+      {
+        "word": "inevitable",
+        "confidence": 68
+      }
+    ]
+  }
+}

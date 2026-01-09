@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "stressful",
+        "confidence": 90
+      },
+      {
+        "word": "exhausting",
+        "confidence": 88
+      },
+      {
+        "word": "fear",
+        "confidence": 85
+      },
+      {
+        "word": "debilitating",
+        "confidence": 82
+      },
+      {
+        "word": "alarm",
+        "confidence": 80
+      },
+      {
+        "word": "demanding",
+        "confidence": 78
+      },
+      {
+        "word": "unhealthy",
+        "confidence": 75
+      }
+    ]
+  }
+}

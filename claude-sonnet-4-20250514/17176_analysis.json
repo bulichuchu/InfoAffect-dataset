@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fear",
+        "confidence": 88
+      },
+      {
+        "word": "monumental",
+        "confidence": 85
+      },
+      {
+        "word": "excellent",
+        "confidence": 82
+      },
+      {
+        "word": "effective",
+        "confidence": 80
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      },
+      {
+        "word": "success",
+        "confidence": 70
+      },
+      {
+        "word": "struggle",
+        "confidence": 68
+      }
+    ]
+  }
+}

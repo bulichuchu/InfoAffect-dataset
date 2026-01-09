@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "normal",
+        "confidence": 80
+      },
+      {
+        "word": "persistent",
+        "confidence": 78
+      },
+      {
+        "word": "resistant",
+        "confidence": 72
+      },
+      {
+        "word": "reluctant",
+        "confidence": 68
+      },
+      {
+        "word": "normal",
+        "confidence": 75
+      },
+      {
+        "word": "indifferent",
+        "confidence": 65
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 90
+      },
+      {
+        "word": "bewildered",
+        "confidence": 85
+      },
+      {
+        "word": "nightmarish",
+        "confidence": 88
+      },
+      {
+        "word": "delays",
+        "confidence": 80
+      },
+      {
+        "word": "worst",
+        "confidence": 83
+      },
+      {
+        "word": "fear",
+        "confidence": 78
+      }
+    ]
+  }
+}

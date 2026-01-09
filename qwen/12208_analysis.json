@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 88
+      },
+      {
+        "word": "underwhelming",
+        "confidence": 85
+      },
+      {
+        "word": "anger",
+        "confidence": 78
+      },
+      {
+        "word": "ironic",
+        "confidence": 72
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      },
+      {
+        "word": "pessimistic",
+        "confidence": 70
+      },
+      {
+        "word": "surprised",
+        "confidence": 65
+      },
+      {
+        "word": "joy",
+        "confidence": 60
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "costly",
+        "confidence": 90
+      },
+      {
+        "word": "losses",
+        "confidence": 95
+      },
+      {
+        "word": "struggle",
+        "confidence": 85
+      },
+      {
+        "word": "unprecedented",
+        "confidence": 80
+      },
+      {
+        "word": "negotiations",
+        "confidence": 70
+      },
+      {
+        "word": "plaudits",
+        "confidence": 50
+      },
+      {
+        "word": "eyeing",
+        "confidence": 55
+      },
+      {
+        "word": "salvaging",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "recovering",
+        "confidence": 85
+      },
+      {
+        "word": "reliable",
+        "confidence": 80
+      },
+      {
+        "word": "disappointed",
+        "confidence": 75
+      },
+      {
+        "word": "joy",
+        "confidence": 70
+      },
+      {
+        "word": "concerned",
+        "confidence": 65
+      },
+      {
+        "word": "success",
+        "confidence": 60
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 55
+      },
+      {
+        "word": "statistical",
+        "confidence": 72
+      }
+    ]
+  }
+}

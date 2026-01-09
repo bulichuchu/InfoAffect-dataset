@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "balanced",
+        "confidence": 90
+      },
+      {
+        "word": "conflicting",
+        "confidence": 85
+      },
+      {
+        "word": "reliable",
+        "confidence": 83
+      },
+      {
+        "word": "success",
+        "confidence": 80
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      },
+      {
+        "word": "affected",
+        "confidence": 72
+      },
+      {
+        "word": "disruptions",
+        "confidence": 70
+      }
+    ]
+  }
+}

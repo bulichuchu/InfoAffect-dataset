@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "uncertain",
+        "confidence": 90
+      },
+      {
+        "word": "volatile",
+        "confidence": 85
+      },
+      {
+        "word": "rare",
+        "confidence": 80
+      },
+      {
+        "word": "harmless",
+        "confidence": 70
+      },
+      {
+        "word": "drawdown",
+        "confidence": 65
+      },
+      {
+        "word": "peak-to-trough",
+        "confidence": 55
+      },
+      {
+        "word": "volatility",
+        "confidence": 50
+      },
+      {
+        "word": "recovery",
+        "confidence": 45
+      }
+    ]
+  }
+}

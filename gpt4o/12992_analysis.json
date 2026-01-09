@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "support",
+        "confidence": 85
+      },
+      {
+        "word": "mixed",
+        "confidence": 80
+      },
+      {
+        "word": "concerned",
+        "confidence": 82
+      },
+      {
+        "word": "common-sense",
+        "confidence": 78
+      },
+      {
+        "word": "effective",
+        "confidence": 76
+      },
+      {
+        "word": "preventive",
+        "confidence": 70
+      }
+    ]
+  }
+}

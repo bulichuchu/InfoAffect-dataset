@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "excited",
+        "confidence": 85
+      },
+      {
+        "word": "joy",
+        "confidence": 80
+      },
+      {
+        "word": "support",
+        "confidence": 78
+      },
+      {
+        "word": "underdog",
+        "confidence": 75
+      },
+      {
+        "word": "success",
+        "confidence": 72
+      },
+      {
+        "word": "anticipated",
+        "confidence": 70
+      },
+      {
+        "word": "favorable",
+        "confidence": 68
+      },
+      {
+        "word": "patriotic",
+        "confidence": 65
+      }
+    ]
+  }
+}

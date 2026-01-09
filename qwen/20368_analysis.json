@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "convenient",
+        "confidence": 85
+      },
+      {
+        "word": "anger",
+        "confidence": 80
+      },
+      {
+        "word": "generational",
+        "confidence": 78
+      },
+      {
+        "word": "innovative",
+        "confidence": 75
+      },
+      {
+        "word": "resistant",
+        "confidence": 72
+      },
+      {
+        "word": "effective",
+        "confidence": 70
+      },
+      {
+        "word": "predictable",
+        "confidence": 65
+      },
+      {
+        "word": "trendy",
+        "confidence": 60
+      }
+    ]
+  }
+}

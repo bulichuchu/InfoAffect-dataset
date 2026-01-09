@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "intense",
+        "confidence": 90
+      },
+      {
+        "word": "rapid",
+        "confidence": 85
+      },
+      {
+        "word": "alarm",
+        "confidence": 80
+      },
+      {
+        "word": "strong",
+        "confidence": 75
+      },
+      {
+        "word": "fast",
+        "confidence": 70
+      },
+      {
+        "word": "early",
+        "confidence": 65
+      },
+      {
+        "word": "widespread",
+        "confidence": 60
+      },
+      {
+        "word": "climate",
+        "confidence": 55
+      }
+    ]
+  }
+}

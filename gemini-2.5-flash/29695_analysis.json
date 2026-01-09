@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "pivotal",
+        "confidence": 90
+      },
+      {
+        "word": "profound",
+        "confidence": 85
+      },
+      {
+        "word": "consequential",
+        "confidence": 80
+      },
+      {
+        "word": "perceived",
+        "confidence": 75
+      },
+      {
+        "word": "historical",
+        "confidence": 70
+      },
+      {
+        "word": "contemplative",
+        "confidence": 65
+      }
+    ]
+  }
+}

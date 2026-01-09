@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 90
+      },
+      {
+        "word": "leading",
+        "confidence": 85
+      },
+      {
+        "word": "popular",
+        "confidence": 80
+      },
+      {
+        "word": "success",
+        "confidence": 75
+      },
+      {
+        "word": "minor",
+        "confidence": 70
+      },
+      {
+        "word": "domestic",
+        "confidence": 65
+      },
+      {
+        "word": "homegrown",
+        "confidence": 60
+      },
+      {
+        "word": "preferred",
+        "confidence": 55
+      }
+    ]
+  }
+}

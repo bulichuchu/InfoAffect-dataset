@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "uncertain",
+        "confidence": 95
+      },
+      {
+        "word": "alarm",
+        "confidence": 90
+      },
+      {
+        "word": "deceptive",
+        "confidence": 88
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "alarm",
+        "confidence": 82
+      },
+      {
+        "word": "exploitative",
+        "confidence": 80
+      }
+    ]
+  }
+}

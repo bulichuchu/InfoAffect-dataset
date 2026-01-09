@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "uncertain",
+        "confidence": 90
+      },
+      {
+        "word": "fear",
+        "confidence": 85
+      },
+      {
+        "word": "nervous",
+        "confidence": 80
+      },
+      {
+        "word": "worried",
+        "confidence": 75
+      },
+      {
+        "word": "concerned",
+        "confidence": 70
+      },
+      {
+        "word": "fear",
+        "confidence": 65
+      },
+      {
+        "word": "desperate",
+        "confidence": 55
+      },
+      {
+        "word": "hopeless",
+        "confidence": 50
+      }
+    ]
+  }
+}

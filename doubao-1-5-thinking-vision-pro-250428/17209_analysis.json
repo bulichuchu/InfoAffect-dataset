@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "struggle",
+        "confidence": 90
+      },
+      {
+        "word": "struggle",
+        "confidence": 85
+      },
+      {
+        "word": "struggle",
+        "confidence": 80
+      },
+      {
+        "word": "criticized",
+        "confidence": 75
+      },
+      {
+        "word": "protests",
+        "confidence": 70
+      },
+      {
+        "word": "banned",
+        "confidence": 65
+      },
+      {
+        "word": "uncertain",
+        "confidence": 55
+      },
+      {
+        "word": "uncertain",
+        "confidence": 50
+      }
+    ]
+  }
+}

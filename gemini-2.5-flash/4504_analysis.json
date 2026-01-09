@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "burdensome",
+        "confidence": 90
+      },
+      {
+        "word": "tiring",
+        "confidence": 85
+      },
+      {
+        "word": "stressful",
+        "confidence": 80
+      },
+      {
+        "word": "demanding",
+        "confidence": 75
+      },
+      {
+        "word": "alarm",
+        "confidence": 70
+      },
+      {
+        "word": "unpleasant",
+        "confidence": 65
+      }
+    ]
+  }
+}

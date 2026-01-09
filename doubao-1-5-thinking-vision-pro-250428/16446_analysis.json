@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "curiosity",
+        "confidence": 90
+      },
+      {
+        "word": "interest",
+        "confidence": 85
+      },
+      {
+        "word": "fear",
+        "confidence": 70
+      },
+      {
+        "word": "sadness",
+        "confidence": 65
+      },
+      {
+        "word": "anxiety",
+        "confidence": 55
+      },
+      {
+        "word": "disappointment",
+        "confidence": 50
+      },
+      {
+        "word": "surprise",
+        "confidence": 45
+      },
+      {
+        "word": "excitement",
+        "confidence": 40
+      }
+    ]
+  }
+}

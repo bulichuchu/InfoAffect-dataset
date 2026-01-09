@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "popular",
+        "confidence": 90
+      },
+      {
+        "word": "preferred",
+        "confidence": 85
+      },
+      {
+        "word": "leading",
+        "confidence": 80
+      },
+      {
+        "word": "success",
+        "confidence": 75
+      },
+      {
+        "word": "preferred",
+        "confidence": 70
+      },
+      {
+        "word": "favorite",
+        "confidence": 65
+      },
+      {
+        "word": "reliable",
+        "confidence": 60
+      }
+    ]
+  }
+}

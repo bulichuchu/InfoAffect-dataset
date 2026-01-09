@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "stagnant",
+        "confidence": 90
+      },
+      {
+        "word": "alarm",
+        "confidence": 80
+      },
+      {
+        "word": "subdued",
+        "confidence": 75
+      },
+      {
+        "word": "normal",
+        "confidence": 70
+      },
+      {
+        "word": "reflective",
+        "confidence": 65
+      },
+      {
+        "word": "understated",
+        "confidence": 60
+      }
+    ]
+  }
+}

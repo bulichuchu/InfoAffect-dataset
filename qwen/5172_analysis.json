@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "ubiquitous",
+        "confidence": 80
+      },
+      {
+        "word": "innovative",
+        "confidence": 75
+      },
+      {
+        "word": "connected",
+        "confidence": 78
+      },
+      {
+        "word": "tech-savvy",
+        "confidence": 72
+      },
+      {
+        "word": "widespread",
+        "confidence": 76
+      },
+      {
+        "word": "innovative",
+        "confidence": 70
+      },
+      {
+        "word": "normal",
+        "confidence": 68
+      }
+    ]
+  }
+}

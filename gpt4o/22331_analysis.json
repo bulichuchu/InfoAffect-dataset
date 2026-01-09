@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "stalling",
+        "confidence": 90
+      },
+      {
+        "word": "concern",
+        "confidence": 85
+      },
+      {
+        "word": "disappointment",
+        "confidence": 80
+      },
+      {
+        "word": "indecisiveness",
+        "confidence": 75
+      },
+      {
+        "word": "hesitation",
+        "confidence": 70
+      },
+      {
+        "word": "fragmented",
+        "confidence": 78
+      },
+      {
+        "word": "reluctance",
+        "confidence": 73
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "innovative",
+        "confidence": 90
+      },
+      {
+        "word": "improvement",
+        "confidence": 85
+      },
+      {
+        "word": "easier",
+        "confidence": 80
+      },
+      {
+        "word": "freedom",
+        "confidence": 75
+      },
+      {
+        "word": "cohesion",
+        "confidence": 70
+      },
+      {
+        "word": "barrier",
+        "confidence": 65
+      },
+      {
+        "word": "costly",
+        "confidence": 60
+      },
+      {
+        "word": "time-consuming",
+        "confidence": 55
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "connection",
+        "confidence": 95
+      },
+      {
+        "word": "comfort",
+        "confidence": 90
+      },
+      {
+        "word": "joy",
+        "confidence": 88
+      },
+      {
+        "word": "relaxed",
+        "confidence": 85
+      },
+      {
+        "word": "appreciative",
+        "confidence": 80
+      },
+      {
+        "word": "homely",
+        "confidence": 75
+      }
+    ]
+  }
+}

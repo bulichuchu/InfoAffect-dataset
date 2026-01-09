@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "hoard",
+        "confidence": 90
+      },
+      {
+        "word": "parked",
+        "confidence": 85
+      },
+      {
+        "word": "overseas",
+        "confidence": 80
+      },
+      {
+        "word": "little",
+        "confidence": 70
+      },
+      {
+        "word": "issue",
+        "confidence": 65
+      },
+      {
+        "word": "holiday",
+        "confidence": 55
+      },
+      {
+        "word": "unlikely",
+        "confidence": 50
+      }
+    ]
+  }
+}

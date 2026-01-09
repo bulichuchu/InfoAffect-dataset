@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "popular",
+        "confidence": 90
+      },
+      {
+        "word": "sustainability",
+        "confidence": 85
+      },
+      {
+        "word": "researched",
+        "confidence": 80
+      },
+      {
+        "word": "interests",
+        "confidence": 75
+      },
+      {
+        "word": "topics",
+        "confidence": 70
+      },
+      {
+        "word": "issues",
+        "confidence": 65
+      },
+      {
+        "word": "nonplussed",
+        "confidence": 60
+      },
+      {
+        "word": "engaged",
+        "confidence": 55
+      }
+    ]
+  }
+}

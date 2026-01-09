@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "popular",
+        "confidence": 90
+      },
+      {
+        "word": "gaining",
+        "confidence": 85
+      },
+      {
+        "word": "sensations",
+        "confidence": 80
+      },
+      {
+        "word": "evolving",
+        "confidence": 70
+      },
+      {
+        "word": "stark",
+        "confidence": 65
+      },
+      {
+        "word": "transitional",
+        "confidence": 60
+      },
+      {
+        "word": "anticipated",
+        "confidence": 55
+      },
+      {
+        "word": "running",
+        "confidence": 50
+      }
+    ]
+  }
+}

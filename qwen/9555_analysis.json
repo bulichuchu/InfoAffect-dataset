@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transitional",
+        "confidence": 85
+      },
+      {
+        "word": "perceived",
+        "confidence": 80
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      },
+      {
+        "word": "statistical",
+        "confidence": 78
+      },
+      {
+        "word": "normal",
+        "confidence": 70
+      },
+      {
+        "word": "effective",
+        "confidence": 82
+      },
+      {
+        "word": "alarm",
+        "confidence": 65
+      },
+      {
+        "word": "statistical",
+        "confidence": 73
+      }
+    ]
+  }
+}

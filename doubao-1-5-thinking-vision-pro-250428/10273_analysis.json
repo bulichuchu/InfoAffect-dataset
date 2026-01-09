@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "lowest",
+        "confidence": 90
+      },
+      {
+        "word": "biggest decrease",
+        "confidence": 85
+      },
+      {
+        "word": "losses",
+        "confidence": 80
+      },
+      {
+        "word": "high",
+        "confidence": 70
+      },
+      {
+        "word": "rise",
+        "confidence": 65
+      },
+      {
+        "word": "vital",
+        "confidence": 55
+      },
+      {
+        "word": "effective",
+        "confidence": 50
+      },
+      {
+        "word": "capable",
+        "confidence": 45
+      }
+    ]
+  }
+}

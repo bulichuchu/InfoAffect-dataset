@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "cozy",
+        "confidence": 90
+      },
+      {
+        "word": "affectionate",
+        "confidence": 85
+      },
+      {
+        "word": "warm",
+        "confidence": 82
+      },
+      {
+        "word": "joy",
+        "confidence": 78
+      },
+      {
+        "word": "comforting",
+        "confidence": 75
+      },
+      {
+        "word": "companionable",
+        "confidence": 72
+      },
+      {
+        "word": "heartwarming",
+        "confidence": 70
+      }
+    ]
+  }
+}

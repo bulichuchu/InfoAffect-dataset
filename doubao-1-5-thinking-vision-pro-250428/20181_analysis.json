@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disrespectful",
+        "confidence": 90
+      },
+      {
+        "word": "derogatory",
+        "confidence": 85
+      },
+      {
+        "word": "negative",
+        "confidence": 80
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      },
+      {
+        "word": "anger",
+        "confidence": 70
+      },
+      {
+        "word": "sarcastic",
+        "confidence": 65
+      },
+      {
+        "word": "ironic",
+        "confidence": 60
+      },
+      {
+        "word": "contemptuous",
+        "confidence": 55
+      }
+    ]
+  }
+}

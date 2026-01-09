@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 90
+      },
+      {
+        "word": "mixed",
+        "confidence": 85
+      },
+      {
+        "word": "dependent",
+        "confidence": 70
+      },
+      {
+        "word": "reliable",
+        "confidence": 65
+      },
+      {
+        "word": "low",
+        "confidence": 50
+      },
+      {
+        "word": "highly developed",
+        "confidence": 45
+      },
+      {
+        "word": "majority",
+        "confidence": 40
+      },
+      {
+        "word": "important",
+        "confidence": 35
+      }
+    ]
+  }
+}

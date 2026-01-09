@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "pride",
+        "confidence": 90
+      },
+      {
+        "word": "nationalism",
+        "confidence": 85
+      },
+      {
+        "word": "mixed",
+        "confidence": 78
+      },
+      {
+        "word": "historic",
+        "confidence": 76
+      },
+      {
+        "word": "patriotic",
+        "confidence": 82
+      },
+      {
+        "word": "success",
+        "confidence": 83
+      }
+    ]
+  }
+}

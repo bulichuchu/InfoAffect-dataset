@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disappointed",
+        "confidence": 90
+      },
+      {
+        "word": "slowdown",
+        "confidence": 85
+      },
+      {
+        "word": "missed",
+        "confidence": 80
+      },
+      {
+        "word": "target",
+        "confidence": 70
+      },
+      {
+        "word": "notable",
+        "confidence": 65
+      },
+      {
+        "word": "hard",
+        "confidence": 60
+      },
+      {
+        "word": "declining",
+        "confidence": 55
+      },
+      {
+        "word": "lowered",
+        "confidence": 50
+      }
+    ]
+  }
+}

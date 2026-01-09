@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "failed",
+        "confidence": 85
+      },
+      {
+        "word": "fragile",
+        "confidence": 80
+      },
+      {
+        "word": "unstable",
+        "confidence": 78
+      },
+      {
+        "word": "anger",
+        "confidence": 75
+      },
+      {
+        "word": "alarm",
+        "confidence": 72
+      },
+      {
+        "word": "dramatic",
+        "confidence": 68
+      },
+      {
+        "word": "political",
+        "confidence": 65
+      },
+      {
+        "word": "transitional",
+        "confidence": 60
+      }
+    ]
+  }
+}

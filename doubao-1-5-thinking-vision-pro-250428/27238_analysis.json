@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "soaring",
+        "confidence": 90
+      },
+      {
+        "word": "bleaker",
+        "confidence": 85
+      },
+      {
+        "word": "massive",
+        "confidence": 80
+      },
+      {
+        "word": "excessively high",
+        "confidence": 75
+      },
+      {
+        "word": "soaring cost of living",
+        "confidence": 70
+      },
+      {
+        "word": "fuel to the inflation fire",
+        "confidence": 65
+      },
+      {
+        "word": "sore thumb",
+        "confidence": 60
+      },
+      {
+        "word": "poor performance",
+        "confidence": 55
+      }
+    ]
+  }
+}

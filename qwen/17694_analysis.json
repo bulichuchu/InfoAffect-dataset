@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "stagnant",
+        "confidence": 85
+      },
+      {
+        "word": "steady",
+        "confidence": 80
+      },
+      {
+        "word": "reliable",
+        "confidence": 75
+      },
+      {
+        "word": "normal",
+        "confidence": 70
+      },
+      {
+        "word": "transitional",
+        "confidence": 65
+      },
+      {
+        "word": "statistical",
+        "confidence": 60
+      },
+      {
+        "word": "effective",
+        "confidence": 90
+      },
+      {
+        "word": "statistical",
+        "confidence": 88
+      }
+    ]
+  }
+}

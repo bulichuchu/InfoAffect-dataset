@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unmotivated",
+        "confidence": 85
+      },
+      {
+        "word": "indifferent",
+        "confidence": 80
+      },
+      {
+        "word": "apathetic",
+        "confidence": 75
+      },
+      {
+        "word": "unenthusiastic",
+        "confidence": 78
+      },
+      {
+        "word": "casual",
+        "confidence": 70
+      },
+      {
+        "word": "detached",
+        "confidence": 65
+      }
+    ]
+  }
+}

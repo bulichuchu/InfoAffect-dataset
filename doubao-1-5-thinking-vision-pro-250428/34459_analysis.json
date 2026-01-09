@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 90
+      },
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "turbulent",
+        "confidence": 80
+      },
+      {
+        "word": "nuclear",
+        "confidence": 70
+      },
+      {
+        "word": "conflict",
+        "confidence": 75
+      },
+      {
+        "word": "war",
+        "confidence": 65
+      },
+      {
+        "word": "treaty",
+        "confidence": 55
+      },
+      {
+        "word": "suspension",
+        "confidence": 50
+      }
+    ]
+  }
+}

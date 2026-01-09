@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "reliance",
+        "confidence": 90
+      },
+      {
+        "word": "vulnerability",
+        "confidence": 85
+      },
+      {
+        "word": "dependence",
+        "confidence": 88
+      },
+      {
+        "word": "concern",
+        "confidence": 82
+      },
+      {
+        "word": "precarious",
+        "confidence": 78
+      },
+      {
+        "word": "risk",
+        "confidence": 87
+      },
+      {
+        "word": "unstable",
+        "confidence": 80
+      }
+    ]
+  }
+}

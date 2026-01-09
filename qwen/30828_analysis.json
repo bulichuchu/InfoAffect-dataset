@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 88
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "pressing",
+        "confidence": 80
+      },
+      {
+        "word": "stark",
+        "confidence": 75
+      },
+      {
+        "word": "alarm",
+        "confidence": 78
+      },
+      {
+        "word": "disruptive",
+        "confidence": 72
+      },
+      {
+        "word": "volatile",
+        "confidence": 70
+      },
+      {
+        "word": "unequal",
+        "confidence": 68
+      }
+    ]
+  }
+}

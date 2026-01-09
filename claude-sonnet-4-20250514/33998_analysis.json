@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "damning",
+        "confidence": 90
+      },
+      {
+        "word": "unpopular",
+        "confidence": 85
+      },
+      {
+        "word": "struggle",
+        "confidence": 82
+      },
+      {
+        "word": "polarizing",
+        "confidence": 78
+      },
+      {
+        "word": "mixed",
+        "confidence": 75
+      },
+      {
+        "word": "confrontational",
+        "confidence": 72
+      },
+      {
+        "word": "turbulent",
+        "confidence": 68
+      }
+    ]
+  }
+}

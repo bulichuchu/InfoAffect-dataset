@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "joy",
+        "confidence": 85
+      },
+      {
+        "word": "relaxed",
+        "confidence": 80
+      },
+      {
+        "word": "distracted",
+        "confidence": 75
+      },
+      {
+        "word": "rebellious",
+        "confidence": 70
+      },
+      {
+        "word": "excited",
+        "confidence": 65
+      },
+      {
+        "word": "mischievous",
+        "confidence": 60
+      },
+      {
+        "word": "casual",
+        "confidence": 72
+      },
+      {
+        "word": "entertained",
+        "confidence": 68
+      }
+    ]
+  }
+}

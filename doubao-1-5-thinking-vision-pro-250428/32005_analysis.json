@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 90
+      },
+      {
+        "word": "gap",
+        "confidence": 85
+      },
+      {
+        "word": "shortage",
+        "confidence": 80
+      },
+      {
+        "word": "insignificant",
+        "confidence": 70
+      },
+      {
+        "word": "improvement",
+        "confidence": 65
+      },
+      {
+        "word": "skills gap",
+        "confidence": 75
+      },
+      {
+        "word": "high poverty rates",
+        "confidence": 85
+      }
+    ]
+  }
+}

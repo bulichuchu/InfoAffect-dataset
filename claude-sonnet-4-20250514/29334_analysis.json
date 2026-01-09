@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 88
+      },
+      {
+        "word": "uncertain",
+        "confidence": 85
+      },
+      {
+        "word": "conservative",
+        "confidence": 82
+      },
+      {
+        "word": "statistical",
+        "confidence": 78
+      },
+      {
+        "word": "traditional",
+        "confidence": 75
+      },
+      {
+        "word": "reserved",
+        "confidence": 72
+      },
+      {
+        "word": "statistical",
+        "confidence": 68
+      }
+    ]
+  }
+}

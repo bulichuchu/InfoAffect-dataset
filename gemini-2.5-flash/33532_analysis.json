@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "effective",
+        "confidence": 95
+      },
+      {
+        "word": "normal",
+        "confidence": 90
+      },
+      {
+        "word": "evolving",
+        "confidence": 88
+      },
+      {
+        "word": "statistical",
+        "confidence": 82
+      },
+      {
+        "word": "observational",
+        "confidence": 78
+      },
+      {
+        "word": "noteworthy",
+        "confidence": 72
+      },
+      {
+        "word": "struggle",
+        "confidence": 65
+      },
+      {
+        "word": "energetic",
+        "confidence": 60
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "traditional",
+        "confidence": 80
+      },
+      {
+        "word": "stagnant",
+        "confidence": 78
+      },
+      {
+        "word": "resistant",
+        "confidence": 74
+      },
+      {
+        "word": "stronghold",
+        "confidence": 76
+      },
+      {
+        "word": "unenthusiastic",
+        "confidence": 70
+      }
+    ]
+  }
+}

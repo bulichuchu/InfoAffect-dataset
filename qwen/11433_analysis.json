@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disparaging",
+        "confidence": 85
+      },
+      {
+        "word": "success",
+        "confidence": 80
+      },
+      {
+        "word": "anger",
+        "confidence": 75
+      },
+      {
+        "word": "perceived",
+        "confidence": 78
+      },
+      {
+        "word": "statistical",
+        "confidence": 82
+      },
+      {
+        "word": "declining",
+        "confidence": 70
+      },
+      {
+        "word": "effective",
+        "confidence": 76
+      },
+      {
+        "word": "statistical",
+        "confidence": 73
+      }
+    ]
+  }
+}

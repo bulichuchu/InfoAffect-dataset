@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "indifferent",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 78
+      },
+      {
+        "word": "disconnected",
+        "confidence": 80
+      },
+      {
+        "word": "apathetic",
+        "confidence": 75
+      },
+      {
+        "word": "surprised",
+        "confidence": 70
+      },
+      {
+        "word": "statistical",
+        "confidence": 65
+      },
+      {
+        "word": "normal",
+        "confidence": 72
+      },
+      {
+        "word": "perceived",
+        "confidence": 68
+      }
+    ]
+  }
+}

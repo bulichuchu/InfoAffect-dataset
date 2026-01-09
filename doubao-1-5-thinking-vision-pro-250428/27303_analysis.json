@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "discontent",
+        "confidence": 90
+      },
+      {
+        "word": "narrowed",
+        "confidence": 85
+      },
+      {
+        "word": "struggle",
+        "confidence": 80
+      },
+      {
+        "word": "anger",
+        "confidence": 85
+      },
+      {
+        "word": "disagreements",
+        "confidence": 80
+      },
+      {
+        "word": "extreme",
+        "confidence": 85
+      }
+    ]
+  }
+}

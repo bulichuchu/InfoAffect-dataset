@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "effective",
+        "confidence": 88
+      },
+      {
+        "word": "alarm",
+        "confidence": 82
+      },
+      {
+        "word": "authoritative",
+        "confidence": 78
+      },
+      {
+        "word": "practical",
+        "confidence": 85
+      },
+      {
+        "word": "statistical",
+        "confidence": 80
+      },
+      {
+        "word": "stark",
+        "confidence": 75
+      },
+      {
+        "word": "decisive",
+        "confidence": 70
+      },
+      {
+        "word": "formal",
+        "confidence": 83
+      }
+    ]
+  }
+}

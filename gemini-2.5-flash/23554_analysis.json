@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "uncertain",
+        "confidence": 95
+      },
+      {
+        "word": "statistical",
+        "confidence": 88
+      },
+      {
+        "word": "perceived",
+        "confidence": 82
+      },
+      {
+        "word": "understated",
+        "confidence": 78
+      },
+      {
+        "word": "disillusioning",
+        "confidence": 70
+      },
+      {
+        "word": "statistical",
+        "confidence": 65
+      }
+    ]
+  }
+}

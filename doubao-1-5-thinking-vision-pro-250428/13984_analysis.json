@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "negligible",
+        "confidence": 70
+      },
+      {
+        "word": "difference",
+        "confidence": 65
+      },
+      {
+        "word": "real",
+        "confidence": 60
+      },
+      {
+        "word": "mountains",
+        "confidence": 55
+      },
+      {
+        "word": "refuse",
+        "confidence": 50
+      },
+      {
+        "word": "reduce",
+        "confidence": 45
+      },
+      {
+        "word": "regulate",
+        "confidence": 40
+      },
+      {
+        "word": "almost",
+        "confidence": 35
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rise",
+        "confidence": 90
+      },
+      {
+        "word": "contrast",
+        "confidence": 85
+      },
+      {
+        "word": "urgency",
+        "confidence": 80
+      },
+      {
+        "word": "concern",
+        "confidence": 75
+      },
+      {
+        "word": "inequality",
+        "confidence": 70
+      }
+    ]
+  }
+}

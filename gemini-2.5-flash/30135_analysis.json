@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "effective",
+        "confidence": 95
+      },
+      {
+        "word": "engaging",
+        "confidence": 90
+      },
+      {
+        "word": "inspirational",
+        "confidence": 88
+      },
+      {
+        "word": "relevant",
+        "confidence": 85
+      },
+      {
+        "word": "innovative",
+        "confidence": 80
+      },
+      {
+        "word": "connected",
+        "confidence": 78
+      },
+      {
+        "word": "joy",
+        "confidence": 70
+      }
+    ]
+  }
+}

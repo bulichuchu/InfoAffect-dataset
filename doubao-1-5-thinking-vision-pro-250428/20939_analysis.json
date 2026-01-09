@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "historic",
+        "confidence": 90
+      },
+      {
+        "word": "rally",
+        "confidence": 85
+      },
+      {
+        "word": "optimism",
+        "confidence": 80
+      },
+      {
+        "word": "recovery",
+        "confidence": 75
+      },
+      {
+        "word": "highs",
+        "confidence": 70
+      },
+      {
+        "word": "surpassed",
+        "confidence": 65
+      },
+      {
+        "word": "unprecedented",
+        "confidence": 60
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "joy",
+        "confidence": 90
+      },
+      {
+        "word": "joy",
+        "confidence": 85
+      },
+      {
+        "word": "steady",
+        "confidence": 80
+      },
+      {
+        "word": "important",
+        "confidence": 75
+      },
+      {
+        "word": "large",
+        "confidence": 70
+      },
+      {
+        "word": "anticipated",
+        "confidence": 65
+      },
+      {
+        "word": "practical",
+        "confidence": 60
+      },
+      {
+        "word": "dip",
+        "confidence": 55
+      }
+    ]
+  }
+}

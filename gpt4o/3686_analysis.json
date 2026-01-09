@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "exclusive",
+        "confidence": 85
+      },
+      {
+        "word": "privileged",
+        "confidence": 82
+      },
+      {
+        "word": "mixed",
+        "confidence": 78
+      },
+      {
+        "word": "affluent",
+        "confidence": 80
+      },
+      {
+        "word": "socioeconomic",
+        "confidence": 75
+      }
+    ]
+  }
+}

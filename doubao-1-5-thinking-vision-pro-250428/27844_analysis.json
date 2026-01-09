@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 90
+      },
+      {
+        "word": "inequity",
+        "confidence": 85
+      },
+      {
+        "word": "unfairness",
+        "confidence": 80
+      },
+      {
+        "word": "inefficiency",
+        "confidence": 75
+      },
+      {
+        "word": "opportunity",
+        "confidence": 70
+      },
+      {
+        "word": "anticipated",
+        "confidence": 65
+      },
+      {
+        "word": "neglect",
+        "confidence": 60
+      },
+      {
+        "word": "frustration",
+        "confidence": 55
+      }
+    ]
+  }
+}

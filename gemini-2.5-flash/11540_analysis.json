@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rejection",
+        "confidence": 95
+      },
+      {
+        "word": "disapproval",
+        "confidence": 90
+      },
+      {
+        "word": "mixed",
+        "confidence": 88
+      },
+      {
+        "word": "unpopularity",
+        "confidence": 85
+      },
+      {
+        "word": "uncertain",
+        "confidence": 80
+      },
+      {
+        "word": "aloofness",
+        "confidence": 70
+      }
+    ]
+  }
+}

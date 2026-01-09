@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "contentious",
+        "confidence": 88
+      },
+      {
+        "word": "mixed",
+        "confidence": 85
+      },
+      {
+        "word": "obstructive",
+        "confidence": 82
+      },
+      {
+        "word": "statistical",
+        "confidence": 78
+      },
+      {
+        "word": "effective",
+        "confidence": 75
+      },
+      {
+        "word": "perceived",
+        "confidence": 72
+      },
+      {
+        "word": "alarm",
+        "confidence": 68
+      }
+    ]
+  }
+}

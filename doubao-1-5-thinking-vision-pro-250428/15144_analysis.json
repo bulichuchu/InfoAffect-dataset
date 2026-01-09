@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "increasing",
+        "confidence": 90
+      },
+      {
+        "word": "postponing",
+        "confidence": 85
+      },
+      {
+        "word": "statistical",
+        "confidence": 80
+      },
+      {
+        "word": "low",
+        "confidence": 75
+      },
+      {
+        "word": "similar",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fraudulent",
+        "confidence": 90
+      },
+      {
+        "word": "risk",
+        "confidence": 85
+      },
+      {
+        "word": "waste",
+        "confidence": 80
+      },
+      {
+        "word": "loss",
+        "confidence": 75
+      },
+      {
+        "word": "inefficient",
+        "confidence": 70
+      },
+      {
+        "word": "struggle",
+        "confidence": 65
+      },
+      {
+        "word": "alarm",
+        "confidence": 60
+      },
+      {
+        "word": "issue",
+        "confidence": 55
+      }
+    ]
+  }
+}

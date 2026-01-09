@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "net",
+        "confidence": 90
+      },
+      {
+        "word": "contribution",
+        "confidence": 85
+      },
+      {
+        "word": "equates",
+        "confidence": 80
+      },
+      {
+        "word": "£11.0bn",
+        "confidence": 75
+      },
+      {
+        "word": "£20.0bn",
+        "confidence": 70
+      },
+      {
+        "word": "-£4.5bn",
+        "confidence": 65
+      },
+      {
+        "word": "-£4.5bn",
+        "confidence": 65
+      },
+      {
+        "word": "channelled",
+        "confidence": 60
+      }
+    ]
+  }
+}

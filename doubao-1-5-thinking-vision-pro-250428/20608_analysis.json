@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "effective",
+        "confidence": 80
+      },
+      {
+        "word": "contentious",
+        "confidence": 75
+      },
+      {
+        "word": "assertive",
+        "confidence": 70
+      },
+      {
+        "word": "alarm",
+        "confidence": 72
+      },
+      {
+        "word": "political",
+        "confidence": 88
+      },
+      {
+        "word": "focused",
+        "confidence": 78
+      }
+    ]
+  }
+}

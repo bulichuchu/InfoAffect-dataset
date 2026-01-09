@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transitional",
+        "confidence": 90
+      },
+      {
+        "word": "unexpected",
+        "confidence": 85
+      },
+      {
+        "word": "declining",
+        "confidence": 70
+      },
+      {
+        "word": "shocking",
+        "confidence": 65
+      },
+      {
+        "word": "confused",
+        "confidence": 50
+      },
+      {
+        "word": "joy",
+        "confidence": 45
+      },
+      {
+        "word": "joy",
+        "confidence": 40
+      },
+      {
+        "word": "uncertain",
+        "confidence": 35
+      }
+    ]
+  }
+}

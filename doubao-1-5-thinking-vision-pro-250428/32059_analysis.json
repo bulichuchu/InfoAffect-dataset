@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "struggle",
+        "confidence": 90
+      },
+      {
+        "word": "misaligned",
+        "confidence": 85
+      },
+      {
+        "word": "lagging",
+        "confidence": 80
+      },
+      {
+        "word": "shortage",
+        "confidence": 75
+      },
+      {
+        "word": "harder",
+        "confidence": 70
+      },
+      {
+        "word": "undershoot",
+        "confidence": 65
+      },
+      {
+        "word": "unpreparedness",
+        "confidence": 60
+      },
+      {
+        "word": "hurdle",
+        "confidence": 55
+      }
+    ]
+  }
+}

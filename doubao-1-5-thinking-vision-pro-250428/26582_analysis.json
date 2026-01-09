@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 90
+      },
+      {
+        "word": "shortage",
+        "confidence": 85
+      },
+      {
+        "word": "dire",
+        "confidence": 80
+      },
+      {
+        "word": "low",
+        "confidence": 75
+      },
+      {
+        "word": "shortage",
+        "confidence": 70
+      },
+      {
+        "word": "shortage",
+        "confidence": 65
+      },
+      {
+        "word": "alarm",
+        "confidence": 60
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 95
+      },
+      {
+        "word": "struggle",
+        "confidence": 90
+      },
+      {
+        "word": "pressured",
+        "confidence": 85
+      },
+      {
+        "word": "low",
+        "confidence": 80
+      },
+      {
+        "word": "lowest",
+        "confidence": 75
+      },
+      {
+        "word": "cut",
+        "confidence": 70
+      },
+      {
+        "word": "competitors",
+        "confidence": 65
+      },
+      {
+        "word": "deliveries",
+        "confidence": 60
+      }
+    ]
+  }
+}

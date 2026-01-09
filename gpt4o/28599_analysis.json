@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "ominous",
+        "confidence": 89
+      },
+      {
+        "word": "dramatic",
+        "confidence": 85
+      },
+      {
+        "word": "intense",
+        "confidence": 82
+      },
+      {
+        "word": "intriguing",
+        "confidence": 76
+      },
+      {
+        "word": "foreboding",
+        "confidence": 74
+      },
+      {
+        "word": "dark",
+        "confidence": 70
+      }
+    ]
+  }
+}

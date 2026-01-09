@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disruptive",
+        "confidence": 85
+      },
+      {
+        "word": "alarm",
+        "confidence": 80
+      },
+      {
+        "word": "unstable",
+        "confidence": 75
+      },
+      {
+        "word": "success",
+        "confidence": 70
+      },
+      {
+        "word": "pressured",
+        "confidence": 65
+      },
+      {
+        "word": "authoritative",
+        "confidence": 60
+      },
+      {
+        "word": "alarm",
+        "confidence": 55
+      },
+      {
+        "word": "statistical",
+        "confidence": 78
+      }
+    ]
+  }
+}

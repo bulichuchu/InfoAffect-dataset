@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "practical",
+        "confidence": 90
+      },
+      {
+        "word": "excellent",
+        "confidence": 85
+      },
+      {
+        "word": "glowing",
+        "confidence": 80
+      },
+      {
+        "word": "niggling",
+        "confidence": 70
+      },
+      {
+        "word": "debatable",
+        "confidence": 65
+      },
+      {
+        "word": "questionable",
+        "confidence": 60
+      },
+      {
+        "word": "cheaper",
+        "confidence": 55
+      },
+      {
+        "word": "high-end",
+        "confidence": 50
+      }
+    ]
+  }
+}

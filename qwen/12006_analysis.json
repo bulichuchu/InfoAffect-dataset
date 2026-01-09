@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fear",
+        "confidence": 85
+      },
+      {
+        "word": "stressful",
+        "confidence": 80
+      },
+      {
+        "word": "daunting",
+        "confidence": 75
+      },
+      {
+        "word": "busy",
+        "confidence": 90
+      },
+      {
+        "word": "anger",
+        "confidence": 78
+      },
+      {
+        "word": "crowded",
+        "confidence": 82
+      },
+      {
+        "word": "fear",
+        "confidence": 70
+      },
+      {
+        "word": "predictable",
+        "confidence": 65
+      }
+    ]
+  }
+}

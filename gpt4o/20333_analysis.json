@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rejection",
+        "confidence": 90
+      },
+      {
+        "word": "defiance",
+        "confidence": 85
+      },
+      {
+        "word": "concern",
+        "confidence": 80
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      },
+      {
+        "word": "negotiation",
+        "confidence": 78
+      }
+    ]
+  }
+}

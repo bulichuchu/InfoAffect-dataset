@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "acceptance",
+        "confidence": 90
+      },
+      {
+        "word": "tolerance",
+        "confidence": 85
+      },
+      {
+        "word": "opposition",
+        "confidence": 70
+      },
+      {
+        "word": "disapproval",
+        "confidence": 65
+      },
+      {
+        "word": "mixed",
+        "confidence": 50
+      },
+      {
+        "word": "inclusion",
+        "confidence": 55
+      },
+      {
+        "word": "prejudice",
+        "confidence": 45
+      },
+      {
+        "word": "stigma",
+        "confidence": 40
+      }
+    ]
+  }
+}

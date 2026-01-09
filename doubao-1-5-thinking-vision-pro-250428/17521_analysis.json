@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 90
+      },
+      {
+        "word": "inclusive",
+        "confidence": 85
+      },
+      {
+        "word": "multilingual",
+        "confidence": 80
+      },
+      {
+        "word": "cultural",
+        "confidence": 75
+      },
+      {
+        "word": "anger",
+        "confidence": 70
+      },
+      {
+        "word": "conflict",
+        "confidence": 65
+      },
+      {
+        "word": "disagreement",
+        "confidence": 60
+      },
+      {
+        "word": "apology",
+        "confidence": 55
+      }
+    ]
+  }
+}

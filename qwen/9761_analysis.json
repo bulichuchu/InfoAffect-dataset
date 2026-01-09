@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "innovative",
+        "confidence": 85
+      },
+      {
+        "word": "disruptive",
+        "confidence": 80
+      },
+      {
+        "word": "transitional",
+        "confidence": 75
+      },
+      {
+        "word": "reliable",
+        "confidence": 82
+      },
+      {
+        "word": "inevitable",
+        "confidence": 70
+      },
+      {
+        "word": "concerned",
+        "confidence": 65
+      },
+      {
+        "word": "curious",
+        "confidence": 78
+      },
+      {
+        "word": "statistical",
+        "confidence": 73
+      }
+    ]
+  }
+}

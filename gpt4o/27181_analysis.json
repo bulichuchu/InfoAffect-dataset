@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "vulnerable",
+        "confidence": 90
+      },
+      {
+        "word": "dependent",
+        "confidence": 85
+      },
+      {
+        "word": "endangered",
+        "confidence": 88
+      },
+      {
+        "word": "alarm",
+        "confidence": 82
+      },
+      {
+        "word": "affected",
+        "confidence": 80
+      },
+      {
+        "word": "alarm",
+        "confidence": 78
+      },
+      {
+        "word": "alarm",
+        "confidence": 84
+      }
+    ]
+  }
+}

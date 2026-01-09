@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "budget-conscious",
+        "confidence": 80
+      },
+      {
+        "word": "disparaging",
+        "confidence": 75
+      },
+      {
+        "word": "effective",
+        "confidence": 90
+      },
+      {
+        "word": "effective",
+        "confidence": 78
+      },
+      {
+        "word": "statistical",
+        "confidence": 72
+      },
+      {
+        "word": "realistic",
+        "confidence": 82
+      },
+      {
+        "word": "fear",
+        "confidence": 65
+      }
+    ]
+  }
+}

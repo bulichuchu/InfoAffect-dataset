@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "prevalent",
+        "confidence": 90
+      },
+      {
+        "word": "prohibitive",
+        "confidence": 85
+      },
+      {
+        "word": "anger",
+        "confidence": 80
+      },
+      {
+        "word": "disadvantaged",
+        "confidence": 75
+      },
+      {
+        "word": "inequitable",
+        "confidence": 70
+      },
+      {
+        "word": "unjust",
+        "confidence": 65
+      },
+      {
+        "word": "inconvenient",
+        "confidence": 60
+      },
+      {
+        "word": "anger",
+        "confidence": 55
+      }
+    ]
+  }
+}

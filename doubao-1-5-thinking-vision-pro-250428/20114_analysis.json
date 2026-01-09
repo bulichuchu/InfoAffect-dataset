@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "vulnerable",
+        "confidence": 90
+      },
+      {
+        "word": "soaring",
+        "confidence": 85
+      },
+      {
+        "word": "escalating",
+        "confidence": 82
+      },
+      {
+        "word": "pending",
+        "confidence": 70
+      },
+      {
+        "word": "foreseeable",
+        "confidence": 68
+      },
+      {
+        "word": "triple",
+        "confidence": 65
+      },
+      {
+        "word": "bad",
+        "confidence": 62
+      },
+      {
+        "word": "consumed",
+        "confidence": 60
+      }
+    ]
+  }
+}

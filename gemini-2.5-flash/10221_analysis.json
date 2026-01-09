@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 92
+      },
+      {
+        "word": "festive",
+        "confidence": 88
+      },
+      {
+        "word": "enticing",
+        "confidence": 85
+      },
+      {
+        "word": "bustling",
+        "confidence": 80
+      },
+      {
+        "word": "joy",
+        "confidence": 75
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 65
+      }
+    ]
+  }
+}

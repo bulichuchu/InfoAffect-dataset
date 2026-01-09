@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 90
+      },
+      {
+        "word": "frustration",
+        "confidence": 85
+      },
+      {
+        "word": "persistent",
+        "confidence": 80
+      },
+      {
+        "word": "unease",
+        "confidence": 75
+      },
+      {
+        "word": "joy",
+        "confidence": 65
+      },
+      {
+        "word": "anger",
+        "confidence": 82
+      },
+      {
+        "word": "concerned",
+        "confidence": 78
+      },
+      {
+        "word": "reliable",
+        "confidence": 60
+      }
+    ]
+  }
+}

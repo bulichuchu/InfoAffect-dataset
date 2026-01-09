@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "cumulative",
+        "confidence": 70
+      },
+      {
+        "word": "lockdowns",
+        "confidence": 75
+      },
+      {
+        "word": "highly contagious",
+        "confidence": 80
+      },
+      {
+        "word": "lagging",
+        "confidence": 65
+      },
+      {
+        "word": "rise",
+        "confidence": 70
+      },
+      {
+        "word": "possible",
+        "confidence": 55
+      },
+      {
+        "word": "reintroducing",
+        "confidence": 75
+      },
+      {
+        "word": "mixed",
+        "confidence": 70
+      }
+    ]
+  }
+}

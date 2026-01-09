@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "peaceful",
+        "confidence": 92
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 88
+      },
+      {
+        "word": "comforting",
+        "confidence": 85
+      },
+      {
+        "word": "wholesome",
+        "confidence": 82
+      },
+      {
+        "word": "gentle",
+        "confidence": 78
+      },
+      {
+        "word": "joy",
+        "confidence": 75
+      },
+      {
+        "word": "serene",
+        "confidence": 73
+      },
+      {
+        "word": "uplifting",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 90
+      },
+      {
+        "word": "conflictual",
+        "confidence": 85
+      },
+      {
+        "word": "mixed",
+        "confidence": 85
+      },
+      {
+        "word": "infuriated",
+        "confidence": 80
+      },
+      {
+        "word": "crisis",
+        "confidence": 80
+      },
+      {
+        "word": "turmoil",
+        "confidence": 70
+      },
+      {
+        "word": "retaliatory",
+        "confidence": 65
+      },
+      {
+        "word": "protectionist",
+        "confidence": 60
+      }
+    ]
+  }
+}

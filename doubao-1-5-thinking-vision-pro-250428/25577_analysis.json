@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "democratize",
+        "confidence": 90
+      },
+      {
+        "word": "freedom",
+        "confidence": 85
+      },
+      {
+        "word": "flexibility",
+        "confidence": 80
+      },
+      {
+        "word": "embrace",
+        "confidence": 75
+      },
+      {
+        "word": "reservations",
+        "confidence": 70
+      },
+      {
+        "word": "professional-grade",
+        "confidence": 65
+      },
+      {
+        "word": "deprecate",
+        "confidence": 55
+      },
+      {
+        "word": "cliché",
+        "confidence": 50
+      }
+    ]
+  }
+}

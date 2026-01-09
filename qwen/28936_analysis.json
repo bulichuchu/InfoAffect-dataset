@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fear",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 80
+      },
+      {
+        "word": "curious",
+        "confidence": 75
+      },
+      {
+        "word": "melancholic",
+        "confidence": 70
+      },
+      {
+        "word": "engaged",
+        "confidence": 65
+      },
+      {
+        "word": "reflective",
+        "confidence": 60
+      },
+      {
+        "word": "alarm",
+        "confidence": 72
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 68
+      }
+    ]
+  }
+}

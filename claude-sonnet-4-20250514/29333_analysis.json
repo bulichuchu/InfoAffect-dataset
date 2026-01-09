@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "cautionary",
+        "confidence": 90
+      },
+      {
+        "word": "balanced",
+        "confidence": 85
+      },
+      {
+        "word": "effective",
+        "confidence": 82
+      },
+      {
+        "word": "alarm",
+        "confidence": 78
+      },
+      {
+        "word": "engaging",
+        "confidence": 75
+      },
+      {
+        "word": "conflicted",
+        "confidence": 72
+      },
+      {
+        "word": "educational",
+        "confidence": 70
+      },
+      {
+        "word": "thrilling",
+        "confidence": 65
+      }
+    ]
+  }
+}

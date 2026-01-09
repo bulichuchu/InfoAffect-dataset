@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "practical",
+        "confidence": 90
+      },
+      {
+        "word": "shocking",
+        "confidence": 85
+      },
+      {
+        "word": "fear",
+        "confidence": 78
+      },
+      {
+        "word": "declining",
+        "confidence": 75
+      },
+      {
+        "word": "anger",
+        "confidence": 72
+      },
+      {
+        "word": "daunting",
+        "confidence": 70
+      },
+      {
+        "word": "transitional",
+        "confidence": 65
+      },
+      {
+        "word": "effective",
+        "confidence": 60
+      }
+    ]
+  }
+}

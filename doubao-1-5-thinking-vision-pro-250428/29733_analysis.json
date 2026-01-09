@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fearless",
+        "confidence": 90
+      },
+      {
+        "word": "timid",
+        "confidence": 85
+      },
+      {
+        "word": "opportunity",
+        "confidence": 70
+      },
+      {
+        "word": "hesitation",
+        "confidence": 65
+      },
+      {
+        "word": "dissuaded",
+        "confidence": 55
+      },
+      {
+        "word": "reluctance",
+        "confidence": 50
+      },
+      {
+        "word": "bold",
+        "confidence": 45
+      },
+      {
+        "word": "alarm",
+        "confidence": 40
+      }
+    ]
+  }
+}

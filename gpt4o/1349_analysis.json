@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "normal",
+        "confidence": 85
+      },
+      {
+        "word": "convenient",
+        "confidence": 80
+      },
+      {
+        "word": "normal",
+        "confidence": 78
+      },
+      {
+        "word": "normal",
+        "confidence": 75
+      },
+      {
+        "word": "persistent",
+        "confidence": 70
+      },
+      {
+        "word": "accepted",
+        "confidence": 68
+      }
+    ]
+  }
+}

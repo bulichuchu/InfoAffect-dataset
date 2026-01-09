@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "excited",
+        "confidence": 85
+      },
+      {
+        "word": "success",
+        "confidence": 80
+      },
+      {
+        "word": "alarm",
+        "confidence": 78
+      },
+      {
+        "word": "effective",
+        "confidence": 75
+      },
+      {
+        "word": "success",
+        "confidence": 72
+      },
+      {
+        "word": "innovative",
+        "confidence": 82
+      },
+      {
+        "word": "pressured",
+        "confidence": 68
+      },
+      {
+        "word": "forward-looking",
+        "confidence": 76
+      }
+    ]
+  }
+}

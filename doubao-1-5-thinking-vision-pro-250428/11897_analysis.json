@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 90
+      },
+      {
+        "word": "prestigious",
+        "confidence": 85
+      },
+      {
+        "word": "success",
+        "confidence": 80
+      },
+      {
+        "word": "renowned",
+        "confidence": 75
+      },
+      {
+        "word": "excellent",
+        "confidence": 70
+      },
+      {
+        "word": "leading",
+        "confidence": 65
+      },
+      {
+        "word": "excellent",
+        "confidence": 60
+      },
+      {
+        "word": "top-tier",
+        "confidence": 55
+      }
+    ]
+  }
+}

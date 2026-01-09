@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "reduction",
+        "confidence": 90
+      },
+      {
+        "word": "cap",
+        "confidence": 85
+      },
+      {
+        "word": "criticized",
+        "confidence": 80
+      },
+      {
+        "word": "demanded",
+        "confidence": 75
+      },
+      {
+        "word": "alarm",
+        "confidence": 70
+      },
+      {
+        "word": "displaced",
+        "confidence": 65
+      },
+      {
+        "word": "reduce",
+        "confidence": 60
+      },
+      {
+        "word": "cut",
+        "confidence": 55
+      }
+    ]
+  }
+}

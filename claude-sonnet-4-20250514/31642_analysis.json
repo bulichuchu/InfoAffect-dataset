@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "poignant",
+        "confidence": 90
+      },
+      {
+        "word": "fear",
+        "confidence": 88
+      },
+      {
+        "word": "reverent",
+        "confidence": 85
+      },
+      {
+        "word": "melancholic",
+        "confidence": 82
+      },
+      {
+        "word": "dignified",
+        "confidence": 78
+      },
+      {
+        "word": "contemplative",
+        "confidence": 75
+      },
+      {
+        "word": "joy",
+        "confidence": 65
+      }
+    ]
+  }
+}

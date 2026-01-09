@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 88
+      },
+      {
+        "word": "polarized",
+        "confidence": 85
+      },
+      {
+        "word": "harmful",
+        "confidence": 82
+      },
+      {
+        "word": "alarm",
+        "confidence": 80
+      },
+      {
+        "word": "anger",
+        "confidence": 78
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      },
+      {
+        "word": "effective",
+        "confidence": 70
+      },
+      {
+        "word": "perceived",
+        "confidence": 68
+      }
+    ]
+  }
+}

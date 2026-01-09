@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "contrasting",
+        "confidence": 85
+      },
+      {
+        "word": "complex",
+        "confidence": 82
+      },
+      {
+        "word": "alarm",
+        "confidence": 80
+      },
+      {
+        "word": "unsettling",
+        "confidence": 78
+      },
+      {
+        "word": "statistical",
+        "confidence": 75
+      },
+      {
+        "word": "ambivalent",
+        "confidence": 72
+      },
+      {
+        "word": "polarizing",
+        "confidence": 70
+      }
+    ]
+  }
+}

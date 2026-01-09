@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "startling",
+        "confidence": 90
+      },
+      {
+        "word": "unfortunate",
+        "confidence": 85
+      },
+      {
+        "word": "shocking",
+        "confidence": 80
+      },
+      {
+        "word": "fear",
+        "confidence": 75
+      },
+      {
+        "word": "sad",
+        "confidence": 70
+      },
+      {
+        "word": "alarm",
+        "confidence": 65
+      },
+      {
+        "word": "alarm",
+        "confidence": 60
+      },
+      {
+        "word": "alarm",
+        "confidence": 55
+      }
+    ]
+  }
+}

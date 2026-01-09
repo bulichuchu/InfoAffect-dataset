@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rise",
+        "confidence": 90
+      },
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "rise",
+        "confidence": 80
+      },
+      {
+        "word": "opportunity",
+        "confidence": 75
+      },
+      {
+        "word": "innovation",
+        "confidence": 70
+      },
+      {
+        "word": "prosperity",
+        "confidence": 65
+      },
+      {
+        "word": "anticipated",
+        "confidence": 60
+      },
+      {
+        "word": "success",
+        "confidence": 55
+      }
+    ]
+  }
+}

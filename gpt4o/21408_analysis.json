@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "confinement",
+        "confidence": 85
+      },
+      {
+        "word": "restricted",
+        "confidence": 80
+      },
+      {
+        "word": "lonely",
+        "confidence": 75
+      },
+      {
+        "word": "normal",
+        "confidence": 70
+      },
+      {
+        "word": "complacent",
+        "confidence": 65
+      }
+    ]
+  }
+}

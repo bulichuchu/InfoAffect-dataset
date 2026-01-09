@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anticipated",
+        "confidence": 85
+      },
+      {
+        "word": "adaptable",
+        "confidence": 80
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 75
+      },
+      {
+        "word": "reliable",
+        "confidence": 72
+      },
+      {
+        "word": "prepared",
+        "confidence": 78
+      },
+      {
+        "word": "uncertain",
+        "confidence": 68
+      },
+      {
+        "word": "invested",
+        "confidence": 70
+      },
+      {
+        "word": "innovative",
+        "confidence": 65
+      }
+    ]
+  }
+}

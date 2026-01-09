@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "progress",
+        "confidence": 90
+      },
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "statistical",
+        "confidence": 70
+      },
+      {
+        "word": "notable",
+        "confidence": 65
+      },
+      {
+        "word": "historical",
+        "confidence": 55
+      },
+      {
+        "word": "unique",
+        "confidence": 50
+      },
+      {
+        "word": "reliable",
+        "confidence": 45
+      },
+      {
+        "word": "joy",
+        "confidence": 40
+      }
+    ]
+  }
+}

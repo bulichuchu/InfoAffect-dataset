@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "brutal",
+        "confidence": 90
+      },
+      {
+        "word": "record-breaking",
+        "confidence": 85
+      },
+      {
+        "word": "extreme",
+        "confidence": 80
+      },
+      {
+        "word": "frostbite",
+        "confidence": 75
+      },
+      {
+        "word": "hypothermia",
+        "confidence": 70
+      },
+      {
+        "word": "unpredictable",
+        "confidence": 65
+      },
+      {
+        "word": "alarm",
+        "confidence": 60
+      },
+      {
+        "word": "cold",
+        "confidence": 55
+      }
+    ]
+  }
+}

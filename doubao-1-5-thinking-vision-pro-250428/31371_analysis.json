@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "race",
+        "confidence": 80
+      },
+      {
+        "word": "exacerbated",
+        "confidence": 75
+      },
+      {
+        "word": "lagging",
+        "confidence": 70
+      },
+      {
+        "word": "drastically",
+        "confidence": 65
+      },
+      {
+        "word": "competitor",
+        "confidence": 60
+      },
+      {
+        "word": "forecasts",
+        "confidence": 55
+      },
+      {
+        "word": "estimated",
+        "confidence": 50
+      }
+    ]
+  }
+}

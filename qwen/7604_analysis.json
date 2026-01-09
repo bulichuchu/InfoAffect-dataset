@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "joy",
+        "confidence": 85
+      },
+      {
+        "word": "energetic",
+        "confidence": 80
+      },
+      {
+        "word": "joy",
+        "confidence": 78
+      },
+      {
+        "word": "transitional",
+        "confidence": 75
+      },
+      {
+        "word": "innovative",
+        "confidence": 72
+      },
+      {
+        "word": "support",
+        "confidence": 70
+      },
+      {
+        "word": "reliable",
+        "confidence": 65
+      },
+      {
+        "word": "innovative",
+        "confidence": 60
+      }
+    ]
+  }
+}

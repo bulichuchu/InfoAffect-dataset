@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "crashing",
+        "confidence": 90
+      },
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "crisis",
+        "confidence": 88
+      },
+      {
+        "word": "shutdown",
+        "confidence": 80
+      },
+      {
+        "word": "impact",
+        "confidence": 75
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "support",
+        "confidence": 90
+      },
+      {
+        "word": "oppose",
+        "confidence": 70
+      },
+      {
+        "word": "divide",
+        "confidence": 65
+      },
+      {
+        "word": "vow",
+        "confidence": 50
+      },
+      {
+        "word": "pact",
+        "confidence": 40
+      }
+    ]
+  }
+}

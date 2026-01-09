@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "profitable",
+        "confidence": 90
+      },
+      {
+        "word": "lucrative",
+        "confidence": 88
+      },
+      {
+        "word": "success",
+        "confidence": 82
+      },
+      {
+        "word": "opportunistic",
+        "confidence": 78
+      },
+      {
+        "word": "energetic",
+        "confidence": 75
+      },
+      {
+        "word": "empowering",
+        "confidence": 73
+      },
+      {
+        "word": "rewarding",
+        "confidence": 80
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 90
+      },
+      {
+        "word": "peaked",
+        "confidence": 85
+      },
+      {
+        "word": "excellent",
+        "confidence": 80
+      },
+      {
+        "word": "closely linked",
+        "confidence": 75
+      },
+      {
+        "word": "nearly",
+        "confidence": 70
+      },
+      {
+        "word": "increasing",
+        "confidence": 65
+      },
+      {
+        "word": "recurrently",
+        "confidence": 60
+      }
+    ]
+  }
+}

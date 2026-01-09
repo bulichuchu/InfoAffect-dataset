@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 88
+      },
+      {
+        "word": "effective",
+        "confidence": 85
+      },
+      {
+        "word": "uneven",
+        "confidence": 83
+      },
+      {
+        "word": "lonely",
+        "confidence": 80
+      },
+      {
+        "word": "thought-provoking",
+        "confidence": 78
+      },
+      {
+        "word": "eye-opening",
+        "confidence": 75
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disappointed",
+        "confidence": 90
+      },
+      {
+        "word": "underperforming",
+        "confidence": 85
+      },
+      {
+        "word": "lagging",
+        "confidence": 80
+      },
+      {
+        "word": "dominated",
+        "confidence": 75
+      },
+      {
+        "word": "failed",
+        "confidence": 70
+      },
+      {
+        "word": "challenged",
+        "confidence": 65
+      },
+      {
+        "word": "neglected",
+        "confidence": 60
+      },
+      {
+        "word": "struggle",
+        "confidence": 55
+      }
+    ]
+  }
+}

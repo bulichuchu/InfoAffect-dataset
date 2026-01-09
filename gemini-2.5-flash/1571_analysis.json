@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "resilience",
+        "confidence": 90
+      },
+      {
+        "word": "adaptation",
+        "confidence": 85
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 80
+      },
+      {
+        "word": "rise",
+        "confidence": 75
+      },
+      {
+        "word": "struggle",
+        "confidence": 70
+      },
+      {
+        "word": "opportunity",
+        "confidence": 65
+      }
+    ]
+  }
+}

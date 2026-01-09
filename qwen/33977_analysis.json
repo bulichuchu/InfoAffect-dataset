@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "defiant",
+        "confidence": 88
+      },
+      {
+        "word": "corrective",
+        "confidence": 85
+      },
+      {
+        "word": "reliable",
+        "confidence": 82
+      },
+      {
+        "word": "mixed",
+        "confidence": 78
+      },
+      {
+        "word": "joy",
+        "confidence": 75
+      },
+      {
+        "word": "confrontational",
+        "confidence": 73
+      },
+      {
+        "word": "statistical",
+        "confidence": 70
+      },
+      {
+        "word": "authoritative",
+        "confidence": 68
+      }
+    ]
+  }
+}

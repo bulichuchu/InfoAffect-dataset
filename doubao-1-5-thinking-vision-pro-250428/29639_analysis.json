@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "stressful",
+        "confidence": 90
+      },
+      {
+        "word": "struggle",
+        "confidence": 85
+      },
+      {
+        "word": "skyrocketing",
+        "confidence": 80
+      },
+      {
+        "word": "pressured",
+        "confidence": 75
+      },
+      {
+        "word": "extended",
+        "confidence": 70
+      },
+      {
+        "word": "exacerbated",
+        "confidence": 65
+      },
+      {
+        "word": "negotiations",
+        "confidence": 60
+      },
+      {
+        "word": "planned",
+        "confidence": 55
+      }
+    ]
+  }
+}

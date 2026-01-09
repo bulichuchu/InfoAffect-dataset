@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "joy",
+        "confidence": 85
+      },
+      {
+        "word": "joy",
+        "confidence": 80
+      },
+      {
+        "word": "mixed",
+        "confidence": 75
+      },
+      {
+        "word": "relieved",
+        "confidence": 70
+      },
+      {
+        "word": "polarized",
+        "confidence": 78
+      },
+      {
+        "word": "success",
+        "confidence": 82
+      },
+      {
+        "word": "reliable",
+        "confidence": 65
+      },
+      {
+        "word": "partisan",
+        "confidence": 73
+      }
+    ]
+  }
+}

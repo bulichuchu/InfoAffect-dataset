@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "yearning",
+        "confidence": 85
+      },
+      {
+        "word": "joy",
+        "confidence": 80
+      },
+      {
+        "word": "reflective",
+        "confidence": 75
+      },
+      {
+        "word": "contemplative",
+        "confidence": 72
+      },
+      {
+        "word": "longing",
+        "confidence": 82
+      },
+      {
+        "word": "aspirational",
+        "confidence": 78
+      }
+    ]
+  }
+}

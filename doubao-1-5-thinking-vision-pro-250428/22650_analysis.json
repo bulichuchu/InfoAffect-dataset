@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "resurgence",
+        "confidence": 90
+      },
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "scam",
+        "confidence": 95
+      },
+      {
+        "word": "stolen",
+        "confidence": 90
+      },
+      {
+        "word": "susceptible",
+        "confidence": 80
+      },
+      {
+        "word": "imposter",
+        "confidence": 85
+      },
+      {
+        "word": "scamming",
+        "confidence": 90
+      }
+    ]
+  }
+}

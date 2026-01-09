@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "popular",
+        "confidence": 90
+      },
+      {
+        "word": "normal",
+        "confidence": 85
+      },
+      {
+        "word": "widespread",
+        "confidence": 80
+      },
+      {
+        "word": "ubiquitous",
+        "confidence": 70
+      },
+      {
+        "word": "prevalent",
+        "confidence": 65
+      },
+      {
+        "word": "frequent",
+        "confidence": 55
+      },
+      {
+        "word": "normal",
+        "confidence": 50
+      },
+      {
+        "word": "commonplace",
+        "confidence": 45
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "authoritative",
+        "confidence": 90
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "determined",
+        "confidence": 80
+      },
+      {
+        "word": "methodical",
+        "confidence": 75
+      },
+      {
+        "word": "alarm",
+        "confidence": 70
+      },
+      {
+        "word": "systematic",
+        "confidence": 65
+      },
+      {
+        "word": "imposing",
+        "confidence": 60
+      },
+      {
+        "word": "formal",
+        "confidence": 85
+      }
+    ]
+  }
+}

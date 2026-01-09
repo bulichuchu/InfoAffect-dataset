@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "contrasting",
+        "confidence": 90
+      },
+      {
+        "word": "joy",
+        "confidence": 85
+      },
+      {
+        "word": "disparaging",
+        "confidence": 78
+      },
+      {
+        "word": "effective",
+        "confidence": 82
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      },
+      {
+        "word": "innovative",
+        "confidence": 70
+      },
+      {
+        "word": "unequal",
+        "confidence": 80
+      },
+      {
+        "word": "statistical",
+        "confidence": 73
+      }
+    ]
+  }
+}

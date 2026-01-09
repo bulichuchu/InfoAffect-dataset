@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "bittersweet",
+        "confidence": 90
+      },
+      {
+        "word": "increasing",
+        "confidence": 85
+      },
+      {
+        "word": "connection",
+        "confidence": 70
+      },
+      {
+        "word": "crisis",
+        "confidence": 80
+      },
+      {
+        "word": "waitlist",
+        "confidence": 65
+      },
+      {
+        "word": "deceased",
+        "confidence": 55
+      },
+      {
+        "word": "declining",
+        "confidence": 50
+      },
+      {
+        "word": "transplant",
+        "confidence": 45
+      }
+    ]
+  }
+}

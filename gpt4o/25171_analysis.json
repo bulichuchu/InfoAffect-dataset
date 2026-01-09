@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rivalry",
+        "confidence": 90
+      },
+      {
+        "word": "success",
+        "confidence": 88
+      },
+      {
+        "word": "historical",
+        "confidence": 85
+      },
+      {
+        "word": "intense",
+        "confidence": 80
+      },
+      {
+        "word": "prestigious",
+        "confidence": 78
+      },
+      {
+        "word": "struggle",
+        "confidence": 75
+      },
+      {
+        "word": "iconic",
+        "confidence": 70
+      }
+    ]
+  }
+}

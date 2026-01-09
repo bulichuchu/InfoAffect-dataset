@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "regain",
+        "confidence": 90
+      },
+      {
+        "word": "trend",
+        "confidence": 70
+      },
+      {
+        "word": "return",
+        "confidence": 80
+      },
+      {
+        "word": "uncertain",
+        "confidence": 65
+      },
+      {
+        "word": "accelerated",
+        "confidence": 55
+      },
+      {
+        "word": "broad",
+        "confidence": 50
+      },
+      {
+        "word": "broader",
+        "confidence": 45
+      },
+      {
+        "word": "cannot",
+        "confidence": 40
+      }
+    ]
+  }
+}

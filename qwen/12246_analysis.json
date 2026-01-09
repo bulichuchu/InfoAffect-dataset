@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 88
+      },
+      {
+        "word": "grateful",
+        "confidence": 82
+      },
+      {
+        "word": "relieved",
+        "confidence": 78
+      },
+      {
+        "word": "fear",
+        "confidence": 75
+      },
+      {
+        "word": "joy",
+        "confidence": 70
+      },
+      {
+        "word": "lonely",
+        "confidence": 68
+      },
+      {
+        "word": "responsible",
+        "confidence": 65
+      },
+      {
+        "word": "overwhelmed",
+        "confidence": 60
+      }
+    ]
+  }
+}

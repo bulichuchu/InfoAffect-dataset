@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "desire",
+        "confidence": 90
+      },
+      {
+        "word": "relief",
+        "confidence": 88
+      },
+      {
+        "word": "well-being",
+        "confidence": 85
+      },
+      {
+        "word": "optimism",
+        "confidence": 80
+      },
+      {
+        "word": "escape",
+        "confidence": 78
+      },
+      {
+        "word": "relaxation",
+        "confidence": 75
+      }
+    ]
+  }
+}

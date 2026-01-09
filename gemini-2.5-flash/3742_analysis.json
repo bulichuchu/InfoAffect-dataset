@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "provocative",
+        "confidence": 90
+      },
+      {
+        "word": "intriguing",
+        "confidence": 88
+      },
+      {
+        "word": "mixed",
+        "confidence": 85
+      },
+      {
+        "word": "judgmental",
+        "confidence": 80
+      },
+      {
+        "word": "sensitive",
+        "confidence": 75
+      },
+      {
+        "word": "perceived",
+        "confidence": 70
+      }
+    ]
+  }
+}

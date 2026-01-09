@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "harmful",
+        "confidence": 88
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "imbalanced",
+        "confidence": 82
+      },
+      {
+        "word": "anger",
+        "confidence": 78
+      },
+      {
+        "word": "unequal",
+        "confidence": 76
+      },
+      {
+        "word": "perceived",
+        "confidence": 70
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      },
+      {
+        "word": "provocative",
+        "confidence": 65
+      }
+    ]
+  }
+}

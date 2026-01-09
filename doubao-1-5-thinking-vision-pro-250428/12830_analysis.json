@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frustrated",
+        "confidence": 90
+      },
+      {
+        "word": "annoying",
+        "confidence": 85
+      },
+      {
+        "word": "anger",
+        "confidence": 82
+      },
+      {
+        "word": "congested",
+        "confidence": 78
+      },
+      {
+        "word": "costly",
+        "confidence": 75
+      },
+      {
+        "word": "time-wasting",
+        "confidence": 70
+      },
+      {
+        "word": "inefficient",
+        "confidence": 68
+      },
+      {
+        "word": "stressful",
+        "confidence": 65
+      }
+    ]
+  }
+}

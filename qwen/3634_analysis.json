@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transitional",
+        "confidence": 85
+      },
+      {
+        "word": "patient",
+        "confidence": 80
+      },
+      {
+        "word": "loyal",
+        "confidence": 75
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 78
+      },
+      {
+        "word": "committed",
+        "confidence": 72
+      },
+      {
+        "word": "methodical",
+        "confidence": 68
+      },
+      {
+        "word": "resistant",
+        "confidence": 65
+      },
+      {
+        "word": "predictable",
+        "confidence": 60
+      }
+    ]
+  }
+}

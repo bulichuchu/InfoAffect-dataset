@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "impassioned",
+        "confidence": 95
+      },
+      {
+        "word": "transitional",
+        "confidence": 90
+      },
+      {
+        "word": "engaging",
+        "confidence": 85
+      },
+      {
+        "word": "perceived",
+        "confidence": 80
+      },
+      {
+        "word": "energetic",
+        "confidence": 75
+      },
+      {
+        "word": "transitional",
+        "confidence": 65
+      }
+    ]
+  }
+}

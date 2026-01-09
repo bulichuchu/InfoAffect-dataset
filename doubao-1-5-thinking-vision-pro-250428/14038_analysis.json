@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unequal",
+        "confidence": 90
+      },
+      {
+        "word": "mixed",
+        "confidence": 85
+      },
+      {
+        "word": "inequitable",
+        "confidence": 80
+      },
+      {
+        "word": "mixed",
+        "confidence": 70
+      },
+      {
+        "word": "unfair",
+        "confidence": 65
+      },
+      {
+        "word": "differentiated",
+        "confidence": 55
+      },
+      {
+        "word": "mixed",
+        "confidence": 50
+      },
+      {
+        "word": "noticeable",
+        "confidence": 45
+      }
+    ]
+  }
+}

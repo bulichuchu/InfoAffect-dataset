@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 90
+      },
+      {
+        "word": "scandalous",
+        "confidence": 88
+      },
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "tainted",
+        "confidence": 87
+      },
+      {
+        "word": "untrustworthy",
+        "confidence": 82
+      },
+      {
+        "word": "uncertain",
+        "confidence": 80
+      }
+    ]
+  }
+}

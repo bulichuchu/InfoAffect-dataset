@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "disruptive",
+        "confidence": 80
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      },
+      {
+        "word": "declining",
+        "confidence": 82
+      },
+      {
+        "word": "innovative",
+        "confidence": 70
+      },
+      {
+        "word": "uncertain",
+        "confidence": 68
+      },
+      {
+        "word": "adapting",
+        "confidence": 65
+      },
+      {
+        "word": "selective",
+        "confidence": 60
+      }
+    ]
+  }
+}

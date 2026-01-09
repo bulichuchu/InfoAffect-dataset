@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "prosperous",
+        "confidence": 85
+      },
+      {
+        "word": "global",
+        "confidence": 80
+      },
+      {
+        "word": "energetic",
+        "confidence": 78
+      },
+      {
+        "word": "success",
+        "confidence": 75
+      },
+      {
+        "word": "practical",
+        "confidence": 72
+      },
+      {
+        "word": "aspirational",
+        "confidence": 68
+      },
+      {
+        "word": "rise",
+        "confidence": 65
+      },
+      {
+        "word": "statistical",
+        "confidence": 70
+      }
+    ]
+  }
+}

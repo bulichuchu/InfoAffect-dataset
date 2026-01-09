@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "improvement",
+        "confidence": 90
+      },
+      {
+        "word": "mitigation",
+        "confidence": 85
+      },
+      {
+        "word": "preparedness",
+        "confidence": 95
+      },
+      {
+        "word": "declining",
+        "confidence": 80
+      },
+      {
+        "word": "fewer",
+        "confidence": 75
+      },
+      {
+        "word": "rescue",
+        "confidence": 70
+      },
+      {
+        "word": "support",
+        "confidence": 65
+      },
+      {
+        "word": "unprepared",
+        "confidence": 50
+      }
+    ]
+  }
+}

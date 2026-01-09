@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 88
+      },
+      {
+        "word": "effective",
+        "confidence": 85
+      },
+      {
+        "word": "adaptive",
+        "confidence": 82
+      },
+      {
+        "word": "energetic",
+        "confidence": 78
+      },
+      {
+        "word": "transitional",
+        "confidence": 75
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 72
+      },
+      {
+        "word": "statistical",
+        "confidence": 68
+      }
+    ]
+  }
+}

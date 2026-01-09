@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surpassed",
+        "confidence": 90
+      },
+      {
+        "word": "imbalanced",
+        "confidence": 85
+      },
+      {
+        "word": "success",
+        "confidence": 80
+      },
+      {
+        "word": "unequal",
+        "confidence": 78
+      },
+      {
+        "word": "contrast",
+        "confidence": 75
+      },
+      {
+        "word": "mixed",
+        "confidence": 73
+      }
+    ]
+  }
+}

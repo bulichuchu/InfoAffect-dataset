@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "conflict",
+        "confidence": 90
+      },
+      {
+        "word": "violence",
+        "confidence": 85
+      },
+      {
+        "word": "tension",
+        "confidence": 80
+      },
+      {
+        "word": "escalation",
+        "confidence": 75
+      },
+      {
+        "word": "dispute",
+        "confidence": 70
+      },
+      {
+        "word": "breach",
+        "confidence": 68
+      },
+      {
+        "word": "involvement",
+        "confidence": 65
+      },
+      {
+        "word": "crossfire",
+        "confidence": 63
+      }
+    ]
+  }
+}

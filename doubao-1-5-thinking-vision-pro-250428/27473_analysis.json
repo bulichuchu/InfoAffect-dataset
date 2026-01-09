@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "turbulent",
+        "confidence": 90
+      },
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "crashing",
+        "confidence": 80
+      },
+      {
+        "word": "failed",
+        "confidence": 75
+      },
+      {
+        "word": "terrible",
+        "confidence": 70
+      },
+      {
+        "word": "quintupled",
+        "confidence": 65
+      },
+      {
+        "word": "uphill",
+        "confidence": 60
+      },
+      {
+        "word": "bargain",
+        "confidence": 55
+      }
+    ]
+  }
+}

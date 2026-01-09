@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "historic",
+        "confidence": 90
+      },
+      {
+        "word": "innovative",
+        "confidence": 85
+      },
+      {
+        "word": "innovative",
+        "confidence": 80
+      },
+      {
+        "word": "novel",
+        "confidence": 75
+      },
+      {
+        "word": "first",
+        "confidence": 70
+      },
+      {
+        "word": "unique",
+        "confidence": 65
+      },
+      {
+        "word": "remarkable",
+        "confidence": 60
+      },
+      {
+        "word": "joy",
+        "confidence": 55
+      }
+    ]
+  }
+}

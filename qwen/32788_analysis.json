@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 85
+      },
+      {
+        "word": "transitional",
+        "confidence": 80
+      },
+      {
+        "word": "statistical",
+        "confidence": 78
+      },
+      {
+        "word": "nuanced",
+        "confidence": 75
+      },
+      {
+        "word": "uncertain",
+        "confidence": 72
+      },
+      {
+        "word": "effective",
+        "confidence": 70
+      },
+      {
+        "word": "revelatory",
+        "confidence": 68
+      },
+      {
+        "word": "balanced",
+        "confidence": 65
+      }
+    ]
+  }
+}

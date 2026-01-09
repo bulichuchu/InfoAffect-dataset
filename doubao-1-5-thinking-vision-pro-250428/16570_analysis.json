@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "uncertain",
+        "confidence": 80
+      },
+      {
+        "word": "anger",
+        "confidence": 75
+      },
+      {
+        "word": "disruptive",
+        "confidence": 78
+      },
+      {
+        "word": "contested",
+        "confidence": 72
+      },
+      {
+        "word": "innovative",
+        "confidence": 70
+      },
+      {
+        "word": "anticipated",
+        "confidence": 68
+      }
+    ]
+  }
+}

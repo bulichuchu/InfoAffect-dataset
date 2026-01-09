@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "legendary",
+        "confidence": 90
+      },
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "remarkable",
+        "confidence": 80
+      },
+      {
+        "word": "excellent",
+        "confidence": 75
+      },
+      {
+        "word": "notable",
+        "confidence": 70
+      },
+      {
+        "word": "excellent",
+        "confidence": 65
+      },
+      {
+        "word": "extraordinary",
+        "confidence": 60
+      },
+      {
+        "word": "distinguished",
+        "confidence": 55
+      }
+    ]
+  }
+}

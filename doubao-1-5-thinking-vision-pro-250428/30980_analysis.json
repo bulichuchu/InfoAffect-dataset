@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "harmful",
+        "confidence": 90
+      },
+      {
+        "word": "traumatizing",
+        "confidence": 85
+      },
+      {
+        "word": "displaced",
+        "confidence": 80
+      },
+      {
+        "word": "fear",
+        "confidence": 75
+      },
+      {
+        "word": "harmful",
+        "confidence": 70
+      },
+      {
+        "word": "trauma",
+        "confidence": 65
+      },
+      {
+        "word": "devastation",
+        "confidence": 60
+      },
+      {
+        "word": "disaster",
+        "confidence": 55
+      }
+    ]
+  }
+}

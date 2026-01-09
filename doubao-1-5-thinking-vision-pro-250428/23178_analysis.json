@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fear",
+        "confidence": 90
+      },
+      {
+        "word": "majority",
+        "confidence": 85
+      },
+      {
+        "word": "soaring",
+        "confidence": 80
+      },
+      {
+        "word": "damning",
+        "confidence": 70
+      },
+      {
+        "word": "sceptical",
+        "confidence": 65
+      },
+      {
+        "word": "anger",
+        "confidence": 55
+      },
+      {
+        "word": "anger",
+        "confidence": 50
+      },
+      {
+        "word": "considerable",
+        "confidence": 45
+      }
+    ]
+  }
+}

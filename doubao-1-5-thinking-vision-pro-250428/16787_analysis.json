@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disgrace",
+        "confidence": 90
+      },
+      {
+        "word": "precipice",
+        "confidence": 85
+      },
+      {
+        "word": "harmful",
+        "confidence": 85
+      },
+      {
+        "word": "madness",
+        "confidence": 80
+      },
+      {
+        "word": "abandon",
+        "confidence": 80
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      },
+      {
+        "word": "bemoan",
+        "confidence": 70
+      },
+      {
+        "word": "unable",
+        "confidence": 65
+      }
+    ]
+  }
+}

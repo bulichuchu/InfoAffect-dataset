@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "crashing",
+        "confidence": 90
+      },
+      {
+        "word": "rebounding",
+        "confidence": 85
+      },
+      {
+        "word": "shy",
+        "confidence": 70
+      },
+      {
+        "word": "spikes",
+        "confidence": 80
+      },
+      {
+        "word": "drastic",
+        "confidence": 75
+      },
+      {
+        "word": "bound",
+        "confidence": 65
+      },
+      {
+        "word": "unlikely",
+        "confidence": 60
+      },
+      {
+        "word": "excellent",
+        "confidence": 55
+      }
+    ]
+  }
+}

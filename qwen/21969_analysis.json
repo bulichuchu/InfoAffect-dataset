@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 88
+      },
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "alarm",
+        "confidence": 82
+      },
+      {
+        "word": "anger",
+        "confidence": 78
+      },
+      {
+        "word": "wasteful",
+        "confidence": 75
+      },
+      {
+        "word": "excessive",
+        "confidence": 73
+      },
+      {
+        "word": "accountable",
+        "confidence": 68
+      },
+      {
+        "word": "disapproving",
+        "confidence": 70
+      }
+    ]
+  }
+}

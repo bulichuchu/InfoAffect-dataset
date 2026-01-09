@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "support",
+        "confidence": 90
+      },
+      {
+        "word": "support",
+        "confidence": 85
+      },
+      {
+        "word": "mixed",
+        "confidence": 70
+      },
+      {
+        "word": "disapprove",
+        "confidence": 65
+      },
+      {
+        "word": "approve",
+        "confidence": 55
+      },
+      {
+        "word": "predictably",
+        "confidence": 50
+      }
+    ]
+  }
+}

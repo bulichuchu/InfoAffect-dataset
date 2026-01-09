@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "ironic",
+        "confidence": 90
+      },
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "tumultuous",
+        "confidence": 80
+      },
+      {
+        "word": "short - lived",
+        "confidence": 85
+      },
+      {
+        "word": "embattled",
+        "confidence": 75
+      },
+      {
+        "word": "sarcastic",
+        "confidence": 70
+      }
+    ]
+  }
+}

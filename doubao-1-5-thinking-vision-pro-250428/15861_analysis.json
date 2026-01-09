@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 90
+      },
+      {
+        "word": "friction",
+        "confidence": 85
+      },
+      {
+        "word": "dip",
+        "confidence": 80
+      },
+      {
+        "word": "steep",
+        "confidence": 75
+      },
+      {
+        "word": "mood",
+        "confidence": 70
+      },
+      {
+        "word": "transitional",
+        "confidence": 65
+      },
+      {
+        "word": "rating",
+        "confidence": 60
+      },
+      {
+        "word": "popularity",
+        "confidence": 55
+      }
+    ]
+  }
+}

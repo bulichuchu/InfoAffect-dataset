@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 95
+      },
+      {
+        "word": "obsolete",
+        "confidence": 90
+      },
+      {
+        "word": "dramatic",
+        "confidence": 88
+      },
+      {
+        "word": "impactful",
+        "confidence": 85
+      },
+      {
+        "word": "losing",
+        "confidence": 80
+      },
+      {
+        "word": "consequential",
+        "confidence": 78
+      },
+      {
+        "word": "displacement",
+        "confidence": 75
+      }
+    ]
+  }
+}

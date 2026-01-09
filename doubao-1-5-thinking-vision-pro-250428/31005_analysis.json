@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "domestic",
+        "confidence": 90
+      },
+      {
+        "word": "international",
+        "confidence": 85
+      },
+      {
+        "word": "majority",
+        "confidence": 80
+      },
+      {
+        "word": "anticipated",
+        "confidence": 75
+      },
+      {
+        "word": "understandable",
+        "confidence": 70
+      },
+      {
+        "word": "transitional",
+        "confidence": 65
+      },
+      {
+        "word": "prepared",
+        "confidence": 60
+      },
+      {
+        "word": "extended",
+        "confidence": 55
+      }
+    ]
+  }
+}

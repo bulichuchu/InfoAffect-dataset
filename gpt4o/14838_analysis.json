@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 90
+      },
+      {
+        "word": "unrelenting",
+        "confidence": 85
+      },
+      {
+        "word": "sizzling",
+        "confidence": 83
+      },
+      {
+        "word": "intense",
+        "confidence": 80
+      },
+      {
+        "word": "unexpected",
+        "confidence": 75
+      },
+      {
+        "word": "transitional",
+        "confidence": 70
+      }
+    ]
+  }
+}

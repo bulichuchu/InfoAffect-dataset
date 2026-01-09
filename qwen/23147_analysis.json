@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transitional",
+        "confidence": 88
+      },
+      {
+        "word": "contrasting",
+        "confidence": 85
+      },
+      {
+        "word": "joy",
+        "confidence": 78
+      },
+      {
+        "word": "disparaging",
+        "confidence": 72
+      },
+      {
+        "word": "unequal",
+        "confidence": 80
+      },
+      {
+        "word": "accelerated",
+        "confidence": 75
+      },
+      {
+        "word": "prosperous",
+        "confidence": 70
+      },
+      {
+        "word": "mixed",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "excellent",
+        "confidence": 90
+      },
+      {
+        "word": "transitional",
+        "confidence": 85
+      },
+      {
+        "word": "reliable",
+        "confidence": 80
+      },
+      {
+        "word": "notable",
+        "confidence": 75
+      },
+      {
+        "word": "remarkable",
+        "confidence": 70
+      },
+      {
+        "word": "unexpected",
+        "confidence": 65
+      },
+      {
+        "word": "amazing",
+        "confidence": 60
+      }
+    ]
+  }
+}

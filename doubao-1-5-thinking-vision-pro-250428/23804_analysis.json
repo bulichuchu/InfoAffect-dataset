@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "suppressed",
+        "confidence": 90
+      },
+      {
+        "word": "restricted",
+        "confidence": 85
+      },
+      {
+        "word": "blocked",
+        "confidence": 90
+      },
+      {
+        "word": "inhibited",
+        "confidence": 80
+      },
+      {
+        "word": "limited",
+        "confidence": 85
+      },
+      {
+        "word": "formal",
+        "confidence": 70
+      },
+      {
+        "word": "censored",
+        "confidence": 75
+      }
+    ]
+  }
+}

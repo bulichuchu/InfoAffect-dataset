@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "sustainable",
+        "confidence": 90
+      },
+      {
+        "word": "future-forward",
+        "confidence": 85
+      },
+      {
+        "word": "innovative",
+        "confidence": 80
+      },
+      {
+        "word": "effective",
+        "confidence": 75
+      },
+      {
+        "word": "market-driven",
+        "confidence": 70
+      },
+      {
+        "word": "rugged",
+        "confidence": 65
+      },
+      {
+        "word": "popular",
+        "confidence": 60
+      },
+      {
+        "word": "necessary",
+        "confidence": 55
+      }
+    ]
+  }
+}

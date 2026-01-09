@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 78
+      },
+      {
+        "word": "reliable",
+        "confidence": 75
+      },
+      {
+        "word": "declining",
+        "confidence": 80
+      },
+      {
+        "word": "innovative",
+        "confidence": 72
+      },
+      {
+        "word": "success",
+        "confidence": 68
+      },
+      {
+        "word": "transitional",
+        "confidence": 70
+      },
+      {
+        "word": "globalized",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 90
+      },
+      {
+        "word": "saturated",
+        "confidence": 85
+      },
+      {
+        "word": "stagnant",
+        "confidence": 80
+      },
+      {
+        "word": "overshadowed",
+        "confidence": 75
+      },
+      {
+        "word": "reliable",
+        "confidence": 70
+      }
+    ]
+  }
+}

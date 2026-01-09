@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "gratitude",
+        "confidence": 90
+      },
+      {
+        "word": "sacrifice",
+        "confidence": 88
+      },
+      {
+        "word": "remembrance",
+        "confidence": 85
+      },
+      {
+        "word": "debt",
+        "confidence": 82
+      },
+      {
+        "word": "valor",
+        "confidence": 80
+      },
+      {
+        "word": "acknowledgment",
+        "confidence": 77
+      },
+      {
+        "word": "historic",
+        "confidence": 75
+      }
+    ]
+  }
+}

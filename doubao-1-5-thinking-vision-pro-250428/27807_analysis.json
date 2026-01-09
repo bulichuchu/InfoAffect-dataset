@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disastrous",
+        "confidence": 90
+      },
+      {
+        "word": "harmful",
+        "confidence": 85
+      },
+      {
+        "word": "fear",
+        "confidence": 80
+      },
+      {
+        "word": "mounting",
+        "confidence": 75
+      },
+      {
+        "word": "tensions",
+        "confidence": 70
+      },
+      {
+        "word": "high",
+        "confidence": 65
+      },
+      {
+        "word": "shaved",
+        "confidence": 60
+      },
+      {
+        "word": "cutting",
+        "confidence": 55
+      }
+    ]
+  }
+}

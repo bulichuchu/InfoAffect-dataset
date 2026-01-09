@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "success",
+        "confidence": 80
+      },
+      {
+        "word": "effective",
+        "confidence": 75
+      },
+      {
+        "word": "mixed",
+        "confidence": 78
+      },
+      {
+        "word": "youthful",
+        "confidence": 72
+      },
+      {
+        "word": "tech-driven",
+        "confidence": 68
+      },
+      {
+        "word": "criticized",
+        "confidence": 70
+      },
+      {
+        "word": "global",
+        "confidence": 76
+      }
+    ]
+  }
+}

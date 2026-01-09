@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 88
+      },
+      {
+        "word": "concerned",
+        "confidence": 82
+      },
+      {
+        "word": "alarm",
+        "confidence": 79
+      },
+      {
+        "word": "stark",
+        "confidence": 85
+      },
+      {
+        "word": "alarm",
+        "confidence": 76
+      },
+      {
+        "word": "polarized",
+        "confidence": 80
+      },
+      {
+        "word": "disillusioned",
+        "confidence": 73
+      },
+      {
+        "word": "alarm",
+        "confidence": 70
+      }
+    ]
+  }
+}

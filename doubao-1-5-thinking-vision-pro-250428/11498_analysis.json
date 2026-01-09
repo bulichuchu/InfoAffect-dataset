@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "perceived",
+        "confidence": 90
+      },
+      {
+        "word": "followed",
+        "confidence": 85
+      },
+      {
+        "word": "uncomfortable",
+        "confidence": 70
+      },
+      {
+        "word": "fear",
+        "confidence": 65
+      },
+      {
+        "word": "protective",
+        "confidence": 55
+      },
+      {
+        "word": "concerned",
+        "confidence": 50
+      },
+      {
+        "word": "alarm",
+        "confidence": 45
+      },
+      {
+        "word": "aware",
+        "confidence": 40
+      }
+    ]
+  }
+}

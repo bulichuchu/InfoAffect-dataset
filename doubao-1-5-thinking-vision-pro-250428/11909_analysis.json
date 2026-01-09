@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "stressful",
+        "confidence": 90
+      },
+      {
+        "word": "pressured",
+        "confidence": 85
+      },
+      {
+        "word": "strain",
+        "confidence": 80
+      },
+      {
+        "word": "workload",
+        "confidence": 70
+      },
+      {
+        "word": "hiring spree",
+        "confidence": 65
+      },
+      {
+        "word": "little helpers",
+        "confidence": 55
+      },
+      {
+        "word": "enormous strain",
+        "confidence": 60
+      },
+      {
+        "word": "struggle",
+        "confidence": 50
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "resistance",
+        "confidence": 95
+      },
+      {
+        "word": "reluctance",
+        "confidence": 90
+      },
+      {
+        "word": "concern",
+        "confidence": 85
+      },
+      {
+        "word": "wary",
+        "confidence": 80
+      },
+      {
+        "word": "struggle",
+        "confidence": 78
+      },
+      {
+        "word": "unsupportive",
+        "confidence": 70
+      }
+    ]
+  }
+}

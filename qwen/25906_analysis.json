@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "shocking",
+        "confidence": 88
+      },
+      {
+        "word": "perceived",
+        "confidence": 85
+      },
+      {
+        "word": "alarm",
+        "confidence": 82
+      },
+      {
+        "word": "mixed",
+        "confidence": 78
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      },
+      {
+        "word": "exposé",
+        "confidence": 80
+      },
+      {
+        "word": "scandalous",
+        "confidence": 73
+      },
+      {
+        "word": "investigative",
+        "confidence": 70
+      }
+    ]
+  }
+}

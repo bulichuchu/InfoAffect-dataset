@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "popular",
+        "confidence": 90
+      },
+      {
+        "word": "energetic",
+        "confidence": 85
+      },
+      {
+        "word": "reliable",
+        "confidence": 80
+      },
+      {
+        "word": "widespread",
+        "confidence": 75
+      },
+      {
+        "word": "important",
+        "confidence": 70
+      },
+      {
+        "word": "relevant",
+        "confidence": 65
+      },
+      {
+        "word": "impactful",
+        "confidence": 60
+      },
+      {
+        "word": "notable",
+        "confidence": 55
+      }
+    ]
+  }
+}

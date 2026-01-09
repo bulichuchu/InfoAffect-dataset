@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "chilly",
+        "confidence": 90
+      },
+      {
+        "word": "historical",
+        "confidence": 85
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 80
+      },
+      {
+        "word": "dramatic",
+        "confidence": 78
+      },
+      {
+        "word": "cold",
+        "confidence": 87
+      },
+      {
+        "word": "extreme",
+        "confidence": 82
+      }
+    ]
+  }
+}

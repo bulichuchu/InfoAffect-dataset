@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "aging",
+        "confidence": 90
+      },
+      {
+        "word": "outdated",
+        "confidence": 85
+      },
+      {
+        "word": "old",
+        "confidence": 80
+      },
+      {
+        "word": "running",
+        "confidence": 70
+      },
+      {
+        "word": "operational",
+        "confidence": 65
+      },
+      {
+        "word": "shutting down",
+        "confidence": 55
+      },
+      {
+        "word": "ending",
+        "confidence": 50
+      },
+      {
+        "word": "closing",
+        "confidence": 45
+      }
+    ]
+  }
+}

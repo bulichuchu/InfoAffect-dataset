@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 90
+      },
+      {
+        "word": "success",
+        "confidence": 75
+      },
+      {
+        "word": "concerned",
+        "confidence": 65
+      },
+      {
+        "word": "reliable",
+        "confidence": 70
+      },
+      {
+        "word": "scrutinized",
+        "confidence": 68
+      },
+      {
+        "word": "popular",
+        "confidence": 80
+      },
+      {
+        "word": "mixed",
+        "confidence": 62
+      },
+      {
+        "word": "recovered",
+        "confidence": 73
+      }
+    ]
+  }
+}

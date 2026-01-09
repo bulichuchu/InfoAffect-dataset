@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "exorbitant",
+        "confidence": 85
+      },
+      {
+        "word": "astonishing",
+        "confidence": 80
+      },
+      {
+        "word": "eye-watering",
+        "confidence": 75
+      },
+      {
+        "word": "staggering",
+        "confidence": 70
+      },
+      {
+        "word": "pricey",
+        "confidence": 65
+      },
+      {
+        "word": "extravagant",
+        "confidence": 60
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "ironic",
+        "confidence": 90
+      },
+      {
+        "word": "unwanted",
+        "confidence": 85
+      },
+      {
+        "word": "astonishing",
+        "confidence": 80
+      },
+      {
+        "word": "embattled",
+        "confidence": 75
+      },
+      {
+        "word": "least successful",
+        "confidence": 70
+      },
+      {
+        "word": "forced",
+        "confidence": 65
+      }
+    ]
+  }
+}

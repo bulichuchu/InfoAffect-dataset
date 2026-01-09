@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "sharing",
+        "confidence": 90
+      },
+      {
+        "word": "commonality",
+        "confidence": 85
+      },
+      {
+        "word": "reliable",
+        "confidence": 80
+      },
+      {
+        "word": "intimacy",
+        "confidence": 75
+      },
+      {
+        "word": "reliable",
+        "confidence": 70
+      }
+    ]
+  }
+}

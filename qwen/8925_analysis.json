@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transitional",
+        "confidence": 85
+      },
+      {
+        "word": "contrasting",
+        "confidence": 80
+      },
+      {
+        "word": "speculative",
+        "confidence": 75
+      },
+      {
+        "word": "joy",
+        "confidence": 70
+      },
+      {
+        "word": "discrepant",
+        "confidence": 78
+      },
+      {
+        "word": "aspirational",
+        "confidence": 65
+      },
+      {
+        "word": "alarm",
+        "confidence": 60
+      }
+    ]
+  }
+}

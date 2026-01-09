@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "caution",
+        "confidence": 85
+      },
+      {
+        "word": "fun",
+        "confidence": 80
+      },
+      {
+        "word": "thrilling",
+        "confidence": 75
+      },
+      {
+        "word": "addictive",
+        "confidence": 78
+      },
+      {
+        "word": "complicated",
+        "confidence": 70
+      },
+      {
+        "word": "illegal",
+        "confidence": 65
+      }
+    ]
+  }
+}

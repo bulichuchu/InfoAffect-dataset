@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "excitement",
+        "confidence": 70
+      },
+      {
+        "word": "anticipated",
+        "confidence": 65
+      },
+      {
+        "word": "curiosity",
+        "confidence": 55
+      },
+      {
+        "word": "optimism",
+        "confidence": 50
+      },
+      {
+        "word": "interest",
+        "confidence": 45
+      },
+      {
+        "word": "energetic",
+        "confidence": 40
+      },
+      {
+        "word": "familiarity",
+        "confidence": 35
+      },
+      {
+        "word": "awareness",
+        "confidence": 30
+      }
+    ]
+  }
+}

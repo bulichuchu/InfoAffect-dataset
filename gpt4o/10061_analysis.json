@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "welcoming",
+        "confidence": 85
+      },
+      {
+        "word": "support",
+        "confidence": 80
+      },
+      {
+        "word": "altruistic",
+        "confidence": 78
+      },
+      {
+        "word": "compassionate",
+        "confidence": 75
+      },
+      {
+        "word": "humanitarian",
+        "confidence": 82
+      },
+      {
+        "word": "inclusive",
+        "confidence": 77
+      },
+      {
+        "word": "struggle",
+        "confidence": 70
+      }
+    ]
+  }
+}

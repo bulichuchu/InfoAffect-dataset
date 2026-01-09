@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "costly",
+        "confidence": 90
+      },
+      {
+        "word": "investment",
+        "confidence": 85
+      },
+      {
+        "word": "anticipated",
+        "confidence": 70
+      },
+      {
+        "word": "sustainability",
+        "confidence": 65
+      },
+      {
+        "word": "abate",
+        "confidence": 55
+      },
+      {
+        "word": "long-run",
+        "confidence": 50
+      },
+      {
+        "word": "silver lining",
+        "confidence": 45
+      },
+      {
+        "word": "net zero",
+        "confidence": 40
+      }
+    ]
+  }
+}

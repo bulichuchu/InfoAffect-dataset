@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "failed",
+        "confidence": 90
+      },
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "regretful",
+        "confidence": 80
+      },
+      {
+        "word": "disastrous",
+        "confidence": 82
+      },
+      {
+        "word": "unfortunate",
+        "confidence": 78
+      },
+      {
+        "word": "loss",
+        "confidence": 83
+      }
+    ]
+  }
+}

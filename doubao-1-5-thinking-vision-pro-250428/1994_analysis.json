@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "optimism",
+        "confidence": 90
+      },
+      {
+        "word": "soaring",
+        "confidence": 85
+      },
+      {
+        "word": "improve",
+        "confidence": 80
+      },
+      {
+        "word": "stagnating",
+        "confidence": 70
+      },
+      {
+        "word": "stuttering",
+        "confidence": 65
+      },
+      {
+        "word": "prospect",
+        "confidence": 55
+      },
+      {
+        "word": "highly-anticipated",
+        "confidence": 50
+      },
+      {
+        "word": "keenly",
+        "confidence": 45
+      }
+    ]
+  }
+}

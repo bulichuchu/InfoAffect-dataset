@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "uncertain",
+        "confidence": 90
+      },
+      {
+        "word": "cynical",
+        "confidence": 85
+      },
+      {
+        "word": "anger",
+        "confidence": 78
+      },
+      {
+        "word": "disillusioned",
+        "confidence": 75
+      },
+      {
+        "word": "joy",
+        "confidence": 65
+      },
+      {
+        "word": "alarm",
+        "confidence": 80
+      },
+      {
+        "word": "statistical",
+        "confidence": 70
+      },
+      {
+        "word": "surprised",
+        "confidence": 60
+      }
+    ]
+  }
+}

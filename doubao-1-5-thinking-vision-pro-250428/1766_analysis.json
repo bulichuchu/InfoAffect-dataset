@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 90
+      },
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "horrible",
+        "confidence": 80
+      },
+      {
+        "word": "lowest",
+        "confidence": 75
+      },
+      {
+        "word": "saturation",
+        "confidence": 70
+      },
+      {
+        "word": "success",
+        "confidence": 65
+      },
+      {
+        "word": "shortage",
+        "confidence": 60
+      },
+      {
+        "word": "bottomed",
+        "confidence": 55
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "support",
+        "confidence": 90
+      },
+      {
+        "word": "fear",
+        "confidence": 85
+      },
+      {
+        "word": "mixed",
+        "confidence": 70
+      },
+      {
+        "word": "advanced",
+        "confidence": 65
+      },
+      {
+        "word": "highly-skilled",
+        "confidence": 80
+      },
+      {
+        "word": "postsecondary",
+        "confidence": 55
+      },
+      {
+        "word": "diploma",
+        "confidence": 50
+      },
+      {
+        "word": "degree",
+        "confidence": 45
+      }
+    ]
+  }
+}

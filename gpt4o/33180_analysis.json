@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dissatisfied",
+        "confidence": 90
+      },
+      {
+        "word": "discontent",
+        "confidence": 85
+      },
+      {
+        "word": "frustrated",
+        "confidence": 80
+      },
+      {
+        "word": "support",
+        "confidence": 75
+      },
+      {
+        "word": "undervalued",
+        "confidence": 78
+      },
+      {
+        "word": "joy",
+        "confidence": 70
+      },
+      {
+        "word": "communal",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transitional",
+        "confidence": 90
+      },
+      {
+        "word": "astonishing",
+        "confidence": 85
+      },
+      {
+        "word": "shocking",
+        "confidence": 80
+      },
+      {
+        "word": "declining",
+        "confidence": 75
+      },
+      {
+        "word": "alarm",
+        "confidence": 70
+      },
+      {
+        "word": "unimpressive",
+        "confidence": 65
+      },
+      {
+        "word": "embarrassing",
+        "confidence": 60
+      },
+      {
+        "word": "humiliating",
+        "confidence": 55
+      }
+    ]
+  }
+}

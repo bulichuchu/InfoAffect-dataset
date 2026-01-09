@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "thriving",
+        "confidence": 92
+      },
+      {
+        "word": "inviting",
+        "confidence": 88
+      },
+      {
+        "word": "joy",
+        "confidence": 85
+      },
+      {
+        "word": "promising",
+        "confidence": 83
+      },
+      {
+        "word": "appealing",
+        "confidence": 80
+      },
+      {
+        "word": "energetic",
+        "confidence": 78
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "comfortable",
+        "confidence": 90
+      },
+      {
+        "word": "uncomfortable",
+        "confidence": 85
+      },
+      {
+        "word": "normal",
+        "confidence": 70
+      },
+      {
+        "word": "uncertain",
+        "confidence": 65
+      },
+      {
+        "word": "self-conscious",
+        "confidence": 60
+      }
+    ]
+  }
+}

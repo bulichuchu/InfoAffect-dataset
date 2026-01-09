@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "trending",
+        "confidence": 85
+      },
+      {
+        "word": "transitional",
+        "confidence": 80
+      },
+      {
+        "word": "competition",
+        "confidence": 78
+      },
+      {
+        "word": "balanced",
+        "confidence": 75
+      },
+      {
+        "word": "health-conscious",
+        "confidence": 82
+      },
+      {
+        "word": "success",
+        "confidence": 70
+      }
+    ]
+  }
+}

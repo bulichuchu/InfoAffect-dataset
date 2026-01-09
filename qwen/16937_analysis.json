@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disconnected",
+        "confidence": 88
+      },
+      {
+        "word": "anger",
+        "confidence": 82
+      },
+      {
+        "word": "transitional",
+        "confidence": 76
+      },
+      {
+        "word": "unequal",
+        "confidence": 79
+      },
+      {
+        "word": "alarm",
+        "confidence": 74
+      },
+      {
+        "word": "perceived",
+        "confidence": 70
+      },
+      {
+        "word": "alarm",
+        "confidence": 68
+      },
+      {
+        "word": "statistical",
+        "confidence": 65
+      }
+    ]
+  }
+}

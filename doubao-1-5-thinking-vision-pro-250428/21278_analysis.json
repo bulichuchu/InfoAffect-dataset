@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "evaporated",
+        "confidence": 90
+      },
+      {
+        "word": "splurging",
+        "confidence": 85
+      },
+      {
+        "word": "convenient",
+        "confidence": 80
+      },
+      {
+        "word": "expecting",
+        "confidence": 75
+      },
+      {
+        "word": "spending",
+        "confidence": 70
+      },
+      {
+        "word": "appearing",
+        "confidence": 65
+      },
+      {
+        "word": "shopping",
+        "confidence": 60
+      },
+      {
+        "word": "admitting",
+        "confidence": 55
+      }
+    ]
+  }
+}

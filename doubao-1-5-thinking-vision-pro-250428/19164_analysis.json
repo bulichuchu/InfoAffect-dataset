@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "insatiable",
+        "confidence": 90
+      },
+      {
+        "word": "thirsty",
+        "confidence": 85
+      },
+      {
+        "word": "enormous",
+        "confidence": 80
+      },
+      {
+        "word": "impactful",
+        "confidence": 75
+      },
+      {
+        "word": "environmentally friendly",
+        "confidence": 70
+      }
+    ]
+  }
+}

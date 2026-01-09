@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "normal",
+        "confidence": 65
+      },
+      {
+        "word": "popular",
+        "confidence": 70
+      },
+      {
+        "word": "prestigious",
+        "confidence": 75
+      },
+      {
+        "word": "educational",
+        "confidence": 80
+      },
+      {
+        "word": "representative",
+        "confidence": 85
+      },
+      {
+        "word": "statistical",
+        "confidence": 90
+      },
+      {
+        "word": "informational",
+        "confidence": 95
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "deadly",
+        "confidence": 95
+      },
+      {
+        "word": "alarm",
+        "confidence": 88
+      },
+      {
+        "word": "fear",
+        "confidence": 82
+      },
+      {
+        "word": "fear",
+        "confidence": 78
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      },
+      {
+        "word": "alarm",
+        "confidence": 70
+      },
+      {
+        "word": "cautionary",
+        "confidence": 65
+      },
+      {
+        "word": "fear",
+        "confidence": 60
+      }
+    ]
+  }
+}

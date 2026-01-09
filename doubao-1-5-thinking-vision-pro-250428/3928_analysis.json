@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "individualistic",
+        "confidence": 90
+      },
+      {
+        "word": "original",
+        "confidence": 85
+      },
+      {
+        "word": "independent",
+        "confidence": 80
+      },
+      {
+        "word": "wacky",
+        "confidence": 75
+      },
+      {
+        "word": "funny",
+        "confidence": 70
+      },
+      {
+        "word": "silly",
+        "confidence": 65
+      },
+      {
+        "word": "irreverent",
+        "confidence": 60
+      },
+      {
+        "word": "non-conformist",
+        "confidence": 55
+      }
+    ]
+  }
+}

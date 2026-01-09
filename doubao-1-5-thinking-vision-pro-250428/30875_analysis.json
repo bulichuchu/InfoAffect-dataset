@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surpassed",
+        "confidence": 90
+      },
+      {
+        "word": "profoundly",
+        "confidence": 85
+      },
+      {
+        "word": "changed",
+        "confidence": 80
+      },
+      {
+        "word": "rise",
+        "confidence": 75
+      },
+      {
+        "word": "increased",
+        "confidence": 70
+      },
+      {
+        "word": "human toll",
+        "confidence": 65
+      },
+      {
+        "word": "ceasefire",
+        "confidence": 60
+      },
+      {
+        "word": "reintegration",
+        "confidence": 55
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fear",
+        "confidence": 88
+      },
+      {
+        "word": "stressful",
+        "confidence": 85
+      },
+      {
+        "word": "hectic",
+        "confidence": 82
+      },
+      {
+        "word": "crowded",
+        "confidence": 80
+      },
+      {
+        "word": "chaotic",
+        "confidence": 75
+      },
+      {
+        "word": "exhausting",
+        "confidence": 72
+      },
+      {
+        "word": "effective",
+        "confidence": 65
+      }
+    ]
+  }
+}

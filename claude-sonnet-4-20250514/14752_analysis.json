@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "confrontational",
+        "confidence": 88
+      },
+      {
+        "word": "punitive",
+        "confidence": 85
+      },
+      {
+        "word": "authoritative",
+        "confidence": 82
+      },
+      {
+        "word": "alarm",
+        "confidence": 80
+      },
+      {
+        "word": "impactful",
+        "confidence": 78
+      },
+      {
+        "word": "formal",
+        "confidence": 75
+      },
+      {
+        "word": "stern",
+        "confidence": 72
+      }
+    ]
+  }
+}

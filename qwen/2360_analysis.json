@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "indifferent",
+        "confidence": 85
+      },
+      {
+        "word": "surprised",
+        "confidence": 78
+      },
+      {
+        "word": "statistical",
+        "confidence": 82
+      },
+      {
+        "word": "disconnected",
+        "confidence": 75
+      },
+      {
+        "word": "normal",
+        "confidence": 70
+      },
+      {
+        "word": "effective",
+        "confidence": 80
+      },
+      {
+        "word": "perceived",
+        "confidence": 73
+      },
+      {
+        "word": "contrasting",
+        "confidence": 77
+      }
+    ]
+  }
+}

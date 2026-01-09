@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 90
+      },
+      {
+        "word": "affirming",
+        "confidence": 85
+      },
+      {
+        "word": "polarizing",
+        "confidence": 80
+      },
+      {
+        "word": "support",
+        "confidence": 78
+      },
+      {
+        "word": "perceived",
+        "confidence": 72
+      },
+      {
+        "word": "debatable",
+        "confidence": 65
+      }
+    ]
+  }
+}

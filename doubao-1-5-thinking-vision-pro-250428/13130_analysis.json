@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "chilling",
+        "confidence": 85
+      },
+      {
+        "word": "relieved",
+        "confidence": 70
+      },
+      {
+        "word": "unusual",
+        "confidence": 80
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      },
+      {
+        "word": "frigid",
+        "confidence": 82
+      },
+      {
+        "word": "alarm",
+        "confidence": 78
+      }
+    ]
+  }
+}

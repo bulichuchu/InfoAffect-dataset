@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "stockpiling",
+        "confidence": 90
+      },
+      {
+        "word": "increasing",
+        "confidence": 85
+      },
+      {
+        "word": "high demand",
+        "confidence": 80
+      },
+      {
+        "word": "shortage",
+        "confidence": 75
+      },
+      {
+        "word": "sought after",
+        "confidence": 70
+      },
+      {
+        "word": "heavily sought",
+        "confidence": 65
+      },
+      {
+        "word": "major run",
+        "confidence": 60
+      },
+      {
+        "word": "mostly resolved",
+        "confidence": 55
+      }
+    ]
+  }
+}

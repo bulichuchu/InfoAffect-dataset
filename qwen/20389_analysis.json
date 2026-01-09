@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "polarized",
+        "confidence": 90
+      },
+      {
+        "word": "anger",
+        "confidence": 85
+      },
+      {
+        "word": "success",
+        "confidence": 78
+      },
+      {
+        "word": "contested",
+        "confidence": 75
+      },
+      {
+        "word": "transitional",
+        "confidence": 70
+      },
+      {
+        "word": "reliable",
+        "confidence": 65
+      },
+      {
+        "word": "historic",
+        "confidence": 60
+      },
+      {
+        "word": "normal",
+        "confidence": 55
+      }
+    ]
+  }
+}

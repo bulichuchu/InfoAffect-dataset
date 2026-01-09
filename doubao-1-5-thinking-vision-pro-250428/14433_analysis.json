@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rise",
+        "confidence": 90
+      },
+      {
+        "word": "rise",
+        "confidence": 85
+      },
+      {
+        "word": "success",
+        "confidence": 80
+      },
+      {
+        "word": "reliability",
+        "confidence": 70
+      },
+      {
+        "word": "diversification",
+        "confidence": 65
+      },
+      {
+        "word": "independence",
+        "confidence": 55
+      },
+      {
+        "word": "reliable",
+        "confidence": 50
+      },
+      {
+        "word": "progression",
+        "confidence": 45
+      }
+    ]
+  }
+}

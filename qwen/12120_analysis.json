@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "satisfying",
+        "confidence": 85
+      },
+      {
+        "word": "indulgent",
+        "confidence": 80
+      },
+      {
+        "word": "joy",
+        "confidence": 75
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 70
+      },
+      {
+        "word": "comforting",
+        "confidence": 72
+      },
+      {
+        "word": "lighthearted",
+        "confidence": 68
+      },
+      {
+        "word": "appealing",
+        "confidence": 78
+      }
+    ]
+  }
+}

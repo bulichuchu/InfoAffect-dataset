@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disappointment",
+        "confidence": 90
+      },
+      {
+        "word": "unfulfilled",
+        "confidence": 85
+      },
+      {
+        "word": "frustration",
+        "confidence": 80
+      },
+      {
+        "word": "failed",
+        "confidence": 75
+      },
+      {
+        "word": "regret",
+        "confidence": 70
+      },
+      {
+        "word": "jealousy",
+        "confidence": 65
+      },
+      {
+        "word": "envy",
+        "confidence": 60
+      },
+      {
+        "word": "success",
+        "confidence": 55
+      }
+    ]
+  }
+}

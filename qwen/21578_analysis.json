@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "pressured",
+        "confidence": 80
+      },
+      {
+        "word": "reliable",
+        "confidence": 75
+      },
+      {
+        "word": "frustrated",
+        "confidence": 70
+      },
+      {
+        "word": "determined",
+        "confidence": 78
+      },
+      {
+        "word": "challenged",
+        "confidence": 72
+      },
+      {
+        "word": "joy",
+        "confidence": 65
+      },
+      {
+        "word": "technical",
+        "confidence": 60
+      }
+    ]
+  }
+}

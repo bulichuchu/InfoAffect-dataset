@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "wary",
+        "confidence": 90
+      },
+      {
+        "word": "increasingly wary",
+        "confidence": 85
+      },
+      {
+        "word": "expect",
+        "confidence": 80
+      },
+      {
+        "word": "hurt",
+        "confidence": 95
+      },
+      {
+        "word": "financial pain",
+        "confidence": 90
+      },
+      {
+        "word": "inflation-stricken",
+        "confidence": 85
+      },
+      {
+        "word": "inflict",
+        "confidence": 90
+      },
+      {
+        "word": "oppose",
+        "confidence": 80
+      }
+    ]
+  }
+}

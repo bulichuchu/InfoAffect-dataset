@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "authoritative",
+        "confidence": 90
+      },
+      {
+        "word": "formal",
+        "confidence": 85
+      },
+      {
+        "word": "empowering",
+        "confidence": 80
+      },
+      {
+        "word": "structured",
+        "confidence": 75
+      },
+      {
+        "word": "protective",
+        "confidence": 78
+      },
+      {
+        "word": "innovative",
+        "confidence": 72
+      },
+      {
+        "word": "formal",
+        "confidence": 70
+      },
+      {
+        "word": "determined",
+        "confidence": 65
+      }
+    ]
+  }
+}

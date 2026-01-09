@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "ubiquitous",
+        "confidence": 85
+      },
+      {
+        "word": "success",
+        "confidence": 80
+      },
+      {
+        "word": "relevance",
+        "confidence": 75
+      },
+      {
+        "word": "struggle",
+        "confidence": 70
+      },
+      {
+        "word": "takeover",
+        "confidence": 65
+      },
+      {
+        "word": "installed",
+        "confidence": 60
+      },
+      {
+        "word": "installed base",
+        "confidence": 55
+      },
+      {
+        "word": "trailing",
+        "confidence": 50
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "desperation",
+        "confidence": 90
+      },
+      {
+        "word": "disruption",
+        "confidence": 87
+      },
+      {
+        "word": "oppressive",
+        "confidence": 85
+      },
+      {
+        "word": "alarm",
+        "confidence": 83
+      },
+      {
+        "word": "alarm",
+        "confidence": 81
+      },
+      {
+        "word": "scrambling",
+        "confidence": 79
+      }
+    ]
+  }
+}

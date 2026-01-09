@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "excellent",
+        "confidence": 90
+      },
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "anger",
+        "confidence": 78
+      },
+      {
+        "word": "underwhelming",
+        "confidence": 75
+      },
+      {
+        "word": "remarkable",
+        "confidence": 82
+      },
+      {
+        "word": "declining",
+        "confidence": 76
+      },
+      {
+        "word": "clinical",
+        "confidence": 80
+      },
+      {
+        "word": "transitional",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "tension",
+        "confidence": 90
+      },
+      {
+        "word": "anger",
+        "confidence": 88
+      },
+      {
+        "word": "empowerment",
+        "confidence": 85
+      },
+      {
+        "word": "conflict",
+        "confidence": 82
+      },
+      {
+        "word": "grievance",
+        "confidence": 78
+      },
+      {
+        "word": "imbalance",
+        "confidence": 75
+      }
+    ]
+  }
+}

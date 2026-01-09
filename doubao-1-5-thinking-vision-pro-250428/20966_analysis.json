@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "impressed",
+        "confidence": 90
+      },
+      {
+        "word": "leading",
+        "confidence": 85
+      },
+      {
+        "word": "lagging",
+        "confidence": 70
+      },
+      {
+        "word": "front runner",
+        "confidence": 65
+      },
+      {
+        "word": "turnaround",
+        "confidence": 55
+      },
+      {
+        "word": "imperative",
+        "confidence": 50
+      },
+      {
+        "word": "widely regarded",
+        "confidence": 45
+      }
+    ]
+  }
+}

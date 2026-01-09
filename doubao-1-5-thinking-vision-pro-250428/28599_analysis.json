@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "eerie",
+        "confidence": 88
+      },
+      {
+        "word": "ominous",
+        "confidence": 85
+      },
+      {
+        "word": "statistical",
+        "confidence": 78
+      },
+      {
+        "word": "suspenseful",
+        "confidence": 82
+      },
+      {
+        "word": "macabre",
+        "confidence": 80
+      },
+      {
+        "word": "effective",
+        "confidence": 75
+      },
+      {
+        "word": "chilling",
+        "confidence": 83
+      }
+    ]
+  }
+}

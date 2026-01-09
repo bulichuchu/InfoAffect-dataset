@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 90
+      },
+      {
+        "word": "mixed",
+        "confidence": 85
+      },
+      {
+        "word": "mixed",
+        "confidence": 80
+      },
+      {
+        "word": "wide-ranging",
+        "confidence": 75
+      },
+      {
+        "word": "reliable",
+        "confidence": 70
+      },
+      {
+        "word": "notable",
+        "confidence": 65
+      },
+      {
+        "word": "marked",
+        "confidence": 60
+      },
+      {
+        "word": "pronounced",
+        "confidence": 55
+      }
+    ]
+  }
+}

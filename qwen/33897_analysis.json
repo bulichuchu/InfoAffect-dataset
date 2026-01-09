@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "authoritarian",
+        "confidence": 85
+      },
+      {
+        "word": "confrontational",
+        "confidence": 80
+      },
+      {
+        "word": "disruptive",
+        "confidence": 75
+      },
+      {
+        "word": "anger",
+        "confidence": 72
+      },
+      {
+        "word": "decisive",
+        "confidence": 70
+      },
+      {
+        "word": "mixed",
+        "confidence": 68
+      },
+      {
+        "word": "harsh",
+        "confidence": 65
+      },
+      {
+        "word": "alarm",
+        "confidence": 60
+      }
+    ]
+  }
+}

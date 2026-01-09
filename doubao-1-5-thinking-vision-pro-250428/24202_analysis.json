@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "crisis",
+        "confidence": 90
+      },
+      {
+        "word": "disruption",
+        "confidence": 85
+      },
+      {
+        "word": "chaos",
+        "confidence": 80
+      },
+      {
+        "word": "vulnerability",
+        "confidence": 70
+      },
+      {
+        "word": "uncertain",
+        "confidence": 65
+      },
+      {
+        "word": "dependency",
+        "confidence": 55
+      },
+      {
+        "word": "independence",
+        "confidence": 50
+      },
+      {
+        "word": "resilience",
+        "confidence": 45
+      }
+    ]
+  }
+}

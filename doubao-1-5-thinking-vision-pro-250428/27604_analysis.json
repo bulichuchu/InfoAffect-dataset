@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "joy",
+        "confidence": 90
+      },
+      {
+        "word": "passionate",
+        "confidence": 85
+      },
+      {
+        "word": "excited",
+        "confidence": 80
+      },
+      {
+        "word": "thrilled",
+        "confidence": 75
+      },
+      {
+        "word": "adventurous",
+        "confidence": 70
+      },
+      {
+        "word": "engaged",
+        "confidence": 65
+      },
+      {
+        "word": "entertained",
+        "confidence": 60
+      },
+      {
+        "word": "joy",
+        "confidence": 55
+      }
+    ]
+  }
+}

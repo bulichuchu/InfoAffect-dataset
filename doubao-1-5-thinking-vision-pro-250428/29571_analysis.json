@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "popular",
+        "confidence": 90
+      },
+      {
+        "word": "enjoyed",
+        "confidence": 85
+      },
+      {
+        "word": "hobbies",
+        "confidence": 80
+      },
+      {
+        "word": "retirees",
+        "confidence": 70
+      },
+      {
+        "word": "pastimes",
+        "confidence": 65
+      },
+      {
+        "word": "socializing",
+        "confidence": 55
+      },
+      {
+        "word": "rankings",
+        "confidence": 50
+      },
+      {
+        "word": "statistical",
+        "confidence": 45
+      }
+    ]
+  }
+}

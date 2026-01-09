@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rise",
+        "confidence": 90
+      },
+      {
+        "word": "increasing",
+        "confidence": 85
+      },
+      {
+        "word": "consistent",
+        "confidence": 80
+      },
+      {
+        "word": "driven",
+        "confidence": 75
+      },
+      {
+        "word": "forecasted",
+        "confidence": 70
+      },
+      {
+        "word": "anticipated",
+        "confidence": 65
+      },
+      {
+        "word": "most affected",
+        "confidence": 60
+      }
+    ]
+  }
+}

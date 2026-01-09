@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "responsible",
+        "confidence": 90
+      },
+      {
+        "word": "motivated",
+        "confidence": 85
+      },
+      {
+        "word": "mindful",
+        "confidence": 82
+      },
+      {
+        "word": "eco-friendly",
+        "confidence": 80
+      },
+      {
+        "word": "committed",
+        "confidence": 78
+      },
+      {
+        "word": "sustainable",
+        "confidence": 75
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "joy",
+        "confidence": 90
+      },
+      {
+        "word": "joy",
+        "confidence": 85
+      },
+      {
+        "word": "polarizing",
+        "confidence": 70
+      },
+      {
+        "word": "anger",
+        "confidence": 65
+      },
+      {
+        "word": "relieved",
+        "confidence": 75
+      }
+    ]
+  }
+}

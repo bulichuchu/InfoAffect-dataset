@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "excellent",
+        "confidence": 90
+      },
+      {
+        "word": "worst",
+        "confidence": 90
+      },
+      {
+        "word": "ranked",
+        "confidence": 85
+      },
+      {
+        "word": "excellent",
+        "confidence": 85
+      },
+      {
+        "word": "lowest",
+        "confidence": 85
+      },
+      {
+        "word": "survey",
+        "confidence": 70
+      },
+      {
+        "word": "scores",
+        "confidence": 70
+      },
+      {
+        "word": "reliability",
+        "confidence": 65
+      }
+    ]
+  }
+}

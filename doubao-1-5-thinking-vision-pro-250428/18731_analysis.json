@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 90
+      },
+      {
+        "word": "mixed",
+        "confidence": 85
+      },
+      {
+        "word": "anger",
+        "confidence": 80
+      },
+      {
+        "word": "polarizing",
+        "confidence": 75
+      },
+      {
+        "word": "conflict",
+        "confidence": 70
+      },
+      {
+        "word": "disagreement",
+        "confidence": 65
+      },
+      {
+        "word": "debate",
+        "confidence": 60
+      },
+      {
+        "word": "discord",
+        "confidence": 55
+      }
+    ]
+  }
+}

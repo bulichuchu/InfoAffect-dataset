@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "reliable",
+        "confidence": 90
+      },
+      {
+        "word": "reliable",
+        "confidence": 85
+      },
+      {
+        "word": "least trusted",
+        "confidence": 80
+      },
+      {
+        "word": "untrustworthy",
+        "confidence": 75
+      },
+      {
+        "word": "distrustful",
+        "confidence": 70
+      },
+      {
+        "word": "highly trusted",
+        "confidence": 65
+      },
+      {
+        "word": "low trust",
+        "confidence": 60
+      },
+      {
+        "word": "disappointed",
+        "confidence": 55
+      }
+    ]
+  }
+}

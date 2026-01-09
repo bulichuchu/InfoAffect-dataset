@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "stressful",
+        "confidence": 80
+      },
+      {
+        "word": "overwhelmed",
+        "confidence": 78
+      },
+      {
+        "word": "sedentary",
+        "confidence": 74
+      },
+      {
+        "word": "unhealthy",
+        "confidence": 76
+      },
+      {
+        "word": "fatigue",
+        "confidence": 82
+      }
+    ]
+  }
+}

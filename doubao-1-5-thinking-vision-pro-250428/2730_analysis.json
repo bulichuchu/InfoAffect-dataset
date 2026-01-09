@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anticipated",
+        "confidence": 90
+      },
+      {
+        "word": "debate",
+        "confidence": 85
+      },
+      {
+        "word": "rare",
+        "confidence": 80
+      },
+      {
+        "word": "chaos",
+        "confidence": 70
+      },
+      {
+        "word": "violence",
+        "confidence": 65
+      },
+      {
+        "word": "debate",
+        "confidence": 85
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      },
+      {
+        "word": "joy",
+        "confidence": 55
+      }
+    ]
+  }
+}

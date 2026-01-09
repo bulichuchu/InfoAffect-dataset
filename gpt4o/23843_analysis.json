@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unaffordable",
+        "confidence": 95
+      },
+      {
+        "word": "discrepancy",
+        "confidence": 88
+      },
+      {
+        "word": "alarm",
+        "confidence": 82
+      },
+      {
+        "word": "burdensome",
+        "confidence": 78
+      },
+      {
+        "word": "struggle",
+        "confidence": 74
+      },
+      {
+        "word": "daunting",
+        "confidence": 70
+      }
+    ]
+  }
+}

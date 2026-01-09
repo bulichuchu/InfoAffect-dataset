@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "incomplete",
+        "confidence": 80
+      },
+      {
+        "word": "unavailable",
+        "confidence": 75
+      },
+      {
+        "word": "inequitable",
+        "confidence": 70
+      },
+      {
+        "word": "shortage",
+        "confidence": 65
+      },
+      {
+        "word": "underutilized",
+        "confidence": 60
+      },
+      {
+        "word": "limited",
+        "confidence": 55
+      },
+      {
+        "word": "neglected",
+        "confidence": 50
+      }
+    ]
+  }
+}

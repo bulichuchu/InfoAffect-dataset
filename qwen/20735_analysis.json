@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 80
+      },
+      {
+        "word": "sacrificial",
+        "confidence": 75
+      },
+      {
+        "word": "costly",
+        "confidence": 72
+      },
+      {
+        "word": "necessary",
+        "confidence": 78
+      },
+      {
+        "word": "responsible",
+        "confidence": 70
+      },
+      {
+        "word": "fear",
+        "confidence": 68
+      },
+      {
+        "word": "statistical",
+        "confidence": 65
+      }
+    ]
+  }
+}

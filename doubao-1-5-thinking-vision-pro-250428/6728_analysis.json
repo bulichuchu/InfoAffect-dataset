@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "informal",
+        "confidence": 90
+      },
+      {
+        "word": "effective",
+        "confidence": 85
+      },
+      {
+        "word": "everyday",
+        "confidence": 80
+      },
+      {
+        "word": "statistical",
+        "confidence": 70
+      },
+      {
+        "word": "global",
+        "confidence": 65
+      },
+      {
+        "word": "success",
+        "confidence": 55
+      },
+      {
+        "word": "practical",
+        "confidence": 50
+      },
+      {
+        "word": "currency",
+        "confidence": 45
+      }
+    ]
+  }
+}

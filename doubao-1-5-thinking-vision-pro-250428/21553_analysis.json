@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "contraction",
+        "confidence": 90
+      },
+      {
+        "word": "losses",
+        "confidence": 85
+      },
+      {
+        "word": "worse",
+        "confidence": 80
+      },
+      {
+        "word": "smaller",
+        "confidence": 70
+      },
+      {
+        "word": "hit",
+        "confidence": 65
+      },
+      {
+        "word": "turmoil",
+        "confidence": 60
+      },
+      {
+        "word": "negative",
+        "confidence": 55
+      },
+      {
+        "word": "worst",
+        "confidence": 50
+      }
+    ]
+  }
+}

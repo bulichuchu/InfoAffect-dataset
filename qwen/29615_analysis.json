@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "discrepant",
+        "confidence": 88
+      },
+      {
+        "word": "transitional",
+        "confidence": 82
+      },
+      {
+        "word": "anger",
+        "confidence": 76
+      },
+      {
+        "word": "joy",
+        "confidence": 70
+      },
+      {
+        "word": "alarm",
+        "confidence": 68
+      },
+      {
+        "word": "resistant",
+        "confidence": 65
+      },
+      {
+        "word": "success",
+        "confidence": 63
+      },
+      {
+        "word": "innovative",
+        "confidence": 60
+      }
+    ]
+  }
+}

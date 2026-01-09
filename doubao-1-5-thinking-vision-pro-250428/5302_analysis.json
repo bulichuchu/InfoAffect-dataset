@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "discordant",
+        "confidence": 90
+      },
+      {
+        "word": "anger",
+        "confidence": 85
+      },
+      {
+        "word": "conflicted",
+        "confidence": 80
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      },
+      {
+        "word": "disagreement",
+        "confidence": 70
+      },
+      {
+        "word": "dissension",
+        "confidence": 65
+      },
+      {
+        "word": "debate",
+        "confidence": 60
+      },
+      {
+        "word": "strife",
+        "confidence": 55
+      }
+    ]
+  }
+}

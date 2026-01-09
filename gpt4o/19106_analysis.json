@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disappointed",
+        "confidence": 90
+      },
+      {
+        "word": "valued",
+        "confidence": 85
+      },
+      {
+        "word": "reliable",
+        "confidence": 82
+      },
+      {
+        "word": "letdown",
+        "confidence": 78
+      },
+      {
+        "word": "appreciated",
+        "confidence": 75
+      }
+    ]
+  }
+}

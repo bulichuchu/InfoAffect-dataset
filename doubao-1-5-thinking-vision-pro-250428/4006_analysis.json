@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disappearing",
+        "confidence": 90
+      },
+      {
+        "word": "dying",
+        "confidence": 95
+      },
+      {
+        "word": "contributing",
+        "confidence": 85
+      },
+      {
+        "word": "death",
+        "confidence": 95
+      },
+      {
+        "word": "may",
+        "confidence": 70
+      }
+    ]
+  }
+}

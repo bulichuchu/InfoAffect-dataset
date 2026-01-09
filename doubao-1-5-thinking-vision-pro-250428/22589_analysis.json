@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "squeezed",
+        "confidence": 90
+      },
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "record",
+        "confidence": 80
+      },
+      {
+        "word": "massive",
+        "confidence": 75
+      },
+      {
+        "word": "mounting",
+        "confidence": 70
+      },
+      {
+        "word": "depleted",
+        "confidence": 65
+      },
+      {
+        "word": "hundreds",
+        "confidence": 60
+      },
+      {
+        "word": "millions",
+        "confidence": 55
+      }
+    ]
+  }
+}

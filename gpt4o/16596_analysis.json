@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "wealthy",
+        "confidence": 85
+      },
+      {
+        "word": "innovative",
+        "confidence": 90
+      },
+      {
+        "word": "statistical",
+        "confidence": 80
+      },
+      {
+        "word": "focused",
+        "confidence": 75
+      },
+      {
+        "word": "structured",
+        "confidence": 70
+      },
+      {
+        "word": "statistical",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 90
+      },
+      {
+        "word": "dissatisfied",
+        "confidence": 85
+      },
+      {
+        "word": "tumultuous",
+        "confidence": 80
+      },
+      {
+        "word": "disapproving",
+        "confidence": 82
+      },
+      {
+        "word": "contentious",
+        "confidence": 78
+      }
+    ]
+  }
+}

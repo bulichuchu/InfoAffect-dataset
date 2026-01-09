@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 90
+      },
+      {
+        "word": "anger",
+        "confidence": 85
+      },
+      {
+        "word": "nervous",
+        "confidence": 70
+      },
+      {
+        "word": "turbulent",
+        "confidence": 75
+      },
+      {
+        "word": "anger",
+        "confidence": 90
+      },
+      {
+        "word": "aggressive",
+        "confidence": 85
+      },
+      {
+        "word": "nervous",
+        "confidence": 70
+      },
+      {
+        "word": "turbulent",
+        "confidence": 75
+      }
+    ]
+  }
+}

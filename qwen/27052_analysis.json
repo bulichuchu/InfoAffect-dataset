@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "youthful",
+        "confidence": 90
+      },
+      {
+        "word": "energetic",
+        "confidence": 85
+      },
+      {
+        "word": "trendy",
+        "confidence": 80
+      },
+      {
+        "word": "engaging",
+        "confidence": 75
+      },
+      {
+        "word": "innovative",
+        "confidence": 78
+      },
+      {
+        "word": "exclusionary",
+        "confidence": 65
+      },
+      {
+        "word": "innovative",
+        "confidence": 72
+      },
+      {
+        "word": "generational",
+        "confidence": 70
+      }
+    ]
+  }
+}

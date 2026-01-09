@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "romantic",
+        "confidence": 88
+      },
+      {
+        "word": "affectionate",
+        "confidence": 85
+      },
+      {
+        "word": "generous",
+        "confidence": 82
+      },
+      {
+        "word": "loving",
+        "confidence": 80
+      },
+      {
+        "word": "joy",
+        "confidence": 75
+      },
+      {
+        "word": "joy",
+        "confidence": 70
+      },
+      {
+        "word": "lighthearted",
+        "confidence": 68
+      }
+    ]
+  }
+}

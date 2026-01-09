@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 88
+      },
+      {
+        "word": "effective",
+        "confidence": 85
+      },
+      {
+        "word": "statistical",
+        "confidence": 80
+      },
+      {
+        "word": "practical",
+        "confidence": 78
+      },
+      {
+        "word": "business - focused",
+        "confidence": 75
+      },
+      {
+        "word": "assertive",
+        "confidence": 72
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 90
+      },
+      {
+        "word": "lagging",
+        "confidence": 85
+      },
+      {
+        "word": "shortage",
+        "confidence": 80
+      },
+      {
+        "word": "behind",
+        "confidence": 75
+      },
+      {
+        "word": "underdeveloped",
+        "confidence": 70
+      },
+      {
+        "word": "inferior",
+        "confidence": 65
+      },
+      {
+        "word": "subpar",
+        "confidence": 60
+      },
+      {
+        "word": "neglected",
+        "confidence": 55
+      }
+    ]
+  }
+}

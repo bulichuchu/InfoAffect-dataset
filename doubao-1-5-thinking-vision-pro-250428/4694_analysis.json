@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 90
+      },
+      {
+        "word": "predominant",
+        "confidence": 85
+      },
+      {
+        "word": "unfair",
+        "confidence": 80
+      },
+      {
+        "word": "abusive",
+        "confidence": 75
+      },
+      {
+        "word": "exploitative",
+        "confidence": 70
+      },
+      {
+        "word": "energetic",
+        "confidence": 65
+      },
+      {
+        "word": "powerful",
+        "confidence": 60
+      },
+      {
+        "word": "authoritative",
+        "confidence": 55
+      }
+    ]
+  }
+}

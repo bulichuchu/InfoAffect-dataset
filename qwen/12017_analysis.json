@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "normal",
+        "confidence": 80
+      },
+      {
+        "word": "addictive",
+        "confidence": 78
+      },
+      {
+        "word": "worrying",
+        "confidence": 75
+      },
+      {
+        "word": "relatable",
+        "confidence": 72
+      },
+      {
+        "word": "innovative",
+        "confidence": 68
+      },
+      {
+        "word": "unhealthy",
+        "confidence": 70
+      },
+      {
+        "word": "ubiquitous",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 90
+      },
+      {
+        "word": "perceived",
+        "confidence": 92
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "exposing",
+        "confidence": 88
+      },
+      {
+        "word": "alarm",
+        "confidence": 80
+      },
+      {
+        "word": "disquieting",
+        "confidence": 78
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      }
+    ]
+  }
+}

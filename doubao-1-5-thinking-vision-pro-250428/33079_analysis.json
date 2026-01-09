@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "long",
+        "confidence": 90
+      },
+      {
+        "word": "pending",
+        "confidence": 85
+      },
+      {
+        "word": "protracted",
+        "confidence": 80
+      },
+      {
+        "word": "extended",
+        "confidence": 75
+      },
+      {
+        "word": "lengthy",
+        "confidence": 70
+      },
+      {
+        "word": "inconvenient",
+        "confidence": 65
+      },
+      {
+        "word": "anger",
+        "confidence": 60
+      },
+      {
+        "word": "annoying",
+        "confidence": 55
+      }
+    ]
+  }
+}

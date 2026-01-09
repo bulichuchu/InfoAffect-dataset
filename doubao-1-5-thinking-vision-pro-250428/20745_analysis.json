@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 85
+      },
+      {
+        "word": "alarm",
+        "confidence": 80
+      },
+      {
+        "word": "historical",
+        "confidence": 75
+      },
+      {
+        "word": "partisan",
+        "confidence": 80
+      },
+      {
+        "word": "alarm",
+        "confidence": 70
+      },
+      {
+        "word": "statistical",
+        "confidence": 75
+      }
+    ]
+  }
+}

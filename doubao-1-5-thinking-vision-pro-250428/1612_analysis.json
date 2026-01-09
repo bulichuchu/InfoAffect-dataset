@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "thriving",
+        "confidence": 90
+      },
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "joy",
+        "confidence": 80
+      },
+      {
+        "word": "dramatic",
+        "confidence": 70
+      },
+      {
+        "word": "crashing",
+        "confidence": 65
+      },
+      {
+        "word": "grim",
+        "confidence": 55
+      },
+      {
+        "word": "struggle",
+        "confidence": 50
+      },
+      {
+        "word": "declining",
+        "confidence": 40
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 90
+      },
+      {
+        "word": "cathartic",
+        "confidence": 88
+      },
+      {
+        "word": "relieved",
+        "confidence": 85
+      },
+      {
+        "word": "redemptive",
+        "confidence": 82
+      },
+      {
+        "word": "joy",
+        "confidence": 78
+      },
+      {
+        "word": "historic",
+        "confidence": 75
+      },
+      {
+        "word": "joy",
+        "confidence": 72
+      },
+      {
+        "word": "vindicated",
+        "confidence": 70
+      }
+    ]
+  }
+}

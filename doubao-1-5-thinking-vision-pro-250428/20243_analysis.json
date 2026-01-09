@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 90
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "disconcerting",
+        "confidence": 80
+      },
+      {
+        "word": "struggle",
+        "confidence": 75
+      },
+      {
+        "word": "excessive",
+        "confidence": 70
+      },
+      {
+        "word": "unacceptable",
+        "confidence": 65
+      },
+      {
+        "word": "subsidized",
+        "confidence": 60
+      },
+      {
+        "word": "inefficient",
+        "confidence": 55
+      }
+    ]
+  }
+}

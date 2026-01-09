@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "negative",
+        "confidence": 90
+      },
+      {
+        "word": "turn-off",
+        "confidence": 85
+      },
+      {
+        "word": "red flag",
+        "confidence": 80
+      },
+      {
+        "word": "flexible",
+        "confidence": 70
+      },
+      {
+        "word": "genuinely",
+        "confidence": 65
+      },
+      {
+        "word": "green flag",
+        "confidence": 60
+      },
+      {
+        "word": "high value",
+        "confidence": 55
+      },
+      {
+        "word": "vital",
+        "confidence": 50
+      }
+    ]
+  }
+}

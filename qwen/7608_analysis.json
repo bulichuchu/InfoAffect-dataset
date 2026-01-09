@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "aspirational",
+        "confidence": 85
+      },
+      {
+        "word": "enticing",
+        "confidence": 80
+      },
+      {
+        "word": "rewarding",
+        "confidence": 78
+      },
+      {
+        "word": "success",
+        "confidence": 75
+      },
+      {
+        "word": "motivating",
+        "confidence": 72
+      },
+      {
+        "word": "prestigious",
+        "confidence": 68
+      },
+      {
+        "word": "success",
+        "confidence": 65
+      },
+      {
+        "word": "lucrative",
+        "confidence": 82
+      }
+    ]
+  }
+}

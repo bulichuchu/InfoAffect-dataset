@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "authoritative",
+        "confidence": 90
+      },
+      {
+        "word": "historical",
+        "confidence": 85
+      },
+      {
+        "word": "reliable",
+        "confidence": 80
+      },
+      {
+        "word": "alarm",
+        "confidence": 78
+      },
+      {
+        "word": "innovative",
+        "confidence": 75
+      },
+      {
+        "word": "formal",
+        "confidence": 72
+      },
+      {
+        "word": "global",
+        "confidence": 70
+      },
+      {
+        "word": "commemorative",
+        "confidence": 68
+      }
+    ]
+  }
+}

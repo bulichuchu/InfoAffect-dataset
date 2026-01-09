@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "cravings",
+        "confidence": 85
+      },
+      {
+        "word": "indulgence",
+        "confidence": 80
+      },
+      {
+        "word": "variety",
+        "confidence": 78
+      },
+      {
+        "word": "appetizing",
+        "confidence": 76
+      },
+      {
+        "word": "cultural",
+        "confidence": 74
+      },
+      {
+        "word": "preference",
+        "confidence": 72
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 90
+      },
+      {
+        "word": "surveilled",
+        "confidence": 88
+      },
+      {
+        "word": "cautionary",
+        "confidence": 80
+      },
+      {
+        "word": "punitive",
+        "confidence": 75
+      },
+      {
+        "word": "annoying",
+        "confidence": 70
+      },
+      {
+        "word": "disconcerting",
+        "confidence": 65
+      }
+    ]
+  }
+}

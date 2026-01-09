@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "inefficient",
+        "confidence": 90
+      },
+      {
+        "word": "power-hungry",
+        "confidence": 85
+      },
+      {
+        "word": "thirsty",
+        "confidence": 80
+      },
+      {
+        "word": "wasteful",
+        "confidence": 75
+      },
+      {
+        "word": "consumptive",
+        "confidence": 70
+      },
+      {
+        "word": "energy-efficient",
+        "confidence": 65
+      },
+      {
+        "word": "effective",
+        "confidence": 60
+      },
+      {
+        "word": "thrifty",
+        "confidence": 55
+      }
+    ]
+  }
+}

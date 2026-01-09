@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 90
+      },
+      {
+        "word": "effective",
+        "confidence": 85
+      },
+      {
+        "word": "proven",
+        "confidence": 80
+      },
+      {
+        "word": "struggle",
+        "confidence": 70
+      },
+      {
+        "word": "bias",
+        "confidence": 65
+      },
+      {
+        "word": "deep-rooted",
+        "confidence": 60
+      },
+      {
+        "word": "harmful",
+        "confidence": 55
+      },
+      {
+        "word": "adjust",
+        "confidence": 50
+      }
+    ]
+  }
+}

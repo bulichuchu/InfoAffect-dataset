@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "subdued",
+        "confidence": 80
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 75
+      },
+      {
+        "word": "indifferent",
+        "confidence": 70
+      },
+      {
+        "word": "reflective",
+        "confidence": 68
+      },
+      {
+        "word": "resigned",
+        "confidence": 65
+      },
+      {
+        "word": "moderate",
+        "confidence": 62
+      },
+      {
+        "word": "statistical",
+        "confidence": 72
+      }
+    ]
+  }
+}

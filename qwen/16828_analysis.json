@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fear",
+        "confidence": 90
+      },
+      {
+        "word": "decisive",
+        "confidence": 85
+      },
+      {
+        "word": "joy",
+        "confidence": 78
+      },
+      {
+        "word": "polarized",
+        "confidence": 72
+      },
+      {
+        "word": "success",
+        "confidence": 80
+      },
+      {
+        "word": "anger",
+        "confidence": 68
+      },
+      {
+        "word": "resolute",
+        "confidence": 75
+      },
+      {
+        "word": "uncertain",
+        "confidence": 65
+      }
+    ]
+  }
+}

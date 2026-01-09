@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "excellent",
+        "confidence": 88
+      },
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "disparaging",
+        "confidence": 72
+      },
+      {
+        "word": "aspirational",
+        "confidence": 78
+      },
+      {
+        "word": "exclusive",
+        "confidence": 75
+      },
+      {
+        "word": "powerful",
+        "confidence": 82
+      },
+      {
+        "word": "unequal",
+        "confidence": 70
+      },
+      {
+        "word": "affluent",
+        "confidence": 80
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "stagnant",
+        "confidence": 90
+      },
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "disappointed",
+        "confidence": 80
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      },
+      {
+        "word": "reliable",
+        "confidence": 70
+      },
+      {
+        "word": "mammoth",
+        "confidence": 65
+      },
+      {
+        "word": "alarm",
+        "confidence": 72
+      },
+      {
+        "word": "pressured",
+        "confidence": 68
+      }
+    ]
+  }
+}

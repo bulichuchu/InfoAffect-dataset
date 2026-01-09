@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 90
+      },
+      {
+        "word": "weakness",
+        "confidence": 85
+      },
+      {
+        "word": "gains",
+        "confidence": 70
+      },
+      {
+        "word": "consistent",
+        "confidence": 65
+      },
+      {
+        "word": "breakout",
+        "confidence": 55
+      },
+      {
+        "word": "fading",
+        "confidence": 50
+      },
+      {
+        "word": "excellent",
+        "confidence": 45
+      },
+      {
+        "word": "last impression",
+        "confidence": 35
+      }
+    ]
+  }
+}

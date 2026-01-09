@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "uncertain",
+        "confidence": 90
+      },
+      {
+        "word": "joy",
+        "confidence": 70
+      },
+      {
+        "word": "unlikely",
+        "confidence": 85
+      },
+      {
+        "word": "moderate",
+        "confidence": 65
+      },
+      {
+        "word": "standstill",
+        "confidence": 75
+      },
+      {
+        "word": "unchanged",
+        "confidence": 70
+      },
+      {
+        "word": "longest",
+        "confidence": 75
+      },
+      {
+        "word": "inflation-adjusted",
+        "confidence": 50
+      }
+    ]
+  }
+}

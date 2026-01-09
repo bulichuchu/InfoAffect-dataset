@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "decisive",
+        "confidence": 90
+      },
+      {
+        "word": "energetic",
+        "confidence": 85
+      },
+      {
+        "word": "success",
+        "confidence": 78
+      },
+      {
+        "word": "important",
+        "confidence": 80
+      },
+      {
+        "word": "historical",
+        "confidence": 75
+      }
+    ]
+  }
+}

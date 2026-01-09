@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 90
+      },
+      {
+        "word": "leading",
+        "confidence": 85
+      },
+      {
+        "word": "normal",
+        "confidence": 80
+      },
+      {
+        "word": "anticipated",
+        "confidence": 75
+      },
+      {
+        "word": "normal",
+        "confidence": 70
+      },
+      {
+        "word": "middle",
+        "confidence": 65
+      },
+      {
+        "word": "unlikely",
+        "confidence": 60
+      },
+      {
+        "word": "qualified",
+        "confidence": 55
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "joy",
+        "confidence": 95
+      },
+      {
+        "word": "success",
+        "confidence": 90
+      },
+      {
+        "word": "strong",
+        "confidence": 88
+      },
+      {
+        "word": "thriving",
+        "confidence": 85
+      },
+      {
+        "word": "joy",
+        "confidence": 80
+      },
+      {
+        "word": "support",
+        "confidence": 75
+      }
+    ]
+  }
+}

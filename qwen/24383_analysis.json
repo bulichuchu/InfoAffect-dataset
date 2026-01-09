@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "traditional",
+        "confidence": 85
+      },
+      {
+        "word": "mixed",
+        "confidence": 80
+      },
+      {
+        "word": "anachronistic",
+        "confidence": 75
+      },
+      {
+        "word": "global",
+        "confidence": 78
+      },
+      {
+        "word": "mixed",
+        "confidence": 72
+      },
+      {
+        "word": "evolving",
+        "confidence": 70
+      },
+      {
+        "word": "pompous",
+        "confidence": 65
+      },
+      {
+        "word": "effective",
+        "confidence": 90
+      }
+    ]
+  }
+}

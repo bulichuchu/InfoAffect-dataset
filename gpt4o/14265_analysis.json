@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concern",
+        "confidence": 90
+      },
+      {
+        "word": "misled",
+        "confidence": 85
+      },
+      {
+        "word": "distrust",
+        "confidence": 83
+      },
+      {
+        "word": "fear",
+        "confidence": 78
+      },
+      {
+        "word": "alarm",
+        "confidence": 80
+      }
+    ]
+  }
+}

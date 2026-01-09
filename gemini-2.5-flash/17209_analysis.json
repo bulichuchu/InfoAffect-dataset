@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "struggle",
+        "confidence": 95
+      },
+      {
+        "word": "contested",
+        "confidence": 92
+      },
+      {
+        "word": "struggle",
+        "confidence": 90
+      },
+      {
+        "word": "restricted",
+        "confidence": 88
+      },
+      {
+        "word": "disapproved",
+        "confidence": 85
+      },
+      {
+        "word": "mixed",
+        "confidence": 80
+      }
+    ]
+  }
+}

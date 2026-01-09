@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 85
+      },
+      {
+        "word": "uneasy",
+        "confidence": 80
+      },
+      {
+        "word": "confrontational",
+        "confidence": 78
+      },
+      {
+        "word": "pressured",
+        "confidence": 75
+      },
+      {
+        "word": "reliable",
+        "confidence": 72
+      },
+      {
+        "word": "success",
+        "confidence": 68
+      },
+      {
+        "word": "historical",
+        "confidence": 65
+      },
+      {
+        "word": "disproportionate",
+        "confidence": 60
+      }
+    ]
+  }
+}

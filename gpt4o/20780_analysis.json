@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "favorable",
+        "confidence": 90
+      },
+      {
+        "word": "joy",
+        "confidence": 88
+      },
+      {
+        "word": "mixed",
+        "confidence": 70
+      },
+      {
+        "word": "deterrent",
+        "confidence": 75
+      },
+      {
+        "word": "fence",
+        "confidence": 65
+      },
+      {
+        "word": "sovereignty",
+        "confidence": 60
+      }
+    ]
+  }
+}

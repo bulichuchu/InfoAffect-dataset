@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disparaging",
+        "confidence": 85
+      },
+      {
+        "word": "anger",
+        "confidence": 80
+      },
+      {
+        "word": "unfair",
+        "confidence": 78
+      },
+      {
+        "word": "shocking",
+        "confidence": 75
+      },
+      {
+        "word": "alarm",
+        "confidence": 72
+      },
+      {
+        "word": "perceived",
+        "confidence": 68
+      },
+      {
+        "word": "alarm",
+        "confidence": 65
+      },
+      {
+        "word": "declining",
+        "confidence": 63
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "inflationary",
+        "confidence": 90
+      },
+      {
+        "word": "rise",
+        "confidence": 85
+      },
+      {
+        "word": "increasing",
+        "confidence": 80
+      },
+      {
+        "word": "impactful",
+        "confidence": 70
+      },
+      {
+        "word": "vulnerable",
+        "confidence": 65
+      },
+      {
+        "word": "disproportionate",
+        "confidence": 55
+      },
+      {
+        "word": "dependent",
+        "confidence": 50
+      },
+      {
+        "word": "affected",
+        "confidence": 45
+      }
+    ]
+  }
+}

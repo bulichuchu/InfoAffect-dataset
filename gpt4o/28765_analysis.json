@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "excitement",
+        "confidence": 90
+      },
+      {
+        "word": "anticipated",
+        "confidence": 85
+      },
+      {
+        "word": "success",
+        "confidence": 82
+      },
+      {
+        "word": "historic",
+        "confidence": 78
+      },
+      {
+        "word": "pride",
+        "confidence": 76
+      },
+      {
+        "word": "legendary",
+        "confidence": 74
+      }
+    ]
+  }
+}

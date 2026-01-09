@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "harmful",
+        "confidence": 80
+      },
+      {
+        "word": "unfortunate",
+        "confidence": 75
+      },
+      {
+        "word": "alarm",
+        "confidence": 70
+      },
+      {
+        "word": "improvement",
+        "confidence": 65
+      },
+      {
+        "word": "joy",
+        "confidence": 55
+      },
+      {
+        "word": "progress",
+        "confidence": 50
+      },
+      {
+        "word": "inspiring",
+        "confidence": 45
+      }
+    ]
+  }
+}

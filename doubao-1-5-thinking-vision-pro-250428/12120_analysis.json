@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "inviting",
+        "confidence": 85
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 80
+      },
+      {
+        "word": "joy",
+        "confidence": 78
+      },
+      {
+        "word": "satisfying",
+        "confidence": 75
+      },
+      {
+        "word": "comforting",
+        "confidence": 72
+      },
+      {
+        "word": "engaging",
+        "confidence": 68
+      }
+    ]
+  }
+}

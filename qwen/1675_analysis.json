@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "indifferent",
+        "confidence": 85
+      },
+      {
+        "word": "effective",
+        "confidence": 80
+      },
+      {
+        "word": "frustrated",
+        "confidence": 75
+      },
+      {
+        "word": "resistant",
+        "confidence": 72
+      },
+      {
+        "word": "disconnected",
+        "confidence": 68
+      },
+      {
+        "word": "deliberate",
+        "confidence": 70
+      },
+      {
+        "word": "challenged",
+        "confidence": 65
+      }
+    ]
+  }
+}

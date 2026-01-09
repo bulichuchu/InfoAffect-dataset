@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "reliable",
+        "confidence": 90
+      },
+      {
+        "word": "distrust",
+        "confidence": 85
+      },
+      {
+        "word": "disappointment",
+        "confidence": 80
+      },
+      {
+        "word": "uncertain",
+        "confidence": 70
+      },
+      {
+        "word": "optimism",
+        "confidence": 50
+      },
+      {
+        "word": "hope",
+        "confidence": 40
+      },
+      {
+        "word": "pessimism",
+        "confidence": 30
+      },
+      {
+        "word": "fear",
+        "confidence": 20
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rise",
+        "confidence": 90
+      },
+      {
+        "word": "increase",
+        "confidence": 85
+      },
+      {
+        "word": "transitional",
+        "confidence": 70
+      },
+      {
+        "word": "comeback",
+        "confidence": 65
+      },
+      {
+        "word": "digital",
+        "confidence": 55
+      }
+    ]
+  }
+}

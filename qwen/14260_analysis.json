@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "relief",
+        "confidence": 85
+      },
+      {
+        "word": "joy",
+        "confidence": 80
+      },
+      {
+        "word": "concerned",
+        "confidence": 75
+      },
+      {
+        "word": "alarm",
+        "confidence": 70
+      },
+      {
+        "word": "alarm",
+        "confidence": 65
+      },
+      {
+        "word": "support",
+        "confidence": 78
+      },
+      {
+        "word": "alarm",
+        "confidence": 68
+      },
+      {
+        "word": "mixed",
+        "confidence": 72
+      }
+    ]
+  }
+}

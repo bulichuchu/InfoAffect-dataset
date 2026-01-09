@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "feast",
+        "confidence": 90
+      },
+      {
+        "word": "advertisers",
+        "confidence": 85
+      },
+      {
+        "word": "spending",
+        "confidence": 70
+      },
+      {
+        "word": "post-season",
+        "confidence": 65
+      },
+      {
+        "word": "popular",
+        "confidence": 60
+      }
+    ]
+  }
+}

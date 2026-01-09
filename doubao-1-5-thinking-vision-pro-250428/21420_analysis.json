@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rallies",
+        "confidence": 90
+      },
+      {
+        "word": "standoff",
+        "confidence": 85
+      },
+      {
+        "word": "disarray",
+        "confidence": 80
+      },
+      {
+        "word": "shortage",
+        "confidence": 75
+      },
+      {
+        "word": "fluctuations",
+        "confidence": 70
+      }
+    ]
+  }
+}

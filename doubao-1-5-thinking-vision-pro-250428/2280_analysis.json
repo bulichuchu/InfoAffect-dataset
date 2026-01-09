@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "increasing",
+        "confidence": 90
+      },
+      {
+        "word": "soaring",
+        "confidence": 85
+      },
+      {
+        "word": "massively",
+        "confidence": 80
+      },
+      {
+        "word": "integral",
+        "confidence": 70
+      },
+      {
+        "word": "joy",
+        "confidence": 65
+      },
+      {
+        "word": "at odds",
+        "confidence": 75
+      },
+      {
+        "word": "upsetting",
+        "confidence": 50
+      },
+      {
+        "word": "biggest",
+        "confidence": 55
+      }
+    ]
+  }
+}

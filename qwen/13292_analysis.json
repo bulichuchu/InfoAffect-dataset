@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "solemn",
+        "confidence": 85
+      },
+      {
+        "word": "heavy",
+        "confidence": 80
+      },
+      {
+        "word": "respectful",
+        "confidence": 75
+      },
+      {
+        "word": "fear",
+        "confidence": 78
+      },
+      {
+        "word": "alarm",
+        "confidence": 72
+      },
+      {
+        "word": "sacrificial",
+        "confidence": 76
+      },
+      {
+        "word": "fear",
+        "confidence": 70
+      },
+      {
+        "word": "reliable",
+        "confidence": 65
+      }
+    ]
+  }
+}

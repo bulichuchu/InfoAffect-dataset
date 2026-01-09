@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "intriguing",
+        "confidence": 88
+      },
+      {
+        "word": "subversive",
+        "confidence": 85
+      },
+      {
+        "word": "ironic",
+        "confidence": 82
+      },
+      {
+        "word": "transitional",
+        "confidence": 78
+      },
+      {
+        "word": "rebellious",
+        "confidence": 75
+      },
+      {
+        "word": "clever",
+        "confidence": 72
+      },
+      {
+        "word": "mysterious",
+        "confidence": 70
+      }
+    ]
+  }
+}

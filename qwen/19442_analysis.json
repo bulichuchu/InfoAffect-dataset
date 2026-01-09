@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 88
+      },
+      {
+        "word": "alarm",
+        "confidence": 82
+      },
+      {
+        "word": "perceived",
+        "confidence": 78
+      },
+      {
+        "word": "statistical",
+        "confidence": 75
+      },
+      {
+        "word": "effective",
+        "confidence": 70
+      },
+      {
+        "word": "accountable",
+        "confidence": 65
+      },
+      {
+        "word": "transitional",
+        "confidence": 60
+      },
+      {
+        "word": "data-driven",
+        "confidence": 68
+      }
+    ]
+  }
+}

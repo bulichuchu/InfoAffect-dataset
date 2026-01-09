@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "intrusive",
+        "confidence": 90
+      },
+      {
+        "word": "aware",
+        "confidence": 85
+      },
+      {
+        "word": "perceived",
+        "confidence": 80
+      },
+      {
+        "word": "unsettling",
+        "confidence": 75
+      },
+      {
+        "word": "persistent",
+        "confidence": 80
+      },
+      {
+        "word": "perceived",
+        "confidence": 78
+      }
+    ]
+  }
+}

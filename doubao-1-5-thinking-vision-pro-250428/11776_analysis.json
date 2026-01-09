@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "deteriorating",
+        "confidence": 90
+      },
+      {
+        "word": "worsening",
+        "confidence": 85
+      },
+      {
+        "word": "deterrent",
+        "confidence": 80
+      },
+      {
+        "word": "harmful",
+        "confidence": 75
+      },
+      {
+        "word": "endangered",
+        "confidence": 70
+      },
+      {
+        "word": "massive",
+        "confidence": 65
+      },
+      {
+        "word": "famine",
+        "confidence": 60
+      },
+      {
+        "word": "epidemic",
+        "confidence": 55
+      }
+    ]
+  }
+}

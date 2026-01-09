@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 80
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      },
+      {
+        "word": "polarized",
+        "confidence": 82
+      },
+      {
+        "word": "uncertain",
+        "confidence": 70
+      },
+      {
+        "word": "mixed",
+        "confidence": 78
+      },
+      {
+        "word": "alarm",
+        "confidence": 65
+      },
+      {
+        "word": "politically charged",
+        "confidence": 73
+      }
+    ]
+  }
+}

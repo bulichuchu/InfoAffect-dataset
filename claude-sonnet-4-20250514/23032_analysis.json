@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "lonely",
+        "confidence": 88
+      },
+      {
+        "word": "melancholic",
+        "confidence": 85
+      },
+      {
+        "word": "alarm",
+        "confidence": 82
+      },
+      {
+        "word": "fear",
+        "confidence": 78
+      },
+      {
+        "word": "disappointed",
+        "confidence": 75
+      },
+      {
+        "word": "lonely",
+        "confidence": 73
+      },
+      {
+        "word": "worried",
+        "confidence": 70
+      }
+    ]
+  }
+}

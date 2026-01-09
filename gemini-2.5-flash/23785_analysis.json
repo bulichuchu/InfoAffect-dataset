@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "adaptive",
+        "confidence": 90
+      },
+      {
+        "word": "disrupted",
+        "confidence": 88
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 85
+      },
+      {
+        "word": "accepting",
+        "confidence": 82
+      },
+      {
+        "word": "alarm",
+        "confidence": 78
+      },
+      {
+        "word": "pressured",
+        "confidence": 75
+      },
+      {
+        "word": "unusual",
+        "confidence": 70
+      }
+    ]
+  }
+}

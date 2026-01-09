@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "hunger",
+        "confidence": 90
+      },
+      {
+        "word": "increase",
+        "confidence": 85
+      },
+      {
+        "word": "crisis",
+        "confidence": 80
+      },
+      {
+        "word": "grips",
+        "confidence": 75
+      },
+      {
+        "word": "reliable",
+        "confidence": 70
+      },
+      {
+        "word": "accurate",
+        "confidence": 65
+      },
+      {
+        "word": "up-to-date",
+        "confidence": 60
+      }
+    ]
+  }
+}

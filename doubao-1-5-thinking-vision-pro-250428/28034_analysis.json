@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "struggle",
+        "confidence": 90
+      },
+      {
+        "word": "struggle",
+        "confidence": 85
+      },
+      {
+        "word": "declining",
+        "confidence": 80
+      },
+      {
+        "word": "promising",
+        "confidence": 70
+      },
+      {
+        "word": "rise",
+        "confidence": 65
+      },
+      {
+        "word": "reliable",
+        "confidence": 60
+      },
+      {
+        "word": "clouding",
+        "confidence": 55
+      },
+      {
+        "word": "room",
+        "confidence": 50
+      }
+    ]
+  }
+}

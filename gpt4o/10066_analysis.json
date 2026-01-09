@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "nostalgic",
+        "confidence": 85
+      },
+      {
+        "word": "obsolescent",
+        "confidence": 90
+      },
+      {
+        "word": "disruptive",
+        "confidence": 88
+      },
+      {
+        "word": "impactful",
+        "confidence": 82
+      },
+      {
+        "word": "innovative",
+        "confidence": 80
+      },
+      {
+        "word": "declining",
+        "confidence": 93
+      }
+    ]
+  }
+}

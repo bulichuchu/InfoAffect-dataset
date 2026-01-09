@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "anger",
+        "confidence": 80
+      },
+      {
+        "word": "prioritized",
+        "confidence": 78
+      },
+      {
+        "word": "conflicting",
+        "confidence": 76
+      },
+      {
+        "word": "thoughtful",
+        "confidence": 74
+      },
+      {
+        "word": "influenced",
+        "confidence": 70
+      }
+    ]
+  }
+}

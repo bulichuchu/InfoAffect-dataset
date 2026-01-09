@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fast",
+        "confidence": 90
+      },
+      {
+        "word": "increased",
+        "confidence": 85
+      },
+      {
+        "word": "hot",
+        "confidence": 80
+      },
+      {
+        "word": "record",
+        "confidence": 75
+      },
+      {
+        "word": "struggle",
+        "confidence": 70
+      },
+      {
+        "word": "plagued",
+        "confidence": 65
+      },
+      {
+        "word": "major",
+        "confidence": 60
+      },
+      {
+        "word": "sharply",
+        "confidence": 55
+      }
+    ]
+  }
+}

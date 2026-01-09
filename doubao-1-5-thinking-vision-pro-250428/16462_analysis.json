@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "gains",
+        "confidence": 90
+      },
+      {
+        "word": "swings",
+        "confidence": 85
+      },
+      {
+        "word": "recede",
+        "confidence": 70
+      },
+      {
+        "word": "comeback",
+        "confidence": 80
+      },
+      {
+        "word": "disgruntlement",
+        "confidence": 65
+      },
+      {
+        "word": "anguish",
+        "confidence": 60
+      },
+      {
+        "word": "losing",
+        "confidence": 55
+      },
+      {
+        "word": "impress",
+        "confidence": 50
+      }
+    ]
+  }
+}

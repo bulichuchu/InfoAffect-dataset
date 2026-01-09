@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "altruistic",
+        "confidence": 95
+      },
+      {
+        "word": "compassionate",
+        "confidence": 90
+      },
+      {
+        "word": "benevolent",
+        "confidence": 85
+      },
+      {
+        "word": "support",
+        "confidence": 80
+      },
+      {
+        "word": "support",
+        "confidence": 75
+      },
+      {
+        "word": "humanitarian",
+        "confidence": 70
+      }
+    ]
+  }
+}

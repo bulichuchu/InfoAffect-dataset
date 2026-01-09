@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 85
+      },
+      {
+        "word": "discouraging",
+        "confidence": 80
+      },
+      {
+        "word": "appealing",
+        "confidence": 75
+      },
+      {
+        "word": "joy",
+        "confidence": 78
+      },
+      {
+        "word": "alarm",
+        "confidence": 72
+      },
+      {
+        "word": "empowering",
+        "confidence": 65
+      },
+      {
+        "word": "effective",
+        "confidence": 70
+      },
+      {
+        "word": "balanced",
+        "confidence": 68
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "effective",
+        "confidence": 88
+      },
+      {
+        "word": "matter-of-fact",
+        "confidence": 85
+      },
+      {
+        "word": "perceived",
+        "confidence": 82
+      },
+      {
+        "word": "normal",
+        "confidence": 80
+      },
+      {
+        "word": "straightforward",
+        "confidence": 78
+      },
+      {
+        "word": "statistical",
+        "confidence": 75
+      },
+      {
+        "word": "mixed",
+        "confidence": 70
+      }
+    ]
+  }
+}

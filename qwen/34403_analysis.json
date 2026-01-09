@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "joy",
+        "confidence": 85
+      },
+      {
+        "word": "robust",
+        "confidence": 80
+      },
+      {
+        "word": "misleading",
+        "confidence": 75
+      },
+      {
+        "word": "volatile",
+        "confidence": 70
+      },
+      {
+        "word": "alarm",
+        "confidence": 65
+      },
+      {
+        "word": "transitional",
+        "confidence": 60
+      },
+      {
+        "word": "complex",
+        "confidence": 55
+      },
+      {
+        "word": "distorted",
+        "confidence": 50
+      }
+    ]
+  }
+}

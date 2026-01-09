@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 90
+      },
+      {
+        "word": "leading",
+        "confidence": 85
+      },
+      {
+        "word": "reliable",
+        "confidence": 80
+      },
+      {
+        "word": "market_share",
+        "confidence": 70
+      },
+      {
+        "word": "revenue",
+        "confidence": 65
+      },
+      {
+        "word": "competition",
+        "confidence": 50
+      },
+      {
+        "word": "rise",
+        "confidence": 40
+      },
+      {
+        "word": "dip",
+        "confidence": 30
+      }
+    ]
+  }
+}

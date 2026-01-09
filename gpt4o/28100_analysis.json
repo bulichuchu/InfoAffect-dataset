@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "appreciated",
+        "confidence": 90
+      },
+      {
+        "word": "support",
+        "confidence": 85
+      },
+      {
+        "word": "environmental",
+        "confidence": 82
+      },
+      {
+        "word": "community",
+        "confidence": 80
+      },
+      {
+        "word": "sustainable",
+        "confidence": 78
+      },
+      {
+        "word": "locally",
+        "confidence": 75
+      },
+      {
+        "word": "trendy",
+        "confidence": 65
+      }
+    ]
+  }
+}

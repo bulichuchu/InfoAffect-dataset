@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rise",
+        "confidence": 90
+      },
+      {
+        "word": "increase",
+        "confidence": 85
+      },
+      {
+        "word": "efficiency",
+        "confidence": 80
+      },
+      {
+        "word": "precision",
+        "confidence": 75
+      },
+      {
+        "word": "commonplace",
+        "confidence": 70
+      },
+      {
+        "word": "streamline",
+        "confidence": 65
+      },
+      {
+        "word": "optimize",
+        "confidence": 60
+      },
+      {
+        "word": "important",
+        "confidence": 55
+      }
+    ]
+  }
+}

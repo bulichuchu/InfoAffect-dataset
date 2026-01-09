@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "realistic",
+        "confidence": 80
+      },
+      {
+        "word": "statistical",
+        "confidence": 75
+      },
+      {
+        "word": "statistical",
+        "confidence": 78
+      },
+      {
+        "word": "effective",
+        "confidence": 82
+      },
+      {
+        "word": "normal",
+        "confidence": 70
+      },
+      {
+        "word": "opportunistic",
+        "confidence": 65
+      },
+      {
+        "word": "forward-looking",
+        "confidence": 68
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "joy",
+        "confidence": 85
+      },
+      {
+        "word": "pride",
+        "confidence": 80
+      },
+      {
+        "word": "passion",
+        "confidence": 78
+      },
+      {
+        "word": "fandom",
+        "confidence": 82
+      },
+      {
+        "word": "engagement",
+        "confidence": 77
+      },
+      {
+        "word": "loyalty",
+        "confidence": 75
+      }
+    ]
+  }
+}

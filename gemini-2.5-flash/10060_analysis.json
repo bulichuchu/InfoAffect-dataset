@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 90
+      },
+      {
+        "word": "anger",
+        "confidence": 85
+      },
+      {
+        "word": "costly",
+        "confidence": 80
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      },
+      {
+        "word": "transitional",
+        "confidence": 70
+      },
+      {
+        "word": "vexing",
+        "confidence": 65
+      },
+      {
+        "word": "relieving",
+        "confidence": 55
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 90
+      },
+      {
+        "word": "conflicted",
+        "confidence": 85
+      },
+      {
+        "word": "embattled",
+        "confidence": 80
+      },
+      {
+        "word": "disloyal",
+        "confidence": 75
+      },
+      {
+        "word": "anger",
+        "confidence": 70
+      },
+      {
+        "word": "fractured",
+        "confidence": 78
+      },
+      {
+        "word": "defiant",
+        "confidence": 65
+      },
+      {
+        "word": "political",
+        "confidence": 72
+      }
+    ]
+  }
+}

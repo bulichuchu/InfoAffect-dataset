@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "pessimistic",
+        "confidence": 90
+      },
+      {
+        "word": "discrepancy",
+        "confidence": 85
+      },
+      {
+        "word": "gap",
+        "confidence": 80
+      },
+      {
+        "word": "difference",
+        "confidence": 75
+      },
+      {
+        "word": "perceived",
+        "confidence": 70
+      }
+    ]
+  }
+}

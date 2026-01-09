@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "welcoming",
+        "confidence": 95
+      },
+      {
+        "word": "joy",
+        "confidence": 88
+      },
+      {
+        "word": "joy",
+        "confidence": 85
+      },
+      {
+        "word": "inviting",
+        "confidence": 82
+      },
+      {
+        "word": "joy",
+        "confidence": 78
+      },
+      {
+        "word": "global",
+        "confidence": 75
+      },
+      {
+        "word": "rewarding",
+        "confidence": 70
+      },
+      {
+        "word": "inspiring",
+        "confidence": 65
+      }
+    ]
+  }
+}

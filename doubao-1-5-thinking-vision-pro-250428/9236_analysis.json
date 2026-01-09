@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "indifference",
+        "confidence": 90
+      },
+      {
+        "word": "negligible",
+        "confidence": 85
+      },
+      {
+        "word": "low priority",
+        "confidence": 80
+      },
+      {
+        "word": "unimportant",
+        "confidence": 75
+      },
+      {
+        "word": "marginal",
+        "confidence": 70
+      },
+      {
+        "word": "secondary",
+        "confidence": 65
+      },
+      {
+        "word": "irrelevant",
+        "confidence": 60
+      },
+      {
+        "word": "minor",
+        "confidence": 55
+      }
+    ]
+  }
+}

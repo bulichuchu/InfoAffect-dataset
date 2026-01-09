@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "recession",
+        "confidence": 90
+      },
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "stagnant",
+        "confidence": 80
+      },
+      {
+        "word": "fear",
+        "confidence": 75
+      },
+      {
+        "word": "pessimistic",
+        "confidence": 70
+      },
+      {
+        "word": "trouble",
+        "confidence": 65
+      },
+      {
+        "word": "looming",
+        "confidence": 60
+      },
+      {
+        "word": "weak",
+        "confidence": 55
+      }
+    ]
+  }
+}

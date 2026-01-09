@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "harmful",
+        "confidence": 90
+      },
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "severe",
+        "confidence": 80
+      },
+      {
+        "word": "harmful",
+        "confidence": 75
+      },
+      {
+        "word": "devastation",
+        "confidence": 70
+      },
+      {
+        "word": "reliable",
+        "confidence": 65
+      },
+      {
+        "word": "impactful",
+        "confidence": 60
+      },
+      {
+        "word": "devastate",
+        "confidence": 55
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 88
+      },
+      {
+        "word": "fear",
+        "confidence": 85
+      },
+      {
+        "word": "grim",
+        "confidence": 82
+      },
+      {
+        "word": "alarm",
+        "confidence": 79
+      },
+      {
+        "word": "volatile",
+        "confidence": 76
+      },
+      {
+        "word": "alarm",
+        "confidence": 74
+      },
+      {
+        "word": "historical",
+        "confidence": 70
+      },
+      {
+        "word": "reliable",
+        "confidence": 65
+      }
+    ]
+  }
+}

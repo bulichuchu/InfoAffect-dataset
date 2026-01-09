@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dislike",
+        "confidence": 90
+      },
+      {
+        "word": "unappealing",
+        "confidence": 85
+      },
+      {
+        "word": "unattractive",
+        "confidence": 80
+      },
+      {
+        "word": "unpopular",
+        "confidence": 75
+      },
+      {
+        "word": "unromantic",
+        "confidence": 70
+      },
+      {
+        "word": "unappealing",
+        "confidence": 65
+      },
+      {
+        "word": "unappealing",
+        "confidence": 60
+      },
+      {
+        "word": "unappealing",
+        "confidence": 55
+      }
+    ]
+  }
+}

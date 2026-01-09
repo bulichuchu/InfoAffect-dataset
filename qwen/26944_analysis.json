@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "crisis",
+        "confidence": 90
+      },
+      {
+        "word": "crashing",
+        "confidence": 88
+      },
+      {
+        "word": "shocked",
+        "confidence": 85
+      },
+      {
+        "word": "severe",
+        "confidence": 82
+      },
+      {
+        "word": "alarm",
+        "confidence": 80
+      },
+      {
+        "word": "desperate",
+        "confidence": 75
+      },
+      {
+        "word": "lonely",
+        "confidence": 73
+      },
+      {
+        "word": "volatile",
+        "confidence": 70
+      }
+    ]
+  }
+}

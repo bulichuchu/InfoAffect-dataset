@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 88
+      },
+      {
+        "word": "joy",
+        "confidence": 82
+      },
+      {
+        "word": "effective",
+        "confidence": 78
+      },
+      {
+        "word": "mixed",
+        "confidence": 75
+      },
+      {
+        "word": "unrealistic",
+        "confidence": 70
+      },
+      {
+        "word": "determined",
+        "confidence": 68
+      },
+      {
+        "word": "alarm",
+        "confidence": 65
+      },
+      {
+        "word": "diplomatic",
+        "confidence": 63
+      }
+    ]
+  }
+}

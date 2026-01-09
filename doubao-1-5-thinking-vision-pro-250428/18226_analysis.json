@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "harmful",
+        "confidence": 90
+      },
+      {
+        "word": "harmful",
+        "confidence": 85
+      },
+      {
+        "word": "massive",
+        "confidence": 80
+      },
+      {
+        "word": "severe",
+        "confidence": 75
+      },
+      {
+        "word": "devastation",
+        "confidence": 70
+      },
+      {
+        "word": "disaster",
+        "confidence": 65
+      },
+      {
+        "word": "losses",
+        "confidence": 60
+      },
+      {
+        "word": "impactful",
+        "confidence": 55
+      }
+    ]
+  }
+}

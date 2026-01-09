@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 88
+      },
+      {
+        "word": "excessive",
+        "confidence": 85
+      },
+      {
+        "word": "shocking",
+        "confidence": 82
+      },
+      {
+        "word": "provocative",
+        "confidence": 78
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      },
+      {
+        "word": "striking",
+        "confidence": 72
+      },
+      {
+        "word": "dramatic",
+        "confidence": 70
+      }
+    ]
+  }
+}

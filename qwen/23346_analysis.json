@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 85
+      },
+      {
+        "word": "statistical",
+        "confidence": 80
+      },
+      {
+        "word": "effective",
+        "confidence": 78
+      },
+      {
+        "word": "normal",
+        "confidence": 75
+      },
+      {
+        "word": "alarm",
+        "confidence": 70
+      },
+      {
+        "word": "impartial",
+        "confidence": 68
+      },
+      {
+        "word": "explanatory",
+        "confidence": 72
+      },
+      {
+        "word": "thought-provoking",
+        "confidence": 73
+      }
+    ]
+  }
+}

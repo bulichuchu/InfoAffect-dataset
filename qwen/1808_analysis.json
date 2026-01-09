@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 90
+      },
+      {
+        "word": "powerful",
+        "confidence": 85
+      },
+      {
+        "word": "success",
+        "confidence": 78
+      },
+      {
+        "word": "prominent",
+        "confidence": 82
+      },
+      {
+        "word": "energetic",
+        "confidence": 80
+      },
+      {
+        "word": "authoritative",
+        "confidence": 75
+      },
+      {
+        "word": "joy",
+        "confidence": 65
+      },
+      {
+        "word": "data-driven",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "prideful",
+        "confidence": 90
+      },
+      {
+        "word": "chauvinistic",
+        "confidence": 85
+      },
+      {
+        "word": "boastful",
+        "confidence": 80
+      },
+      {
+        "word": "excellent",
+        "confidence": 88
+      },
+      {
+        "word": "success",
+        "confidence": 75
+      },
+      {
+        "word": "arrogant",
+        "confidence": 78
+      }
+    ]
+  }
+}

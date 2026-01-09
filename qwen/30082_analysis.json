@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "joy",
+        "confidence": 85
+      },
+      {
+        "word": "convenient",
+        "confidence": 80
+      },
+      {
+        "word": "accessible",
+        "confidence": 78
+      },
+      {
+        "word": "innovative",
+        "confidence": 75
+      },
+      {
+        "word": "engaging",
+        "confidence": 72
+      },
+      {
+        "word": "versatile",
+        "confidence": 70
+      },
+      {
+        "word": "confused",
+        "confidence": 65
+      },
+      {
+        "word": "baffling",
+        "confidence": 60
+      }
+    ]
+  }
+}

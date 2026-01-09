@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 90
+      },
+      {
+        "word": "uncertain",
+        "confidence": 85
+      },
+      {
+        "word": "anger",
+        "confidence": 80
+      },
+      {
+        "word": "political",
+        "confidence": 70
+      },
+      {
+        "word": "mixed",
+        "confidence": 65
+      },
+      {
+        "word": "effective",
+        "confidence": 55
+      },
+      {
+        "word": "decisive",
+        "confidence": 50
+      }
+    ]
+  }
+}

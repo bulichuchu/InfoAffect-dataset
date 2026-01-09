@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disruptive",
+        "confidence": 90
+      },
+      {
+        "word": "conflicting",
+        "confidence": 85
+      },
+      {
+        "word": "divergent",
+        "confidence": 80
+      },
+      {
+        "word": "mixed",
+        "confidence": 75
+      },
+      {
+        "word": "deviating",
+        "confidence": 70
+      },
+      {
+        "word": "dissenting",
+        "confidence": 65
+      },
+      {
+        "word": "inconsistent",
+        "confidence": 60
+      },
+      {
+        "word": "disagreement",
+        "confidence": 55
+      }
+    ]
+  }
+}

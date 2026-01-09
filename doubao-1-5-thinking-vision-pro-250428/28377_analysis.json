@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disastrous",
+        "confidence": 88
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "precarious",
+        "confidence": 82
+      },
+      {
+        "word": "dramatic",
+        "confidence": 80
+      },
+      {
+        "word": "turmoil",
+        "confidence": 78
+      },
+      {
+        "word": "declining",
+        "confidence": 75
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "aspirational",
+        "confidence": 88
+      },
+      {
+        "word": "joy",
+        "confidence": 85
+      },
+      {
+        "word": "discrepant",
+        "confidence": 82
+      },
+      {
+        "word": "success",
+        "confidence": 80
+      },
+      {
+        "word": "contrasting",
+        "confidence": 78
+      },
+      {
+        "word": "joy",
+        "confidence": 75
+      },
+      {
+        "word": "disproportionate",
+        "confidence": 70
+      },
+      {
+        "word": "forward-looking",
+        "confidence": 77
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "reliable",
+        "confidence": 95
+      },
+      {
+        "word": "mixed",
+        "confidence": 90
+      },
+      {
+        "word": "excessive",
+        "confidence": 85
+      },
+      {
+        "word": "prosperous",
+        "confidence": 80
+      },
+      {
+        "word": "rewarding",
+        "confidence": 75
+      },
+      {
+        "word": "disproportionate",
+        "confidence": 70
+      }
+    ]
+  }
+}

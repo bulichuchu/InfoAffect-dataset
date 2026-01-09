@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "improved",
+        "confidence": 85
+      },
+      {
+        "word": "unstable",
+        "confidence": 80
+      },
+      {
+        "word": "volatile",
+        "confidence": 78
+      },
+      {
+        "word": "negative",
+        "confidence": 75
+      },
+      {
+        "word": "struggle",
+        "confidence": 72
+      },
+      {
+        "word": "perceived",
+        "confidence": 70
+      }
+    ]
+  }
+}

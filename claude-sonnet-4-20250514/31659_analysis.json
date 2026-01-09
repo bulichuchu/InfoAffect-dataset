@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "annoying",
+        "confidence": 95
+      },
+      {
+        "word": "frustrated",
+        "confidence": 88
+      },
+      {
+        "word": "irritated",
+        "confidence": 85
+      },
+      {
+        "word": "intrusive",
+        "confidence": 82
+      },
+      {
+        "word": "obnoxious",
+        "confidence": 78
+      },
+      {
+        "word": "disruptive",
+        "confidence": 75
+      },
+      {
+        "word": "unwelcome",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fleeing",
+        "confidence": 90
+      },
+      {
+        "word": "crisis",
+        "confidence": 85
+      },
+      {
+        "word": "migratory",
+        "confidence": 80
+      },
+      {
+        "word": "instability",
+        "confidence": 82
+      },
+      {
+        "word": "displacement",
+        "confidence": 78
+      },
+      {
+        "word": "emigration",
+        "confidence": 75
+      },
+      {
+        "word": "refugee",
+        "confidence": 77
+      },
+      {
+        "word": "migrant",
+        "confidence": 74
+      }
+    ]
+  }
+}

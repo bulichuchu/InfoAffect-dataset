@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fear",
+        "confidence": 88
+      },
+      {
+        "word": "profound",
+        "confidence": 85
+      },
+      {
+        "word": "enduring",
+        "confidence": 82
+      },
+      {
+        "word": "heavy",
+        "confidence": 78
+      },
+      {
+        "word": "reflective",
+        "confidence": 75
+      },
+      {
+        "word": "melancholic",
+        "confidence": 70
+      },
+      {
+        "word": "reliable",
+        "confidence": 65
+      },
+      {
+        "word": "solemn",
+        "confidence": 80
+      }
+    ]
+  }
+}

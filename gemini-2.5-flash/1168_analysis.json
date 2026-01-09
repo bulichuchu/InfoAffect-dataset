@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 90
+      },
+      {
+        "word": "contentious",
+        "confidence": 85
+      },
+      {
+        "word": "exorbitant",
+        "confidence": 80
+      },
+      {
+        "word": "indignant",
+        "confidence": 75
+      },
+      {
+        "word": "unfairness",
+        "confidence": 70
+      },
+      {
+        "word": "unchanging",
+        "confidence": 65
+      }
+    ]
+  }
+}

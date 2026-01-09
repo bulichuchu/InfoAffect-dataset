@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "practical",
+        "confidence": 90
+      },
+      {
+        "word": "high-end",
+        "confidence": 85
+      },
+      {
+        "word": "excellent",
+        "confidence": 80
+      },
+      {
+        "word": "luxury",
+        "confidence": 70
+      },
+      {
+        "word": "affordable",
+        "confidence": 50
+      },
+      {
+        "word": "success",
+        "confidence": 65
+      },
+      {
+        "word": "popular",
+        "confidence": 55
+      },
+      {
+        "word": "exclusive",
+        "confidence": 60
+      }
+    ]
+  }
+}

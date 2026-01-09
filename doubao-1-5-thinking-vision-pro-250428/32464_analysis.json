@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "inspiration",
+        "confidence": 90
+      },
+      {
+        "word": "advice",
+        "confidence": 85
+      },
+      {
+        "word": "ideas",
+        "confidence": 80
+      },
+      {
+        "word": "choices",
+        "confidence": 75
+      },
+      {
+        "word": "tips",
+        "confidence": 70
+      },
+      {
+        "word": "excursion",
+        "confidence": 65
+      },
+      {
+        "word": "viral",
+        "confidence": 60
+      },
+      {
+        "word": "core",
+        "confidence": 55
+      }
+    ]
+  }
+}

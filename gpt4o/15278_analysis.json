@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unfamiliar",
+        "confidence": 90
+      },
+      {
+        "word": "neglect",
+        "confidence": 85
+      },
+      {
+        "word": "overlooked",
+        "confidence": 83
+      },
+      {
+        "word": "disconnected",
+        "confidence": 80
+      },
+      {
+        "word": "underwhelming",
+        "confidence": 78
+      }
+    ]
+  }
+}

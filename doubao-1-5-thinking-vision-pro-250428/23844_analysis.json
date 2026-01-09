@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "sadness",
+        "confidence": 85
+      },
+      {
+        "word": "grief",
+        "confidence": 80
+      },
+      {
+        "word": "tragedy",
+        "confidence": 75
+      },
+      {
+        "word": "loss",
+        "confidence": 70
+      },
+      {
+        "word": "devastation",
+        "confidence": 65
+      },
+      {
+        "word": "heartbreaking",
+        "confidence": 60
+      },
+      {
+        "word": "shame",
+        "confidence": 55
+      },
+      {
+        "word": "concern",
+        "confidence": 50
+      }
+    ]
+  }
+}

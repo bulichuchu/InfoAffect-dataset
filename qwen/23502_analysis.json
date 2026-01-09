@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 90
+      },
+      {
+        "word": "powerful",
+        "confidence": 85
+      },
+      {
+        "word": "alarm",
+        "confidence": 80
+      },
+      {
+        "word": "authoritative",
+        "confidence": 75
+      },
+      {
+        "word": "alarm",
+        "confidence": 70
+      },
+      {
+        "word": "monopolistic",
+        "confidence": 78
+      },
+      {
+        "word": "energetic",
+        "confidence": 82
+      },
+      {
+        "word": "formal",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "statistical",
+        "confidence": 90
+      },
+      {
+        "word": "mixed",
+        "confidence": 85
+      },
+      {
+        "word": "underdog",
+        "confidence": 75
+      },
+      {
+        "word": "contrast",
+        "confidence": 80
+      },
+      {
+        "word": "realistic",
+        "confidence": 78
+      },
+      {
+        "word": "acceptance",
+        "confidence": 70
+      }
+    ]
+  }
+}

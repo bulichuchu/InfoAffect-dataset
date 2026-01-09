@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "surprised",
+        "confidence": 80
+      },
+      {
+        "word": "transitional",
+        "confidence": 78
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      },
+      {
+        "word": "disappointed",
+        "confidence": 72
+      },
+      {
+        "word": "joy",
+        "confidence": 70
+      },
+      {
+        "word": "anger",
+        "confidence": 65
+      },
+      {
+        "word": "predictive",
+        "confidence": 60
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transitional",
+        "confidence": 85
+      },
+      {
+        "word": "contrasting",
+        "confidence": 80
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      },
+      {
+        "word": "transitional",
+        "confidence": 78
+      },
+      {
+        "word": "declining",
+        "confidence": 72
+      },
+      {
+        "word": "statistical",
+        "confidence": 70
+      },
+      {
+        "word": "statistical",
+        "confidence": 65
+      },
+      {
+        "word": "perceived",
+        "confidence": 68
+      }
+    ]
+  }
+}

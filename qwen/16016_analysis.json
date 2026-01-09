@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "structured",
+        "confidence": 90
+      },
+      {
+        "word": "formal",
+        "confidence": 85
+      },
+      {
+        "word": "normal",
+        "confidence": 80
+      },
+      {
+        "word": "methodical",
+        "confidence": 75
+      },
+      {
+        "word": "systematic",
+        "confidence": 78
+      },
+      {
+        "word": "authoritative",
+        "confidence": 72
+      },
+      {
+        "word": "educational",
+        "confidence": 68
+      },
+      {
+        "word": "complex",
+        "confidence": 65
+      }
+    ]
+  }
+}

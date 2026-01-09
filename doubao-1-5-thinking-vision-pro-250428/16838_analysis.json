@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rise",
+        "confidence": 90
+      },
+      {
+        "word": "increase",
+        "confidence": 85
+      },
+      {
+        "word": "new high",
+        "confidence": 80
+      },
+      {
+        "word": "alarm",
+        "confidence": 70
+      },
+      {
+        "word": "hard sell",
+        "confidence": 65
+      },
+      {
+        "word": "controversy",
+        "confidence": 60
+      },
+      {
+        "word": "kerfuffle",
+        "confidence": 55
+      },
+      {
+        "word": "slammed",
+        "confidence": 50
+      }
+    ]
+  }
+}

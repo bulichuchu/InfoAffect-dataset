@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "sinister",
+        "confidence": 88
+      },
+      {
+        "word": "chilling",
+        "confidence": 85
+      },
+      {
+        "word": "ominous",
+        "confidence": 82
+      },
+      {
+        "word": "gruesome",
+        "confidence": 78
+      },
+      {
+        "word": "thrilling",
+        "confidence": 75
+      },
+      {
+        "word": "dark",
+        "confidence": 72
+      },
+      {
+        "word": "menacing",
+        "confidence": 70
+      },
+      {
+        "word": "suspenseful",
+        "confidence": 68
+      }
+    ]
+  }
+}

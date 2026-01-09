@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disillusionment",
+        "confidence": 92
+      },
+      {
+        "word": "negativity",
+        "confidence": 90
+      },
+      {
+        "word": "frustration",
+        "confidence": 88
+      },
+      {
+        "word": "pessimistic",
+        "confidence": 85
+      },
+      {
+        "word": "discontent",
+        "confidence": 82
+      },
+      {
+        "word": "cynical",
+        "confidence": 78
+      },
+      {
+        "word": "resigned",
+        "confidence": 75
+      },
+      {
+        "word": "mixed",
+        "confidence": 70
+      }
+    ]
+  }
+}

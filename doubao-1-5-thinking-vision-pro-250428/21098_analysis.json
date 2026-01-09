@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 90
+      },
+      {
+        "word": "vulnerable",
+        "confidence": 85
+      },
+      {
+        "word": "risks",
+        "confidence": 80
+      },
+      {
+        "word": "severe",
+        "confidence": 75
+      },
+      {
+        "word": "struggle",
+        "confidence": 70
+      },
+      {
+        "word": "lonely",
+        "confidence": 65
+      },
+      {
+        "word": "declining",
+        "confidence": 60
+      },
+      {
+        "word": "disadvantaged",
+        "confidence": 55
+      }
+    ]
+  }
+}

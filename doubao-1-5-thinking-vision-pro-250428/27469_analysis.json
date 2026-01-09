@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fluctuating",
+        "confidence": 90
+      },
+      {
+        "word": "uncertain",
+        "confidence": 85
+      },
+      {
+        "word": "turbulent",
+        "confidence": 80
+      },
+      {
+        "word": "energetic",
+        "confidence": 70
+      },
+      {
+        "word": "reliable",
+        "confidence": 65
+      },
+      {
+        "word": "joy",
+        "confidence": 50
+      },
+      {
+        "word": "dwindling",
+        "confidence": 55
+      },
+      {
+        "word": "joy",
+        "confidence": 45
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "avoidant",
+        "confidence": 95
+      },
+      {
+        "word": "fear",
+        "confidence": 88
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "uncomfortable",
+        "confidence": 82
+      },
+      {
+        "word": "resigned",
+        "confidence": 78
+      },
+      {
+        "word": "weary",
+        "confidence": 75
+      },
+      {
+        "word": "diplomatic",
+        "confidence": 70
+      }
+    ]
+  }
+}

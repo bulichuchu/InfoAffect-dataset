@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "largest",
+        "confidence": 90
+      },
+      {
+        "word": "fall",
+        "confidence": 85
+      },
+      {
+        "word": "practical",
+        "confidence": 70
+      },
+      {
+        "word": "crisis",
+        "confidence": 80
+      },
+      {
+        "word": "declining",
+        "confidence": 75
+      },
+      {
+        "word": "declining",
+        "confidence": 65
+      },
+      {
+        "word": "unemployment",
+        "confidence": 55
+      }
+    ]
+  }
+}

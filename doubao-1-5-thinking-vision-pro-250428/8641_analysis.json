@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "shortage",
+        "confidence": 90
+      },
+      {
+        "word": "shortage",
+        "confidence": 85
+      },
+      {
+        "word": "uncertain",
+        "confidence": 80
+      },
+      {
+        "word": "pressing",
+        "confidence": 75
+      },
+      {
+        "word": "struggle",
+        "confidence": 70
+      },
+      {
+        "word": "struggle",
+        "confidence": 65
+      },
+      {
+        "word": "struggle",
+        "confidence": 60
+      },
+      {
+        "word": "struggle",
+        "confidence": 55
+      }
+    ]
+  }
+}

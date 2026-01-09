@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "powerful",
+        "confidence": 90
+      },
+      {
+        "word": "energetic",
+        "confidence": 85
+      },
+      {
+        "word": "success",
+        "confidence": 80
+      },
+      {
+        "word": "reliable",
+        "confidence": 75
+      },
+      {
+        "word": "notable",
+        "confidence": 70
+      },
+      {
+        "word": "impactful",
+        "confidence": 65
+      },
+      {
+        "word": "striking",
+        "confidence": 60
+      },
+      {
+        "word": "eye-catching",
+        "confidence": 55
+      }
+    ]
+  }
+}

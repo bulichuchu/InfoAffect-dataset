@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "landslide",
+        "confidence": 90
+      },
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "failed",
+        "confidence": 70
+      },
+      {
+        "word": "popular",
+        "confidence": 75
+      },
+      {
+        "word": "pro-EU",
+        "confidence": 65
+      },
+      {
+        "word": "centrist",
+        "confidence": 55
+      },
+      {
+        "word": "strong",
+        "confidence": 50
+      },
+      {
+        "word": "stark",
+        "confidence": 45
+      }
+    ]
+  }
+}

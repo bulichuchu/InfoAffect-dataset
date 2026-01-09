@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fear",
+        "confidence": 90
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "harmful",
+        "confidence": 80
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      },
+      {
+        "word": "staggering",
+        "confidence": 70
+      },
+      {
+        "word": "harmful",
+        "confidence": 65
+      },
+      {
+        "word": "shocking",
+        "confidence": 60
+      },
+      {
+        "word": "alarm",
+        "confidence": 55
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "accepting",
+        "confidence": 85
+      },
+      {
+        "word": "reasonable",
+        "confidence": 80
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 75
+      },
+      {
+        "word": "understanding",
+        "confidence": 72
+      },
+      {
+        "word": "resigned",
+        "confidence": 65
+      },
+      {
+        "word": "normal",
+        "confidence": 68
+      },
+      {
+        "word": "effective",
+        "confidence": 70
+      },
+      {
+        "word": "balanced",
+        "confidence": 63
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anomalous",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 80
+      },
+      {
+        "word": "statistical",
+        "confidence": 75
+      },
+      {
+        "word": "disruptive",
+        "confidence": 72
+      },
+      {
+        "word": "statistical",
+        "confidence": 78
+      },
+      {
+        "word": "reliable",
+        "confidence": 76
+      },
+      {
+        "word": "volatile",
+        "confidence": 70
+      },
+      {
+        "word": "effective",
+        "confidence": 82
+      }
+    ]
+  }
+}

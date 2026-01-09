@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "environmentally conscious",
+        "confidence": 90
+      },
+      {
+        "word": "sustainable",
+        "confidence": 85
+      },
+      {
+        "word": "responsible",
+        "confidence": 80
+      },
+      {
+        "word": "ecological",
+        "confidence": 75
+      },
+      {
+        "word": "green",
+        "confidence": 70
+      },
+      {
+        "word": "conserving",
+        "confidence": 65
+      },
+      {
+        "word": "mindful",
+        "confidence": 60
+      },
+      {
+        "word": "environment-friendly",
+        "confidence": 55
+      }
+    ]
+  }
+}

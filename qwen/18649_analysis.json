@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "decisive",
+        "confidence": 80
+      },
+      {
+        "word": "success",
+        "confidence": 78
+      },
+      {
+        "word": "resolute",
+        "confidence": 75
+      },
+      {
+        "word": "unconcerned",
+        "confidence": 72
+      },
+      {
+        "word": "joy",
+        "confidence": 70
+      },
+      {
+        "word": "indifferent",
+        "confidence": 65
+      },
+      {
+        "word": "support",
+        "confidence": 68
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surveillance",
+        "confidence": 90
+      },
+      {
+        "word": "invasion",
+        "confidence": 85
+      },
+      {
+        "word": "intrusion",
+        "confidence": 80
+      },
+      {
+        "word": "perceived",
+        "confidence": 95
+      },
+      {
+        "word": "perceived",
+        "confidence": 70
+      },
+      {
+        "word": "followed",
+        "confidence": 75
+      },
+      {
+        "word": "perceived",
+        "confidence": 65
+      },
+      {
+        "word": "watchful",
+        "confidence": 55
+      }
+    ]
+  }
+}

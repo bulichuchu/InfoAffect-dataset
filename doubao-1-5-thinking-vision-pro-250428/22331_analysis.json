@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "stalled",
+        "confidence": 90
+      },
+      {
+        "word": "incompatible",
+        "confidence": 85
+      },
+      {
+        "word": "patchwork",
+        "confidence": 80
+      },
+      {
+        "word": "weakness",
+        "confidence": 75
+      },
+      {
+        "word": "issue",
+        "confidence": 70
+      }
+    ]
+  }
+}

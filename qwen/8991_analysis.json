@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "joy",
+        "confidence": 80
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      },
+      {
+        "word": "evaluative",
+        "confidence": 78
+      },
+      {
+        "word": "political",
+        "confidence": 72
+      },
+      {
+        "word": "effective",
+        "confidence": 82
+      },
+      {
+        "word": "normal",
+        "confidence": 65
+      },
+      {
+        "word": "anticipated",
+        "confidence": 70
+      }
+    ]
+  }
+}

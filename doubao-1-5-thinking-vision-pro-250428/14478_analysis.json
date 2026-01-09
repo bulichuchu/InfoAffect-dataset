@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disruption",
+        "confidence": 90
+      },
+      {
+        "word": "interruption",
+        "confidence": 85
+      },
+      {
+        "word": "criticism",
+        "confidence": 80
+      },
+      {
+        "word": "breakup",
+        "confidence": 75
+      },
+      {
+        "word": "stoppage",
+        "confidence": 70
+      },
+      {
+        "word": "inconvenience",
+        "confidence": 65
+      },
+      {
+        "word": "harmful",
+        "confidence": 60
+      },
+      {
+        "word": "unwelcome",
+        "confidence": 55
+      }
+    ]
+  }
+}

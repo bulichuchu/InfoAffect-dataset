@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 90
+      },
+      {
+        "word": "revised",
+        "confidence": 85
+      },
+      {
+        "word": "deceleration",
+        "confidence": 80
+      },
+      {
+        "word": "staggered",
+        "confidence": 75
+      },
+      {
+        "word": "lower",
+        "confidence": 70
+      },
+      {
+        "word": "exacerbated",
+        "confidence": 65
+      },
+      {
+        "word": "contribute",
+        "confidence": 60
+      },
+      {
+        "word": "declining",
+        "confidence": 55
+      }
+    ]
+  }
+}

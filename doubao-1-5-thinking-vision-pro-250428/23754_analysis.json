@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "latest",
+        "confidence": 90
+      },
+      {
+        "word": "normalize",
+        "confidence": 85
+      },
+      {
+        "word": "disputed",
+        "confidence": 80
+      },
+      {
+        "word": "criticize",
+        "confidence": 70
+      },
+      {
+        "word": "set",
+        "confidence": 65
+      },
+      {
+        "word": "claim",
+        "confidence": 60
+      },
+      {
+        "word": "establish",
+        "confidence": 55
+      },
+      {
+        "word": "independent",
+        "confidence": 50
+      }
+    ]
+  }
+}

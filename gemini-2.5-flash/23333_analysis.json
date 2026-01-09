@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "ironic",
+        "confidence": 95
+      },
+      {
+        "word": "exasperated",
+        "confidence": 90
+      },
+      {
+        "word": "alarm",
+        "confidence": 90
+      },
+      {
+        "word": "inefficient",
+        "confidence": 88
+      },
+      {
+        "word": "costly",
+        "confidence": 85
+      },
+      {
+        "word": "absurd",
+        "confidence": 80
+      }
+    ]
+  }
+}

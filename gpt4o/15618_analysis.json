@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 90
+      },
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "global",
+        "confidence": 82
+      },
+      {
+        "word": "prestigious",
+        "confidence": 78
+      },
+      {
+        "word": "leading",
+        "confidence": 80
+      },
+      {
+        "word": "energetic",
+        "confidence": 75
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "imminent",
+        "confidence": 90
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "drastic",
+        "confidence": 80
+      },
+      {
+        "word": "crashing",
+        "confidence": 75
+      },
+      {
+        "word": "extinction",
+        "confidence": 70
+      },
+      {
+        "word": "immediate",
+        "confidence": 65
+      },
+      {
+        "word": "highly likely",
+        "confidence": 60
+      },
+      {
+        "word": "reminiscent",
+        "confidence": 55
+      }
+    ]
+  }
+}

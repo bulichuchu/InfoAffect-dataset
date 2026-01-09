@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "de-escalation",
+        "confidence": 70
+      },
+      {
+        "word": "reprise",
+        "confidence": 65
+      },
+      {
+        "word": "chaotic",
+        "confidence": 55
+      },
+      {
+        "word": "altered",
+        "confidence": 50
+      },
+      {
+        "word": "distracting",
+        "confidence": 45
+      }
+    ]
+  }
+}

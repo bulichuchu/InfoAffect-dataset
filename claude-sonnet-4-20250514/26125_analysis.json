@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "accusatory",
+        "confidence": 90
+      },
+      {
+        "word": "condemning",
+        "confidence": 87
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "indignant",
+        "confidence": 82
+      },
+      {
+        "word": "exposing",
+        "confidence": 78
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      },
+      {
+        "word": "provocative",
+        "confidence": 70
+      }
+    ]
+  }
+}

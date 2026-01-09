@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "excellent",
+        "confidence": 85
+      },
+      {
+        "word": "costly",
+        "confidence": 90
+      },
+      {
+        "word": "declining",
+        "confidence": 75
+      },
+      {
+        "word": "innovative",
+        "confidence": 80
+      },
+      {
+        "word": "success",
+        "confidence": 78
+      },
+      {
+        "word": "anger",
+        "confidence": 70
+      },
+      {
+        "word": "proud",
+        "confidence": 65
+      },
+      {
+        "word": "technical",
+        "confidence": 60
+      }
+    ]
+  }
+}

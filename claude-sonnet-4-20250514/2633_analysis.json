@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fear",
+        "confidence": 88
+      },
+      {
+        "word": "shocking",
+        "confidence": 85
+      },
+      {
+        "word": "daunting",
+        "confidence": 82
+      },
+      {
+        "word": "stressful",
+        "confidence": 78
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      },
+      {
+        "word": "alarm",
+        "confidence": 72
+      },
+      {
+        "word": "burdensome",
+        "confidence": 70
+      }
+    ]
+  }
+}

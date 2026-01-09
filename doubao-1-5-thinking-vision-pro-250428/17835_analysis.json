@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "betting",
+        "confidence": 90
+      },
+      {
+        "word": "fossil fuels",
+        "confidence": 85
+      },
+      {
+        "word": "trillion",
+        "confidence": 80
+      },
+      {
+        "word": "coming decade",
+        "confidence": 75
+      },
+      {
+        "word": "goals",
+        "confidence": 70
+      },
+      {
+        "word": "curb",
+        "confidence": 65
+      },
+      {
+        "word": "rising temperatures",
+        "confidence": 60
+      }
+    ]
+  }
+}

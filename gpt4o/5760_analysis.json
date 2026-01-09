@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "reliant",
+        "confidence": 88
+      },
+      {
+        "word": "concerned",
+        "confidence": 83
+      },
+      {
+        "word": "dependent",
+        "confidence": 80
+      },
+      {
+        "word": "alarm",
+        "confidence": 78
+      },
+      {
+        "word": "focused",
+        "confidence": 75
+      },
+      {
+        "word": "success",
+        "confidence": 74
+      }
+    ]
+  }
+}

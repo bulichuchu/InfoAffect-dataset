@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 95
+      },
+      {
+        "word": "crisis",
+        "confidence": 90
+      },
+      {
+        "word": "dire",
+        "confidence": 88
+      },
+      {
+        "word": "fear",
+        "confidence": 80
+      },
+      {
+        "word": "mismanaged",
+        "confidence": 75
+      },
+      {
+        "word": "fear",
+        "confidence": 70
+      }
+    ]
+  }
+}

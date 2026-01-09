@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 87
+      },
+      {
+        "word": "concern",
+        "confidence": 80
+      },
+      {
+        "word": "inequality",
+        "confidence": 85
+      },
+      {
+        "word": "controversy",
+        "confidence": 78
+      },
+      {
+        "word": "substantial",
+        "confidence": 82
+      },
+      {
+        "word": "highlight",
+        "confidence": 75
+      }
+    ]
+  }
+}

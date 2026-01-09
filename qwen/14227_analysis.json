@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "restricted",
+        "confidence": 90
+      },
+      {
+        "word": "lonely",
+        "confidence": 85
+      },
+      {
+        "word": "formal",
+        "confidence": 88
+      },
+      {
+        "word": "informal",
+        "confidence": 75
+      },
+      {
+        "word": "reliable",
+        "confidence": 70
+      },
+      {
+        "word": "clandestine",
+        "confidence": 65
+      },
+      {
+        "word": "limited",
+        "confidence": 80
+      },
+      {
+        "word": "repressive",
+        "confidence": 78
+      }
+    ]
+  }
+}

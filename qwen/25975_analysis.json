@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 88
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "fear",
+        "confidence": 80
+      },
+      {
+        "word": "trendy",
+        "confidence": 65
+      },
+      {
+        "word": "statistical",
+        "confidence": 75
+      },
+      {
+        "word": "alarm",
+        "confidence": 78
+      },
+      {
+        "word": "record-breaking",
+        "confidence": 70
+      },
+      {
+        "word": "declining",
+        "confidence": 82
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surpass",
+        "confidence": 90
+      },
+      {
+        "word": "lead",
+        "confidence": 85
+      },
+      {
+        "word": "trailing",
+        "confidence": 80
+      },
+      {
+        "word": "worldwide",
+        "confidence": 70
+      },
+      {
+        "word": "first time",
+        "confidence": 65
+      },
+      {
+        "word": "account for",
+        "confidence": 55
+      },
+      {
+        "word": "no longer",
+        "confidence": 50
+      },
+      {
+        "word": "should come as little surprise",
+        "confidence": 45
+      }
+    ]
+  }
+}

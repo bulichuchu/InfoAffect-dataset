@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "crisis",
+        "confidence": 90
+      },
+      {
+        "word": "debt",
+        "confidence": 85
+      },
+      {
+        "word": "soaring",
+        "confidence": 80
+      },
+      {
+        "word": "excessive",
+        "confidence": 75
+      },
+      {
+        "word": "record",
+        "confidence": 70
+      },
+      {
+        "word": "mountain",
+        "confidence": 65
+      },
+      {
+        "word": "shock",
+        "confidence": 60
+      },
+      {
+        "word": "struggle",
+        "confidence": 55
+      }
+    ]
+  }
+}

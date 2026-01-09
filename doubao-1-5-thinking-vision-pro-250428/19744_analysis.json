@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "backlog",
+        "confidence": 90
+      },
+      {
+        "word": "record high",
+        "confidence": 85
+      },
+      {
+        "word": "pending",
+        "confidence": 80
+      },
+      {
+        "word": "deportation",
+        "confidence": 75
+      },
+      {
+        "word": "cases",
+        "confidence": 70
+      }
+    ]
+  }
+}

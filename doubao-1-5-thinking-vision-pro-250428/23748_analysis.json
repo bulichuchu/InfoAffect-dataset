@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "intense",
+        "confidence": 90
+      },
+      {
+        "word": "dominated",
+        "confidence": 85
+      },
+      {
+        "word": "dominate",
+        "confidence": 85
+      },
+      {
+        "word": "protests",
+        "confidence": 80
+      },
+      {
+        "word": "race",
+        "confidence": 70
+      },
+      {
+        "word": "check",
+        "confidence": 65
+      },
+      {
+        "word": "lighter",
+        "confidence": 50
+      }
+    ]
+  }
+}

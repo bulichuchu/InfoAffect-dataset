@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "joy",
+        "confidence": 85
+      },
+      {
+        "word": "relational",
+        "confidence": 80
+      },
+      {
+        "word": "innovative",
+        "confidence": 75
+      },
+      {
+        "word": "expressive",
+        "confidence": 78
+      },
+      {
+        "word": "casual",
+        "confidence": 72
+      },
+      {
+        "word": "digital",
+        "confidence": 70
+      },
+      {
+        "word": "youthful",
+        "confidence": 82
+      },
+      {
+        "word": "sentimental",
+        "confidence": 65
+      }
+    ]
+  }
+}

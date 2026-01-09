@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unbalanced",
+        "confidence": 90
+      },
+      {
+        "word": "disproportionate",
+        "confidence": 85
+      },
+      {
+        "word": "underrepresented",
+        "confidence": 80
+      },
+      {
+        "word": "unequal",
+        "confidence": 75
+      },
+      {
+        "word": "lopsided",
+        "confidence": 70
+      },
+      {
+        "word": "imbalanced",
+        "confidence": 65
+      },
+      {
+        "word": "shortage",
+        "confidence": 60
+      },
+      {
+        "word": "shortage",
+        "confidence": 55
+      }
+    ]
+  }
+}

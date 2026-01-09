@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unproven",
+        "confidence": 90
+      },
+      {
+        "word": "protection",
+        "confidence": 85
+      },
+      {
+        "word": "awareness",
+        "confidence": 70
+      },
+      {
+        "word": "self-protection",
+        "confidence": 80
+      },
+      {
+        "word": "solid",
+        "confidence": 65
+      },
+      {
+        "word": "liquid",
+        "confidence": 65
+      },
+      {
+        "word": "aerosols",
+        "confidence": 60
+      },
+      {
+        "word": "nano-particles",
+        "confidence": 55
+      }
+    ]
+  }
+}

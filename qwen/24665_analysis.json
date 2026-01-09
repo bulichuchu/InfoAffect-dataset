@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "contrasting",
+        "confidence": 90
+      },
+      {
+        "word": "energetic",
+        "confidence": 85
+      },
+      {
+        "word": "reliable",
+        "confidence": 80
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 75
+      },
+      {
+        "word": "success",
+        "confidence": 82
+      },
+      {
+        "word": "evolving",
+        "confidence": 78
+      },
+      {
+        "word": "struggle",
+        "confidence": 70
+      },
+      {
+        "word": "innovative",
+        "confidence": 73
+      }
+    ]
+  }
+}

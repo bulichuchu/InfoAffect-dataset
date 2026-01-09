@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "nostalgic",
+        "confidence": 85
+      },
+      {
+        "word": "pride",
+        "confidence": 80
+      },
+      {
+        "word": "effective",
+        "confidence": 75
+      },
+      {
+        "word": "revival",
+        "confidence": 70
+      },
+      {
+        "word": "historical",
+        "confidence": 65
+      },
+      {
+        "word": "affordable",
+        "confidence": 60
+      }
+    ]
+  }
+}

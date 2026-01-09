@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "joy",
+        "confidence": 90
+      },
+      {
+        "word": "joy",
+        "confidence": 85
+      },
+      {
+        "word": "innovative",
+        "confidence": 80
+      },
+      {
+        "word": "joy",
+        "confidence": 75
+      },
+      {
+        "word": "upward",
+        "confidence": 70
+      },
+      {
+        "word": "recovery",
+        "confidence": 65
+      },
+      {
+        "word": "rise",
+        "confidence": 60
+      },
+      {
+        "word": "deregulation",
+        "confidence": 55
+      }
+    ]
+  }
+}

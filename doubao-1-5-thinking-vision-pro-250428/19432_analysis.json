@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "crashing",
+        "confidence": 90
+      },
+      {
+        "word": "crashing",
+        "confidence": 85
+      },
+      {
+        "word": "liquidation",
+        "confidence": 80
+      },
+      {
+        "word": "loss",
+        "confidence": 75
+      },
+      {
+        "word": "fear",
+        "confidence": 70
+      },
+      {
+        "word": "uncertain",
+        "confidence": 65
+      },
+      {
+        "word": "depressed",
+        "confidence": 60
+      },
+      {
+        "word": "unwillingness",
+        "confidence": 55
+      }
+    ]
+  }
+}

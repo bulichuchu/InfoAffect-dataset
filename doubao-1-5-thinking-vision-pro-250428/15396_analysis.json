@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "convenience",
+        "confidence": 90
+      },
+      {
+        "word": "normal",
+        "confidence": 85
+      },
+      {
+        "word": "comfortable",
+        "confidence": 80
+      },
+      {
+        "word": "frustration",
+        "confidence": 70
+      },
+      {
+        "word": "hesitation",
+        "confidence": 65
+      },
+      {
+        "word": "indifference",
+        "confidence": 55
+      },
+      {
+        "word": "uncertain",
+        "confidence": 50
+      },
+      {
+        "word": "resistance",
+        "confidence": 45
+      }
+    ]
+  }
+}

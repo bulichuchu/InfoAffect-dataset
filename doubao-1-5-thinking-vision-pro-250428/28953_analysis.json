@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "widespread",
+        "confidence": 90
+      },
+      {
+        "word": "prevalent",
+        "confidence": 85
+      },
+      {
+        "word": "scandalous",
+        "confidence": 80
+      },
+      {
+        "word": "transitional",
+        "confidence": 70
+      },
+      {
+        "word": "disconcerting",
+        "confidence": 65
+      },
+      {
+        "word": "shocking",
+        "confidence": 55
+      },
+      {
+        "word": "harmful",
+        "confidence": 50
+      },
+      {
+        "word": "dismaying",
+        "confidence": 45
+      }
+    ]
+  }
+}

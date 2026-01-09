@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fear",
+        "confidence": 90
+      },
+      {
+        "word": "bureaucratic",
+        "confidence": 88
+      },
+      {
+        "word": "pending",
+        "confidence": 85
+      },
+      {
+        "word": "cumbersome",
+        "confidence": 82
+      },
+      {
+        "word": "unresolved",
+        "confidence": 78
+      },
+      {
+        "word": "pressured",
+        "confidence": 75
+      }
+    ]
+  }
+}

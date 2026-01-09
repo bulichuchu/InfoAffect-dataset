@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "joy",
+        "confidence": 85
+      },
+      {
+        "word": "welcoming",
+        "confidence": 80
+      },
+      {
+        "word": "joy",
+        "confidence": 75
+      },
+      {
+        "word": "friendly",
+        "confidence": 78
+      },
+      {
+        "word": "relaxed",
+        "confidence": 72
+      },
+      {
+        "word": "support",
+        "confidence": 70
+      },
+      {
+        "word": "joy",
+        "confidence": 68
+      },
+      {
+        "word": "normal",
+        "confidence": 65
+      }
+    ]
+  }
+}

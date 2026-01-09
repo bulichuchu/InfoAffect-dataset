@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "hesitant",
+        "confidence": 90
+      },
+      {
+        "word": "uncertain",
+        "confidence": 85
+      },
+      {
+        "word": "doubtful",
+        "confidence": 80
+      },
+      {
+        "word": "concerned",
+        "confidence": 70
+      },
+      {
+        "word": "worried",
+        "confidence": 65
+      },
+      {
+        "word": "alarm",
+        "confidence": 60
+      },
+      {
+        "word": "misinformed",
+        "confidence": 55
+      },
+      {
+        "word": "misleading",
+        "confidence": 50
+      }
+    ]
+  }
+}

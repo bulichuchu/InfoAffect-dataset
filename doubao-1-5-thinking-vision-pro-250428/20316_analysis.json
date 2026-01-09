@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "removal",
+        "confidence": 90
+      },
+      {
+        "word": "arrest",
+        "confidence": 85
+      },
+      {
+        "word": "detention",
+        "confidence": 80
+      },
+      {
+        "word": "deportation",
+        "confidence": 85
+      },
+      {
+        "word": "increasing",
+        "confidence": 75
+      },
+      {
+        "word": "declining",
+        "confidence": 65
+      },
+      {
+        "word": "excellent",
+        "confidence": 70
+      },
+      {
+        "word": "third-placed",
+        "confidence": 55
+      }
+    ]
+  }
+}

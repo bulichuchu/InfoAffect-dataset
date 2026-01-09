@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "strong",
+        "confidence": 90
+      },
+      {
+        "word": "excellent",
+        "confidence": 85
+      },
+      {
+        "word": "commanding",
+        "confidence": 80
+      },
+      {
+        "word": "trailing",
+        "confidence": 75
+      },
+      {
+        "word": "negative",
+        "confidence": 70
+      },
+      {
+        "word": "lackluster",
+        "confidence": 65
+      },
+      {
+        "word": "struggle",
+        "confidence": 60
+      },
+      {
+        "word": "soaring",
+        "confidence": 55
+      }
+    ]
+  }
+}

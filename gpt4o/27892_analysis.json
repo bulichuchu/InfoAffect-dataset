@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "crisis",
+        "confidence": 90
+      },
+      {
+        "word": "impact",
+        "confidence": 85
+      },
+      {
+        "word": "disarray",
+        "confidence": 82
+      },
+      {
+        "word": "alarm",
+        "confidence": 80
+      },
+      {
+        "word": "restricted",
+        "confidence": 78
+      },
+      {
+        "word": "insecurity",
+        "confidence": 76
+      }
+    ]
+  }
+}

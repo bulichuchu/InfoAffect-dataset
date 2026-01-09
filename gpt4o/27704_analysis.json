@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "defensive",
+        "confidence": 77
+      },
+      {
+        "word": "sacrificing",
+        "confidence": 80
+      },
+      {
+        "word": "unprepared",
+        "confidence": 70
+      },
+      {
+        "word": "anger",
+        "confidence": 75
+      },
+      {
+        "word": "reliable",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "preparedness",
+        "confidence": 90
+      },
+      {
+        "word": "compliance",
+        "confidence": 85
+      },
+      {
+        "word": "risk",
+        "confidence": 80
+      },
+      {
+        "word": "effective",
+        "confidence": 78
+      },
+      {
+        "word": "concern",
+        "confidence": 75
+      },
+      {
+        "word": "vigilance",
+        "confidence": 72
+      }
+    ]
+  }
+}

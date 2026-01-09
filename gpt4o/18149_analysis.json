@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "patriotic",
+        "confidence": 90
+      },
+      {
+        "word": "sentimental",
+        "confidence": 85
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 80
+      },
+      {
+        "word": "protective",
+        "confidence": 75
+      },
+      {
+        "word": "tradition",
+        "confidence": 78
+      },
+      {
+        "word": "resistant",
+        "confidence": 70
+      }
+    ]
+  }
+}

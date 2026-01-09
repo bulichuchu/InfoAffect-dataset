@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "traditional",
+        "confidence": 90
+      },
+      {
+        "word": "unaffected",
+        "confidence": 85
+      },
+      {
+        "word": "consistent",
+        "confidence": 80
+      },
+      {
+        "word": "resistant",
+        "confidence": 78
+      },
+      {
+        "word": "normal",
+        "confidence": 75
+      },
+      {
+        "word": "preference",
+        "confidence": 82
+      },
+      {
+        "word": "reluctance",
+        "confidence": 70
+      }
+    ]
+  }
+}

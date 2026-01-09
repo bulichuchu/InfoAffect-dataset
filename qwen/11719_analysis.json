@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "desperate",
+        "confidence": 85
+      },
+      {
+        "word": "uncertain",
+        "confidence": 80
+      },
+      {
+        "word": "declining",
+        "confidence": 78
+      },
+      {
+        "word": "pressured",
+        "confidence": 75
+      },
+      {
+        "word": "alarm",
+        "confidence": 72
+      },
+      {
+        "word": "last-chance",
+        "confidence": 70
+      },
+      {
+        "word": "doubtful",
+        "confidence": 68
+      },
+      {
+        "word": "fear",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "envious",
+        "confidence": 88
+      },
+      {
+        "word": "unfair",
+        "confidence": 85
+      },
+      {
+        "word": "statistical",
+        "confidence": 82
+      },
+      {
+        "word": "disappointed",
+        "confidence": 78
+      },
+      {
+        "word": "effective",
+        "confidence": 75
+      },
+      {
+        "word": "sympathetic",
+        "confidence": 70
+      },
+      {
+        "word": "wistful",
+        "confidence": 65
+      }
+    ]
+  }
+}

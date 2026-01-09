@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disappointment",
+        "confidence": 90
+      },
+      {
+        "word": "frustration",
+        "confidence": 85
+      },
+      {
+        "word": "injustice",
+        "confidence": 80
+      },
+      {
+        "word": "concern",
+        "confidence": 75
+      },
+      {
+        "word": "hope",
+        "confidence": 70
+      },
+      {
+        "word": "unrecognized",
+        "confidence": 65
+      },
+      {
+        "word": "yearning",
+        "confidence": 60
+      }
+    ]
+  }
+}

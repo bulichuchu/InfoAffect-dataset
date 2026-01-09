@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "support",
+        "confidence": 85
+      },
+      {
+        "word": "collective",
+        "confidence": 82
+      },
+      {
+        "word": "steady",
+        "confidence": 80
+      },
+      {
+        "word": "committed",
+        "confidence": 78
+      },
+      {
+        "word": "solidary",
+        "confidence": 75
+      },
+      {
+        "word": "joy",
+        "confidence": 72
+      }
+    ]
+  }
+}

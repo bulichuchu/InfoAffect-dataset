@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "enjoyment",
+        "confidence": 90
+      },
+      {
+        "word": "comfort",
+        "confidence": 85
+      },
+      {
+        "word": "relaxation",
+        "confidence": 82
+      },
+      {
+        "word": "contentment",
+        "confidence": 80
+      },
+      {
+        "word": "satisfaction",
+        "confidence": 78
+      },
+      {
+        "word": "community",
+        "confidence": 75
+      },
+      {
+        "word": "leisure",
+        "confidence": 77
+      }
+    ]
+  }
+}

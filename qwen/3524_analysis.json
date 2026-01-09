@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "damp",
+        "confidence": 85
+      },
+      {
+        "word": "dreary",
+        "confidence": 80
+      },
+      {
+        "word": "overcast",
+        "confidence": 75
+      },
+      {
+        "word": "moist",
+        "confidence": 70
+      },
+      {
+        "word": "gloomy",
+        "confidence": 65
+      },
+      {
+        "word": "wet",
+        "confidence": 90
+      },
+      {
+        "word": "rainy",
+        "confidence": 88
+      },
+      {
+        "word": "soaked",
+        "confidence": 60
+      }
+    ]
+  }
+}

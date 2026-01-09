@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 90
+      },
+      {
+        "word": "vigorously",
+        "confidence": 85
+      },
+      {
+        "word": "alarm",
+        "confidence": 80
+      },
+      {
+        "word": "deeply",
+        "confidence": 75
+      },
+      {
+        "word": "unfortunately",
+        "confidence": 70
+      },
+      {
+        "word": "unfortunately",
+        "confidence": 65
+      },
+      {
+        "word": "unfortunately",
+        "confidence": 60
+      }
+    ]
+  }
+}

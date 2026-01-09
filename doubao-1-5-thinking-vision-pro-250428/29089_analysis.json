@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "desire",
+        "confidence": 90
+      },
+      {
+        "word": "need",
+        "confidence": 85
+      },
+      {
+        "word": "support",
+        "confidence": 80
+      },
+      {
+        "word": "increase",
+        "confidence": 75
+      },
+      {
+        "word": "willingness",
+        "confidence": 70
+      },
+      {
+        "word": "requirement",
+        "confidence": 68
+      },
+      {
+        "word": "importance",
+        "confidence": 65
+      },
+      {
+        "word": "urgency",
+        "confidence": 62
+      }
+    ]
+  }
+}

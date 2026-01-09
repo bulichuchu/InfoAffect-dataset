@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "practical",
+        "confidence": 90
+      },
+      {
+        "word": "luxury",
+        "confidence": 85
+      },
+      {
+        "word": "high rollers",
+        "confidence": 80
+      },
+      {
+        "word": "big spenders",
+        "confidence": 75
+      },
+      {
+        "word": "topped",
+        "confidence": 70
+      },
+      {
+        "word": "spend big",
+        "confidence": 65
+      },
+      {
+        "word": "vice",
+        "confidence": 60
+      }
+    ]
+  }
+}

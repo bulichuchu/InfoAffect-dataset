@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "reliable",
+        "confidence": 87
+      },
+      {
+        "word": "anomalous",
+        "confidence": 82
+      },
+      {
+        "word": "declining",
+        "confidence": 80
+      },
+      {
+        "word": "campaign",
+        "confidence": 78
+      },
+      {
+        "word": "enforcement",
+        "confidence": 75
+      },
+      {
+        "word": "swift",
+        "confidence": 70
+      },
+      {
+        "word": "trend",
+        "confidence": 68
+      }
+    ]
+  }
+}

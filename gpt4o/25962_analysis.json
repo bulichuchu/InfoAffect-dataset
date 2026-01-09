@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 87
+      },
+      {
+        "word": "unexpected",
+        "confidence": 83
+      },
+      {
+        "word": "struggle",
+        "confidence": 82
+      },
+      {
+        "word": "complicated",
+        "confidence": 80
+      },
+      {
+        "word": "effective",
+        "confidence": 76
+      },
+      {
+        "word": "success",
+        "confidence": 74
+      }
+    ]
+  }
+}

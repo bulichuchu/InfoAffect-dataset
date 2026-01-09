@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "solemn",
+        "confidence": 88
+      },
+      {
+        "word": "reverent",
+        "confidence": 85
+      },
+      {
+        "word": "inspiring",
+        "confidence": 82
+      },
+      {
+        "word": "fear",
+        "confidence": 78
+      },
+      {
+        "word": "joy",
+        "confidence": 75
+      },
+      {
+        "word": "educational",
+        "confidence": 90
+      },
+      {
+        "word": "commemorative",
+        "confidence": 83
+      },
+      {
+        "word": "profound",
+        "confidence": 72
+      }
+    ]
+  }
+}

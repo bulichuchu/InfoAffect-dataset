@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "uncertain",
+        "confidence": 87
+      },
+      {
+        "word": "concealed",
+        "confidence": 83
+      },
+      {
+        "word": "exposed",
+        "confidence": 80
+      },
+      {
+        "word": "mixed",
+        "confidence": 75
+      },
+      {
+        "word": "alarm",
+        "confidence": 78
+      },
+      {
+        "word": "wealthy",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dedication",
+        "confidence": 90
+      },
+      {
+        "word": "engagement",
+        "confidence": 85
+      },
+      {
+        "word": "obsession",
+        "confidence": 80
+      },
+      {
+        "word": "commitment",
+        "confidence": 75
+      },
+      {
+        "word": "distraction",
+        "confidence": 70
+      },
+      {
+        "word": "absorbed",
+        "confidence": 68
+      }
+    ]
+  }
+}

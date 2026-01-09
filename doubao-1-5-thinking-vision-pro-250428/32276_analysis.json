@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "excellent",
+        "confidence": 90
+      },
+      {
+        "word": "increase",
+        "confidence": 85
+      },
+      {
+        "word": "record",
+        "confidence": 80
+      },
+      {
+        "word": "escalation",
+        "confidence": 75
+      },
+      {
+        "word": "displaced",
+        "confidence": 70
+      },
+      {
+        "word": "pending",
+        "confidence": 65
+      },
+      {
+        "word": "hard",
+        "confidence": 60
+      },
+      {
+        "word": "further",
+        "confidence": 55
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "tension",
+        "confidence": 85
+      },
+      {
+        "word": "uncertain",
+        "confidence": 80
+      },
+      {
+        "word": "concern",
+        "confidence": 75
+      },
+      {
+        "word": "pressured",
+        "confidence": 70
+      },
+      {
+        "word": "complicated",
+        "confidence": 65
+      },
+      {
+        "word": "volatile",
+        "confidence": 68
+      },
+      {
+        "word": "struggle",
+        "confidence": 63
+      }
+    ]
+  }
+}

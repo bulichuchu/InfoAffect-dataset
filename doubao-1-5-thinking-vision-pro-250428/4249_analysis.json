@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "shocking",
+        "confidence": 90
+      },
+      {
+        "word": "energetic",
+        "confidence": 85
+      },
+      {
+        "word": "startling",
+        "confidence": 82
+      },
+      {
+        "word": "transitional",
+        "confidence": 78
+      },
+      {
+        "word": "astonishing",
+        "confidence": 75
+      },
+      {
+        "word": "eye-opening",
+        "confidence": 70
+      },
+      {
+        "word": "disconcerting",
+        "confidence": 68
+      },
+      {
+        "word": "unsettling",
+        "confidence": 65
+      }
+    ]
+  }
+}

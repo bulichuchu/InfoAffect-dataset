@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "powerful",
+        "confidence": 82
+      },
+      {
+        "word": "innovative",
+        "confidence": 78
+      },
+      {
+        "word": "excellent",
+        "confidence": 75
+      },
+      {
+        "word": "transitional",
+        "confidence": 70
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 65
+      },
+      {
+        "word": "authoritative",
+        "confidence": 72
+      },
+      {
+        "word": "awe-inspiring",
+        "confidence": 68
+      }
+    ]
+  }
+}

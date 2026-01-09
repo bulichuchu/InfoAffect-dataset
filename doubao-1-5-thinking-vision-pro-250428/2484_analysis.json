@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "evolutionary",
+        "confidence": 70
+      },
+      {
+        "word": "transitional",
+        "confidence": 65
+      },
+      {
+        "word": "transitional",
+        "confidence": 62
+      },
+      {
+        "word": "freedom",
+        "confidence": 58
+      },
+      {
+        "word": "adaptation",
+        "confidence": 55
+      },
+      {
+        "word": "energetic",
+        "confidence": 50
+      },
+      {
+        "word": "transformation",
+        "confidence": 48
+      },
+      {
+        "word": "impact",
+        "confidence": 45
+      }
+    ]
+  }
+}

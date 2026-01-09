@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "opposition",
+        "confidence": 90
+      },
+      {
+        "word": "opposed",
+        "confidence": 85
+      },
+      {
+        "word": "doubtful",
+        "confidence": 80
+      },
+      {
+        "word": "indifference",
+        "confidence": 75
+      },
+      {
+        "word": "dismissal",
+        "confidence": 70
+      },
+      {
+        "word": "fear",
+        "confidence": 65
+      },
+      {
+        "word": "sadly",
+        "confidence": 60
+      },
+      {
+        "word": "distrust",
+        "confidence": 55
+      }
+    ]
+  }
+}

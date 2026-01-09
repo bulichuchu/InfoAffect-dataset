@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "harmful",
+        "confidence": 90
+      },
+      {
+        "word": "negative",
+        "confidence": 85
+      },
+      {
+        "word": "impactful",
+        "confidence": 80
+      },
+      {
+        "word": "disruptive",
+        "confidence": 75
+      },
+      {
+        "word": "harmful",
+        "confidence": 70
+      },
+      {
+        "word": "adverse",
+        "confidence": 65
+      },
+      {
+        "word": "negatively",
+        "confidence": 60
+      },
+      {
+        "word": "hurtful",
+        "confidence": 55
+      }
+    ]
+  }
+}

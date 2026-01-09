@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "misunderstood",
+        "confidence": 90
+      },
+      {
+        "word": "profitable",
+        "confidence": 88
+      },
+      {
+        "word": "exaggerated",
+        "confidence": 85
+      },
+      {
+        "word": "misleading",
+        "confidence": 83
+      },
+      {
+        "word": "defensive",
+        "confidence": 80
+      },
+      {
+        "word": "reliable",
+        "confidence": 78
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "notorious",
+        "confidence": 85
+      },
+      {
+        "word": "disagreeable",
+        "confidence": 80
+      },
+      {
+        "word": "disputatious",
+        "confidence": 75
+      },
+      {
+        "word": "notable",
+        "confidence": 70
+      },
+      {
+        "word": "dissenting",
+        "confidence": 65
+      },
+      {
+        "word": "mixed",
+        "confidence": 60
+      },
+      {
+        "word": "veto power",
+        "confidence": 55
+      },
+      {
+        "word": "disagreement",
+        "confidence": 50
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "formidable",
+        "confidence": 90
+      },
+      {
+        "word": "powerful",
+        "confidence": 85
+      },
+      {
+        "word": "escalation",
+        "confidence": 80
+      },
+      {
+        "word": "aggression",
+        "confidence": 75
+      },
+      {
+        "word": "standby",
+        "confidence": 70
+      },
+      {
+        "word": "deterrent",
+        "confidence": 65
+      },
+      {
+        "word": "tension",
+        "confidence": 60
+      },
+      {
+        "word": "nuclear",
+        "confidence": 55
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "record",
+        "confidence": 80
+      },
+      {
+        "word": "threaten",
+        "confidence": 85
+      },
+      {
+        "word": "harmful",
+        "confidence": 82
+      },
+      {
+        "word": "reduction",
+        "confidence": 78
+      },
+      {
+        "word": "negative",
+        "confidence": 75
+      },
+      {
+        "word": "impact",
+        "confidence": 77
+      },
+      {
+        "word": "hurt",
+        "confidence": 83
+      },
+      {
+        "word": "strong",
+        "confidence": 65
+      }
+    ]
+  }
+}

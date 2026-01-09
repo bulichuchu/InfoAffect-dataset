@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "practical",
+        "confidence": 90
+      },
+      {
+        "word": "effective",
+        "confidence": 85
+      },
+      {
+        "word": "notable",
+        "confidence": 80
+      },
+      {
+        "word": "mysterious",
+        "confidence": 75
+      },
+      {
+        "word": "iconic",
+        "confidence": 70
+      },
+      {
+        "word": "unique",
+        "confidence": 65
+      },
+      {
+        "word": "artistic",
+        "confidence": 60
+      },
+      {
+        "word": "celebrated",
+        "confidence": 55
+      }
+    ]
+  }
+}

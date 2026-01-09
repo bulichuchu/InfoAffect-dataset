@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 90
+      },
+      {
+        "word": "unacceptable",
+        "confidence": 85
+      },
+      {
+        "word": "worsening",
+        "confidence": 80
+      },
+      {
+        "word": "crisis",
+        "confidence": 85
+      },
+      {
+        "word": "desperate",
+        "confidence": 70
+      },
+      {
+        "word": "unjust",
+        "confidence": 75
+      },
+      {
+        "word": "extraordinary",
+        "confidence": 65
+      },
+      {
+        "word": "forced",
+        "confidence": 70
+      }
+    ]
+  }
+}

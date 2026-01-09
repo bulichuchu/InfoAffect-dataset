@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "increase",
+        "confidence": 90
+      },
+      {
+        "word": "rise",
+        "confidence": 85
+      },
+      {
+        "word": "more",
+        "confidence": 70
+      },
+      {
+        "word": "approximately",
+        "confidence": 65
+      },
+      {
+        "word": "nearly",
+        "confidence": 60
+      },
+      {
+        "word": "relatively",
+        "confidence": 55
+      },
+      {
+        "word": "mainly",
+        "confidence": 50
+      },
+      {
+        "word": "result",
+        "confidence": 45
+      }
+    ]
+  }
+}

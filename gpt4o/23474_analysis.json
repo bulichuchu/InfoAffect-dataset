@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 90
+      },
+      {
+        "word": "political",
+        "confidence": 85
+      },
+      {
+        "word": "support",
+        "confidence": 82
+      },
+      {
+        "word": "mixed",
+        "confidence": 80
+      },
+      {
+        "word": "partisan",
+        "confidence": 78
+      },
+      {
+        "word": "polarized",
+        "confidence": 76
+      }
+    ]
+  }
+}

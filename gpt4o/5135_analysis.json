@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "shock",
+        "confidence": 90
+      },
+      {
+        "word": "uncertain",
+        "confidence": 85
+      },
+      {
+        "word": "concern",
+        "confidence": 88
+      },
+      {
+        "word": "volatile",
+        "confidence": 83
+      },
+      {
+        "word": "instability",
+        "confidence": 80
+      },
+      {
+        "word": "dramatic",
+        "confidence": 78
+      },
+      {
+        "word": "reaction",
+        "confidence": 75
+      }
+    ]
+  }
+}

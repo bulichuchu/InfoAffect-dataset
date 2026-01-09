@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "success",
+        "confidence": 80
+      },
+      {
+        "word": "declining",
+        "confidence": 75
+      },
+      {
+        "word": "fragmented",
+        "confidence": 70
+      },
+      {
+        "word": "energetic",
+        "confidence": 65
+      },
+      {
+        "word": "challenged",
+        "confidence": 60
+      },
+      {
+        "word": "reliable",
+        "confidence": 55
+      },
+      {
+        "word": "evolving",
+        "confidence": 50
+      }
+    ]
+  }
+}

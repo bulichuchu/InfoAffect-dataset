@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "debate",
+        "confidence": 90
+      },
+      {
+        "word": "conflict",
+        "confidence": 85
+      },
+      {
+        "word": "uncertain",
+        "confidence": 80
+      },
+      {
+        "word": "precaution",
+        "confidence": 75
+      },
+      {
+        "word": "safety",
+        "confidence": 70
+      },
+      {
+        "word": "priority",
+        "confidence": 65
+      },
+      {
+        "word": "impact",
+        "confidence": 60
+      },
+      {
+        "word": "harmful",
+        "confidence": 55
+      }
+    ]
+  }
+}

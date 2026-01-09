@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "restless",
+        "confidence": 88
+      },
+      {
+        "word": "discontented",
+        "confidence": 85
+      },
+      {
+        "word": "joy",
+        "confidence": 78
+      },
+      {
+        "word": "anger",
+        "confidence": 82
+      },
+      {
+        "word": "alarm",
+        "confidence": 76
+      },
+      {
+        "word": "fear",
+        "confidence": 70
+      },
+      {
+        "word": "determined",
+        "confidence": 74
+      },
+      {
+        "word": "expectant",
+        "confidence": 68
+      }
+    ]
+  }
+}

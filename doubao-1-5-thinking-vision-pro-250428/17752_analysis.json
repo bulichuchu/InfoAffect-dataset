@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "overindulgence",
+        "confidence": 90
+      },
+      {
+        "word": "unhealthy",
+        "confidence": 85
+      },
+      {
+        "word": "excessive",
+        "confidence": 80
+      },
+      {
+        "word": "alarm",
+        "confidence": 70
+      },
+      {
+        "word": "irresistable",
+        "confidence": 65
+      },
+      {
+        "word": "worst offender",
+        "confidence": 55
+      },
+      {
+        "word": "high sugar content",
+        "confidence": 50
+      },
+      {
+        "word": "excessively sugary",
+        "confidence": 45
+      }
+    ]
+  }
+}

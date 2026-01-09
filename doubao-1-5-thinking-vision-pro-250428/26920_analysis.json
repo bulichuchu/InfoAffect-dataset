@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 90
+      },
+      {
+        "word": "harmful",
+        "confidence": 85
+      },
+      {
+        "word": "prevalent",
+        "confidence": 80
+      },
+      {
+        "word": "issue",
+        "confidence": 70
+      },
+      {
+        "word": "struggle",
+        "confidence": 65
+      },
+      {
+        "word": "exempt",
+        "confidence": 50
+      },
+      {
+        "word": "prevailing",
+        "confidence": 55
+      },
+      {
+        "word": "complex",
+        "confidence": 45
+      }
+    ]
+  }
+}

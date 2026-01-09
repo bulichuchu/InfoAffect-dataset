@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "bullish",
+        "confidence": 90
+      },
+      {
+        "word": "growth-oriented",
+        "confidence": 85
+      },
+      {
+        "word": "joy",
+        "confidence": 82
+      },
+      {
+        "word": "prosperous",
+        "confidence": 80
+      },
+      {
+        "word": "ascendant",
+        "confidence": 78
+      },
+      {
+        "word": "promising",
+        "confidence": 75
+      }
+    ]
+  }
+}

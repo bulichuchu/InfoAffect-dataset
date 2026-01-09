@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "inclusive",
+        "confidence": 90
+      },
+      {
+        "word": "balanced",
+        "confidence": 85
+      },
+      {
+        "word": "patriotic",
+        "confidence": 80
+      },
+      {
+        "word": "flexible",
+        "confidence": 78
+      },
+      {
+        "word": "mixed",
+        "confidence": 82
+      }
+    ]
+  }
+}

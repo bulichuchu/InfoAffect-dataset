@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fear",
+        "confidence": 88
+      },
+      {
+        "word": "volatile",
+        "confidence": 85
+      },
+      {
+        "word": "uncertain",
+        "confidence": 82
+      },
+      {
+        "word": "anger",
+        "confidence": 79
+      },
+      {
+        "word": "alarm",
+        "confidence": 76
+      },
+      {
+        "word": "disruptive",
+        "confidence": 73
+      },
+      {
+        "word": "pressured",
+        "confidence": 70
+      },
+      {
+        "word": "unstable",
+        "confidence": 75
+      }
+    ]
+  }
+}

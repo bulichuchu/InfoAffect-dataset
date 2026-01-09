@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "respectful",
+        "confidence": 90
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 85
+      },
+      {
+        "word": "thoughtful",
+        "confidence": 80
+      },
+      {
+        "word": "honoring",
+        "confidence": 88
+      },
+      {
+        "word": "reflective",
+        "confidence": 82
+      },
+      {
+        "word": "contemplative",
+        "confidence": 75
+      }
+    ]
+  }
+}

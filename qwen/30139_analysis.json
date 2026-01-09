@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "joy",
+        "confidence": 88
+      },
+      {
+        "word": "excited",
+        "confidence": 82
+      },
+      {
+        "word": "empowered",
+        "confidence": 78
+      },
+      {
+        "word": "flexible",
+        "confidence": 75
+      },
+      {
+        "word": "joy",
+        "confidence": 73
+      },
+      {
+        "word": "adventurous",
+        "confidence": 70
+      },
+      {
+        "word": "satisfied",
+        "confidence": 68
+      },
+      {
+        "word": "forward-looking",
+        "confidence": 65
+      }
+    ]
+  }
+}

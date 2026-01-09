@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "uncertain",
+        "confidence": 90
+      },
+      {
+        "word": "preparing",
+        "confidence": 85
+      },
+      {
+        "word": "mixed",
+        "confidence": 80
+      },
+      {
+        "word": "shrouded",
+        "confidence": 75
+      },
+      {
+        "word": "gearing up",
+        "confidence": 70
+      },
+      {
+        "word": "majority",
+        "confidence": 65
+      },
+      {
+        "word": "anticipated",
+        "confidence": 60
+      },
+      {
+        "word": "all-time records",
+        "confidence": 55
+      }
+    ]
+  }
+}

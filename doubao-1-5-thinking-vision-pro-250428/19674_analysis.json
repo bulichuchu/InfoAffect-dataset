@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "harrowing",
+        "confidence": 90
+      },
+      {
+        "word": "gulf",
+        "confidence": 85
+      },
+      {
+        "word": "chasm",
+        "confidence": 85
+      },
+      {
+        "word": "disadvantaged",
+        "confidence": 80
+      },
+      {
+        "word": "systemic",
+        "confidence": 75
+      },
+      {
+        "word": "discrimination",
+        "confidence": 70
+      },
+      {
+        "word": "alarm",
+        "confidence": 65
+      },
+      {
+        "word": "prophylactic",
+        "confidence": 60
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "overcrowded",
+        "confidence": 90
+      },
+      {
+        "word": "harsh",
+        "confidence": 85
+      },
+      {
+        "word": "dire",
+        "confidence": 80
+      },
+      {
+        "word": "cramped",
+        "confidence": 75
+      },
+      {
+        "word": "direful",
+        "confidence": 70
+      },
+      {
+        "word": "grim",
+        "confidence": 65
+      },
+      {
+        "word": "fear",
+        "confidence": 60
+      },
+      {
+        "word": "terrible",
+        "confidence": 55
+      }
+    ]
+  }
+}

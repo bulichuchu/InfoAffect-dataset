@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "risks",
+        "confidence": 90
+      },
+      {
+        "word": "excellent",
+        "confidence": 85
+      },
+      {
+        "word": "anticipated",
+        "confidence": 80
+      },
+      {
+        "word": "fast",
+        "confidence": 75
+      },
+      {
+        "word": "rise",
+        "confidence": 70
+      },
+      {
+        "word": "increased",
+        "confidence": 65
+      },
+      {
+        "word": "faster",
+        "confidence": 60
+      },
+      {
+        "word": "dissipating",
+        "confidence": 55
+      }
+    ]
+  }
+}

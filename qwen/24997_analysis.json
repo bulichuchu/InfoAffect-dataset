@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "empowering",
+        "confidence": 85
+      },
+      {
+        "word": "joy",
+        "confidence": 80
+      },
+      {
+        "word": "effective",
+        "confidence": 75
+      },
+      {
+        "word": "motivating",
+        "confidence": 78
+      },
+      {
+        "word": "alarm",
+        "confidence": 72
+      },
+      {
+        "word": "effective",
+        "confidence": 70
+      },
+      {
+        "word": "support",
+        "confidence": 68
+      },
+      {
+        "word": "impactful",
+        "confidence": 76
+      }
+    ]
+  }
+}

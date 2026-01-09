@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 90
+      },
+      {
+        "word": "lonely",
+        "confidence": 85
+      },
+      {
+        "word": "stagnation",
+        "confidence": 82
+      },
+      {
+        "word": "inequality",
+        "confidence": 88
+      },
+      {
+        "word": "lagging",
+        "confidence": 80
+      },
+      {
+        "word": "restricted",
+        "confidence": 75
+      },
+      {
+        "word": "dated",
+        "confidence": 78
+      }
+    ]
+  }
+}

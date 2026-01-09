@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "turbulent",
+        "confidence": 90
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "precarious",
+        "confidence": 82
+      },
+      {
+        "word": "tumultuous",
+        "confidence": 80
+      },
+      {
+        "word": "harmful",
+        "confidence": 78
+      },
+      {
+        "word": "unstable",
+        "confidence": 75
+      }
+    ]
+  }
+}

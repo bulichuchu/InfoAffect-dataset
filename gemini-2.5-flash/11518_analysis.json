@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "energetic",
+        "confidence": 95
+      },
+      {
+        "word": "appetizing",
+        "confidence": 90
+      },
+      {
+        "word": "joy",
+        "confidence": 88
+      },
+      {
+        "word": "desirous",
+        "confidence": 85
+      },
+      {
+        "word": "engaging",
+        "confidence": 78
+      },
+      {
+        "word": "unifying",
+        "confidence": 70
+      }
+    ]
+  }
+}

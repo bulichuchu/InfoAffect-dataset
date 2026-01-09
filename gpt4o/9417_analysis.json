@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 90
+      },
+      {
+        "word": "uneasy",
+        "confidence": 85
+      },
+      {
+        "word": "anger",
+        "confidence": 80
+      },
+      {
+        "word": "decisive",
+        "confidence": 75
+      },
+      {
+        "word": "unsettled",
+        "confidence": 70
+      }
+    ]
+  }
+}

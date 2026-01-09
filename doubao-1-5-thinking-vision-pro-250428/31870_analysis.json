@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unpaid",
+        "confidence": 90
+      },
+      {
+        "word": "undervalued",
+        "confidence": 85
+      },
+      {
+        "word": "disadvantaged",
+        "confidence": 80
+      },
+      {
+        "word": "inequality",
+        "confidence": 75
+      },
+      {
+        "word": "struggle",
+        "confidence": 70
+      },
+      {
+        "word": "challenges",
+        "confidence": 65
+      },
+      {
+        "word": "gap",
+        "confidence": 60
+      },
+      {
+        "word": "required",
+        "confidence": 55
+      }
+    ]
+  }
+}

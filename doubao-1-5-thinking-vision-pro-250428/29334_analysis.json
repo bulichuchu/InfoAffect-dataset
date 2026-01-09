@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "low",
+        "confidence": 90
+      },
+      {
+        "word": "interest",
+        "confidence": 85
+      },
+      {
+        "word": "disinterest",
+        "confidence": 80
+      },
+      {
+        "word": "lukewarm",
+        "confidence": 70
+      },
+      {
+        "word": "indifferent",
+        "confidence": 65
+      },
+      {
+        "word": "apathetic",
+        "confidence": 55
+      },
+      {
+        "word": "unexcited",
+        "confidence": 50
+      },
+      {
+        "word": "normal",
+        "confidence": 45
+      }
+    ]
+  }
+}

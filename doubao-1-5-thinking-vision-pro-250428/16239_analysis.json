@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "defiant",
+        "confidence": 90
+      },
+      {
+        "word": "vindictive",
+        "confidence": 85
+      },
+      {
+        "word": "aggressive",
+        "confidence": 80
+      },
+      {
+        "word": "conflictual",
+        "confidence": 75
+      },
+      {
+        "word": "struggle",
+        "confidence": 70
+      },
+      {
+        "word": "powerful",
+        "confidence": 65
+      },
+      {
+        "word": "escalation",
+        "confidence": 60
+      },
+      {
+        "word": "frustrated",
+        "confidence": 55
+      }
+    ]
+  }
+}

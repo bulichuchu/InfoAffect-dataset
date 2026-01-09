@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "popular",
+        "confidence": 90
+      },
+      {
+        "word": "important",
+        "confidence": 85
+      },
+      {
+        "word": "consumed",
+        "confidence": 80
+      },
+      {
+        "word": "drunk",
+        "confidence": 75
+      },
+      {
+        "word": "worldwide",
+        "confidence": 70
+      },
+      {
+        "word": "largest",
+        "confidence": 65
+      },
+      {
+        "word": "sales",
+        "confidence": 60
+      },
+      {
+        "word": "generated",
+        "confidence": 55
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "excessive",
+        "confidence": 90
+      },
+      {
+        "word": "mixed",
+        "confidence": 85
+      },
+      {
+        "word": "inequality",
+        "confidence": 90
+      },
+      {
+        "word": "unfair",
+        "confidence": 80
+      },
+      {
+        "word": "widening",
+        "confidence": 85
+      },
+      {
+        "word": "exploitative",
+        "confidence": 70
+      },
+      {
+        "word": "unequal",
+        "confidence": 85
+      },
+      {
+        "word": "unjust",
+        "confidence": 75
+      }
+    ]
+  }
+}

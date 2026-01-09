@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rampant",
+        "confidence": 90
+      },
+      {
+        "word": "increasing",
+        "confidence": 85
+      },
+      {
+        "word": "criticism",
+        "confidence": 80
+      },
+      {
+        "word": "normal",
+        "confidence": 75
+      },
+      {
+        "word": "drama",
+        "confidence": 70
+      },
+      {
+        "word": "familiar",
+        "confidence": 65
+      },
+      {
+        "word": "lambast",
+        "confidence": 60
+      },
+      {
+        "word": "repair",
+        "confidence": 55
+      }
+    ]
+  }
+}

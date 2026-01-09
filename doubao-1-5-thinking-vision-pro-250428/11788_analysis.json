@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "iconic",
+        "confidence": 85
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 80
+      },
+      {
+        "word": "enduring",
+        "confidence": 75
+      },
+      {
+        "word": "sentimental",
+        "confidence": 70
+      },
+      {
+        "word": "appreciative",
+        "confidence": 65
+      },
+      {
+        "word": "historical",
+        "confidence": 60
+      }
+    ]
+  }
+}

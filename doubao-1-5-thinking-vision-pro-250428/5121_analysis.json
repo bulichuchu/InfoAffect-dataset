@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "less peaceful",
+        "confidence": 90
+      },
+      {
+        "word": "deterioration",
+        "confidence": 85
+      },
+      {
+        "word": "conflict",
+        "confidence": 80
+      },
+      {
+        "word": "crisis",
+        "confidence": 75
+      },
+      {
+        "word": "suffering",
+        "confidence": 70
+      },
+      {
+        "word": "financial consequences",
+        "confidence": 65
+      },
+      {
+        "word": "costly",
+        "confidence": 60
+      },
+      {
+        "word": "free from conflict",
+        "confidence": 55
+      }
+    ]
+  }
+}

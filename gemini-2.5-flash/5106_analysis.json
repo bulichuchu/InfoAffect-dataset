@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "discrepant",
+        "confidence": 90
+      },
+      {
+        "word": "opportunistic",
+        "confidence": 85
+      },
+      {
+        "word": "inefficient",
+        "confidence": 80
+      },
+      {
+        "word": "underestimated",
+        "confidence": 78
+      },
+      {
+        "word": "struggle",
+        "confidence": 70
+      },
+      {
+        "word": "perceived",
+        "confidence": 65
+      },
+      {
+        "word": "effective",
+        "confidence": 60
+      }
+    ]
+  }
+}

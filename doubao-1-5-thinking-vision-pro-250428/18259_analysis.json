@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "struggle",
+        "confidence": 90
+      },
+      {
+        "word": "struggle",
+        "confidence": 85
+      },
+      {
+        "word": "bad",
+        "confidence": 80
+      },
+      {
+        "word": "loss-making",
+        "confidence": 70
+      },
+      {
+        "word": "adverse",
+        "confidence": 65
+      },
+      {
+        "word": "grounded",
+        "confidence": 55
+      }
+    ]
+  }
+}

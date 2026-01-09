@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 90
+      },
+      {
+        "word": "inflationary",
+        "confidence": 85
+      },
+      {
+        "word": "impactful",
+        "confidence": 80
+      },
+      {
+        "word": "noteworthy",
+        "confidence": 75
+      },
+      {
+        "word": "struggle",
+        "confidence": 78
+      },
+      {
+        "word": "comprehensive",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "harmful",
+        "confidence": 90
+      },
+      {
+        "word": "fear",
+        "confidence": 85
+      },
+      {
+        "word": "erosion",
+        "confidence": 80
+      },
+      {
+        "word": "crisis",
+        "confidence": 85
+      },
+      {
+        "word": "soaring",
+        "confidence": 82
+      },
+      {
+        "word": "unprecedented",
+        "confidence": 78
+      },
+      {
+        "word": "declining",
+        "confidence": 75
+      },
+      {
+        "word": "wasted",
+        "confidence": 70
+      }
+    ]
+  }
+}

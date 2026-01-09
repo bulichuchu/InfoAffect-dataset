@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "historic",
+        "confidence": 90
+      },
+      {
+        "word": "vindication",
+        "confidence": 85
+      },
+      {
+        "word": "deserved",
+        "confidence": 80
+      },
+      {
+        "word": "nervy",
+        "confidence": 75
+      },
+      {
+        "word": "tightly-contested",
+        "confidence": 70
+      },
+      {
+        "word": "ultimate",
+        "confidence": 65
+      },
+      {
+        "word": "frantic",
+        "confidence": 60
+      },
+      {
+        "word": "long",
+        "confidence": 55
+      }
+    ]
+  }
+}

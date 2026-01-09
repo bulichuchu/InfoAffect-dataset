@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "imbalanced",
+        "confidence": 92
+      },
+      {
+        "word": "neglected",
+        "confidence": 90
+      },
+      {
+        "word": "disproportionate",
+        "confidence": 88
+      },
+      {
+        "word": "transitional",
+        "confidence": 85
+      },
+      {
+        "word": "perceived",
+        "confidence": 80
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      }
+    ]
+  }
+}

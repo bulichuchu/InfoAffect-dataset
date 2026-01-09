@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "divergent",
+        "confidence": 90
+      },
+      {
+        "word": "stark",
+        "confidence": 85
+      },
+      {
+        "word": "contrasting",
+        "confidence": 80
+      },
+      {
+        "word": "contentious",
+        "confidence": 75
+      },
+      {
+        "word": "mixed",
+        "confidence": 70
+      },
+      {
+        "word": "mixed",
+        "confidence": 65
+      },
+      {
+        "word": "opposing",
+        "confidence": 60
+      },
+      {
+        "word": "disagreement",
+        "confidence": 55
+      }
+    ]
+  }
+}

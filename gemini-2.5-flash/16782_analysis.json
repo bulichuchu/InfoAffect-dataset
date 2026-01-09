@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "innovative",
+        "confidence": 90
+      },
+      {
+        "word": "contentious",
+        "confidence": 88
+      },
+      {
+        "word": "evocative",
+        "confidence": 85
+      },
+      {
+        "word": "striking",
+        "confidence": 82
+      },
+      {
+        "word": "debatable",
+        "confidence": 78
+      },
+      {
+        "word": "thought-provoking",
+        "confidence": 75
+      }
+    ]
+  }
+}

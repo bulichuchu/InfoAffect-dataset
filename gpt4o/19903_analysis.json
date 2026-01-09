@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 90
+      },
+      {
+        "word": "unequal",
+        "confidence": 85
+      },
+      {
+        "word": "progress",
+        "confidence": 80
+      },
+      {
+        "word": "mixed",
+        "confidence": 88
+      },
+      {
+        "word": "improved",
+        "confidence": 75
+      },
+      {
+        "word": "struggle",
+        "confidence": 83
+      }
+    ]
+  }
+}

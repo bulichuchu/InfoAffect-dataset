@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "environmentally friendly",
+        "confidence": 90
+      },
+      {
+        "word": "leading",
+        "confidence": 85
+      },
+      {
+        "word": "transparent",
+        "confidence": 80
+      },
+      {
+        "word": "greener",
+        "confidence": 75
+      },
+      {
+        "word": "high proportion",
+        "confidence": 70
+      },
+      {
+        "word": "shortcuts",
+        "confidence": 65
+      },
+      {
+        "word": "universal agreement",
+        "confidence": 60
+      },
+      {
+        "word": "expanding definitions",
+        "confidence": 55
+      }
+    ]
+  }
+}

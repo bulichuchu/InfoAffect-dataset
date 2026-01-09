@@ -1,0 +1,18 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "approval",
+        "confidence": 55
+      },
+      {
+        "word": "disapproval",
+        "confidence": 45
+      },
+      {
+        "word": "uncertain",
+        "confidence": 3
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "normal",
+        "confidence": 90
+      },
+      {
+        "word": "willing",
+        "confidence": 85
+      },
+      {
+        "word": "freeloaders",
+        "confidence": 80
+      },
+      {
+        "word": "popular",
+        "confidence": 75
+      },
+      {
+        "word": "lowest",
+        "confidence": 70
+      }
+    ]
+  }
+}

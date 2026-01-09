@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "normal",
+        "confidence": 90
+      },
+      {
+        "word": "indifferent",
+        "confidence": 85
+      },
+      {
+        "word": "uncertain",
+        "confidence": 70
+      },
+      {
+        "word": "disbelief",
+        "confidence": 65
+      },
+      {
+        "word": "distrustful",
+        "confidence": 55
+      }
+    ]
+  }
+}

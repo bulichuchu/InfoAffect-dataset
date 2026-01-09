@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "joy",
+        "confidence": 85
+      },
+      {
+        "word": "whimsical",
+        "confidence": 80
+      },
+      {
+        "word": "ironic",
+        "confidence": 75
+      },
+      {
+        "word": "trendy",
+        "confidence": 78
+      },
+      {
+        "word": "amusing",
+        "confidence": 82
+      },
+      {
+        "word": "absurd",
+        "confidence": 70
+      },
+      {
+        "word": "fashionable",
+        "confidence": 76
+      },
+      {
+        "word": "transitional",
+        "confidence": 68
+      }
+    ]
+  }
+}

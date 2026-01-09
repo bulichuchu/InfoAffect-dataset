@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 85
+      },
+      {
+        "word": "effective",
+        "confidence": 80
+      },
+      {
+        "word": "concerned",
+        "confidence": 75
+      },
+      {
+        "word": "powerful",
+        "confidence": 78
+      },
+      {
+        "word": "success",
+        "confidence": 72
+      },
+      {
+        "word": "alarm",
+        "confidence": 68
+      },
+      {
+        "word": "alarm",
+        "confidence": 70
+      },
+      {
+        "word": "leverage",
+        "confidence": 76
+      }
+    ]
+  }
+}

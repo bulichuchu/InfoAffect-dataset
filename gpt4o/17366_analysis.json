@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 90
+      },
+      {
+        "word": "crisis",
+        "confidence": 88
+      },
+      {
+        "word": "deterioration",
+        "confidence": 85
+      },
+      {
+        "word": "reliable",
+        "confidence": 65
+      },
+      {
+        "word": "contrast",
+        "confidence": 70
+      }
+    ]
+  }
+}

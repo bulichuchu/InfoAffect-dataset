@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 90
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "discouraging",
+        "confidence": 80
+      },
+      {
+        "word": "unequal",
+        "confidence": 75
+      },
+      {
+        "word": "rise",
+        "confidence": 70
+      },
+      {
+        "word": "worsening",
+        "confidence": 65
+      },
+      {
+        "word": "unacceptable",
+        "confidence": 60
+      },
+      {
+        "word": "injustice",
+        "confidence": 55
+      }
+    ]
+  }
+}

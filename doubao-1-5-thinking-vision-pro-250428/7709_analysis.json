@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "reformative",
+        "confidence": 90
+      },
+      {
+        "word": "compassionate",
+        "confidence": 85
+      },
+      {
+        "word": "innovative",
+        "confidence": 80
+      },
+      {
+        "word": "joy",
+        "confidence": 70
+      },
+      {
+        "word": "innovative",
+        "confidence": 65
+      },
+      {
+        "word": "empowering",
+        "confidence": 60
+      },
+      {
+        "word": "generous",
+        "confidence": 55
+      },
+      {
+        "word": "forward-thinking",
+        "confidence": 50
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "patriotic",
+        "confidence": 78
+      },
+      {
+        "word": "success",
+        "confidence": 75
+      },
+      {
+        "word": "nationalistic",
+        "confidence": 72
+      },
+      {
+        "word": "success",
+        "confidence": 70
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 65
+      },
+      {
+        "word": "empowered",
+        "confidence": 60
+      },
+      {
+        "word": "reliable",
+        "confidence": 55
+      }
+    ]
+  }
+}

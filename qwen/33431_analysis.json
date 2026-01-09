@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 85
+      },
+      {
+        "word": "polarized",
+        "confidence": 82
+      },
+      {
+        "word": "transitional",
+        "confidence": 78
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      },
+      {
+        "word": "reflective",
+        "confidence": 70
+      },
+      {
+        "word": "anger",
+        "confidence": 68
+      },
+      {
+        "word": "transitional",
+        "confidence": 73
+      },
+      {
+        "word": "contemplative",
+        "confidence": 65
+      }
+    ]
+  }
+}

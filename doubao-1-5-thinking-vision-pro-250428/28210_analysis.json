@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "uncertain",
+        "confidence": 90
+      },
+      {
+        "word": "stalemate",
+        "confidence": 85
+      },
+      {
+        "word": "tied",
+        "confidence": 80
+      },
+      {
+        "word": "normal",
+        "confidence": 75
+      },
+      {
+        "word": "conflict",
+        "confidence": 70
+      },
+      {
+        "word": "war",
+        "confidence": 65
+      },
+      {
+        "word": "impact",
+        "confidence": 60
+      },
+      {
+        "word": "crisis",
+        "confidence": 55
+      }
+    ]
+  }
+}

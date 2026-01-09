@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rally",
+        "confidence": 90
+      },
+      {
+        "word": "recovery",
+        "confidence": 85
+      },
+      {
+        "word": "rise",
+        "confidence": 80
+      },
+      {
+        "word": "anticipated",
+        "confidence": 75
+      },
+      {
+        "word": "anticipated",
+        "confidence": 70
+      },
+      {
+        "word": "adjustment",
+        "confidence": 65
+      },
+      {
+        "word": "impact",
+        "confidence": 60
+      },
+      {
+        "word": "steady",
+        "confidence": 55
+      }
+    ]
+  }
+}

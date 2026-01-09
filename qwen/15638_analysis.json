@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "joy",
+        "confidence": 85
+      },
+      {
+        "word": "global",
+        "confidence": 80
+      },
+      {
+        "word": "curious",
+        "confidence": 75
+      },
+      {
+        "word": "connected",
+        "confidence": 72
+      },
+      {
+        "word": "innovative",
+        "confidence": 70
+      },
+      {
+        "word": "success",
+        "confidence": 65
+      },
+      {
+        "word": "convenient",
+        "confidence": 68
+      },
+      {
+        "word": "mixed",
+        "confidence": 63
+      }
+    ]
+  }
+}

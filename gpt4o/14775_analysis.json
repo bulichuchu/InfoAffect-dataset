@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "affectionate",
+        "confidence": 90
+      },
+      {
+        "word": "joy",
+        "confidence": 85
+      },
+      {
+        "word": "universal",
+        "confidence": 80
+      },
+      {
+        "word": "cultural",
+        "confidence": 75
+      },
+      {
+        "word": "expressive",
+        "confidence": 78
+      },
+      {
+        "word": "lighthearted",
+        "confidence": 70
+      }
+    ]
+  }
+}

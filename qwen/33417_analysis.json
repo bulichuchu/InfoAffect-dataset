@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transitional",
+        "confidence": 88
+      },
+      {
+        "word": "reliable",
+        "confidence": 85
+      },
+      {
+        "word": "innovative",
+        "confidence": 80
+      },
+      {
+        "word": "effective",
+        "confidence": 75
+      },
+      {
+        "word": "mixed",
+        "confidence": 72
+      },
+      {
+        "word": "statistical",
+        "confidence": 78
+      },
+      {
+        "word": "success",
+        "confidence": 70
+      },
+      {
+        "word": "data-driven",
+        "confidence": 82
+      }
+    ]
+  }
+}

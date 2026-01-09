@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 90
+      },
+      {
+        "word": "hard times",
+        "confidence": 85
+      },
+      {
+        "word": "lost",
+        "confidence": 80
+      },
+      {
+        "word": "abrupt",
+        "confidence": 75
+      },
+      {
+        "word": "grace",
+        "confidence": 70
+      },
+      {
+        "word": "dent",
+        "confidence": 65
+      },
+      {
+        "word": "criticized",
+        "confidence": 60
+      }
+    ]
+  }
+}

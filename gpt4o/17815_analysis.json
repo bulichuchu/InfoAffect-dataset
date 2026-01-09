@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "favoritism",
+        "confidence": 90
+      },
+      {
+        "word": "comparison",
+        "confidence": 85
+      },
+      {
+        "word": "popularity",
+        "confidence": 88
+      },
+      {
+        "word": "discrepancy",
+        "confidence": 80
+      },
+      {
+        "word": "ranking",
+        "confidence": 82
+      },
+      {
+        "word": "unfavorable",
+        "confidence": 78
+      }
+    ]
+  }
+}

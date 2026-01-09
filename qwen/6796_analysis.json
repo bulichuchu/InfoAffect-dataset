@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 85
+      },
+      {
+        "word": "declining",
+        "confidence": 80
+      },
+      {
+        "word": "practical",
+        "confidence": 90
+      },
+      {
+        "word": "unfair",
+        "confidence": 75
+      },
+      {
+        "word": "alarm",
+        "confidence": 78
+      },
+      {
+        "word": "effective",
+        "confidence": 70
+      },
+      {
+        "word": "ironic",
+        "confidence": 65
+      },
+      {
+        "word": "valueless",
+        "confidence": 72
+      }
+    ]
+  }
+}

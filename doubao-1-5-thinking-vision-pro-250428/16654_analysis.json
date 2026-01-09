@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "reliable",
+        "confidence": 90
+      },
+      {
+        "word": "acceptance",
+        "confidence": 85
+      },
+      {
+        "word": "fluctuation",
+        "confidence": 80
+      },
+      {
+        "word": "concern",
+        "confidence": 75
+      },
+      {
+        "word": "progress",
+        "confidence": 70
+      },
+      {
+        "word": "slow",
+        "confidence": 65
+      },
+      {
+        "word": "deadly",
+        "confidence": 60
+      },
+      {
+        "word": "free",
+        "confidence": 55
+      }
+    ]
+  }
+}

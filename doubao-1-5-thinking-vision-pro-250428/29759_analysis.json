@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "elusive",
+        "confidence": 90
+      },
+      {
+        "word": "affordable",
+        "confidence": 85
+      },
+      {
+        "word": "rare",
+        "confidence": 80
+      },
+      {
+        "word": "unreachable",
+        "confidence": 75
+      },
+      {
+        "word": "limited",
+        "confidence": 70
+      },
+      {
+        "word": "popular",
+        "confidence": 65
+      },
+      {
+        "word": "indulgent",
+        "confidence": 60
+      },
+      {
+        "word": "exclusive",
+        "confidence": 55
+      }
+    ]
+  }
+}

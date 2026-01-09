@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 85
+      },
+      {
+        "word": "inclusive",
+        "confidence": 80
+      },
+      {
+        "word": "tolerant",
+        "confidence": 75
+      },
+      {
+        "word": "polarized",
+        "confidence": 70
+      },
+      {
+        "word": "selective",
+        "confidence": 65
+      },
+      {
+        "word": "resistant",
+        "confidence": 60
+      },
+      {
+        "word": "open-minded",
+        "confidence": 55
+      },
+      {
+        "word": "closed-minded",
+        "confidence": 50
+      }
+    ]
+  }
+}

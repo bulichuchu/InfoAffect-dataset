@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "joy",
+        "confidence": 90
+      },
+      {
+        "word": "nominated",
+        "confidence": 85
+      },
+      {
+        "word": "prestigious",
+        "confidence": 80
+      },
+      {
+        "word": "acclaimed",
+        "confidence": 75
+      },
+      {
+        "word": "alarm",
+        "confidence": 70
+      },
+      {
+        "word": "historical",
+        "confidence": 65
+      },
+      {
+        "word": "awards",
+        "confidence": 60
+      },
+      {
+        "word": "gongs",
+        "confidence": 55
+      }
+    ]
+  }
+}

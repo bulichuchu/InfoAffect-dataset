@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fall",
+        "confidence": 90
+      },
+      {
+        "word": "failed",
+        "confidence": 85
+      },
+      {
+        "word": "exodus",
+        "confidence": 80
+      },
+      {
+        "word": "squandered",
+        "confidence": 75
+      },
+      {
+        "word": "brutal",
+        "confidence": 70
+      },
+      {
+        "word": "resurgent",
+        "confidence": 65
+      },
+      {
+        "word": "spectacular",
+        "confidence": 60
+      }
+    ]
+  }
+}

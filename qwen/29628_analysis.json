@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "engaging",
+        "confidence": 85
+      },
+      {
+        "word": "success",
+        "confidence": 80
+      },
+      {
+        "word": "social",
+        "confidence": 78
+      },
+      {
+        "word": "immersive",
+        "confidence": 75
+      },
+      {
+        "word": "effective",
+        "confidence": 72
+      },
+      {
+        "word": "addictive",
+        "confidence": 68
+      },
+      {
+        "word": "energetic",
+        "confidence": 65
+      },
+      {
+        "word": "rewarding",
+        "confidence": 63
+      }
+    ]
+  }
+}

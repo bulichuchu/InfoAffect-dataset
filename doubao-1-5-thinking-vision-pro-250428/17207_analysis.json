@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "escalating",
+        "confidence": 90
+      },
+      {
+        "word": "skyrocketing",
+        "confidence": 85
+      },
+      {
+        "word": "rise",
+        "confidence": 80
+      },
+      {
+        "word": "increasing",
+        "confidence": 75
+      },
+      {
+        "word": "soaring",
+        "confidence": 70
+      },
+      {
+        "word": "exacerbated",
+        "confidence": 65
+      },
+      {
+        "word": "steepest",
+        "confidence": 60
+      },
+      {
+        "word": "hefty",
+        "confidence": 55
+      }
+    ]
+  }
+}

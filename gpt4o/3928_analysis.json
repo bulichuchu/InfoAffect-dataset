@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "quirky",
+        "confidence": 85
+      },
+      {
+        "word": "alarm",
+        "confidence": 80
+      },
+      {
+        "word": "unique",
+        "confidence": 78
+      },
+      {
+        "word": "performative",
+        "confidence": 75
+      },
+      {
+        "word": "judgmental",
+        "confidence": 70
+      },
+      {
+        "word": "energetic",
+        "confidence": 65
+      }
+    ]
+  }
+}

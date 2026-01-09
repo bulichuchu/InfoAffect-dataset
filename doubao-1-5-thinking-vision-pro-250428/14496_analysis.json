@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "proud",
+        "confidence": 50
+      },
+      {
+        "word": "embarrassed",
+        "confidence": 40
+      },
+      {
+        "word": "normal",
+        "confidence": 35
+      },
+      {
+        "word": "discontent",
+        "confidence": 30
+      },
+      {
+        "word": "indifferent",
+        "confidence": 25
+      },
+      {
+        "word": "dissatisfied",
+        "confidence": 20
+      },
+      {
+        "word": "unhappy",
+        "confidence": 15
+      },
+      {
+        "word": "sad",
+        "confidence": 10
+      }
+    ]
+  }
+}

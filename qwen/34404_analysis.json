@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 88
+      },
+      {
+        "word": "anger",
+        "confidence": 82
+      },
+      {
+        "word": "effective",
+        "confidence": 78
+      },
+      {
+        "word": "success",
+        "confidence": 75
+      },
+      {
+        "word": "vulnerable",
+        "confidence": 80
+      },
+      {
+        "word": "success",
+        "confidence": 72
+      },
+      {
+        "word": "alarm",
+        "confidence": 76
+      },
+      {
+        "word": "geopolitical",
+        "confidence": 79
+      }
+    ]
+  }
+}

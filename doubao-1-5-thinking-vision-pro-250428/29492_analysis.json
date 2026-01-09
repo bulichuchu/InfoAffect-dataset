@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dispute",
+        "confidence": 90
+      },
+      {
+        "word": "wrong",
+        "confidence": 85
+      },
+      {
+        "word": "solidarity",
+        "confidence": 80
+      },
+      {
+        "word": "impartiality",
+        "confidence": 70
+      },
+      {
+        "word": "freedom",
+        "confidence": 65
+      },
+      {
+        "word": "uncertain",
+        "confidence": 50
+      },
+      {
+        "word": "controversy",
+        "confidence": 55
+      },
+      {
+        "word": "debate",
+        "confidence": 60
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 90
+      },
+      {
+        "word": "volatile",
+        "confidence": 85
+      },
+      {
+        "word": "conflict-ridden",
+        "confidence": 80
+      },
+      {
+        "word": "turbulent",
+        "confidence": 75
+      },
+      {
+        "word": "anger",
+        "confidence": 70
+      },
+      {
+        "word": "torn",
+        "confidence": 65
+      },
+      {
+        "word": "disputed",
+        "confidence": 60
+      },
+      {
+        "word": "unstable",
+        "confidence": 55
+      }
+    ]
+  }
+}

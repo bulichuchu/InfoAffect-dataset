@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "crashing",
+        "confidence": 90
+      },
+      {
+        "word": "worst",
+        "confidence": 85
+      },
+      {
+        "word": "suffer",
+        "confidence": 80
+      },
+      {
+        "word": "deep losses",
+        "confidence": 75
+      },
+      {
+        "word": "steep sell-off",
+        "confidence": 70
+      }
+    ]
+  }
+}

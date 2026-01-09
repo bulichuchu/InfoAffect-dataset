@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "gratitude",
+        "confidence": 85
+      },
+      {
+        "word": "reverence",
+        "confidence": 80
+      },
+      {
+        "word": "fear",
+        "confidence": 75
+      },
+      {
+        "word": "historical",
+        "confidence": 70
+      },
+      {
+        "word": "appreciative",
+        "confidence": 75
+      },
+      {
+        "word": "reflective",
+        "confidence": 70
+      },
+      {
+        "word": "honorable",
+        "confidence": 75
+      }
+    ]
+  }
+}

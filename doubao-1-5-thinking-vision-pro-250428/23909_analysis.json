@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 90
+      },
+      {
+        "word": "majority",
+        "confidence": 85
+      },
+      {
+        "word": "vast",
+        "confidence": 80
+      },
+      {
+        "word": "declining",
+        "confidence": 70
+      },
+      {
+        "word": "trailing",
+        "confidence": 65
+      },
+      {
+        "word": "low",
+        "confidence": 60
+      },
+      {
+        "word": "declining",
+        "confidence": 55
+      },
+      {
+        "word": "go-to",
+        "confidence": 45
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "improvement",
+        "confidence": 90
+      },
+      {
+        "word": "reduction",
+        "confidence": 85
+      },
+      {
+        "word": "joy",
+        "confidence": 80
+      },
+      {
+        "word": "joy",
+        "confidence": 70
+      },
+      {
+        "word": "alarm",
+        "confidence": 65
+      },
+      {
+        "word": "pending",
+        "confidence": 60
+      },
+      {
+        "word": "fluctuation",
+        "confidence": 55
+      },
+      {
+        "word": "worrying",
+        "confidence": 50
+      }
+    ]
+  }
+}

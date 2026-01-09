@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "bold",
+        "confidence": 85
+      },
+      {
+        "word": "speculative",
+        "confidence": 80
+      },
+      {
+        "word": "risky",
+        "confidence": 78
+      },
+      {
+        "word": "joy",
+        "confidence": 75
+      },
+      {
+        "word": "uncertain",
+        "confidence": 72
+      },
+      {
+        "word": "aggressive",
+        "confidence": 70
+      }
+    ]
+  }
+}

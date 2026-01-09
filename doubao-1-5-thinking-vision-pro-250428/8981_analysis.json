@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disputed",
+        "confidence": 90
+      },
+      {
+        "word": "heavily-fought",
+        "confidence": 85
+      },
+      {
+        "word": "sweeping",
+        "confidence": 80
+      },
+      {
+        "word": "majority",
+        "confidence": 70
+      },
+      {
+        "word": "battlegrounds",
+        "confidence": 65
+      },
+      {
+        "word": "winning",
+        "confidence": 60
+      },
+      {
+        "word": "numbers",
+        "confidence": 55
+      },
+      {
+        "word": "proposed",
+        "confidence": 50
+      }
+    ]
+  }
+}

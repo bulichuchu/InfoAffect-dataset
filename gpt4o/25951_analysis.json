@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "exploratory",
+        "confidence": 85
+      },
+      {
+        "word": "transitional",
+        "confidence": 82
+      },
+      {
+        "word": "energetic",
+        "confidence": 80
+      },
+      {
+        "word": "inclusive",
+        "confidence": 78
+      },
+      {
+        "word": "community-focused",
+        "confidence": 76
+      },
+      {
+        "word": "culturally-rich",
+        "confidence": 74
+      },
+      {
+        "word": "adventurous",
+        "confidence": 72
+      }
+    ]
+  }
+}

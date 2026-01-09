@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transitional",
+        "confidence": 88
+      },
+      {
+        "word": "joy",
+        "confidence": 82
+      },
+      {
+        "word": "struggle",
+        "confidence": 78
+      },
+      {
+        "word": "humorous",
+        "confidence": 75
+      },
+      {
+        "word": "provocative",
+        "confidence": 80
+      },
+      {
+        "word": "success",
+        "confidence": 76
+      },
+      {
+        "word": "rebellious",
+        "confidence": 70
+      },
+      {
+        "word": "intellectual",
+        "confidence": 73
+      }
+    ]
+  }
+}

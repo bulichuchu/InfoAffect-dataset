@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 90
+      },
+      {
+        "word": "rise",
+        "confidence": 85
+      },
+      {
+        "word": "excellent",
+        "confidence": 80
+      },
+      {
+        "word": "unemployment",
+        "confidence": 75
+      },
+      {
+        "word": "unstable",
+        "confidence": 70
+      },
+      {
+        "word": "worrying",
+        "confidence": 65
+      },
+      {
+        "word": "increasing",
+        "confidence": 60
+      },
+      {
+        "word": "excellent",
+        "confidence": 55
+      }
+    ]
+  }
+}

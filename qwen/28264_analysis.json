@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "joy",
+        "confidence": 85
+      },
+      {
+        "word": "alarm",
+        "confidence": 80
+      },
+      {
+        "word": "support",
+        "confidence": 75
+      },
+      {
+        "word": "determined",
+        "confidence": 70
+      },
+      {
+        "word": "alarm",
+        "confidence": 65
+      },
+      {
+        "word": "relieved",
+        "confidence": 60
+      },
+      {
+        "word": "alarm",
+        "confidence": 55
+      },
+      {
+        "word": "reliable",
+        "confidence": 50
+      }
+    ]
+  }
+}

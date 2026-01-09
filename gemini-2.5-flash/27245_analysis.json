@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "excessive",
+        "confidence": 95
+      },
+      {
+        "word": "costly",
+        "confidence": 90
+      },
+      {
+        "word": "reliable",
+        "confidence": 88
+      },
+      {
+        "word": "transitional",
+        "confidence": 82
+      },
+      {
+        "word": "elaborate",
+        "confidence": 80
+      },
+      {
+        "word": "disproportionate",
+        "confidence": 75
+      }
+    ]
+  }
+}

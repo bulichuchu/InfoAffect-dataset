@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "discontent",
+        "confidence": 90
+      },
+      {
+        "word": "support",
+        "confidence": 85
+      },
+      {
+        "word": "transitional",
+        "confidence": 80
+      },
+      {
+        "word": "uncertain",
+        "confidence": 70
+      },
+      {
+        "word": "hope",
+        "confidence": 65
+      },
+      {
+        "word": "dissatisfaction",
+        "confidence": 60
+      },
+      {
+        "word": "anxiety",
+        "confidence": 55
+      },
+      {
+        "word": "optimism",
+        "confidence": 50
+      }
+    ]
+  }
+}

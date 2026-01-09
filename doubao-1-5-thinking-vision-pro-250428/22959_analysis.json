@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "shameful",
+        "confidence": 90
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "offenders",
+        "confidence": 80
+      },
+      {
+        "word": "obstructing",
+        "confidence": 75
+      },
+      {
+        "word": "derail",
+        "confidence": 70
+      },
+      {
+        "word": "pending",
+        "confidence": 65
+      },
+      {
+        "word": "distracted",
+        "confidence": 60
+      },
+      {
+        "word": "suffocating",
+        "confidence": 55
+      }
+    ]
+  }
+}

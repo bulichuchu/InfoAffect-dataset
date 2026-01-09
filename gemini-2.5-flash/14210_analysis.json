@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 95
+      },
+      {
+        "word": "lonely",
+        "confidence": 90
+      },
+      {
+        "word": "deprivation",
+        "confidence": 88
+      },
+      {
+        "word": "backwardness",
+        "confidence": 85
+      },
+      {
+        "word": "formal",
+        "confidence": 80
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      }
+    ]
+  }
+}

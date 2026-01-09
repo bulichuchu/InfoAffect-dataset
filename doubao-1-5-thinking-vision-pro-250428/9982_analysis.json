@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 90
+      },
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "dwindling",
+        "confidence": 80
+      },
+      {
+        "word": "ailing",
+        "confidence": 75
+      },
+      {
+        "word": "faltering",
+        "confidence": 70
+      },
+      {
+        "word": "diminishing",
+        "confidence": 65
+      },
+      {
+        "word": "crashing",
+        "confidence": 60
+      },
+      {
+        "word": "lonely",
+        "confidence": 55
+      }
+    ]
+  }
+}

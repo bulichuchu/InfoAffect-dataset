@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "prevalent",
+        "confidence": 80
+      },
+      {
+        "word": "normal",
+        "confidence": 75
+      },
+      {
+        "word": "impulsive",
+        "confidence": 72
+      },
+      {
+        "word": "distracting",
+        "confidence": 78
+      },
+      {
+        "word": "restless",
+        "confidence": 70
+      }
+    ]
+  }
+}

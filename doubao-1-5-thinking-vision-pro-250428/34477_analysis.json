@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "leading",
+        "confidence": 90
+      },
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "awarded",
+        "confidence": 80
+      },
+      {
+        "word": "worst",
+        "confidence": 70
+      },
+      {
+        "word": "bottom",
+        "confidence": 65
+      },
+      {
+        "word": "declining",
+        "confidence": 55
+      },
+      {
+        "word": "steep",
+        "confidence": 50
+      },
+      {
+        "word": "restricted",
+        "confidence": 45
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "record",
+        "confidence": 90
+      },
+      {
+        "word": "practically eliminated",
+        "confidence": 85
+      },
+      {
+        "word": "minor",
+        "confidence": 70
+      },
+      {
+        "word": "relatively",
+        "confidence": 65
+      },
+      {
+        "word": "excellent",
+        "confidence": 50
+      }
+    ]
+  }
+}

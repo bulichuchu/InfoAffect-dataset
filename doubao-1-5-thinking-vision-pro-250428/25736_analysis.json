@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "increasing",
+        "confidence": 90
+      },
+      {
+        "word": "mandates",
+        "confidence": 85
+      },
+      {
+        "word": "requirements",
+        "confidence": 80
+      },
+      {
+        "word": "formal",
+        "confidence": 70
+      },
+      {
+        "word": "sounder",
+        "confidence": 65
+      },
+      {
+        "word": "compliance",
+        "confidence": 60
+      },
+      {
+        "word": "accommodate",
+        "confidence": 55
+      },
+      {
+        "word": "independent",
+        "confidence": 50
+      }
+    ]
+  }
+}

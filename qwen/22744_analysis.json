@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rise",
+        "confidence": 88
+      },
+      {
+        "word": "joy",
+        "confidence": 85
+      },
+      {
+        "word": "energetic",
+        "confidence": 82
+      },
+      {
+        "word": "growth-oriented",
+        "confidence": 80
+      },
+      {
+        "word": "effective",
+        "confidence": 75
+      },
+      {
+        "word": "success",
+        "confidence": 73
+      },
+      {
+        "word": "innovative",
+        "confidence": 70
+      },
+      {
+        "word": "data-driven",
+        "confidence": 68
+      }
+    ]
+  }
+}

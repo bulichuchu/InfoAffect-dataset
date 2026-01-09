@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "practical",
+        "confidence": 90
+      },
+      {
+        "word": "affordable",
+        "confidence": 85
+      },
+      {
+        "word": "mixed",
+        "confidence": 80
+      },
+      {
+        "word": "unreliable",
+        "confidence": 75
+      },
+      {
+        "word": "inaccessible",
+        "confidence": 70
+      },
+      {
+        "word": "chronically poor",
+        "confidence": 65
+      },
+      {
+        "word": "high cost",
+        "confidence": 60
+      },
+      {
+        "word": "low cost",
+        "confidence": 55
+      }
+    ]
+  }
+}

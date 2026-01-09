@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disappointment",
+        "confidence": 90
+      },
+      {
+        "word": "doubtful",
+        "confidence": 85
+      },
+      {
+        "word": "underwhelmed",
+        "confidence": 80
+      },
+      {
+        "word": "contraction",
+        "confidence": 75
+      },
+      {
+        "word": "declining",
+        "confidence": 70
+      },
+      {
+        "word": "unpopular",
+        "confidence": 65
+      },
+      {
+        "word": "languishing",
+        "confidence": 60
+      },
+      {
+        "word": "dormant",
+        "confidence": 55
+      }
+    ]
+  }
+}

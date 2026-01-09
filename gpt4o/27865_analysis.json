@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "cautionary",
+        "confidence": 90
+      },
+      {
+        "word": "anger",
+        "confidence": 85
+      },
+      {
+        "word": "fear",
+        "confidence": 80
+      },
+      {
+        "word": "stressful",
+        "confidence": 78
+      },
+      {
+        "word": "alerting",
+        "confidence": 76
+      },
+      {
+        "word": "unsettling",
+        "confidence": 74
+      },
+      {
+        "word": "demanding",
+        "confidence": 70
+      },
+      {
+        "word": "inconvenient",
+        "confidence": 68
+      }
+    ]
+  }
+}

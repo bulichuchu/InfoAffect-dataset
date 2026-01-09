@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 90
+      },
+      {
+        "word": "joy",
+        "confidence": 85
+      },
+      {
+        "word": "doubtful",
+        "confidence": 88
+      },
+      {
+        "word": "frustrated",
+        "confidence": 78
+      },
+      {
+        "word": "pessimistic",
+        "confidence": 82
+      },
+      {
+        "word": "resigned",
+        "confidence": 75
+      },
+      {
+        "word": "yearning",
+        "confidence": 70
+      },
+      {
+        "word": "concerned",
+        "confidence": 80
+      }
+    ]
+  }
+}

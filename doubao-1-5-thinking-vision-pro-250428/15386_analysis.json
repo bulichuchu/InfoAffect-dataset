@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "innovative",
+        "confidence": 90
+      },
+      {
+        "word": "advancement",
+        "confidence": 85
+      },
+      {
+        "word": "leadership",
+        "confidence": 80
+      },
+      {
+        "word": "sustainable",
+        "confidence": 70
+      },
+      {
+        "word": "environmentally friendly",
+        "confidence": 65
+      },
+      {
+        "word": "technological",
+        "confidence": 60
+      },
+      {
+        "word": "innovative",
+        "confidence": 55
+      },
+      {
+        "word": "global leadership",
+        "confidence": 50
+      }
+    ]
+  }
+}

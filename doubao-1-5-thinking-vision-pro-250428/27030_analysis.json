@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disinterest",
+        "confidence": 90
+      },
+      {
+        "word": "waste",
+        "confidence": 85
+      },
+      {
+        "word": "scams",
+        "confidence": 80
+      },
+      {
+        "word": "uncertain",
+        "confidence": 70
+      },
+      {
+        "word": "rabbit hole",
+        "confidence": 65
+      },
+      {
+        "word": "monumental",
+        "confidence": 55
+      },
+      {
+        "word": "time",
+        "confidence": 50
+      }
+    ]
+  }
+}

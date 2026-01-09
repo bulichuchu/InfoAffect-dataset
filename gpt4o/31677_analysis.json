@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "support",
+        "confidence": 90
+      },
+      {
+        "word": "solidarity",
+        "confidence": 85
+      },
+      {
+        "word": "empathetic",
+        "confidence": 80
+      },
+      {
+        "word": "committed",
+        "confidence": 78
+      },
+      {
+        "word": "reliable",
+        "confidence": 75
+      }
+    ]
+  }
+}

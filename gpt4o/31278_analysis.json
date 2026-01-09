@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 88
+      },
+      {
+        "word": "optimism",
+        "confidence": 85
+      },
+      {
+        "word": "reliable",
+        "confidence": 90
+      },
+      {
+        "word": "reliance",
+        "confidence": 82
+      },
+      {
+        "word": "anticipated",
+        "confidence": 80
+      },
+      {
+        "word": "innovation",
+        "confidence": 78
+      },
+      {
+        "word": "comfort",
+        "confidence": 75
+      }
+    ]
+  }
+}

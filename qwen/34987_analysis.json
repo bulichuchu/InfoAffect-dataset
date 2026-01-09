@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "struggle",
+        "confidence": 85
+      },
+      {
+        "word": "anger",
+        "confidence": 78
+      },
+      {
+        "word": "complex",
+        "confidence": 75
+      },
+      {
+        "word": "effective",
+        "confidence": 80
+      },
+      {
+        "word": "normal",
+        "confidence": 70
+      },
+      {
+        "word": "statistical",
+        "confidence": 72
+      },
+      {
+        "word": "effective",
+        "confidence": 65
+      },
+      {
+        "word": "moderate",
+        "confidence": 68
+      }
+    ]
+  }
+}

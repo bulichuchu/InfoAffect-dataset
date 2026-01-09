@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "long way",
+        "confidence": 90
+      },
+      {
+        "word": "slowly",
+        "confidence": 85
+      },
+      {
+        "word": "progressing",
+        "confidence": 70
+      },
+      {
+        "word": "achieve",
+        "confidence": 65
+      },
+      {
+        "word": "equality",
+        "confidence": 60
+      }
+    ]
+  }
+}

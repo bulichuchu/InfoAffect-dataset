@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "thrill-seeking",
+        "confidence": 90
+      },
+      {
+        "word": "adrenaline-filled",
+        "confidence": 85
+      },
+      {
+        "word": "flocking",
+        "confidence": 80
+      },
+      {
+        "word": "fear",
+        "confidence": 75
+      },
+      {
+        "word": "sizeable",
+        "confidence": 70
+      },
+      {
+        "word": "infrequent",
+        "confidence": 65
+      },
+      {
+        "word": "controversy",
+        "confidence": 60
+      },
+      {
+        "word": "abuse",
+        "confidence": 55
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "discrepancy",
+        "confidence": 90
+      },
+      {
+        "word": "misleading",
+        "confidence": 85
+      },
+      {
+        "word": "moderate",
+        "confidence": 70
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      },
+      {
+        "word": "confusion",
+        "confidence": 65
+      },
+      {
+        "word": "inaccurate",
+        "confidence": 80
+      },
+      {
+        "word": "mixed-up",
+        "confidence": 75
+      }
+    ]
+  }
+}

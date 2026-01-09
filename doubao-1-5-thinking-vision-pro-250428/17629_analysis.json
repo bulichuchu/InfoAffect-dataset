@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "outbreak",
+        "confidence": 90
+      },
+      {
+        "word": "cases",
+        "confidence": 85
+      },
+      {
+        "word": "death",
+        "confidence": 80
+      },
+      {
+        "word": "declared",
+        "confidence": 70
+      },
+      {
+        "word": "up",
+        "confidence": 65
+      },
+      {
+        "word": "increase",
+        "confidence": 60
+      },
+      {
+        "word": "declining",
+        "confidence": 55
+      },
+      {
+        "word": "scepticism",
+        "confidence": 50
+      }
+    ]
+  }
+}

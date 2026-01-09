@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disapproving",
+        "confidence": 95
+      },
+      {
+        "word": "condemnatory",
+        "confidence": 90
+      },
+      {
+        "word": "intolerant",
+        "confidence": 88
+      },
+      {
+        "word": "mixed",
+        "confidence": 85
+      },
+      {
+        "word": "discriminatory",
+        "confidence": 82
+      },
+      {
+        "word": "stark",
+        "confidence": 78
+      }
+    ]
+  }
+}

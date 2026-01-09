@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "overburdened",
+        "confidence": 90
+      },
+      {
+        "word": "brunt",
+        "confidence": 85
+      },
+      {
+        "word": "woes",
+        "confidence": 80
+      },
+      {
+        "word": "dependent",
+        "confidence": 75
+      },
+      {
+        "word": "overloaded",
+        "confidence": 70
+      },
+      {
+        "word": "record-long",
+        "confidence": 65
+      },
+      {
+        "word": "skyrocketing",
+        "confidence": 60
+      },
+      {
+        "word": "championed",
+        "confidence": 55
+      }
+    ]
+  }
+}

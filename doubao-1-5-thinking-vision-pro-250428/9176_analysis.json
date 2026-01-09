@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "decent",
+        "confidence": 70
+      },
+      {
+        "word": "on par",
+        "confidence": 65
+      },
+      {
+        "word": "similar",
+        "confidence": 60
+      },
+      {
+        "word": "slightly",
+        "confidence": 55
+      },
+      {
+        "word": "largest",
+        "confidence": 50
+      },
+      {
+        "word": "shortage",
+        "confidence": 45
+      },
+      {
+        "word": "fewer",
+        "confidence": 40
+      },
+      {
+        "word": "certainly",
+        "confidence": 35
+      }
+    ]
+  }
+}

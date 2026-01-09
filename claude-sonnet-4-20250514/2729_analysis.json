@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "elegant",
+        "confidence": 88
+      },
+      {
+        "word": "aspirational",
+        "confidence": 85
+      },
+      {
+        "word": "sophisticated",
+        "confidence": 82
+      },
+      {
+        "word": "glamorous",
+        "confidence": 78
+      },
+      {
+        "word": "polished",
+        "confidence": 75
+      },
+      {
+        "word": "empowering",
+        "confidence": 72
+      },
+      {
+        "word": "luxurious",
+        "confidence": 70
+      },
+      {
+        "word": "success",
+        "confidence": 68
+      }
+    ]
+  }
+}

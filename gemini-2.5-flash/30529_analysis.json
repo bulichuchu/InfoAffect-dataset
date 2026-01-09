@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "appealing",
+        "confidence": 90
+      },
+      {
+        "word": "inviting",
+        "confidence": 88
+      },
+      {
+        "word": "refreshing",
+        "confidence": 85
+      },
+      {
+        "word": "adventurous",
+        "confidence": 80
+      },
+      {
+        "word": "inspiring",
+        "confidence": 75
+      },
+      {
+        "word": "serene",
+        "confidence": 70
+      }
+    ]
+  }
+}

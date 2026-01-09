@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "exempted",
+        "confidence": 90
+      },
+      {
+        "word": "tariffs",
+        "confidence": 85
+      },
+      {
+        "word": "levies",
+        "confidence": 80
+      },
+      {
+        "word": "national security",
+        "confidence": 70
+      },
+      {
+        "word": "pending",
+        "confidence": 65
+      },
+      {
+        "word": "important",
+        "confidence": 60
+      },
+      {
+        "word": "costs",
+        "confidence": 55
+      },
+      {
+        "word": "excellent",
+        "confidence": 50
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "misleading",
+        "confidence": 95
+      },
+      {
+        "word": "mixed",
+        "confidence": 90
+      },
+      {
+        "word": "anger",
+        "confidence": 85
+      },
+      {
+        "word": "mixed",
+        "confidence": 85
+      },
+      {
+        "word": "disconcerting",
+        "confidence": 80
+      },
+      {
+        "word": "politicized",
+        "confidence": 75
+      }
+    ]
+  }
+}

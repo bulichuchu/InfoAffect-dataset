@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "aspiration",
+        "confidence": 90
+      },
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "desire",
+        "confidence": 88
+      },
+      {
+        "word": "joy",
+        "confidence": 83
+      },
+      {
+        "word": "yearning",
+        "confidence": 80
+      },
+      {
+        "word": "motivating",
+        "confidence": 75
+      }
+    ]
+  }
+}

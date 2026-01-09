@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 90
+      },
+      {
+        "word": "disconnected",
+        "confidence": 85
+      },
+      {
+        "word": "alarm",
+        "confidence": 82
+      },
+      {
+        "word": "unequal",
+        "confidence": 78
+      },
+      {
+        "word": "struggle",
+        "confidence": 76
+      },
+      {
+        "word": "alarm",
+        "confidence": 74
+      }
+    ]
+  }
+}

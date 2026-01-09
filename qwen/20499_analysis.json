@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "wealthy",
+        "confidence": 90
+      },
+      {
+        "word": "hierarchical",
+        "confidence": 85
+      },
+      {
+        "word": "formal",
+        "confidence": 80
+      },
+      {
+        "word": "exclusive",
+        "confidence": 75
+      },
+      {
+        "word": "dispassionate",
+        "confidence": 70
+      },
+      {
+        "word": "authoritative",
+        "confidence": 65
+      },
+      {
+        "word": "normal",
+        "confidence": 60
+      },
+      {
+        "word": "effective",
+        "confidence": 85
+      }
+    ]
+  }
+}

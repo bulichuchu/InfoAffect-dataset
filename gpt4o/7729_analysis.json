@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "multicultural",
+        "confidence": 90
+      },
+      {
+        "word": "welcoming",
+        "confidence": 85
+      },
+      {
+        "word": "concern",
+        "confidence": 75
+      },
+      {
+        "word": "fear",
+        "confidence": 70
+      },
+      {
+        "word": "uncertain",
+        "confidence": 80
+      },
+      {
+        "word": "mixed",
+        "confidence": 88
+      },
+      {
+        "word": "innovative",
+        "confidence": 65
+      }
+    ]
+  }
+}

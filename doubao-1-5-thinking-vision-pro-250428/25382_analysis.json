@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "popular",
+        "confidence": 90
+      },
+      {
+        "word": "preferred",
+        "confidence": 85
+      },
+      {
+        "word": "choice",
+        "confidence": 80
+      },
+      {
+        "word": "rise",
+        "confidence": 70
+      },
+      {
+        "word": "increased",
+        "confidence": 65
+      },
+      {
+        "word": "competition",
+        "confidence": 55
+      },
+      {
+        "word": "hard",
+        "confidence": 50
+      },
+      {
+        "word": "influencing",
+        "confidence": 45
+      }
+    ]
+  }
+}

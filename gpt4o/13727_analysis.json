@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 90
+      },
+      {
+        "word": "contentious",
+        "confidence": 85
+      },
+      {
+        "word": "fear",
+        "confidence": 88
+      },
+      {
+        "word": "fear",
+        "confidence": 83
+      },
+      {
+        "word": "mixed",
+        "confidence": 82
+      },
+      {
+        "word": "grim",
+        "confidence": 80
+      },
+      {
+        "word": "alarm",
+        "confidence": 87
+      }
+    ]
+  }
+}

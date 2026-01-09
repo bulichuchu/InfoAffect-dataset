@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "festive",
+        "confidence": 85
+      },
+      {
+        "word": "proud",
+        "confidence": 78
+      },
+      {
+        "word": "joy",
+        "confidence": 80
+      },
+      {
+        "word": "lighthearted",
+        "confidence": 82
+      },
+      {
+        "word": "nationalistic",
+        "confidence": 75
+      },
+      {
+        "word": "humorous",
+        "confidence": 70
+      },
+      {
+        "word": "casual",
+        "confidence": 73
+      },
+      {
+        "word": "joy",
+        "confidence": 88
+      }
+    ]
+  }
+}

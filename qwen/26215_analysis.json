@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "pragmatic",
+        "confidence": 85
+      },
+      {
+        "word": "traditional",
+        "confidence": 80
+      },
+      {
+        "word": "effective",
+        "confidence": 78
+      },
+      {
+        "word": "festive",
+        "confidence": 75
+      },
+      {
+        "word": "normal",
+        "confidence": 72
+      },
+      {
+        "word": "effective",
+        "confidence": 88
+      },
+      {
+        "word": "transitional",
+        "confidence": 65
+      },
+      {
+        "word": "relatable",
+        "confidence": 70
+      }
+    ]
+  }
+}

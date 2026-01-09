@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "important",
+        "confidence": 90
+      },
+      {
+        "word": "perceived",
+        "confidence": 85
+      },
+      {
+        "word": "statistical",
+        "confidence": 80
+      },
+      {
+        "word": "less important",
+        "confidence": 75
+      },
+      {
+        "word": "highly valued",
+        "confidence": 70
+      },
+      {
+        "word": "low priority",
+        "confidence": 65
+      },
+      {
+        "word": "trend",
+        "confidence": 55
+      },
+      {
+        "word": "anticipated",
+        "confidence": 50
+      }
+    ]
+  }
+}

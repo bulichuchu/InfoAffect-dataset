@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "exponential",
+        "confidence": 90
+      },
+      {
+        "word": "escalation",
+        "confidence": 85
+      },
+      {
+        "word": "pessimistic",
+        "confidence": 80
+      },
+      {
+        "word": "cooling",
+        "confidence": 75
+      },
+      {
+        "word": "protectionist",
+        "confidence": 70
+      }
+    ]
+  }
+}

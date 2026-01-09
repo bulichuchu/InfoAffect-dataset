@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "global",
+        "confidence": 90
+      },
+      {
+        "word": "substantial",
+        "confidence": 85
+      },
+      {
+        "word": "practical",
+        "confidence": 80
+      },
+      {
+        "word": "effective",
+        "confidence": 75
+      },
+      {
+        "word": "normal",
+        "confidence": 70
+      },
+      {
+        "word": "structured",
+        "confidence": 65
+      },
+      {
+        "word": "authoritative",
+        "confidence": 60
+      }
+    ]
+  }
+}

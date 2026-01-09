@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "record loss",
+        "confidence": 90
+      },
+      {
+        "word": "lowest number",
+        "confidence": 85
+      },
+      {
+        "word": "declining",
+        "confidence": 80
+      },
+      {
+        "word": "suffering",
+        "confidence": 75
+      },
+      {
+        "word": "curbed",
+        "confidence": 70
+      },
+      {
+        "word": "mass exodus",
+        "confidence": 65
+      },
+      {
+        "word": "non-existent",
+        "confidence": 60
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "support",
+        "confidence": 90
+      },
+      {
+        "word": "reliable",
+        "confidence": 85
+      },
+      {
+        "word": "unified",
+        "confidence": 80
+      },
+      {
+        "word": "determined",
+        "confidence": 78
+      },
+      {
+        "word": "joy",
+        "confidence": 75
+      },
+      {
+        "word": "solidarity",
+        "confidence": 82
+      },
+      {
+        "word": "alarm",
+        "confidence": 70
+      },
+      {
+        "word": "grateful",
+        "confidence": 65
+      }
+    ]
+  }
+}

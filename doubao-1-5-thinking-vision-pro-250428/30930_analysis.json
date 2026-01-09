@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "vital",
+        "confidence": 90
+      },
+      {
+        "word": "powerful",
+        "confidence": 85
+      },
+      {
+        "word": "driver",
+        "confidence": 80
+      },
+      {
+        "word": "prosperity",
+        "confidence": 70
+      },
+      {
+        "word": "globalization",
+        "confidence": 65
+      },
+      {
+        "word": "mobility",
+        "confidence": 60
+      },
+      {
+        "word": "affluence",
+        "confidence": 55
+      },
+      {
+        "word": "rise",
+        "confidence": 50
+      }
+    ]
+  }
+}

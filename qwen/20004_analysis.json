@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dramatic",
+        "confidence": 85
+      },
+      {
+        "word": "volatile",
+        "confidence": 80
+      },
+      {
+        "word": "declining",
+        "confidence": 75
+      },
+      {
+        "word": "anger",
+        "confidence": 70
+      },
+      {
+        "word": "uncertain",
+        "confidence": 65
+      },
+      {
+        "word": "declining",
+        "confidence": 78
+      },
+      {
+        "word": "transitional",
+        "confidence": 60
+      },
+      {
+        "word": "transitional",
+        "confidence": 68
+      }
+    ]
+  }
+}

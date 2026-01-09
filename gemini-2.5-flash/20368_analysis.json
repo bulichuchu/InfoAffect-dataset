@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "appealing",
+        "confidence": 90
+      },
+      {
+        "word": "convenient",
+        "confidence": 88
+      },
+      {
+        "word": "preferred",
+        "confidence": 85
+      },
+      {
+        "word": "disinclined",
+        "confidence": 78
+      },
+      {
+        "word": "hesitant",
+        "confidence": 70
+      },
+      {
+        "word": "satisfied",
+        "confidence": 65
+      },
+      {
+        "word": "uncertain",
+        "confidence": 60
+      }
+    ]
+  }
+}

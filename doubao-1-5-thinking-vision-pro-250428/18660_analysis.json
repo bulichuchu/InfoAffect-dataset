@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "record",
+        "confidence": 90
+      },
+      {
+        "word": "fall",
+        "confidence": 85
+      },
+      {
+        "word": "stabilizing",
+        "confidence": 70
+      },
+      {
+        "word": "wising",
+        "confidence": 65
+      },
+      {
+        "word": "spread",
+        "confidence": 55
+      }
+    ]
+  }
+}

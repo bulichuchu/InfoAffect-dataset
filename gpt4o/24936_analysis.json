@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 90
+      },
+      {
+        "word": "essential",
+        "confidence": 85
+      },
+      {
+        "word": "pressing",
+        "confidence": 82
+      },
+      {
+        "word": "reliable",
+        "confidence": 80
+      },
+      {
+        "word": "struggle",
+        "confidence": 78
+      },
+      {
+        "word": "success",
+        "confidence": 75
+      },
+      {
+        "word": "necessary",
+        "confidence": 77
+      }
+    ]
+  }
+}

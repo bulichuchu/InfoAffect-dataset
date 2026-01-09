@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "excellent",
+        "confidence": 85
+      },
+      {
+        "word": "success",
+        "confidence": 80
+      },
+      {
+        "word": "technological",
+        "confidence": 75
+      },
+      {
+        "word": "fast-paced",
+        "confidence": 78
+      },
+      {
+        "word": "global",
+        "confidence": 72
+      },
+      {
+        "word": "innovative",
+        "confidence": 76
+      },
+      {
+        "word": "declining",
+        "confidence": 65
+      },
+      {
+        "word": "exclusive",
+        "confidence": 70
+      }
+    ]
+  }
+}

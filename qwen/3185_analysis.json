@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "proud",
+        "confidence": 85
+      },
+      {
+        "word": "excited",
+        "confidence": 80
+      },
+      {
+        "word": "global",
+        "confidence": 75
+      },
+      {
+        "word": "thriving",
+        "confidence": 70
+      },
+      {
+        "word": "success",
+        "confidence": 65
+      },
+      {
+        "word": "unifying",
+        "confidence": 60
+      },
+      {
+        "word": "energetic",
+        "confidence": 72
+      },
+      {
+        "word": "rise",
+        "confidence": 68
+      }
+    ]
+  }
+}

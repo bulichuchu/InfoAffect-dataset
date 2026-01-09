@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 90
+      },
+      {
+        "word": "contrast",
+        "confidence": 85
+      },
+      {
+        "word": "difference",
+        "confidence": 80
+      },
+      {
+        "word": "variance",
+        "confidence": 75
+      },
+      {
+        "word": "mixed",
+        "confidence": 70
+      },
+      {
+        "word": "range",
+        "confidence": 65
+      },
+      {
+        "word": "spread",
+        "confidence": 60
+      },
+      {
+        "word": "gap",
+        "confidence": 55
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "oppressive",
+        "confidence": 90
+      },
+      {
+        "word": "perilous",
+        "confidence": 85
+      },
+      {
+        "word": "escape",
+        "confidence": 80
+      },
+      {
+        "word": "refugee",
+        "confidence": 75
+      },
+      {
+        "word": "punishment",
+        "confidence": 78
+      },
+      {
+        "word": "freedom",
+        "confidence": 82
+      },
+      {
+        "word": "hope",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "connectivity",
+        "confidence": 90
+      },
+      {
+        "word": "inclusion",
+        "confidence": 85
+      },
+      {
+        "word": "progress",
+        "confidence": 80
+      },
+      {
+        "word": "accessibility",
+        "confidence": 75
+      },
+      {
+        "word": "empowerment",
+        "confidence": 70
+      },
+      {
+        "word": "globalization",
+        "confidence": 65
+      },
+      {
+        "word": "integration",
+        "confidence": 60
+      }
+    ]
+  }
+}

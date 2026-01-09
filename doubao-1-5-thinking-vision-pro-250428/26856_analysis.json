@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 90
+      },
+      {
+        "word": "uncertain",
+        "confidence": 85
+      },
+      {
+        "word": "questionable",
+        "confidence": 80
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      },
+      {
+        "word": "disgraceful",
+        "confidence": 70
+      },
+      {
+        "word": "shameful",
+        "confidence": 65
+      },
+      {
+        "word": "scandalous",
+        "confidence": 60
+      },
+      {
+        "word": "notorious",
+        "confidence": 55
+      }
+    ]
+  }
+}

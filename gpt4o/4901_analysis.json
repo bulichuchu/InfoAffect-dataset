@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 87
+      },
+      {
+        "word": "anger",
+        "confidence": 82
+      },
+      {
+        "word": "alerting",
+        "confidence": 78
+      },
+      {
+        "word": "uneasy",
+        "confidence": 76
+      },
+      {
+        "word": "cautionary",
+        "confidence": 74
+      },
+      {
+        "word": "alarm",
+        "confidence": 70
+      }
+    ]
+  }
+}

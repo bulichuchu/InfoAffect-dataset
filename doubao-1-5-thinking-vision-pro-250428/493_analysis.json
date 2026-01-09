@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "annoying",
+        "confidence": 85
+      },
+      {
+        "word": "anger",
+        "confidence": 80
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      },
+      {
+        "word": "tedious",
+        "confidence": 70
+      },
+      {
+        "word": "bothersome",
+        "confidence": 68
+      },
+      {
+        "word": "cautionary",
+        "confidence": 65
+      }
+    ]
+  }
+}

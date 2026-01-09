@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transitional",
+        "confidence": 88
+      },
+      {
+        "word": "innovative",
+        "confidence": 85
+      },
+      {
+        "word": "unexpected",
+        "confidence": 82
+      },
+      {
+        "word": "reliable",
+        "confidence": 80
+      },
+      {
+        "word": "energetic",
+        "confidence": 75
+      },
+      {
+        "word": "disruptive",
+        "confidence": 72
+      }
+    ]
+  }
+}

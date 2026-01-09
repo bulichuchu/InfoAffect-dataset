@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "curiosity",
+        "confidence": 85
+      },
+      {
+        "word": "entertainment",
+        "confidence": 80
+      },
+      {
+        "word": "productivity",
+        "confidence": 75
+      },
+      {
+        "word": "exploration",
+        "confidence": 70
+      },
+      {
+        "word": "engagement",
+        "confidence": 65
+      },
+      {
+        "word": "convenience",
+        "confidence": 78
+      }
+    ]
+  }
+}

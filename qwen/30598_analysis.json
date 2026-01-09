@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "reflective",
+        "confidence": 85
+      },
+      {
+        "word": "contemplative",
+        "confidence": 80
+      },
+      {
+        "word": "statistical",
+        "confidence": 75
+      },
+      {
+        "word": "sober",
+        "confidence": 70
+      },
+      {
+        "word": "statistical",
+        "confidence": 78
+      },
+      {
+        "word": "statistical",
+        "confidence": 65
+      },
+      {
+        "word": "thought-provoking",
+        "confidence": 82
+      },
+      {
+        "word": "normal",
+        "confidence": 60
+      }
+    ]
+  }
+}

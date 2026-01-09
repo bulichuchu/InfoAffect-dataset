@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "convincing",
+        "confidence": 90
+      },
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "lead",
+        "confidence": 80
+      },
+      {
+        "word": "clear",
+        "confidence": 75
+      },
+      {
+        "word": "decisive",
+        "confidence": 70
+      },
+      {
+        "word": "desperate",
+        "confidence": 65
+      },
+      {
+        "word": "slide",
+        "confidence": 60
+      },
+      {
+        "word": "gap",
+        "confidence": 55
+      }
+    ]
+  }
+}

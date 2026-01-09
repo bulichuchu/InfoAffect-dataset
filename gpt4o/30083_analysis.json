@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "energetic",
+        "confidence": 90
+      },
+      {
+        "word": "energetic",
+        "confidence": 88
+      },
+      {
+        "word": "outdoorsy",
+        "confidence": 85
+      },
+      {
+        "word": "motivating",
+        "confidence": 82
+      },
+      {
+        "word": "recreational",
+        "confidence": 80
+      },
+      {
+        "word": "joy",
+        "confidence": 78
+      }
+    ]
+  }
+}

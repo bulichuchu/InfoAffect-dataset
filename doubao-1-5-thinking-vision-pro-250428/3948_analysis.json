@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "harmful",
+        "confidence": 90
+      },
+      {
+        "word": "costly",
+        "confidence": 85
+      },
+      {
+        "word": "huge",
+        "confidence": 80
+      },
+      {
+        "word": "toll",
+        "confidence": 75
+      },
+      {
+        "word": "indirect",
+        "confidence": 70
+      },
+      {
+        "word": "associated",
+        "confidence": 65
+      },
+      {
+        "word": "injected",
+        "confidence": 60
+      },
+      {
+        "word": "value",
+        "confidence": 55
+      }
+    ]
+  }
+}

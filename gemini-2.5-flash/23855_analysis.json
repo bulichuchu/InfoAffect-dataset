@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "aspirational",
+        "confidence": 90
+      },
+      {
+        "word": "longing",
+        "confidence": 88
+      },
+      {
+        "word": "joy",
+        "confidence": 85
+      },
+      {
+        "word": "escapist",
+        "confidence": 80
+      },
+      {
+        "word": "freedom-seeking",
+        "confidence": 78
+      },
+      {
+        "word": "calm",
+        "confidence": 70
+      }
+    ]
+  }
+}

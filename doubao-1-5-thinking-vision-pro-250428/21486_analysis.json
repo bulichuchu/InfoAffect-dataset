@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transitional",
+        "confidence": 90
+      },
+      {
+        "word": "crisis",
+        "confidence": 95
+      },
+      {
+        "word": "volatile",
+        "confidence": 85
+      },
+      {
+        "word": "closed",
+        "confidence": 70
+      },
+      {
+        "word": "increased",
+        "confidence": 65
+      },
+      {
+        "word": "declining",
+        "confidence": 60
+      },
+      {
+        "word": "lockdown",
+        "confidence": 75
+      },
+      {
+        "word": "volatility",
+        "confidence": 55
+      }
+    ]
+  }
+}

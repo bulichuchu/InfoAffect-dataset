@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "intimidating",
+        "confidence": 90
+      },
+      {
+        "word": "imposing",
+        "confidence": 88
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "massive",
+        "confidence": 92
+      },
+      {
+        "word": "anger",
+        "confidence": 78
+      },
+      {
+        "word": "formidable",
+        "confidence": 82
+      },
+      {
+        "word": "ominous",
+        "confidence": 75
+      }
+    ]
+  }
+}

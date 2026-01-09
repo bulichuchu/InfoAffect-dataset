@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "wealthy",
+        "confidence": 90
+      },
+      {
+        "word": "rich",
+        "confidence": 95
+      },
+      {
+        "word": "powerful",
+        "confidence": 85
+      },
+      {
+        "word": "success",
+        "confidence": 80
+      },
+      {
+        "word": "energetic",
+        "confidence": 70
+      },
+      {
+        "word": "excellent",
+        "confidence": 65
+      },
+      {
+        "word": "exclusive",
+        "confidence": 55
+      },
+      {
+        "word": "prestigious",
+        "confidence": 50
+      }
+    ]
+  }
+}

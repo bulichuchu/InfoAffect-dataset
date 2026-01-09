@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "splurge",
+        "confidence": 90
+      },
+      {
+        "word": "practical",
+        "confidence": 85
+      },
+      {
+        "word": "generous",
+        "confidence": 80
+      },
+      {
+        "word": "romantic",
+        "confidence": 75
+      },
+      {
+        "word": "pricy",
+        "confidence": 70
+      },
+      {
+        "word": "extravagant",
+        "confidence": 65
+      },
+      {
+        "word": "affluent",
+        "confidence": 60
+      }
+    ]
+  }
+}

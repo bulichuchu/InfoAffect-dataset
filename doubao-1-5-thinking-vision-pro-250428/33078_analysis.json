@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "normalization",
+        "confidence": 90
+      },
+      {
+        "word": "awareness",
+        "confidence": 85
+      },
+      {
+        "word": "mandatory",
+        "confidence": 80
+      },
+      {
+        "word": "regularity",
+        "confidence": 75
+      },
+      {
+        "word": "compliance",
+        "confidence": 70
+      },
+      {
+        "word": "barriers",
+        "confidence": 65
+      },
+      {
+        "word": "regulations",
+        "confidence": 60
+      },
+      {
+        "word": "understanding",
+        "confidence": 55
+      }
+    ]
+  }
+}

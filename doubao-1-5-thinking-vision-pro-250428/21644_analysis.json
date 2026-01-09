@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "normal",
+        "confidence": 90
+      },
+      {
+        "word": "widespread",
+        "confidence": 85
+      },
+      {
+        "word": "coverage",
+        "confidence": 70
+      },
+      {
+        "word": "global",
+        "confidence": 65
+      },
+      {
+        "word": "vaccination",
+        "confidence": 55
+      }
+    ]
+  }
+}

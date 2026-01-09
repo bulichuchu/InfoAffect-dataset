@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 90
+      },
+      {
+        "word": "inequality",
+        "confidence": 85
+      },
+      {
+        "word": "difference",
+        "confidence": 80
+      },
+      {
+        "word": "variance",
+        "confidence": 75
+      },
+      {
+        "word": "contrast",
+        "confidence": 70
+      },
+      {
+        "word": "dissimilarity",
+        "confidence": 65
+      },
+      {
+        "word": "mixed",
+        "confidence": 60
+      },
+      {
+        "word": "range",
+        "confidence": 55
+      }
+    ]
+  }
+}

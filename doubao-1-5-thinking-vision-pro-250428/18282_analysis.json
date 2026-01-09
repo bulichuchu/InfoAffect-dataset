@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "spoil",
+        "confidence": 90
+      },
+      {
+        "word": "dare",
+        "confidence": 85
+      },
+      {
+        "word": "unpleasant",
+        "confidence": 80
+      },
+      {
+        "word": "surprise",
+        "confidence": 70
+      },
+      {
+        "word": "costly",
+        "confidence": 75
+      },
+      {
+        "word": "dearly",
+        "confidence": 65
+      },
+      {
+        "word": "brunt",
+        "confidence": 70
+      }
+    ]
+  }
+}

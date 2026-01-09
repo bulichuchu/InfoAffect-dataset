@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "widespread",
+        "confidence": 90
+      },
+      {
+        "word": "prevalent",
+        "confidence": 85
+      },
+      {
+        "word": "normal",
+        "confidence": 80
+      },
+      {
+        "word": "ubiquitous",
+        "confidence": 70
+      },
+      {
+        "word": "pervasive",
+        "confidence": 65
+      },
+      {
+        "word": "scourge",
+        "confidence": 55
+      },
+      {
+        "word": "plague",
+        "confidence": 50
+      },
+      {
+        "word": "struggle",
+        "confidence": 45
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 90
+      },
+      {
+        "word": "compromise",
+        "confidence": 85
+      },
+      {
+        "word": "cooperation",
+        "confidence": 80
+      },
+      {
+        "word": "majority",
+        "confidence": 75
+      },
+      {
+        "word": "legislation",
+        "confidence": 70
+      },
+      {
+        "word": "chance",
+        "confidence": 65
+      },
+      {
+        "word": "effect",
+        "confidence": 60
+      },
+      {
+        "word": "contested",
+        "confidence": 55
+      }
+    ]
+  }
+}

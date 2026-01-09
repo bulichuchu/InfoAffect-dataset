@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "persistent",
+        "confidence": 80
+      },
+      {
+        "word": "unrest",
+        "confidence": 78
+      },
+      {
+        "word": "assertive",
+        "confidence": 75
+      },
+      {
+        "word": "historic",
+        "confidence": 72
+      },
+      {
+        "word": "impactful",
+        "confidence": 70
+      }
+    ]
+  }
+}

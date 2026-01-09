@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "overdrive",
+        "confidence": 90
+      },
+      {
+        "word": "rise",
+        "confidence": 85
+      },
+      {
+        "word": "increasing",
+        "confidence": 85
+      },
+      {
+        "word": "foreseen",
+        "confidence": 80
+      },
+      {
+        "word": "looming",
+        "confidence": 75
+      },
+      {
+        "word": "considerable",
+        "confidence": 70
+      },
+      {
+        "word": "main",
+        "confidence": 65
+      },
+      {
+        "word": "peak",
+        "confidence": 60
+      }
+    ]
+  }
+}

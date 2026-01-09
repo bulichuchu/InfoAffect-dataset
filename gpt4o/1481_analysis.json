@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "wealthy",
+        "confidence": 95
+      },
+      {
+        "word": "mixed",
+        "confidence": 88
+      },
+      {
+        "word": "contrast",
+        "confidence": 82
+      },
+      {
+        "word": "astonishing",
+        "confidence": 80
+      },
+      {
+        "word": "opulent",
+        "confidence": 78
+      },
+      {
+        "word": "inequality",
+        "confidence": 75
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "bleak",
+        "confidence": 90
+      },
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "declining",
+        "confidence": 80
+      },
+      {
+        "word": "declining",
+        "confidence": 75
+      },
+      {
+        "word": "unimpressive",
+        "confidence": 70
+      },
+      {
+        "word": "weak",
+        "confidence": 65
+      },
+      {
+        "word": "bleeding",
+        "confidence": 60
+      },
+      {
+        "word": "bleeding edge",
+        "confidence": 55
+      }
+    ]
+  }
+}

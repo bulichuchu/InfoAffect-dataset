@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "prosperous",
+        "confidence": 95
+      },
+      {
+        "word": "astonishing",
+        "confidence": 90
+      },
+      {
+        "word": "mixed",
+        "confidence": 98
+      },
+      {
+        "word": "alarm",
+        "confidence": 92
+      },
+      {
+        "word": "envious",
+        "confidence": 80
+      },
+      {
+        "word": "ambivalent",
+        "confidence": 85
+      }
+    ]
+  }
+}

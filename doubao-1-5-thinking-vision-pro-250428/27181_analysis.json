@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "endangering",
+        "confidence": 90
+      },
+      {
+        "word": "crucial",
+        "confidence": 85
+      },
+      {
+        "word": "heavily dependent",
+        "confidence": 80
+      },
+      {
+        "word": "shortage",
+        "confidence": 85
+      },
+      {
+        "word": "rising prices",
+        "confidence": 80
+      },
+      {
+        "word": "food shortage",
+        "confidence": 85
+      },
+      {
+        "word": "severe hunger",
+        "confidence": 90
+      },
+      {
+        "word": "looming",
+        "confidence": 80
+      }
+    ]
+  }
+}

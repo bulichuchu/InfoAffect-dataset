@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "deadly",
+        "confidence": 90
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "striking",
+        "confidence": 80
+      },
+      {
+        "word": "vulnerable",
+        "confidence": 75
+      },
+      {
+        "word": "rapidly",
+        "confidence": 70
+      },
+      {
+        "word": "high-risk",
+        "confidence": 65
+      },
+      {
+        "word": "deadly impact",
+        "confidence": 60
+      },
+      {
+        "word": "struggle",
+        "confidence": 50
+      }
+    ]
+  }
+}

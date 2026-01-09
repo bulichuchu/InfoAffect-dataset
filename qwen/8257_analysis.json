@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "cynical",
+        "confidence": 90
+      },
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "unforgivable",
+        "confidence": 80
+      },
+      {
+        "word": "sad",
+        "confidence": 75
+      },
+      {
+        "word": "cutthroat",
+        "confidence": 70
+      },
+      {
+        "word": "inexplicable",
+        "confidence": 65
+      },
+      {
+        "word": "gut-wrenching",
+        "confidence": 72
+      },
+      {
+        "word": "anger",
+        "confidence": 68
+      }
+    ]
+  }
+}

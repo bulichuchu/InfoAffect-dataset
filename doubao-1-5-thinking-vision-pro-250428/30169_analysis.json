@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "overlooked",
+        "confidence": 90
+      },
+      {
+        "word": "huge",
+        "confidence": 85
+      },
+      {
+        "word": "conservative",
+        "confidence": 70
+      },
+      {
+        "word": "pressured",
+        "confidence": 65
+      },
+      {
+        "word": "sustainability",
+        "confidence": 50
+      },
+      {
+        "word": "improvement",
+        "confidence": 40
+      },
+      {
+        "word": "hybrid",
+        "confidence": 35
+      },
+      {
+        "word": "requirements",
+        "confidence": 30
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 90
+      },
+      {
+        "word": "rise",
+        "confidence": 85
+      },
+      {
+        "word": "rise",
+        "confidence": 80
+      },
+      {
+        "word": "popular",
+        "confidence": 75
+      },
+      {
+        "word": "environmentally friendly",
+        "confidence": 70
+      },
+      {
+        "word": "healthier",
+        "confidence": 65
+      },
+      {
+        "word": "sustainable",
+        "confidence": 60
+      },
+      {
+        "word": "concerned",
+        "confidence": 55
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "excitement",
+        "confidence": 90
+      },
+      {
+        "word": "festivity",
+        "confidence": 85
+      },
+      {
+        "word": "spending",
+        "confidence": 80
+      },
+      {
+        "word": "celebration",
+        "confidence": 75
+      },
+      {
+        "word": "splurging",
+        "confidence": 65
+      },
+      {
+        "word": "loved",
+        "confidence": 55
+      },
+      {
+        "word": "autumn",
+        "confidence": 40
+      },
+      {
+        "word": "great",
+        "confidence": 35
+      }
+    ]
+  }
+}

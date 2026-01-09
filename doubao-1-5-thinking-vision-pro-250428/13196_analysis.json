@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "impactful",
+        "confidence": 90
+      },
+      {
+        "word": "friction",
+        "confidence": 85
+      },
+      {
+        "word": "ramifications",
+        "confidence": 80
+      },
+      {
+        "word": "frantic",
+        "confidence": 70
+      },
+      {
+        "word": "uncertain",
+        "confidence": 65
+      },
+      {
+        "word": "anger",
+        "confidence": 55
+      },
+      {
+        "word": "uncertain",
+        "confidence": 50
+      },
+      {
+        "word": "uncertain",
+        "confidence": 45
+      }
+    ]
+  }
+}

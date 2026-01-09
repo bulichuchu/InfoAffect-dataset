@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "harassment",
+        "confidence": 90
+      },
+      {
+        "word": "frequently",
+        "confidence": 85
+      },
+      {
+        "word": "exposed",
+        "confidence": 82
+      },
+      {
+        "word": "dark side",
+        "confidence": 78
+      },
+      {
+        "word": "recently",
+        "confidence": 75
+      },
+      {
+        "word": "study",
+        "confidence": 70
+      },
+      {
+        "word": "frequently",
+        "confidence": 68
+      },
+      {
+        "word": "harmful",
+        "confidence": 65
+      }
+    ]
+  }
+}

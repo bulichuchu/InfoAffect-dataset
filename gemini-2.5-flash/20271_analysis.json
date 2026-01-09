@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "exorbitant",
+        "confidence": 95
+      },
+      {
+        "word": "absurd",
+        "confidence": 90
+      },
+      {
+        "word": "anger",
+        "confidence": 88
+      },
+      {
+        "word": "astonishing",
+        "confidence": 85
+      },
+      {
+        "word": "disdainful",
+        "confidence": 75
+      },
+      {
+        "word": "exclusive",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dismaying",
+        "confidence": 90
+      },
+      {
+        "word": "alarm",
+        "confidence": 88
+      },
+      {
+        "word": "perceived",
+        "confidence": 85
+      },
+      {
+        "word": "consequential",
+        "confidence": 80
+      },
+      {
+        "word": "struggle",
+        "confidence": 78
+      },
+      {
+        "word": "unpopular",
+        "confidence": 75
+      },
+      {
+        "word": "embarrassing",
+        "confidence": 70
+      }
+    ]
+  }
+}

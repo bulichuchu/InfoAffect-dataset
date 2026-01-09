@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "astonishment",
+        "confidence": 90
+      },
+      {
+        "word": "surprise",
+        "confidence": 85
+      },
+      {
+        "word": "shock",
+        "confidence": 80
+      },
+      {
+        "word": "amazement",
+        "confidence": 70
+      },
+      {
+        "word": "extraordinary",
+        "confidence": 65
+      },
+      {
+        "word": "price",
+        "confidence": 50
+      },
+      {
+        "word": "bill",
+        "confidence": 45
+      },
+      {
+        "word": "costly",
+        "confidence": 40
+      }
+    ]
+  }
+}

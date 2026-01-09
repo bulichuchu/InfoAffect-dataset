@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fear",
+        "confidence": 90
+      },
+      {
+        "word": "sadness",
+        "confidence": 85
+      },
+      {
+        "word": "fear",
+        "confidence": 70
+      },
+      {
+        "word": "grief",
+        "confidence": 75
+      },
+      {
+        "word": "caution",
+        "confidence": 65
+      },
+      {
+        "word": "hopelessness",
+        "confidence": 50
+      },
+      {
+        "word": "remorse",
+        "confidence": 55
+      },
+      {
+        "word": "anxiety",
+        "confidence": 60
+      }
+    ]
+  }
+}

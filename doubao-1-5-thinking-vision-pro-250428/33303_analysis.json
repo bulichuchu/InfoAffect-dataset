@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "prolific",
+        "confidence": 90
+      },
+      {
+        "word": "energetic",
+        "confidence": 85
+      },
+      {
+        "word": "disrupted",
+        "confidence": 80
+      },
+      {
+        "word": "crashing",
+        "confidence": 75
+      },
+      {
+        "word": "pattern",
+        "confidence": 70
+      },
+      {
+        "word": "conflict",
+        "confidence": 65
+      },
+      {
+        "word": "war",
+        "confidence": 60
+      },
+      {
+        "word": "poverty",
+        "confidence": 55
+      }
+    ]
+  }
+}

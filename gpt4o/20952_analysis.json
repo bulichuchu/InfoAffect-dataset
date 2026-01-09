@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "favorite",
+        "confidence": 90
+      },
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "paramount",
+        "confidence": 80
+      },
+      {
+        "word": "popular",
+        "confidence": 78
+      },
+      {
+        "word": "leading",
+        "confidence": 82
+      },
+      {
+        "word": "endorsement",
+        "confidence": 75
+      },
+      {
+        "word": "prominent",
+        "confidence": 73
+      }
+    ]
+  }
+}

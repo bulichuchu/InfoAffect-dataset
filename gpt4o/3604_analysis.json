@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "joy",
+        "confidence": 90
+      },
+      {
+        "word": "fun",
+        "confidence": 88
+      },
+      {
+        "word": "pride",
+        "confidence": 82
+      },
+      {
+        "word": "community",
+        "confidence": 77
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 70
+      }
+    ]
+  }
+}

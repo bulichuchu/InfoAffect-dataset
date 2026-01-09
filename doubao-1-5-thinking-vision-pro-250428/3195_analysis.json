@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 90
+      },
+      {
+        "word": "died down",
+        "confidence": 85
+      },
+      {
+        "word": "over",
+        "confidence": 80
+      },
+      {
+        "word": "saturated",
+        "confidence": 75
+      },
+      {
+        "word": "room for growth",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "exclusive",
+        "confidence": 92
+      },
+      {
+        "word": "elitist",
+        "confidence": 88
+      },
+      {
+        "word": "fear",
+        "confidence": 85
+      },
+      {
+        "word": "excellent",
+        "confidence": 82
+      },
+      {
+        "word": "stark",
+        "confidence": 78
+      },
+      {
+        "word": "concentrated",
+        "confidence": 75
+      },
+      {
+        "word": "dominating",
+        "confidence": 73
+      },
+      {
+        "word": "aspirational",
+        "confidence": 65
+      }
+    ]
+  }
+}

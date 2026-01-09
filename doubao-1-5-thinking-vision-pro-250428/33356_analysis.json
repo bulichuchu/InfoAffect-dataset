@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transitional",
+        "confidence": 90
+      },
+      {
+        "word": "small",
+        "confidence": 85
+      },
+      {
+        "word": "uncertain",
+        "confidence": 80
+      },
+      {
+        "word": "risks",
+        "confidence": 75
+      },
+      {
+        "word": "polarization",
+        "confidence": 70
+      },
+      {
+        "word": "remarkable",
+        "confidence": 65
+      },
+      {
+        "word": "turbulent",
+        "confidence": 60
+      },
+      {
+        "word": "gravity",
+        "confidence": 55
+      }
+    ]
+  }
+}

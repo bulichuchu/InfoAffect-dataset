@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 90
+      },
+      {
+        "word": "innovative",
+        "confidence": 85
+      },
+      {
+        "word": "generational",
+        "confidence": 80
+      },
+      {
+        "word": "innovative",
+        "confidence": 75
+      },
+      {
+        "word": "declining",
+        "confidence": 70
+      },
+      {
+        "word": "digital",
+        "confidence": 88
+      },
+      {
+        "word": "evolving",
+        "confidence": 78
+      },
+      {
+        "word": "contrasting",
+        "confidence": 72
+      }
+    ]
+  }
+}

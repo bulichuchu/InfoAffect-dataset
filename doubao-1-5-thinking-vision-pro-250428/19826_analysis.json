@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "turbulent",
+        "confidence": 88
+      },
+      {
+        "word": "tumultuous",
+        "confidence": 85
+      },
+      {
+        "word": "failed",
+        "confidence": 82
+      },
+      {
+        "word": "fractious",
+        "confidence": 78
+      },
+      {
+        "word": "struggle",
+        "confidence": 75
+      },
+      {
+        "word": "precarious",
+        "confidence": 70
+      }
+    ]
+  }
+}

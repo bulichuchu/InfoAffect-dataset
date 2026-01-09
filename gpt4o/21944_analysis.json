@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frustration",
+        "confidence": 90
+      },
+      {
+        "word": "awareness",
+        "confidence": 88
+      },
+      {
+        "word": "concern",
+        "confidence": 85
+      },
+      {
+        "word": "discontent",
+        "confidence": 80
+      },
+      {
+        "word": "agreement",
+        "confidence": 82
+      },
+      {
+        "word": "division",
+        "confidence": 75
+      },
+      {
+        "word": "acknowledgment",
+        "confidence": 78
+      }
+    ]
+  }
+}

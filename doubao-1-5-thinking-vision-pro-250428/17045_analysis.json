@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "diverted",
+        "confidence": 90
+      },
+      {
+        "word": "redirected",
+        "confidence": 85
+      },
+      {
+        "word": "reallocated",
+        "confidence": 80
+      },
+      {
+        "word": "withdrawn",
+        "confidence": 75
+      },
+      {
+        "word": "severely reduced",
+        "confidence": 70
+      },
+      {
+        "word": "cut",
+        "confidence": 65
+      },
+      {
+        "word": "taken away",
+        "confidence": 60
+      },
+      {
+        "word": "removed",
+        "confidence": 55
+      }
+    ]
+  }
+}

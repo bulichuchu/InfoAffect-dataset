@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dissatisfaction",
+        "confidence": 90
+      },
+      {
+        "word": "low",
+        "confidence": 85
+      },
+      {
+        "word": "record",
+        "confidence": 80
+      },
+      {
+        "word": "declining",
+        "confidence": 75
+      },
+      {
+        "word": "lowest",
+        "confidence": 70
+      },
+      {
+        "word": "satisfaction",
+        "confidence": 65
+      },
+      {
+        "word": "dissatisfied",
+        "confidence": 60
+      },
+      {
+        "word": "disappointed",
+        "confidence": 55
+      }
+    ]
+  }
+}

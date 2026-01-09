@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "swift",
+        "confidence": 90
+      },
+      {
+        "word": "staggering",
+        "confidence": 85
+      },
+      {
+        "word": "fast",
+        "confidence": 80
+      },
+      {
+        "word": "quick",
+        "confidence": 75
+      },
+      {
+        "word": "steady",
+        "confidence": 70
+      }
+    ]
+  }
+}

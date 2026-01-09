@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "discomfort",
+        "confidence": 90
+      },
+      {
+        "word": "self-conscious",
+        "confidence": 85
+      },
+      {
+        "word": "relatable",
+        "confidence": 80
+      },
+      {
+        "word": "awkwardness",
+        "confidence": 75
+      },
+      {
+        "word": "introspective",
+        "confidence": 70
+      },
+      {
+        "word": "curious",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "joy",
+        "confidence": 90
+      },
+      {
+        "word": "joy",
+        "confidence": 85
+      },
+      {
+        "word": "contentment",
+        "confidence": 80
+      },
+      {
+        "word": "satisfaction",
+        "confidence": 75
+      },
+      {
+        "word": "well-being",
+        "confidence": 70
+      },
+      {
+        "word": "prosperity",
+        "confidence": 65
+      },
+      {
+        "word": "equality",
+        "confidence": 60
+      },
+      {
+        "word": "reliable",
+        "confidence": 55
+      }
+    ]
+  }
+}

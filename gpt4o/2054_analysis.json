@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 85
+      },
+      {
+        "word": "struggle",
+        "confidence": 82
+      },
+      {
+        "word": "stagnant",
+        "confidence": 78
+      },
+      {
+        "word": "declining",
+        "confidence": 80
+      },
+      {
+        "word": "slow",
+        "confidence": 75
+      },
+      {
+        "word": "alarm",
+        "confidence": 77
+      }
+    ]
+  }
+}

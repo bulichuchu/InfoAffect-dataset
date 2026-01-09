@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "effective",
+        "confidence": 90
+      },
+      {
+        "word": "busy",
+        "confidence": 85
+      },
+      {
+        "word": "work",
+        "confidence": 80
+      },
+      {
+        "word": "time",
+        "confidence": 70
+      },
+      {
+        "word": "hours",
+        "confidence": 65
+      },
+      {
+        "word": "low",
+        "confidence": 55
+      },
+      {
+        "word": "high",
+        "confidence": 50
+      },
+      {
+        "word": "increase",
+        "confidence": 45
+      }
+    ]
+  }
+}

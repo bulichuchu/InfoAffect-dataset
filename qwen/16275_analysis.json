@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transitional",
+        "confidence": 85
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 78
+      },
+      {
+        "word": "festive",
+        "confidence": 75
+      },
+      {
+        "word": "declining",
+        "confidence": 65
+      },
+      {
+        "word": "generational",
+        "confidence": 70
+      },
+      {
+        "word": "revelatory",
+        "confidence": 72
+      },
+      {
+        "word": "mildly humorous",
+        "confidence": 60
+      }
+    ]
+  }
+}

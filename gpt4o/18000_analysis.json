@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "reliable",
+        "confidence": 85
+      },
+      {
+        "word": "improved",
+        "confidence": 80
+      },
+      {
+        "word": "approval",
+        "confidence": 78
+      },
+      {
+        "word": "declining",
+        "confidence": 75
+      },
+      {
+        "word": "reliable",
+        "confidence": 70
+      },
+      {
+        "word": "favored",
+        "confidence": 77
+      },
+      {
+        "word": "criticized",
+        "confidence": 65
+      }
+    ]
+  }
+}

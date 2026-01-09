@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "patriotic",
+        "confidence": 90
+      },
+      {
+        "word": "reliable",
+        "confidence": 85
+      },
+      {
+        "word": "pride",
+        "confidence": 80
+      },
+      {
+        "word": "familiar",
+        "confidence": 78
+      },
+      {
+        "word": "admired",
+        "confidence": 75
+      },
+      {
+        "word": "prestigious",
+        "confidence": 70
+      }
+    ]
+  }
+}

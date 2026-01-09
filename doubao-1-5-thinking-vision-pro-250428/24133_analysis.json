@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "crashing",
+        "confidence": 90
+      },
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "reducing",
+        "confidence": 80
+      },
+      {
+        "word": "impactful",
+        "confidence": 70
+      },
+      {
+        "word": "drastically",
+        "confidence": 65
+      },
+      {
+        "word": "inevitable",
+        "confidence": 55
+      },
+      {
+        "word": "unforeseen",
+        "confidence": 50
+      },
+      {
+        "word": "pending",
+        "confidence": 45
+      }
+    ]
+  }
+}

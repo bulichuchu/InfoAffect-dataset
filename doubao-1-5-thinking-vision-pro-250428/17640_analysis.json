@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "generous",
+        "confidence": 90
+      },
+      {
+        "word": "support",
+        "confidence": 85
+      },
+      {
+        "word": "nurturing",
+        "confidence": 80
+      },
+      {
+        "word": "caring",
+        "confidence": 75
+      },
+      {
+        "word": "responsible",
+        "confidence": 70
+      },
+      {
+        "word": "empowering",
+        "confidence": 65
+      },
+      {
+        "word": "joy",
+        "confidence": 60
+      },
+      {
+        "word": "proud",
+        "confidence": 55
+      }
+    ]
+  }
+}

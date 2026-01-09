@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "nostalgic",
+        "confidence": 85
+      },
+      {
+        "word": "detached",
+        "confidence": 80
+      },
+      {
+        "word": "reflective",
+        "confidence": 78
+      },
+      {
+        "word": "disconnected",
+        "confidence": 75
+      },
+      {
+        "word": "normal",
+        "confidence": 73
+      },
+      {
+        "word": "transitional",
+        "confidence": 70
+      }
+    ]
+  }
+}

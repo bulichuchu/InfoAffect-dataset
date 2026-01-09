@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "regret",
+        "confidence": 95
+      },
+      {
+        "word": "remorse",
+        "confidence": 90
+      },
+      {
+        "word": "disappointment",
+        "confidence": 85
+      },
+      {
+        "word": "uncertain",
+        "confidence": 80
+      },
+      {
+        "word": "nostalgia",
+        "confidence": 75
+      },
+      {
+        "word": "frustration",
+        "confidence": 82
+      }
+    ]
+  }
+}

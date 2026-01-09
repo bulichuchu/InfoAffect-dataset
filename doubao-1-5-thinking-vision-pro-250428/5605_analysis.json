@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rise",
+        "confidence": 90
+      },
+      {
+        "word": "accumulating",
+        "confidence": 85
+      },
+      {
+        "word": "rise",
+        "confidence": 80
+      },
+      {
+        "word": "increasing",
+        "confidence": 75
+      },
+      {
+        "word": "surplus",
+        "confidence": 70
+      },
+      {
+        "word": "abundance",
+        "confidence": 65
+      },
+      {
+        "word": "wealthy",
+        "confidence": 60
+      },
+      {
+        "word": "plenty",
+        "confidence": 55
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "effective",
+        "confidence": 90
+      },
+      {
+        "word": "reliable",
+        "confidence": 85
+      },
+      {
+        "word": "mixed",
+        "confidence": 80
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      },
+      {
+        "word": "complex",
+        "confidence": 78
+      },
+      {
+        "word": "connected",
+        "confidence": 82
+      },
+      {
+        "word": "energetic",
+        "confidence": 77
+      }
+    ]
+  }
+}

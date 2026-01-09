@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "clarifying",
+        "confidence": 90
+      },
+      {
+        "word": "perceived",
+        "confidence": 88
+      },
+      {
+        "word": "formal",
+        "confidence": 85
+      },
+      {
+        "word": "joy",
+        "confidence": 80
+      },
+      {
+        "word": "statistical",
+        "confidence": 78
+      },
+      {
+        "word": "transitional",
+        "confidence": 75
+      }
+    ]
+  }
+}

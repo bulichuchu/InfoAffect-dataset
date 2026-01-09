@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "effective",
+        "confidence": 95
+      },
+      {
+        "word": "normal",
+        "confidence": 90
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "persistent",
+        "confidence": 80
+      },
+      {
+        "word": "unchanged",
+        "confidence": 75
+      },
+      {
+        "word": "realistic",
+        "confidence": 70
+      }
+    ]
+  }
+}

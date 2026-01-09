@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "industrialized",
+        "confidence": 90
+      },
+      {
+        "word": "massive",
+        "confidence": 85
+      },
+      {
+        "word": "dramatic",
+        "confidence": 80
+      },
+      {
+        "word": "compelling",
+        "confidence": 70
+      },
+      {
+        "word": "illustrative",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "reliable",
+        "confidence": 90
+      },
+      {
+        "word": "joy",
+        "confidence": 85
+      },
+      {
+        "word": "negative",
+        "confidence": 80
+      },
+      {
+        "word": "mainstream",
+        "confidence": 75
+      },
+      {
+        "word": "careful",
+        "confidence": 70
+      },
+      {
+        "word": "consideration",
+        "confidence": 65
+      },
+      {
+        "word": "responsibility",
+        "confidence": 60
+      }
+    ]
+  }
+}

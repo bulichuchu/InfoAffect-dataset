@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "thrill",
+        "confidence": 90
+      },
+      {
+        "word": "excitement",
+        "confidence": 85
+      },
+      {
+        "word": "alarm",
+        "confidence": 80
+      },
+      {
+        "word": "controversy",
+        "confidence": 75
+      },
+      {
+        "word": "adrenaline",
+        "confidence": 88
+      }
+    ]
+  }
+}

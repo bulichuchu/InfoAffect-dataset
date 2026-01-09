@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "excellent",
+        "confidence": 85
+      },
+      {
+        "word": "luxurious",
+        "confidence": 80
+      },
+      {
+        "word": "exclusive",
+        "confidence": 75
+      },
+      {
+        "word": "practical",
+        "confidence": 90
+      },
+      {
+        "word": "aspirational",
+        "confidence": 70
+      },
+      {
+        "word": "success",
+        "confidence": 78
+      },
+      {
+        "word": "debatable",
+        "confidence": 65
+      },
+      {
+        "word": "value-driven",
+        "confidence": 60
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 90
+      },
+      {
+        "word": "deadly",
+        "confidence": 95
+      },
+      {
+        "word": "high",
+        "confidence": 85
+      },
+      {
+        "word": "increasing",
+        "confidence": 80
+      },
+      {
+        "word": "climbing",
+        "confidence": 75
+      },
+      {
+        "word": "record",
+        "confidence": 70
+      },
+      {
+        "word": "marginalized",
+        "confidence": 65
+      },
+      {
+        "word": "shortage",
+        "confidence": 60
+      }
+    ]
+  }
+}

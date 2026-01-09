@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "uncertain",
+        "confidence": 85
+      },
+      {
+        "word": "statistical",
+        "confidence": 90
+      },
+      {
+        "word": "struggle",
+        "confidence": 82
+      },
+      {
+        "word": "normal",
+        "confidence": 78
+      },
+      {
+        "word": "questioning",
+        "confidence": 80
+      },
+      {
+        "word": "perceived",
+        "confidence": 75
+      },
+      {
+        "word": "effective",
+        "confidence": 88
+      },
+      {
+        "word": "thought-provoking",
+        "confidence": 83
+      }
+    ]
+  }
+}

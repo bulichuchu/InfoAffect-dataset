@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "conflict",
+        "confidence": 90
+      },
+      {
+        "word": "control",
+        "confidence": 85
+      },
+      {
+        "word": "energetic",
+        "confidence": 80
+      },
+      {
+        "word": "effective",
+        "confidence": 78
+      },
+      {
+        "word": "engagement",
+        "confidence": 75
+      },
+      {
+        "word": "violence",
+        "confidence": 70
+      },
+      {
+        "word": "presence",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "support",
+        "confidence": 90
+      },
+      {
+        "word": "oppose",
+        "confidence": 70
+      },
+      {
+        "word": "appetite",
+        "confidence": 80
+      },
+      {
+        "word": "general",
+        "confidence": 65
+      },
+      {
+        "word": "immediate",
+        "confidence": 75
+      },
+      {
+        "word": "voters",
+        "confidence": 60
+      },
+      {
+        "word": "poll",
+        "confidence": 55
+      },
+      {
+        "word": "vote",
+        "confidence": 50
+      }
+    ]
+  }
+}

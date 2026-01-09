@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 88
+      },
+      {
+        "word": "anger",
+        "confidence": 85
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 78
+      },
+      {
+        "word": "bittersweet",
+        "confidence": 75
+      },
+      {
+        "word": "anger",
+        "confidence": 72
+      },
+      {
+        "word": "chagrined",
+        "confidence": 70
+      },
+      {
+        "word": "pleasing",
+        "confidence": 65
+      },
+      {
+        "word": "regretful",
+        "confidence": 68
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 90
+      },
+      {
+        "word": "inclined",
+        "confidence": 70
+      },
+      {
+        "word": "balance",
+        "confidence": 65
+      },
+      {
+        "word": "right-wing",
+        "confidence": 75
+      },
+      {
+        "word": "left-wing",
+        "confidence": 70
+      },
+      {
+        "word": "great",
+        "confidence": 50
+      },
+      {
+        "word": "public",
+        "confidence": 55
+      },
+      {
+        "word": "media",
+        "confidence": 45
+      }
+    ]
+  }
+}

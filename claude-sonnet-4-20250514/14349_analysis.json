@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 88
+      },
+      {
+        "word": "responsible",
+        "confidence": 85
+      },
+      {
+        "word": "overwhelmed",
+        "confidence": 82
+      },
+      {
+        "word": "resigned",
+        "confidence": 78
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 75
+      },
+      {
+        "word": "self-aware",
+        "confidence": 72
+      },
+      {
+        "word": "pressured",
+        "confidence": 68
+      }
+    ]
+  }
+}

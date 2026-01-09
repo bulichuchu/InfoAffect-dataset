@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 90
+      },
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "transitional",
+        "confidence": 80
+      },
+      {
+        "word": "trendy",
+        "confidence": 75
+      },
+      {
+        "word": "disruptive",
+        "confidence": 70
+      },
+      {
+        "word": "adaptive",
+        "confidence": 65
+      },
+      {
+        "word": "predictive",
+        "confidence": 60
+      },
+      {
+        "word": "success",
+        "confidence": 68
+      }
+    ]
+  }
+}

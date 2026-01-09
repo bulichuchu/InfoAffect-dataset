@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 90
+      },
+      {
+        "word": "disparities",
+        "confidence": 85
+      },
+      {
+        "word": "financial burden",
+        "confidence": 80
+      },
+      {
+        "word": "unequal",
+        "confidence": 75
+      },
+      {
+        "word": "high cost",
+        "confidence": 70
+      },
+      {
+        "word": "personal finance",
+        "confidence": 65
+      },
+      {
+        "word": "excessive",
+        "confidence": 60
+      },
+      {
+        "word": "unaffordable",
+        "confidence": 55
+      }
+    ]
+  }
+}

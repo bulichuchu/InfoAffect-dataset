@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rise",
+        "confidence": 90
+      },
+      {
+        "word": "increasing",
+        "confidence": 85
+      },
+      {
+        "word": "unprecedented",
+        "confidence": 70
+      },
+      {
+        "word": "relative",
+        "confidence": 65
+      },
+      {
+        "word": "not",
+        "confidence": 55
+      },
+      {
+        "word": "latest",
+        "confidence": 50
+      },
+      {
+        "word": "available",
+        "confidence": 45
+      },
+      {
+        "word": "statistical",
+        "confidence": 40
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "astonishing",
+        "confidence": 95
+      },
+      {
+        "word": "joy",
+        "confidence": 90
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 85
+      },
+      {
+        "word": "reviving",
+        "confidence": 92
+      },
+      {
+        "word": "joy",
+        "confidence": 80
+      },
+      {
+        "word": "intrigued",
+        "confidence": 75
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "proud",
+        "confidence": 80
+      },
+      {
+        "word": "glamorous",
+        "confidence": 78
+      },
+      {
+        "word": "intriguing",
+        "confidence": 75
+      },
+      {
+        "word": "nationalistic",
+        "confidence": 72
+      },
+      {
+        "word": "transitional",
+        "confidence": 68
+      },
+      {
+        "word": "joy",
+        "confidence": 65
+      },
+      {
+        "word": "mixed",
+        "confidence": 60
+      }
+    ]
+  }
+}

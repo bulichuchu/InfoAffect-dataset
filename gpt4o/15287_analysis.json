@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anticipated",
+        "confidence": 85
+      },
+      {
+        "word": "disappointment",
+        "confidence": 80
+      },
+      {
+        "word": "diminishing",
+        "confidence": 78
+      },
+      {
+        "word": "excitement",
+        "confidence": 75
+      },
+      {
+        "word": "nostalgia",
+        "confidence": 70
+      }
+    ]
+  }
+}

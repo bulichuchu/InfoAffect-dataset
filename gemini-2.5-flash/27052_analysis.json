@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "statistical",
+        "confidence": 90
+      },
+      {
+        "word": "contemporary",
+        "confidence": 85
+      },
+      {
+        "word": "youthful",
+        "confidence": 80
+      },
+      {
+        "word": "perceived",
+        "confidence": 75
+      },
+      {
+        "word": "engaging",
+        "confidence": 70
+      },
+      {
+        "word": "cautionary",
+        "confidence": 60
+      },
+      {
+        "word": "energetic",
+        "confidence": 55
+      }
+    ]
+  }
+}

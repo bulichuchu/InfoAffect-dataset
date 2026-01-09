@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "excellent",
+        "confidence": 90
+      },
+      {
+        "word": "determined",
+        "confidence": 85
+      },
+      {
+        "word": "grueling",
+        "confidence": 80
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      },
+      {
+        "word": "awe-inspiring",
+        "confidence": 82
+      },
+      {
+        "word": "success",
+        "confidence": 70
+      },
+      {
+        "word": "costly",
+        "confidence": 65
+      },
+      {
+        "word": "remarkable",
+        "confidence": 88
+      }
+    ]
+  }
+}

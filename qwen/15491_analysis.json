@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disparities",
+        "confidence": 90
+      },
+      {
+        "word": "unequal",
+        "confidence": 88
+      },
+      {
+        "word": "contrasting",
+        "confidence": 85
+      },
+      {
+        "word": "anger",
+        "confidence": 82
+      },
+      {
+        "word": "success",
+        "confidence": 78
+      },
+      {
+        "word": "complex",
+        "confidence": 75
+      },
+      {
+        "word": "struggle",
+        "confidence": 73
+      },
+      {
+        "word": "aspirational",
+        "confidence": 70
+      }
+    ]
+  }
+}

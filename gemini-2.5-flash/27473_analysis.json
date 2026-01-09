@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "turbulent",
+        "confidence": 95
+      },
+      {
+        "word": "rewarding",
+        "confidence": 90
+      },
+      {
+        "word": "volatile",
+        "confidence": 88
+      },
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "rise",
+        "confidence": 82
+      },
+      {
+        "word": "reliable",
+        "confidence": 75
+      }
+    ]
+  }
+}

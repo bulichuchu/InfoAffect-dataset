@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 88
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "declining",
+        "confidence": 80
+      },
+      {
+        "word": "stubborn",
+        "confidence": 75
+      },
+      {
+        "word": "resistant",
+        "confidence": 72
+      },
+      {
+        "word": "costly",
+        "confidence": 70
+      },
+      {
+        "word": "defiant",
+        "confidence": 68
+      },
+      {
+        "word": "alarm",
+        "confidence": 65
+      }
+    ]
+  }
+}

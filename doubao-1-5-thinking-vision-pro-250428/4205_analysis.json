@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rise",
+        "confidence": 90
+      },
+      {
+        "word": "universal",
+        "confidence": 85
+      },
+      {
+        "word": "surprise",
+        "confidence": 80
+      },
+      {
+        "word": "blind spots",
+        "confidence": 70
+      },
+      {
+        "word": "omission",
+        "confidence": 65
+      },
+      {
+        "word": "patience",
+        "confidence": 55
+      },
+      {
+        "word": "interest",
+        "confidence": 50
+      }
+    ]
+  }
+}

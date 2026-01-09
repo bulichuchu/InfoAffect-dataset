@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "inequality",
+        "confidence": 90
+      },
+      {
+        "word": "shocking",
+        "confidence": 85
+      },
+      {
+        "word": "mixed",
+        "confidence": 88
+      },
+      {
+        "word": "unjust",
+        "confidence": 82
+      },
+      {
+        "word": "startling",
+        "confidence": 80
+      },
+      {
+        "word": "unbalanced",
+        "confidence": 83
+      }
+    ]
+  }
+}

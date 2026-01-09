@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "practical",
+        "confidence": 90
+      },
+      {
+        "word": "struggle",
+        "confidence": 85
+      },
+      {
+        "word": "unaffordable",
+        "confidence": 80
+      },
+      {
+        "word": "disadvantaged",
+        "confidence": 70
+      },
+      {
+        "word": "struggle",
+        "confidence": 65
+      },
+      {
+        "word": "struggle",
+        "confidence": 60
+      },
+      {
+        "word": "inaccessible",
+        "confidence": 55
+      },
+      {
+        "word": "ineffable",
+        "confidence": 50
+      }
+    ]
+  }
+}

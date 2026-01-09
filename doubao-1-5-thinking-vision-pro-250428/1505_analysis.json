@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rise",
+        "confidence": 90
+      },
+      {
+        "word": "steadily",
+        "confidence": 85
+      },
+      {
+        "word": "exceeding",
+        "confidence": 80
+      },
+      {
+        "word": "debate",
+        "confidence": 70
+      },
+      {
+        "word": "last minute",
+        "confidence": 65
+      },
+      {
+        "word": "financial maneuvering",
+        "confidence": 55
+      },
+      {
+        "word": "defaulting",
+        "confidence": 50
+      },
+      {
+        "word": "open",
+        "confidence": 45
+      }
+    ]
+  }
+}

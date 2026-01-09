@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "engaged",
+        "confidence": 85
+      },
+      {
+        "word": "collaborative",
+        "confidence": 80
+      },
+      {
+        "word": "joy",
+        "confidence": 82
+      },
+      {
+        "word": "distracted",
+        "confidence": 65
+      },
+      {
+        "word": "joy",
+        "confidence": 75
+      },
+      {
+        "word": "upbeat",
+        "confidence": 78
+      }
+    ]
+  }
+}

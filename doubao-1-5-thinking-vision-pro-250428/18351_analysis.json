@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "shocking",
+        "confidence": 90
+      },
+      {
+        "word": "anger",
+        "confidence": 85
+      },
+      {
+        "word": "disgusting",
+        "confidence": 80
+      },
+      {
+        "word": "polluting",
+        "confidence": 75
+      },
+      {
+        "word": "mixed",
+        "confidence": 70
+      },
+      {
+        "word": "environmentally damaging",
+        "confidence": 65
+      },
+      {
+        "word": "irritating",
+        "confidence": 60
+      },
+      {
+        "word": "unacceptable",
+        "confidence": 55
+      }
+    ]
+  }
+}

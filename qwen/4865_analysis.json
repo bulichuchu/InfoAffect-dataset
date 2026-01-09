@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "distrustful",
+        "confidence": 90
+      },
+      {
+        "word": "uncertain",
+        "confidence": 85
+      },
+      {
+        "word": "disillusioned",
+        "confidence": 80
+      },
+      {
+        "word": "relational",
+        "confidence": 75
+      },
+      {
+        "word": "alarm",
+        "confidence": 70
+      },
+      {
+        "word": "personal",
+        "confidence": 65
+      },
+      {
+        "word": "perceived",
+        "confidence": 60
+      },
+      {
+        "word": "polarized",
+        "confidence": 55
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "polarizing",
+        "confidence": 88
+      },
+      {
+        "word": "transitional",
+        "confidence": 90
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "mixed",
+        "confidence": 82
+      },
+      {
+        "word": "evolving",
+        "confidence": 78
+      },
+      {
+        "word": "partisan",
+        "confidence": 80
+      }
+    ]
+  }
+}

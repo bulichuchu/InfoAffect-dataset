@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unequal",
+        "confidence": 90
+      },
+      {
+        "word": "disproportionate",
+        "confidence": 85
+      },
+      {
+        "word": "Eurocentric",
+        "confidence": 80
+      },
+      {
+        "word": "biased",
+        "confidence": 78
+      },
+      {
+        "word": "injustice",
+        "confidence": 75
+      },
+      {
+        "word": "inequity",
+        "confidence": 72
+      },
+      {
+        "word": "neglect",
+        "confidence": 70
+      }
+    ]
+  }
+}

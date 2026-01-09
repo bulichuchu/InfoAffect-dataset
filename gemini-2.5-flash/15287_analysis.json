@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "diminished",
+        "confidence": 90
+      },
+      {
+        "word": "unsurprising",
+        "confidence": 85
+      },
+      {
+        "word": "subdued",
+        "confidence": 80
+      },
+      {
+        "word": "apathetic",
+        "confidence": 75
+      },
+      {
+        "word": "underwhelming",
+        "confidence": 70
+      },
+      {
+        "word": "anticlimactic",
+        "confidence": 65
+      }
+    ]
+  }
+}

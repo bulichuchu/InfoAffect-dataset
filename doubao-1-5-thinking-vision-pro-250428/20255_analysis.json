@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "bloody",
+        "confidence": 90
+      },
+      {
+        "word": "harmful",
+        "confidence": 85
+      },
+      {
+        "word": "shockingly",
+        "confidence": 80
+      },
+      {
+        "word": "barbarity",
+        "confidence": 85
+      },
+      {
+        "word": "turning point",
+        "confidence": 70
+      },
+      {
+        "word": "failed",
+        "confidence": 75
+      },
+      {
+        "word": "crumbling",
+        "confidence": 80
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      }
+    ]
+  }
+}

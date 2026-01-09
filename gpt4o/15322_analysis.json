@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unanimous",
+        "confidence": 90
+      },
+      {
+        "word": "fear",
+        "confidence": 88
+      },
+      {
+        "word": "adverse",
+        "confidence": 85
+      },
+      {
+        "word": "dislike",
+        "confidence": 83
+      },
+      {
+        "word": "ambivalent",
+        "confidence": 75
+      },
+      {
+        "word": "favorable",
+        "confidence": 78
+      },
+      {
+        "word": "unpopular",
+        "confidence": 80
+      }
+    ]
+  }
+}

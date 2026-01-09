@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "excellent",
+        "confidence": 90
+      },
+      {
+        "word": "hefty",
+        "confidence": 85
+      },
+      {
+        "word": "explosion",
+        "confidence": 80
+      },
+      {
+        "word": "steady",
+        "confidence": 70
+      },
+      {
+        "word": "fluctuations",
+        "confidence": 65
+      },
+      {
+        "word": "slump",
+        "confidence": 60
+      }
+    ]
+  }
+}

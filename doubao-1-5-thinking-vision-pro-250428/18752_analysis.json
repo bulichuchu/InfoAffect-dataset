@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "long",
+        "confidence": 90
+      },
+      {
+        "word": "prolonged",
+        "confidence": 85
+      },
+      {
+        "word": "extended",
+        "confidence": 80
+      },
+      {
+        "word": "substantial",
+        "confidence": 75
+      },
+      {
+        "word": "negotiations",
+        "confidence": 70
+      },
+      {
+        "word": "protests",
+        "confidence": 65
+      },
+      {
+        "word": "strike",
+        "confidence": 60
+      },
+      {
+        "word": "reform",
+        "confidence": 55
+      }
+    ]
+  }
+}

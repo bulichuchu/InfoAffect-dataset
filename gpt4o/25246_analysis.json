@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "harmful",
+        "confidence": 90
+      },
+      {
+        "word": "uncomfortable",
+        "confidence": 85
+      },
+      {
+        "word": "alarm",
+        "confidence": 88
+      },
+      {
+        "word": "symbolic",
+        "confidence": 75
+      },
+      {
+        "word": "eclipsed",
+        "confidence": 78
+      },
+      {
+        "word": "resurgence",
+        "confidence": 67
+      }
+    ]
+  }
+}

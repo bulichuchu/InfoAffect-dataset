@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "worst",
+        "confidence": 90
+      },
+      {
+        "word": "jams",
+        "confidence": 85
+      },
+      {
+        "word": "congestion",
+        "confidence": 80
+      },
+      {
+        "word": "extreme",
+        "confidence": 70
+      },
+      {
+        "word": "annoyance",
+        "confidence": 65
+      },
+      {
+        "word": "costly",
+        "confidence": 60
+      },
+      {
+        "word": "practical",
+        "confidence": 55
+      },
+      {
+        "word": "declining",
+        "confidence": 50
+      }
+    ]
+  }
+}

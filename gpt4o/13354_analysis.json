@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "joy",
+        "confidence": 90
+      },
+      {
+        "word": "festive",
+        "confidence": 88
+      },
+      {
+        "word": "family-oriented",
+        "confidence": 85
+      },
+      {
+        "word": "joy",
+        "confidence": 82
+      },
+      {
+        "word": "tradition",
+        "confidence": 79
+      },
+      {
+        "word": "communal",
+        "confidence": 75
+      }
+    ]
+  }
+}

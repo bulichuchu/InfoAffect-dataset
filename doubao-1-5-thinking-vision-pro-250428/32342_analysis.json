@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "colossal",
+        "confidence": 90
+      },
+      {
+        "word": "reliable",
+        "confidence": 85
+      },
+      {
+        "word": "prohibitive",
+        "confidence": 80
+      },
+      {
+        "word": "concerned",
+        "confidence": 70
+      },
+      {
+        "word": "strictly",
+        "confidence": 65
+      },
+      {
+        "word": "peaceful",
+        "confidence": 55
+      },
+      {
+        "word": "scientific",
+        "confidence": 50
+      },
+      {
+        "word": "disputed",
+        "confidence": 45
+      }
+    ]
+  }
+}

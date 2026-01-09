@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 90
+      },
+      {
+        "word": "harmful",
+        "confidence": 85
+      },
+      {
+        "word": "neglectful",
+        "confidence": 80
+      },
+      {
+        "word": "irresponsible",
+        "confidence": 75
+      },
+      {
+        "word": "lonely",
+        "confidence": 70
+      },
+      {
+        "word": "regrettable",
+        "confidence": 65
+      },
+      {
+        "word": "harmful",
+        "confidence": 60
+      },
+      {
+        "word": "unfortunate",
+        "confidence": 55
+      }
+    ]
+  }
+}

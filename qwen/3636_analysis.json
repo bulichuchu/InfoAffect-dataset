@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "affordable",
+        "confidence": 90
+      },
+      {
+        "word": "joy",
+        "confidence": 85
+      },
+      {
+        "word": "inviting",
+        "confidence": 80
+      },
+      {
+        "word": "joy",
+        "confidence": 75
+      },
+      {
+        "word": "fun",
+        "confidence": 70
+      },
+      {
+        "word": "relaxing",
+        "confidence": 65
+      },
+      {
+        "word": "satisfying",
+        "confidence": 72
+      },
+      {
+        "word": "accessible",
+        "confidence": 78
+      }
+    ]
+  }
+}

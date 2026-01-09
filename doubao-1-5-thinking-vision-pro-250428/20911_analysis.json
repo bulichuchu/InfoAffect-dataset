@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "loss",
+        "confidence": 90
+      },
+      {
+        "word": "shortage",
+        "confidence": 85
+      },
+      {
+        "word": "stolen",
+        "confidence": 80
+      },
+      {
+        "word": "theft",
+        "confidence": 70
+      },
+      {
+        "word": "disaster",
+        "confidence": 65
+      },
+      {
+        "word": "negligence",
+        "confidence": 55
+      },
+      {
+        "word": "insecurity",
+        "confidence": 50
+      },
+      {
+        "word": "vulnerability",
+        "confidence": 45
+      }
+    ]
+  }
+}

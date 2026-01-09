@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "practical",
+        "confidence": 90
+      },
+      {
+        "word": "astronomical",
+        "confidence": 85
+      },
+      {
+        "word": "stark",
+        "confidence": 80
+      },
+      {
+        "word": "criticism",
+        "confidence": 75
+      },
+      {
+        "word": "human rights violations",
+        "confidence": 70
+      },
+      {
+        "word": "alarm",
+        "confidence": 65
+      },
+      {
+        "word": "premature",
+        "confidence": 60
+      },
+      {
+        "word": "international criticism",
+        "confidence": 55
+      }
+    ]
+  }
+}

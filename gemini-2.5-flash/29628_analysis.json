@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "engaging",
+        "confidence": 90
+      },
+      {
+        "word": "dedicated",
+        "confidence": 88
+      },
+      {
+        "word": "social",
+        "confidence": 85
+      },
+      {
+        "word": "immersive",
+        "confidence": 80
+      },
+      {
+        "word": "effective",
+        "confidence": 75
+      },
+      {
+        "word": "communal",
+        "confidence": 70
+      }
+    ]
+  }
+}

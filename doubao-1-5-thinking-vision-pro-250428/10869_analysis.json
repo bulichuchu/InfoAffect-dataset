@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surprise",
+        "confidence": 90
+      },
+      {
+        "word": "shock",
+        "confidence": 85
+      },
+      {
+        "word": "alarm",
+        "confidence": 80
+      },
+      {
+        "word": "concern",
+        "confidence": 75
+      },
+      {
+        "word": "uncertain",
+        "confidence": 70
+      },
+      {
+        "word": "vulnerability",
+        "confidence": 65
+      },
+      {
+        "word": "deterrent",
+        "confidence": 60
+      },
+      {
+        "word": "powerful",
+        "confidence": 55
+      }
+    ]
+  }
+}

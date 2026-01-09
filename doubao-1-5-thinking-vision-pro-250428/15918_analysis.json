@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 90
+      },
+      {
+        "word": "transitional",
+        "confidence": 85
+      },
+      {
+        "word": "transitional",
+        "confidence": 80
+      },
+      {
+        "word": "reduction",
+        "confidence": 75
+      },
+      {
+        "word": "increasing",
+        "confidence": 70
+      },
+      {
+        "word": "popular",
+        "confidence": 65
+      },
+      {
+        "word": "deadly",
+        "confidence": 55
+      },
+      {
+        "word": "consequences",
+        "confidence": 50
+      }
+    ]
+  }
+}

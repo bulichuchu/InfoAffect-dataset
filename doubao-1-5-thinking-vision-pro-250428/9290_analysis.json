@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "landslide",
+        "confidence": 90
+      },
+      {
+        "word": "convincing",
+        "confidence": 85
+      },
+      {
+        "word": "excellent",
+        "confidence": 80
+      },
+      {
+        "word": "polarizing",
+        "confidence": 75
+      },
+      {
+        "word": "unconvinced",
+        "confidence": 70
+      },
+      {
+        "word": "struggle",
+        "confidence": 65
+      },
+      {
+        "word": "seemingly",
+        "confidence": 60
+      },
+      {
+        "word": "embattled",
+        "confidence": 55
+      }
+    ]
+  }
+}

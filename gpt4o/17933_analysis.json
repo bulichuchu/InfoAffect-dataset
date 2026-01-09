@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concern",
+        "confidence": 88
+      },
+      {
+        "word": "hesitation",
+        "confidence": 85
+      },
+      {
+        "word": "apprehension",
+        "confidence": 82
+      },
+      {
+        "word": "barrier",
+        "confidence": 80
+      },
+      {
+        "word": "cost-conscious",
+        "confidence": 78
+      },
+      {
+        "word": "aware",
+        "confidence": 75
+      },
+      {
+        "word": "restricted",
+        "confidence": 70
+      }
+    ]
+  }
+}

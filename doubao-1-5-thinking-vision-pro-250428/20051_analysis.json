@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unfair",
+        "confidence": 90
+      },
+      {
+        "word": "disruptive",
+        "confidence": 85
+      },
+      {
+        "word": "inconvenient",
+        "confidence": 80
+      },
+      {
+        "word": "irritating",
+        "confidence": 75
+      },
+      {
+        "word": "unpredictable",
+        "confidence": 70
+      },
+      {
+        "word": "uncertain",
+        "confidence": 65
+      },
+      {
+        "word": "fear",
+        "confidence": 60
+      },
+      {
+        "word": "frustrated",
+        "confidence": 55
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 88
+      },
+      {
+        "word": "blame",
+        "confidence": 85
+      },
+      {
+        "word": "responsibility",
+        "confidence": 82
+      },
+      {
+        "word": "polarized",
+        "confidence": 80
+      },
+      {
+        "word": "conflict",
+        "confidence": 78
+      },
+      {
+        "word": "complex",
+        "confidence": 75
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "lonely",
+        "confidence": 90
+      },
+      {
+        "word": "disappointed",
+        "confidence": 85
+      },
+      {
+        "word": "unhealthy",
+        "confidence": 80
+      },
+      {
+        "word": "failed",
+        "confidence": 75
+      },
+      {
+        "word": "down",
+        "confidence": 70
+      },
+      {
+        "word": "need",
+        "confidence": 65
+      },
+      {
+        "word": "probably",
+        "confidence": 60
+      },
+      {
+        "word": "long-rumoured",
+        "confidence": 55
+      }
+    ]
+  }
+}

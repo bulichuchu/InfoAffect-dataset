@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "increasing",
+        "confidence": 90
+      },
+      {
+        "word": "rise",
+        "confidence": 85
+      },
+      {
+        "word": "unrelenting",
+        "confidence": 80
+      },
+      {
+        "word": "steadfast",
+        "confidence": 75
+      },
+      {
+        "word": "consistent",
+        "confidence": 70
+      },
+      {
+        "word": "persistent",
+        "confidence": 65
+      },
+      {
+        "word": "unchanging",
+        "confidence": 60
+      }
+    ]
+  }
+}

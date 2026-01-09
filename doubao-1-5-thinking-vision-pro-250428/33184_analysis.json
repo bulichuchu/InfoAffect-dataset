@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "worse",
+        "confidence": 90
+      },
+      {
+        "word": "stagnant",
+        "confidence": 85
+      },
+      {
+        "word": "negative",
+        "confidence": 80
+      },
+      {
+        "word": "concerned",
+        "confidence": 75
+      },
+      {
+        "word": "uncertain",
+        "confidence": 70
+      },
+      {
+        "word": "joy",
+        "confidence": 50
+      },
+      {
+        "word": "joy",
+        "confidence": 45
+      },
+      {
+        "word": "harmful",
+        "confidence": 40
+      }
+    ]
+  }
+}

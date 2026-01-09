@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "inflation",
+        "confidence": 90
+      },
+      {
+        "word": "practical",
+        "confidence": 85
+      },
+      {
+        "word": "struggle",
+        "confidence": 80
+      },
+      {
+        "word": "disarray",
+        "confidence": 75
+      },
+      {
+        "word": "increases",
+        "confidence": 70
+      },
+      {
+        "word": "volatile",
+        "confidence": 65
+      },
+      {
+        "word": "stabilize",
+        "confidence": 55
+      },
+      {
+        "word": "moderately",
+        "confidence": 50
+      }
+    ]
+  }
+}

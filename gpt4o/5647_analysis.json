@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 90
+      },
+      {
+        "word": "widespread",
+        "confidence": 85
+      },
+      {
+        "word": "uncertain",
+        "confidence": 82
+      },
+      {
+        "word": "alarm",
+        "confidence": 80
+      },
+      {
+        "word": "exposed",
+        "confidence": 78
+      },
+      {
+        "word": "scandalous",
+        "confidence": 76
+      },
+      {
+        "word": "declining",
+        "confidence": 74
+      }
+    ]
+  }
+}

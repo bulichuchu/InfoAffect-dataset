@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 90
+      },
+      {
+        "word": "inequality",
+        "confidence": 85
+      },
+      {
+        "word": "mixed",
+        "confidence": 80
+      },
+      {
+        "word": "imbalance",
+        "confidence": 78
+      },
+      {
+        "word": "marginalization",
+        "confidence": 75
+      },
+      {
+        "word": "gendered",
+        "confidence": 70
+      }
+    ]
+  }
+}

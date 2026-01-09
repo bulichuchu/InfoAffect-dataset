@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "shocking",
+        "confidence": 90
+      },
+      {
+        "word": "harmful",
+        "confidence": 85
+      },
+      {
+        "word": "harmful",
+        "confidence": 85
+      },
+      {
+        "word": "disproportionately",
+        "confidence": 70
+      },
+      {
+        "word": "frequently",
+        "confidence": 65
+      },
+      {
+        "word": "unusual",
+        "confidence": 60
+      },
+      {
+        "word": "hot",
+        "confidence": 55
+      },
+      {
+        "word": "drought",
+        "confidence": 50
+      }
+    ]
+  }
+}

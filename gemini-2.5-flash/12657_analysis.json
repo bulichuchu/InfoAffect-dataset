@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "puzzlement",
+        "confidence": 90
+      },
+      {
+        "word": "hesitancy",
+        "confidence": 88
+      },
+      {
+        "word": "frustration",
+        "confidence": 85
+      },
+      {
+        "word": "mixed",
+        "confidence": 80
+      },
+      {
+        "word": "tension",
+        "confidence": 78
+      },
+      {
+        "word": "stalemate",
+        "confidence": 75
+      },
+      {
+        "word": "concern",
+        "confidence": 70
+      }
+    ]
+  }
+}

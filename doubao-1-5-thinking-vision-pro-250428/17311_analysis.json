@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dissatisfaction",
+        "confidence": 90
+      },
+      {
+        "word": "frustration",
+        "confidence": 85
+      },
+      {
+        "word": "discontent",
+        "confidence": 80
+      },
+      {
+        "word": "unhappy",
+        "confidence": 75
+      },
+      {
+        "word": "anger",
+        "confidence": 70
+      },
+      {
+        "word": "irritated",
+        "confidence": 65
+      },
+      {
+        "word": "unfulfilled",
+        "confidence": 60
+      },
+      {
+        "word": "dissuaded",
+        "confidence": 55
+      }
+    ]
+  }
+}

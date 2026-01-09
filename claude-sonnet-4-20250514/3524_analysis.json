@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dreary",
+        "confidence": 88
+      },
+      {
+        "word": "gloomy",
+        "confidence": 85
+      },
+      {
+        "word": "effective",
+        "confidence": 82
+      },
+      {
+        "word": "matter-of-fact",
+        "confidence": 78
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      },
+      {
+        "word": "harmful",
+        "confidence": 72
+      },
+      {
+        "word": "clinical",
+        "confidence": 68
+      }
+    ]
+  }
+}

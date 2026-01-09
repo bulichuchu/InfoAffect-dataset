@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "excellent",
+        "confidence": 95
+      },
+      {
+        "word": "astonishing",
+        "confidence": 90
+      },
+      {
+        "word": "affluent",
+        "confidence": 88
+      },
+      {
+        "word": "prosperous",
+        "confidence": 82
+      },
+      {
+        "word": "envious",
+        "confidence": 75
+      },
+      {
+        "word": "extravagant",
+        "confidence": 70
+      },
+      {
+        "word": "mixed",
+        "confidence": 65
+      }
+    ]
+  }
+}

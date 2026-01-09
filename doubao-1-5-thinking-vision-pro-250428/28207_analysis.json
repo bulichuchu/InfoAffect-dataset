@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "solemn",
+        "confidence": 85
+      },
+      {
+        "word": "formal",
+        "confidence": 82
+      },
+      {
+        "word": "historical",
+        "confidence": 78
+      },
+      {
+        "word": "inevitable",
+        "confidence": 75
+      },
+      {
+        "word": "reflective",
+        "confidence": 70
+      },
+      {
+        "word": "structured",
+        "confidence": 68
+      }
+    ]
+  }
+}

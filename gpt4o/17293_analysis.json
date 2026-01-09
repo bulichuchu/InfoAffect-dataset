@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "satisfied",
+        "confidence": 85
+      },
+      {
+        "word": "contentment",
+        "confidence": 80
+      },
+      {
+        "word": "mixed",
+        "confidence": 75
+      },
+      {
+        "word": "complacency",
+        "confidence": 78
+      },
+      {
+        "word": "mixed",
+        "confidence": 73
+      },
+      {
+        "word": "disagreement",
+        "confidence": 70
+      }
+    ]
+  }
+}

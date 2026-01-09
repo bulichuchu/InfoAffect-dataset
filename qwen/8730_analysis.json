@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dependent",
+        "confidence": 90
+      },
+      {
+        "word": "regional",
+        "confidence": 85
+      },
+      {
+        "word": "practical",
+        "confidence": 80
+      },
+      {
+        "word": "polarizing",
+        "confidence": 75
+      },
+      {
+        "word": "resistant",
+        "confidence": 70
+      },
+      {
+        "word": "traditional",
+        "confidence": 65
+      },
+      {
+        "word": "mixed",
+        "confidence": 72
+      },
+      {
+        "word": "political",
+        "confidence": 78
+      }
+    ]
+  }
+}

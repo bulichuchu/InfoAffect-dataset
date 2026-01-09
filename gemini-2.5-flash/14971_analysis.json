@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "imbalanced",
+        "confidence": 95
+      },
+      {
+        "word": "alarm",
+        "confidence": 90
+      },
+      {
+        "word": "harmful",
+        "confidence": 85
+      },
+      {
+        "word": "anger",
+        "confidence": 85
+      },
+      {
+        "word": "unfair",
+        "confidence": 80
+      },
+      {
+        "word": "excluding",
+        "confidence": 75
+      }
+    ]
+  }
+}

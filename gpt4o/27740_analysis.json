@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 88
+      },
+      {
+        "word": "resignation",
+        "confidence": 85
+      },
+      {
+        "word": "scandal",
+        "confidence": 90
+      },
+      {
+        "word": "pressured",
+        "confidence": 80
+      },
+      {
+        "word": "decisive",
+        "confidence": 78
+      },
+      {
+        "word": "accountability",
+        "confidence": 77
+      },
+      {
+        "word": "alarm",
+        "confidence": 82
+      }
+    ]
+  }
+}

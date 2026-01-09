@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "slight",
+        "confidence": 70
+      },
+      {
+        "word": "increase",
+        "confidence": 65
+      },
+      {
+        "word": "room",
+        "confidence": 60
+      },
+      {
+        "word": "share",
+        "confidence": 60
+      },
+      {
+        "word": "slowly",
+        "confidence": 50
+      },
+      {
+        "word": "losing",
+        "confidence": 45
+      },
+      {
+        "word": "ground",
+        "confidence": 40
+      },
+      {
+        "word": "declining",
+        "confidence": 35
+      }
+    ]
+  }
+}

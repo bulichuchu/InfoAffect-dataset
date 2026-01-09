@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "negative",
+        "confidence": 90
+      },
+      {
+        "word": "condemnation",
+        "confidence": 85
+      },
+      {
+        "word": "ineffective",
+        "confidence": 80
+      },
+      {
+        "word": "failed",
+        "confidence": 88
+      },
+      {
+        "word": "alarm",
+        "confidence": 82
+      },
+      {
+        "word": "struggle",
+        "confidence": 78
+      }
+    ]
+  }
+}

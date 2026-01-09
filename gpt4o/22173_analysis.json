@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 90
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "exclusive",
+        "confidence": 80
+      },
+      {
+        "word": "isolating",
+        "confidence": 78
+      },
+      {
+        "word": "protective",
+        "confidence": 75
+      },
+      {
+        "word": "vigilant",
+        "confidence": 72
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "practical",
+        "confidence": 95
+      },
+      {
+        "word": "excellent",
+        "confidence": 90
+      },
+      {
+        "word": "surprise",
+        "confidence": 85
+      },
+      {
+        "word": "anger",
+        "confidence": 80
+      },
+      {
+        "word": "gamble",
+        "confidence": 75
+      },
+      {
+        "word": "justified",
+        "confidence": 70
+      }
+    ]
+  }
+}

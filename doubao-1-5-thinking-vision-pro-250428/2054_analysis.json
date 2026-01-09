@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fragmentation",
+        "confidence": 90
+      },
+      {
+        "word": "issue",
+        "confidence": 85
+      },
+      {
+        "word": "slow",
+        "confidence": 80
+      },
+      {
+        "word": "high",
+        "confidence": 70
+      },
+      {
+        "word": "low",
+        "confidence": 65
+      },
+      {
+        "word": "endless",
+        "confidence": 55
+      },
+      {
+        "word": "compatibility",
+        "confidence": 50
+      },
+      {
+        "word": "incompatible",
+        "confidence": 45
+      }
+    ]
+  }
+}

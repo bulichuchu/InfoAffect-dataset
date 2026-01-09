@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 85
+      },
+      {
+        "word": "polarized",
+        "confidence": 82
+      },
+      {
+        "word": "transitional",
+        "confidence": 78
+      },
+      {
+        "word": "trending",
+        "confidence": 75
+      },
+      {
+        "word": "mixed",
+        "confidence": 73
+      },
+      {
+        "word": "steady",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rise",
+        "confidence": 90
+      },
+      {
+        "word": "priority",
+        "confidence": 85
+      },
+      {
+        "word": "focus",
+        "confidence": 80
+      },
+      {
+        "word": "tactical",
+        "confidence": 75
+      },
+      {
+        "word": "high",
+        "confidence": 70
+      },
+      {
+        "word": "agenda",
+        "confidence": 65
+      },
+      {
+        "word": "challenges",
+        "confidence": 60
+      },
+      {
+        "word": "transformation",
+        "confidence": 55
+      }
+    ]
+  }
+}

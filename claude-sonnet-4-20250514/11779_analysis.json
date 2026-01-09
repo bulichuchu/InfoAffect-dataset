@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "uncertain",
+        "confidence": 88
+      },
+      {
+        "word": "contemplative",
+        "confidence": 82
+      },
+      {
+        "word": "ambivalent",
+        "confidence": 80
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 75
+      },
+      {
+        "word": "joy",
+        "confidence": 70
+      },
+      {
+        "word": "complex",
+        "confidence": 85
+      },
+      {
+        "word": "thoughtful",
+        "confidence": 78
+      }
+    ]
+  }
+}

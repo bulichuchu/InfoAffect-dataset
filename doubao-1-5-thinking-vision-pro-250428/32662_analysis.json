@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rise",
+        "confidence": 90
+      },
+      {
+        "word": "profitable",
+        "confidence": 85
+      },
+      {
+        "word": "strong",
+        "confidence": 80
+      },
+      {
+        "word": "accelerated",
+        "confidence": 75
+      },
+      {
+        "word": "record highs",
+        "confidence": 70
+      },
+      {
+        "word": "exceeds",
+        "confidence": 65
+      },
+      {
+        "word": "guidance",
+        "confidence": 60
+      },
+      {
+        "word": "well on its way",
+        "confidence": 55
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "solemn",
+        "confidence": 88
+      },
+      {
+        "word": "formal",
+        "confidence": 85
+      },
+      {
+        "word": "historical",
+        "confidence": 80
+      },
+      {
+        "word": "transitional",
+        "confidence": 75
+      },
+      {
+        "word": "dignified",
+        "confidence": 72
+      },
+      {
+        "word": "respectful",
+        "confidence": 70
+      },
+      {
+        "word": "authoritative",
+        "confidence": 68
+      },
+      {
+        "word": "traditional",
+        "confidence": 65
+      }
+    ]
+  }
+}

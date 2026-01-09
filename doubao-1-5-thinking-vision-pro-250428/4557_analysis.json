@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rise",
+        "confidence": 90
+      },
+      {
+        "word": "acceleration",
+        "confidence": 85
+      },
+      {
+        "word": "success",
+        "confidence": 70
+      },
+      {
+        "word": "increase",
+        "confidence": 80
+      },
+      {
+        "word": "surpass",
+        "confidence": 75
+      },
+      {
+        "word": "offset",
+        "confidence": 65
+      },
+      {
+        "word": "historical",
+        "confidence": 55
+      }
+    ]
+  }
+}

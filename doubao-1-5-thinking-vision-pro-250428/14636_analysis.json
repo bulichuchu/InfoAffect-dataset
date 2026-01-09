@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "progress",
+        "confidence": 90
+      },
+      {
+        "word": "improvement",
+        "confidence": 85
+      },
+      {
+        "word": "commitment",
+        "confidence": 80
+      },
+      {
+        "word": "unity",
+        "confidence": 75
+      },
+      {
+        "word": "reliable",
+        "confidence": 70
+      },
+      {
+        "word": "concern",
+        "confidence": 65
+      },
+      {
+        "word": "uncertain",
+        "confidence": 60
+      },
+      {
+        "word": "deterrence",
+        "confidence": 55
+      }
+    ]
+  }
+}

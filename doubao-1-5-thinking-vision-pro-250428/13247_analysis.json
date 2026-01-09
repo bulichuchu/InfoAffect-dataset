@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "turmoil",
+        "confidence": 90
+      },
+      {
+        "word": "chaos",
+        "confidence": 85
+      },
+      {
+        "word": "disruption",
+        "confidence": 80
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      },
+      {
+        "word": "instability",
+        "confidence": 70
+      },
+      {
+        "word": "drama",
+        "confidence": 65
+      },
+      {
+        "word": "turbulence",
+        "confidence": 60
+      },
+      {
+        "word": "confusion",
+        "confidence": 55
+      }
+    ]
+  }
+}

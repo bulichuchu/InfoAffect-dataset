@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 78
+      },
+      {
+        "word": "balanced",
+        "confidence": 82
+      },
+      {
+        "word": "uncertain",
+        "confidence": 70
+      },
+      {
+        "word": "statistical",
+        "confidence": 75
+      },
+      {
+        "word": "nuanced",
+        "confidence": 73
+      },
+      {
+        "word": "reflective",
+        "confidence": 68
+      },
+      {
+        "word": "statistical",
+        "confidence": 76
+      }
+    ]
+  }
+}

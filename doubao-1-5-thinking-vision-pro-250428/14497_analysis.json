@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "challenges",
+        "confidence": 90
+      },
+      {
+        "word": "barriers",
+        "confidence": 85
+      },
+      {
+        "word": "struggle",
+        "confidence": 80
+      },
+      {
+        "word": "problems",
+        "confidence": 75
+      },
+      {
+        "word": "uncertain",
+        "confidence": 70
+      },
+      {
+        "word": "stressful",
+        "confidence": 65
+      },
+      {
+        "word": "daunting",
+        "confidence": 60
+      },
+      {
+        "word": "complex",
+        "confidence": 55
+      }
+    ]
+  }
+}

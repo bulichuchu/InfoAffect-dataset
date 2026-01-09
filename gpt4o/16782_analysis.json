@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "historical",
+        "confidence": 90
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "alarm",
+        "confidence": 80
+      },
+      {
+        "word": "perceived",
+        "confidence": 78
+      },
+      {
+        "word": "reliable",
+        "confidence": 82
+      },
+      {
+        "word": "striking",
+        "confidence": 75
+      }
+    ]
+  }
+}

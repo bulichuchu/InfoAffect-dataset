@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "miserable",
+        "confidence": 90
+      },
+      {
+        "word": "languishing",
+        "confidence": 85
+      },
+      {
+        "word": "sting",
+        "confidence": 80
+      },
+      {
+        "word": "failed",
+        "confidence": 75
+      },
+      {
+        "word": "rise",
+        "confidence": 70
+      },
+      {
+        "word": "valid",
+        "confidence": 65
+      },
+      {
+        "word": "opposition",
+        "confidence": 60
+      }
+    ]
+  }
+}

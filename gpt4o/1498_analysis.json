@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "struggle",
+        "confidence": 90
+      },
+      {
+        "word": "declining",
+        "confidence": 88
+      },
+      {
+        "word": "endangered",
+        "confidence": 85
+      },
+      {
+        "word": "crisis",
+        "confidence": 82
+      },
+      {
+        "word": "struggle",
+        "confidence": 78
+      },
+      {
+        "word": "survival",
+        "confidence": 75
+      }
+    ]
+  }
+}

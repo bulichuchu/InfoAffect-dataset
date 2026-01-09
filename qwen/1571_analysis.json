@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "reliable",
+        "confidence": 85
+      },
+      {
+        "word": "joy",
+        "confidence": 80
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 75
+      },
+      {
+        "word": "success",
+        "confidence": 78
+      },
+      {
+        "word": "adaptive",
+        "confidence": 72
+      },
+      {
+        "word": "value-driven",
+        "confidence": 76
+      },
+      {
+        "word": "struggle",
+        "confidence": 70
+      },
+      {
+        "word": "growth-oriented",
+        "confidence": 74
+      }
+    ]
+  }
+}

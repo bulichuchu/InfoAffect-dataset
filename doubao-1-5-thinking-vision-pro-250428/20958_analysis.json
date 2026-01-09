@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "avoid",
+        "confidence": 90
+      },
+      {
+        "word": "worst",
+        "confidence": 85
+      },
+      {
+        "word": "good",
+        "confidence": 70
+      },
+      {
+        "word": "prefer",
+        "confidence": 65
+      },
+      {
+        "word": "connect",
+        "confidence": 55
+      }
+    ]
+  }
+}

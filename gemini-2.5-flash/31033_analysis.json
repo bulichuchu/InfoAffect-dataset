@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 95
+      },
+      {
+        "word": "excellent",
+        "confidence": 90
+      },
+      {
+        "word": "generous",
+        "confidence": 85
+      },
+      {
+        "word": "monumental",
+        "confidence": 80
+      },
+      {
+        "word": "awe-inspiring",
+        "confidence": 75
+      },
+      {
+        "word": "alarm",
+        "confidence": 60
+      }
+    ]
+  }
+}

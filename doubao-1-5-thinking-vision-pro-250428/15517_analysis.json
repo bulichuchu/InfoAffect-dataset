@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "excellent",
+        "confidence": 90
+      },
+      {
+        "word": "remarkable",
+        "confidence": 85
+      },
+      {
+        "word": "historic",
+        "confidence": 80
+      },
+      {
+        "word": "joy",
+        "confidence": 75
+      },
+      {
+        "word": "near",
+        "confidence": 70
+      },
+      {
+        "word": "close",
+        "confidence": 65
+      },
+      {
+        "word": "achievable",
+        "confidence": 60
+      },
+      {
+        "word": "elusive",
+        "confidence": 55
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "trails",
+        "confidence": 90
+      },
+      {
+        "word": "unease",
+        "confidence": 85
+      },
+      {
+        "word": "disbelief",
+        "confidence": 80
+      },
+      {
+        "word": "look down",
+        "confidence": 75
+      },
+      {
+        "word": "second-class",
+        "confidence": 70
+      },
+      {
+        "word": "structural weaknesses",
+        "confidence": 65
+      },
+      {
+        "word": "persistent",
+        "confidence": 60
+      }
+    ]
+  }
+}

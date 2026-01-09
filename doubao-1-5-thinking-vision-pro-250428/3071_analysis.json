@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disappointed",
+        "confidence": 90
+      },
+      {
+        "word": "unexcited",
+        "confidence": 85
+      },
+      {
+        "word": "gloomy",
+        "confidence": 80
+      },
+      {
+        "word": "negative",
+        "confidence": 75
+      },
+      {
+        "word": "dull",
+        "confidence": 70
+      },
+      {
+        "word": "mood",
+        "confidence": 65
+      },
+      {
+        "word": "joy",
+        "confidence": 55
+      },
+      {
+        "word": "joy",
+        "confidence": 40
+      }
+    ]
+  }
+}

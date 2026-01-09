@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "normal",
+        "confidence": 90
+      },
+      {
+        "word": "obligations",
+        "confidence": 85
+      },
+      {
+        "word": "subagencies",
+        "confidence": 80
+      },
+      {
+        "word": "awarded",
+        "confidence": 75
+      },
+      {
+        "word": "contracts",
+        "confidence": 70
+      },
+      {
+        "word": "statistical",
+        "confidence": 65
+      },
+      {
+        "word": "track",
+        "confidence": 60
+      },
+      {
+        "word": "centralized",
+        "confidence": 55
+      }
+    ]
+  }
+}

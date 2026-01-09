@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "strange",
+        "confidence": 90
+      },
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "bouncing",
+        "confidence": 80
+      },
+      {
+        "word": "strong",
+        "confidence": 75
+      },
+      {
+        "word": "rebound",
+        "confidence": 70
+      },
+      {
+        "word": "leadership",
+        "confidence": 65
+      },
+      {
+        "word": "rise",
+        "confidence": 60
+      }
+    ]
+  }
+}

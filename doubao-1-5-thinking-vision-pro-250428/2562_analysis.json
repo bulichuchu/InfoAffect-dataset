@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surprise",
+        "confidence": 90
+      },
+      {
+        "word": "excitement",
+        "confidence": 85
+      },
+      {
+        "word": "success",
+        "confidence": 80
+      },
+      {
+        "word": "determination",
+        "confidence": 75
+      },
+      {
+        "word": "success",
+        "confidence": 70
+      },
+      {
+        "word": "competition",
+        "confidence": 65
+      },
+      {
+        "word": "challenger",
+        "confidence": 60
+      },
+      {
+        "word": "rise",
+        "confidence": 55
+      }
+    ]
+  }
+}

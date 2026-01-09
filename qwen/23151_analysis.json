@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 90
+      },
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "reliable",
+        "confidence": 75
+      },
+      {
+        "word": "disappointed",
+        "confidence": 70
+      },
+      {
+        "word": "alarm",
+        "confidence": 80
+      },
+      {
+        "word": "generational",
+        "confidence": 65
+      },
+      {
+        "word": "pandemic-affected",
+        "confidence": 88
+      }
+    ]
+  }
+}

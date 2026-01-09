@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "debate",
+        "confidence": 90
+      },
+      {
+        "word": "competition",
+        "confidence": 85
+      },
+      {
+        "word": "success",
+        "confidence": 80
+      },
+      {
+        "word": "failed",
+        "confidence": 70
+      },
+      {
+        "word": "choice",
+        "confidence": 65
+      },
+      {
+        "word": "uncertain",
+        "confidence": 55
+      },
+      {
+        "word": "drama",
+        "confidence": 50
+      },
+      {
+        "word": "tension",
+        "confidence": 45
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "affordable",
+        "confidence": 90
+      },
+      {
+        "word": "inclusive",
+        "confidence": 85
+      },
+      {
+        "word": "accessible",
+        "confidence": 80
+      },
+      {
+        "word": "rise",
+        "confidence": 70
+      },
+      {
+        "word": "opportunity",
+        "confidence": 65
+      },
+      {
+        "word": "rise",
+        "confidence": 60
+      },
+      {
+        "word": "progress",
+        "confidence": 55
+      },
+      {
+        "word": "development",
+        "confidence": 50
+      }
+    ]
+  }
+}

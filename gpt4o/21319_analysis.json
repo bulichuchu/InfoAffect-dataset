@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "adaptation",
+        "confidence": 90
+      },
+      {
+        "word": "connection",
+        "confidence": 85
+      },
+      {
+        "word": "entertainment",
+        "confidence": 80
+      },
+      {
+        "word": "boredom",
+        "confidence": 75
+      },
+      {
+        "word": "controversy",
+        "confidence": 70
+      },
+      {
+        "word": "engagement",
+        "confidence": 78
+      }
+    ]
+  }
+}

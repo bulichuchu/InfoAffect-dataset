@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "grim",
+        "confidence": 90
+      },
+      {
+        "word": "fear",
+        "confidence": 85
+      },
+      {
+        "word": "harmful",
+        "confidence": 80
+      },
+      {
+        "word": "massacre",
+        "confidence": 75
+      },
+      {
+        "word": "harmful",
+        "confidence": 70
+      },
+      {
+        "word": "horrible",
+        "confidence": 65
+      },
+      {
+        "word": "horrific",
+        "confidence": 60
+      },
+      {
+        "word": "terrible",
+        "confidence": 55
+      }
+    ]
+  }
+}

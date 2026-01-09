@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "excitement",
+        "confidence": 90
+      },
+      {
+        "word": "anticipated",
+        "confidence": 85
+      },
+      {
+        "word": "nostalgia",
+        "confidence": 70
+      },
+      {
+        "word": "competition",
+        "confidence": 75
+      },
+      {
+        "word": "history",
+        "confidence": 65
+      },
+      {
+        "word": "adventure",
+        "confidence": 55
+      },
+      {
+        "word": "passion",
+        "confidence": 60
+      },
+      {
+        "word": "celebration",
+        "confidence": 50
+      }
+    ]
+  }
+}

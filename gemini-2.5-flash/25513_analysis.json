@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "reflective",
+        "confidence": 90
+      },
+      {
+        "word": "energetic",
+        "confidence": 88
+      },
+      {
+        "word": "enduring",
+        "confidence": 85
+      },
+      {
+        "word": "valedictory",
+        "confidence": 80
+      },
+      {
+        "word": "respected",
+        "confidence": 78
+      },
+      {
+        "word": "reliable",
+        "confidence": 75
+      }
+    ]
+  }
+}

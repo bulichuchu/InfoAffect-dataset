@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "recovery",
+        "confidence": 90
+      },
+      {
+        "word": "gaps",
+        "confidence": 85
+      },
+      {
+        "word": "lagging",
+        "confidence": 80
+      },
+      {
+        "word": "weakness",
+        "confidence": 75
+      },
+      {
+        "word": "struggle",
+        "confidence": 70
+      },
+      {
+        "word": "tight",
+        "confidence": 65
+      },
+      {
+        "word": "pressured",
+        "confidence": 60
+      },
+      {
+        "word": "cooling",
+        "confidence": 55
+      }
+    ]
+  }
+}

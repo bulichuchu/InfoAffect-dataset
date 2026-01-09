@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rise",
+        "confidence": 90
+      },
+      {
+        "word": "poised",
+        "confidence": 85
+      },
+      {
+        "word": "energetic",
+        "confidence": 80
+      },
+      {
+        "word": "anticipated",
+        "confidence": 75
+      },
+      {
+        "word": "highly",
+        "confidence": 70
+      },
+      {
+        "word": "increased",
+        "confidence": 65
+      },
+      {
+        "word": "future",
+        "confidence": 60
+      },
+      {
+        "word": "low",
+        "confidence": 55
+      }
+    ]
+  }
+}

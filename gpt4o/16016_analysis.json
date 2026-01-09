@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "complex",
+        "confidence": 90
+      },
+      {
+        "word": "structured",
+        "confidence": 85
+      },
+      {
+        "word": "bureaucratic",
+        "confidence": 80
+      },
+      {
+        "word": "orderly",
+        "confidence": 75
+      },
+      {
+        "word": "alarm",
+        "confidence": 70
+      },
+      {
+        "word": "systematic",
+        "confidence": 78
+      }
+    ]
+  }
+}

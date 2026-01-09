@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transitional",
+        "confidence": 85
+      },
+      {
+        "word": "anger",
+        "confidence": 80
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      },
+      {
+        "word": "fragile",
+        "confidence": 78
+      },
+      {
+        "word": "vulnerable",
+        "confidence": 74
+      }
+    ]
+  }
+}

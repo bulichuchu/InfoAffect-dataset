@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "relaxed",
+        "confidence": 90
+      },
+      {
+        "word": "happier",
+        "confidence": 85
+      },
+      {
+        "word": "stress-free",
+        "confidence": 80
+      },
+      {
+        "word": "energized",
+        "confidence": 78
+      },
+      {
+        "word": "connected",
+        "confidence": 72
+      },
+      {
+        "word": "rested",
+        "confidence": 70
+      },
+      {
+        "word": "healthy",
+        "confidence": 68
+      }
+    ]
+  }
+}

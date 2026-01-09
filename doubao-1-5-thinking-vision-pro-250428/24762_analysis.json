@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "excellent",
+        "confidence": 90
+      },
+      {
+        "word": "topped",
+        "confidence": 85
+      },
+      {
+        "word": "lauded",
+        "confidence": 80
+      },
+      {
+        "word": "consistent",
+        "confidence": 75
+      },
+      {
+        "word": "success",
+        "confidence": 70
+      },
+      {
+        "word": "operational",
+        "confidence": 65
+      },
+      {
+        "word": "up",
+        "confidence": 60
+      },
+      {
+        "word": "down",
+        "confidence": 55
+      }
+    ]
+  }
+}

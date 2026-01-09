@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 90
+      },
+      {
+        "word": "fear",
+        "confidence": 85
+      },
+      {
+        "word": "preparing",
+        "confidence": 70
+      },
+      {
+        "word": "stocking up",
+        "confidence": 65
+      },
+      {
+        "word": "mounting",
+        "confidence": 55
+      },
+      {
+        "word": "increased",
+        "confidence": 50
+      },
+      {
+        "word": "reliable",
+        "confidence": 45
+      },
+      {
+        "word": "epidemic",
+        "confidence": 40
+      }
+    ]
+  }
+}

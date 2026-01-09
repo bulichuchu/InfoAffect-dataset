@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 90
+      },
+      {
+        "word": "historic",
+        "confidence": 85
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 78
+      },
+      {
+        "word": "joy",
+        "confidence": 82
+      },
+      {
+        "word": "conclusive",
+        "confidence": 75
+      },
+      {
+        "word": "respectful",
+        "confidence": 70
+      },
+      {
+        "word": "anticipated",
+        "confidence": 65
+      },
+      {
+        "word": "reflective",
+        "confidence": 73
+      }
+    ]
+  }
+}

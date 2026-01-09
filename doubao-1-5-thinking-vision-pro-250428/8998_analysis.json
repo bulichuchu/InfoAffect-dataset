@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 90
+      },
+      {
+        "word": "harmful",
+        "confidence": 85
+      },
+      {
+        "word": "major",
+        "confidence": 80
+      },
+      {
+        "word": "alarm",
+        "confidence": 90
+      },
+      {
+        "word": "destruction",
+        "confidence": 85
+      },
+      {
+        "word": "destroyed",
+        "confidence": 80
+      },
+      {
+        "word": "junk",
+        "confidence": 70
+      },
+      {
+        "word": "issue",
+        "confidence": 65
+      }
+    ]
+  }
+}

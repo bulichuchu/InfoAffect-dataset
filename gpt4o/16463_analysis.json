@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "discrepancy",
+        "confidence": 90
+      },
+      {
+        "word": "overlooked",
+        "confidence": 85
+      },
+      {
+        "word": "underrepresentation",
+        "confidence": 88
+      },
+      {
+        "word": "bias",
+        "confidence": 82
+      },
+      {
+        "word": "unfair",
+        "confidence": 80
+      },
+      {
+        "word": "neglected",
+        "confidence": 75
+      }
+    ]
+  }
+}

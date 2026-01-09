@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "lowest",
+        "confidence": 90
+      },
+      {
+        "word": "bottom",
+        "confidence": 85
+      },
+      {
+        "word": "complimentary",
+        "confidence": 70
+      },
+      {
+        "word": "high",
+        "confidence": 65
+      },
+      {
+        "word": "excellent",
+        "confidence": 60
+      }
+    ]
+  }
+}

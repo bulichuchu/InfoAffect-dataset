@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "lucrative",
+        "confidence": 90
+      },
+      {
+        "word": "joy",
+        "confidence": 85
+      },
+      {
+        "word": "success",
+        "confidence": 80
+      },
+      {
+        "word": "success",
+        "confidence": 78
+      },
+      {
+        "word": "joy",
+        "confidence": 75
+      },
+      {
+        "word": "favorable",
+        "confidence": 72
+      },
+      {
+        "word": "support",
+        "confidence": 70
+      },
+      {
+        "word": "rewarding",
+        "confidence": 68
+      }
+    ]
+  }
+}

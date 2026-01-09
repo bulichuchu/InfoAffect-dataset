@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 90
+      },
+      {
+        "word": "alarm",
+        "confidence": 78
+      },
+      {
+        "word": "fear",
+        "confidence": 82
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      },
+      {
+        "word": "inescapable",
+        "confidence": 70
+      },
+      {
+        "word": "powerful",
+        "confidence": 85
+      },
+      {
+        "word": "disruptive",
+        "confidence": 73
+      },
+      {
+        "word": "unstoppable",
+        "confidence": 68
+      }
+    ]
+  }
+}

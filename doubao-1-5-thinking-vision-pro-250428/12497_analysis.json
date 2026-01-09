@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "crisis",
+        "confidence": 90
+      },
+      {
+        "word": "pressured",
+        "confidence": 85
+      },
+      {
+        "word": "insult",
+        "confidence": 80
+      },
+      {
+        "word": "excellent",
+        "confidence": 75
+      },
+      {
+        "word": "far cry",
+        "confidence": 70
+      },
+      {
+        "word": "injury",
+        "confidence": 65
+      },
+      {
+        "word": "blame",
+        "confidence": 60
+      },
+      {
+        "word": "partly",
+        "confidence": 55
+      }
+    ]
+  }
+}

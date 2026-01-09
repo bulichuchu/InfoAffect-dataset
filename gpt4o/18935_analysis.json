@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rise",
+        "confidence": 90
+      },
+      {
+        "word": "trendy",
+        "confidence": 75
+      },
+      {
+        "word": "guilty",
+        "confidence": 65
+      },
+      {
+        "word": "environmental",
+        "confidence": 70
+      },
+      {
+        "word": "popular",
+        "confidence": 85
+      },
+      {
+        "word": "demanding",
+        "confidence": 60
+      }
+    ]
+  }
+}

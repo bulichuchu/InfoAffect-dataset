@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 90
+      },
+      {
+        "word": "freedom",
+        "confidence": 88
+      },
+      {
+        "word": "limitation",
+        "confidence": 88
+      },
+      {
+        "word": "inequality",
+        "confidence": 80
+      },
+      {
+        "word": "advantage",
+        "confidence": 75
+      },
+      {
+        "word": "alarm",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transitional",
+        "confidence": 90
+      },
+      {
+        "word": "transitional",
+        "confidence": 85
+      },
+      {
+        "word": "adaptation",
+        "confidence": 80
+      },
+      {
+        "word": "innovation",
+        "confidence": 70
+      },
+      {
+        "word": "flexibility",
+        "confidence": 65
+      },
+      {
+        "word": "progress",
+        "confidence": 60
+      },
+      {
+        "word": "evolution",
+        "confidence": 50
+      },
+      {
+        "word": "transformation",
+        "confidence": 45
+      }
+    ]
+  }
+}

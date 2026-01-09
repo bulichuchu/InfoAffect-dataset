@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "contentious",
+        "confidence": 88
+      },
+      {
+        "word": "confrontational",
+        "confidence": 85
+      },
+      {
+        "word": "disruptive",
+        "confidence": 80
+      },
+      {
+        "word": "authoritative",
+        "confidence": 75
+      },
+      {
+        "word": "compensatory",
+        "confidence": 70
+      },
+      {
+        "word": "legalistic",
+        "confidence": 78
+      },
+      {
+        "word": "determined",
+        "confidence": 72
+      },
+      {
+        "word": "mixed",
+        "confidence": 82
+      }
+    ]
+  }
+}

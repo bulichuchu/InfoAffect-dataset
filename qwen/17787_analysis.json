@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "crashing",
+        "confidence": 90
+      },
+      {
+        "word": "cratering",
+        "confidence": 85
+      },
+      {
+        "word": "downturn",
+        "confidence": 80
+      },
+      {
+        "word": "pressured",
+        "confidence": 75
+      },
+      {
+        "word": "pressured",
+        "confidence": 72
+      },
+      {
+        "word": "uncertain",
+        "confidence": 68
+      },
+      {
+        "word": "stagnant",
+        "confidence": 65
+      },
+      {
+        "word": "overwhelmed",
+        "confidence": 60
+      }
+    ]
+  }
+}

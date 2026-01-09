@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "trendy",
+        "confidence": 78
+      },
+      {
+        "word": "success",
+        "confidence": 82
+      },
+      {
+        "word": "gradual",
+        "confidence": 75
+      },
+      {
+        "word": "transitional",
+        "confidence": 80
+      },
+      {
+        "word": "statistical",
+        "confidence": 70
+      },
+      {
+        "word": "normal",
+        "confidence": 65
+      },
+      {
+        "word": "effective",
+        "confidence": 72
+      }
+    ]
+  }
+}

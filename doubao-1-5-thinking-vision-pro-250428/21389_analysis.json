@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "huge",
+        "confidence": 90
+      },
+      {
+        "word": "soaring",
+        "confidence": 85
+      },
+      {
+        "word": "skyrocketing",
+        "confidence": 80
+      },
+      {
+        "word": "historic",
+        "confidence": 70
+      },
+      {
+        "word": "record",
+        "confidence": 65
+      },
+      {
+        "word": "hard",
+        "confidence": 55
+      },
+      {
+        "word": "unprecedented",
+        "confidence": 50
+      },
+      {
+        "word": "harmful",
+        "confidence": 45
+      }
+    ]
+  }
+}

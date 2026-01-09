@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 88
+      },
+      {
+        "word": "ironic",
+        "confidence": 82
+      },
+      {
+        "word": "effective",
+        "confidence": 78
+      },
+      {
+        "word": "anger",
+        "confidence": 75
+      },
+      {
+        "word": "compromising",
+        "confidence": 73
+      },
+      {
+        "word": "rise",
+        "confidence": 70
+      },
+      {
+        "word": "calculating",
+        "confidence": 68
+      },
+      {
+        "word": "dramatic",
+        "confidence": 65
+      }
+    ]
+  }
+}

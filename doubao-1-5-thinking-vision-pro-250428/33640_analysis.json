@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "agreement",
+        "confidence": 90
+      },
+      {
+        "word": "concern",
+        "confidence": 85
+      },
+      {
+        "word": "disappointment",
+        "confidence": 80
+      },
+      {
+        "word": "distrust",
+        "confidence": 75
+      },
+      {
+        "word": "energetic",
+        "confidence": 70
+      },
+      {
+        "word": "corruption",
+        "confidence": 65
+      },
+      {
+        "word": "powerful",
+        "confidence": 60
+      },
+      {
+        "word": "thin",
+        "confidence": 55
+      }
+    ]
+  }
+}

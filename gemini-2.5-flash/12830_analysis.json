@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 95
+      },
+      {
+        "word": "anger",
+        "confidence": 90
+      },
+      {
+        "word": "excessive",
+        "confidence": 88
+      },
+      {
+        "word": "costly",
+        "confidence": 85
+      },
+      {
+        "word": "time-consuming",
+        "confidence": 80
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "failed",
+        "confidence": 95
+      },
+      {
+        "word": "unrest",
+        "confidence": 90
+      },
+      {
+        "word": "instability",
+        "confidence": 88
+      },
+      {
+        "word": "conflict",
+        "confidence": 85
+      },
+      {
+        "word": "grievance",
+        "confidence": 78
+      },
+      {
+        "word": "precariousness",
+        "confidence": 72
+      }
+    ]
+  }
+}

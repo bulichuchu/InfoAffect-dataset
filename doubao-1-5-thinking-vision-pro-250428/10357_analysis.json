@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "energetic",
+        "confidence": 90
+      },
+      {
+        "word": "inactive",
+        "confidence": 85
+      },
+      {
+        "word": "moderately active",
+        "confidence": 80
+      },
+      {
+        "word": "recommended",
+        "confidence": 70
+      },
+      {
+        "word": "average",
+        "confidence": 65
+      },
+      {
+        "word": "far less",
+        "confidence": 60
+      },
+      {
+        "word": "most active",
+        "confidence": 55
+      },
+      {
+        "word": "least active",
+        "confidence": 50
+      }
+    ]
+  }
+}

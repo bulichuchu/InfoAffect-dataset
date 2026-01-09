@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "excellent",
+        "confidence": 88
+      },
+      {
+        "word": "extravagant",
+        "confidence": 85
+      },
+      {
+        "word": "awe-inspiring",
+        "confidence": 82
+      },
+      {
+        "word": "luxurious",
+        "confidence": 78
+      },
+      {
+        "word": "grand",
+        "confidence": 75
+      },
+      {
+        "word": "opulent",
+        "confidence": 73
+      },
+      {
+        "word": "energetic",
+        "confidence": 70
+      },
+      {
+        "word": "monumental",
+        "confidence": 68
+      }
+    ]
+  }
+}

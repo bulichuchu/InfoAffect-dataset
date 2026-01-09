@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "social",
+        "confidence": 85
+      },
+      {
+        "word": "joy",
+        "confidence": 80
+      },
+      {
+        "word": "relaxed",
+        "confidence": 75
+      },
+      {
+        "word": "indulgent",
+        "confidence": 78
+      },
+      {
+        "word": "entertained",
+        "confidence": 72
+      },
+      {
+        "word": "normal",
+        "confidence": 70
+      },
+      {
+        "word": "lighthearted",
+        "confidence": 65
+      },
+      {
+        "word": "recreational",
+        "confidence": 68
+      }
+    ]
+  }
+}

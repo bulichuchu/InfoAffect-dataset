@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "recovery",
+        "confidence": 90
+      },
+      {
+        "word": "rise",
+        "confidence": 85
+      },
+      {
+        "word": "exceeds",
+        "confidence": 80
+      },
+      {
+        "word": "record",
+        "confidence": 75
+      },
+      {
+        "word": "soaring",
+        "confidence": 70
+      },
+      {
+        "word": "excellent",
+        "confidence": 65
+      },
+      {
+        "word": "triple",
+        "confidence": 60
+      },
+      {
+        "word": "increased",
+        "confidence": 55
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "yearning",
+        "confidence": 88
+      },
+      {
+        "word": "desire",
+        "confidence": 92
+      },
+      {
+        "word": "escape",
+        "confidence": 85
+      },
+      {
+        "word": "freedom",
+        "confidence": 80
+      },
+      {
+        "word": "joy",
+        "confidence": 75
+      },
+      {
+        "word": "opportunity",
+        "confidence": 70
+      },
+      {
+        "word": "quiet",
+        "confidence": 78
+      },
+      {
+        "word": "tireless",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "costly",
+        "confidence": 85
+      },
+      {
+        "word": "inhibiting",
+        "confidence": 80
+      },
+      {
+        "word": "struggle",
+        "confidence": 75
+      },
+      {
+        "word": "crucial",
+        "confidence": 70
+      },
+      {
+        "word": "high hopes",
+        "confidence": 65
+      },
+      {
+        "word": "significantly cheaper",
+        "confidence": 60
+      },
+      {
+        "word": "anticipated",
+        "confidence": 55
+      },
+      {
+        "word": "not an option",
+        "confidence": 50
+      }
+    ]
+  }
+}

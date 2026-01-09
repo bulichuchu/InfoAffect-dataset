@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "inspiring",
+        "confidence": 88
+      },
+      {
+        "word": "wanderlust",
+        "confidence": 85
+      },
+      {
+        "word": "aspirational",
+        "confidence": 82
+      },
+      {
+        "word": "energetic",
+        "confidence": 80
+      },
+      {
+        "word": "adventurous",
+        "confidence": 78
+      },
+      {
+        "word": "dreamy",
+        "confidence": 75
+      },
+      {
+        "word": "engaging",
+        "confidence": 73
+      },
+      {
+        "word": "alluring",
+        "confidence": 70
+      }
+    ]
+  }
+}

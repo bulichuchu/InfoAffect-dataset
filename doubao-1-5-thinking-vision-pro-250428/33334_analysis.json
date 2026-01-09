@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "record",
+        "confidence": 90
+      },
+      {
+        "word": "high",
+        "confidence": 85
+      },
+      {
+        "word": "increase",
+        "confidence": 80
+      },
+      {
+        "word": "new",
+        "confidence": 75
+      },
+      {
+        "word": "crashing",
+        "confidence": 70
+      },
+      {
+        "word": "rebounded",
+        "confidence": 65
+      },
+      {
+        "word": "rise",
+        "confidence": 60
+      }
+    ]
+  }
+}

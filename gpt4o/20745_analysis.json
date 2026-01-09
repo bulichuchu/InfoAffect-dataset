@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "partisan",
+        "confidence": 90
+      },
+      {
+        "word": "mixed",
+        "confidence": 87
+      },
+      {
+        "word": "historical",
+        "confidence": 75
+      },
+      {
+        "word": "contentious",
+        "confidence": 80
+      },
+      {
+        "word": "struggle",
+        "confidence": 70
+      },
+      {
+        "word": "struggle",
+        "confidence": 73
+      },
+      {
+        "word": "unlikely",
+        "confidence": 78
+      }
+    ]
+  }
+}

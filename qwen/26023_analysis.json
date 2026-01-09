@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "weary",
+        "confidence": 88
+      },
+      {
+        "word": "reliable",
+        "confidence": 82
+      },
+      {
+        "word": "concerned",
+        "confidence": 79
+      },
+      {
+        "word": "overwhelmed",
+        "confidence": 76
+      },
+      {
+        "word": "alarm",
+        "confidence": 74
+      },
+      {
+        "word": "mixed",
+        "confidence": 71
+      },
+      {
+        "word": "fear",
+        "confidence": 68
+      },
+      {
+        "word": "joy",
+        "confidence": 65
+      }
+    ]
+  }
+}

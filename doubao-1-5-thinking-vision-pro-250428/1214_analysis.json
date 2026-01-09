@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "distracting",
+        "confidence": 90
+      },
+      {
+        "word": "diverted",
+        "confidence": 85
+      },
+      {
+        "word": "indulgent",
+        "confidence": 80
+      },
+      {
+        "word": "engaged",
+        "confidence": 70
+      },
+      {
+        "word": "entertained",
+        "confidence": 65
+      },
+      {
+        "word": "multitasking",
+        "confidence": 60
+      },
+      {
+        "word": "connected",
+        "confidence": 55
+      },
+      {
+        "word": "disconnected",
+        "confidence": 50
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "expectant",
+        "confidence": 85
+      },
+      {
+        "word": "success",
+        "confidence": 80
+      },
+      {
+        "word": "demanding",
+        "confidence": 75
+      },
+      {
+        "word": "forward-looking",
+        "confidence": 78
+      },
+      {
+        "word": "tech-savvy",
+        "confidence": 72
+      },
+      {
+        "word": "empowered",
+        "confidence": 70
+      },
+      {
+        "word": "personalized",
+        "confidence": 65
+      },
+      {
+        "word": "digital-native",
+        "confidence": 68
+      }
+    ]
+  }
+}

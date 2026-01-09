@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fear",
+        "confidence": 90
+      },
+      {
+        "word": "underreporting",
+        "confidence": 85
+      },
+      {
+        "word": "severe",
+        "confidence": 80
+      },
+      {
+        "word": "discrepancy",
+        "confidence": 75
+      },
+      {
+        "word": "high",
+        "confidence": 70
+      },
+      {
+        "word": "struggle",
+        "confidence": 65
+      },
+      {
+        "word": "impactful",
+        "confidence": 60
+      },
+      {
+        "word": "alarm",
+        "confidence": 55
+      }
+    ]
+  }
+}

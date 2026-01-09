@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unenthusiastic",
+        "confidence": 90
+      },
+      {
+        "word": "indifferent",
+        "confidence": 85
+      },
+      {
+        "word": "formal",
+        "confidence": 95
+      },
+      {
+        "word": "statistical",
+        "confidence": 80
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      },
+      {
+        "word": "reserved",
+        "confidence": 70
+      }
+    ]
+  }
+}

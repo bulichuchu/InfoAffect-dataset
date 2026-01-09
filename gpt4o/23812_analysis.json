@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "joy",
+        "confidence": 90
+      },
+      {
+        "word": "motivated",
+        "confidence": 85
+      },
+      {
+        "word": "joy",
+        "confidence": 80
+      },
+      {
+        "word": "determined",
+        "confidence": 82
+      },
+      {
+        "word": "reflective",
+        "confidence": 75
+      },
+      {
+        "word": "aspirational",
+        "confidence": 78
+      }
+    ]
+  }
+}

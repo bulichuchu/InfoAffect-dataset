@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 80
+      },
+      {
+        "word": "prudent",
+        "confidence": 75
+      },
+      {
+        "word": "resistant",
+        "confidence": 70
+      },
+      {
+        "word": "alarm",
+        "confidence": 78
+      },
+      {
+        "word": "statistical",
+        "confidence": 65
+      },
+      {
+        "word": "protective",
+        "confidence": 72
+      },
+      {
+        "word": "wary",
+        "confidence": 68
+      }
+    ]
+  }
+}

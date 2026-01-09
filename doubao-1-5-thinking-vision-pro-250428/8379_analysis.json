@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "soaring",
+        "confidence": 90
+      },
+      {
+        "word": "windfall",
+        "confidence": 85
+      },
+      {
+        "word": "celebrate",
+        "confidence": 80
+      },
+      {
+        "word": "strong",
+        "confidence": 75
+      },
+      {
+        "word": "healthy",
+        "confidence": 70
+      }
+    ]
+  }
+}

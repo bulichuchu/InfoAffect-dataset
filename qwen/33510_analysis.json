@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "motivated",
+        "confidence": 88
+      },
+      {
+        "word": "effective",
+        "confidence": 82
+      },
+      {
+        "word": "joy",
+        "confidence": 76
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 74
+      },
+      {
+        "word": "success",
+        "confidence": 70
+      },
+      {
+        "word": "forward-looking",
+        "confidence": 68
+      },
+      {
+        "word": "goal-oriented",
+        "confidence": 72
+      },
+      {
+        "word": "success",
+        "confidence": 65
+      }
+    ]
+  }
+}

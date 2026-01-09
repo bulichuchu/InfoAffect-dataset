@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 90
+      },
+      {
+        "word": "mixed",
+        "confidence": 85
+      },
+      {
+        "word": "disputable",
+        "confidence": 80
+      },
+      {
+        "word": "contentious",
+        "confidence": 75
+      },
+      {
+        "word": "uncertain",
+        "confidence": 70
+      },
+      {
+        "word": "doubtful",
+        "confidence": 65
+      },
+      {
+        "word": "conflicted",
+        "confidence": 60
+      },
+      {
+        "word": "debate",
+        "confidence": 55
+      }
+    ]
+  }
+}

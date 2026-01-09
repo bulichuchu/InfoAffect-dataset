@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 90
+      },
+      {
+        "word": "superiority",
+        "confidence": 85
+      },
+      {
+        "word": "outperformance",
+        "confidence": 80
+      },
+      {
+        "word": "excellence",
+        "confidence": 70
+      },
+      {
+        "word": "advantage",
+        "confidence": 65
+      },
+      {
+        "word": "leadership",
+        "confidence": 55
+      },
+      {
+        "word": "prestige",
+        "confidence": 50
+      },
+      {
+        "word": "excellent",
+        "confidence": 45
+      }
+    ]
+  }
+}

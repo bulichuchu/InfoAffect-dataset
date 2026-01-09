@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "innovative",
+        "confidence": 90
+      },
+      {
+        "word": "advancing",
+        "confidence": 85
+      },
+      {
+        "word": "rise",
+        "confidence": 80
+      },
+      {
+        "word": "increasing",
+        "confidence": 75
+      },
+      {
+        "word": "legalization",
+        "confidence": 70
+      },
+      {
+        "word": "accessibility",
+        "confidence": 65
+      },
+      {
+        "word": "legislation",
+        "confidence": 60
+      },
+      {
+        "word": "domination",
+        "confidence": 55
+      }
+    ]
+  }
+}

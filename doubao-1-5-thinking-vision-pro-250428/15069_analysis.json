@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rise",
+        "confidence": 90
+      },
+      {
+        "word": "soaring",
+        "confidence": 85
+      },
+      {
+        "word": "fraudulent",
+        "confidence": 80
+      },
+      {
+        "word": "scams",
+        "confidence": 75
+      },
+      {
+        "word": "alleged",
+        "confidence": 70
+      },
+      {
+        "word": "blackmailing",
+        "confidence": 65
+      },
+      {
+        "word": "target",
+        "confidence": 60
+      },
+      {
+        "word": "lost",
+        "confidence": 55
+      }
+    ]
+  }
+}

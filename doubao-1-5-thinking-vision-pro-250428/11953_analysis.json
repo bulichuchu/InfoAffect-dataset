@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rise",
+        "confidence": 90
+      },
+      {
+        "word": "increase",
+        "confidence": 85
+      },
+      {
+        "word": "revolution",
+        "confidence": 80
+      },
+      {
+        "word": "dominating",
+        "confidence": 70
+      },
+      {
+        "word": "trend",
+        "confidence": 65
+      },
+      {
+        "word": "leading",
+        "confidence": 60
+      },
+      {
+        "word": "success",
+        "confidence": 55
+      },
+      {
+        "word": "progress",
+        "confidence": 50
+      }
+    ]
+  }
+}

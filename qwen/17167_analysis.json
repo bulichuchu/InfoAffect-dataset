@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "reliable",
+        "confidence": 90
+      },
+      {
+        "word": "imposing",
+        "confidence": 85
+      },
+      {
+        "word": "lengthy",
+        "confidence": 80
+      },
+      {
+        "word": "secretive",
+        "confidence": 75
+      },
+      {
+        "word": "methodical",
+        "confidence": 70
+      },
+      {
+        "word": "restrained",
+        "confidence": 65
+      },
+      {
+        "word": "formal",
+        "confidence": 60
+      },
+      {
+        "word": "dignified",
+        "confidence": 55
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 85
+      },
+      {
+        "word": "exhausting",
+        "confidence": 80
+      },
+      {
+        "word": "unfair",
+        "confidence": 75
+      },
+      {
+        "word": "disproportionate",
+        "confidence": 72
+      },
+      {
+        "word": "pressured",
+        "confidence": 78
+      },
+      {
+        "word": "alarm",
+        "confidence": 70
+      },
+      {
+        "word": "statistical",
+        "confidence": 65
+      },
+      {
+        "word": "resigned",
+        "confidence": 60
+      }
+    ]
+  }
+}

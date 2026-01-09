@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fighting",
+        "confidence": 90
+      },
+      {
+        "word": "struggle",
+        "confidence": 85
+      },
+      {
+        "word": "resistance",
+        "confidence": 80
+      },
+      {
+        "word": "equality",
+        "confidence": 75
+      },
+      {
+        "word": "hope",
+        "confidence": 70
+      },
+      {
+        "word": "justice",
+        "confidence": 65
+      },
+      {
+        "word": "success",
+        "confidence": 60
+      },
+      {
+        "word": "assassination",
+        "confidence": 55
+      }
+    ]
+  }
+}

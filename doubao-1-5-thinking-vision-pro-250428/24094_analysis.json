@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "nostalgic",
+        "confidence": 80
+      },
+      {
+        "word": "curious",
+        "confidence": 75
+      },
+      {
+        "word": "joy",
+        "confidence": 70
+      },
+      {
+        "word": "intrigued",
+        "confidence": 72
+      },
+      {
+        "word": "sustained",
+        "confidence": 68
+      },
+      {
+        "word": "upbeat",
+        "confidence": 65
+      }
+    ]
+  }
+}

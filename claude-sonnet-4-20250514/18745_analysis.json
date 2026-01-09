@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fear",
+        "confidence": 95
+      },
+      {
+        "word": "fear",
+        "confidence": 92
+      },
+      {
+        "word": "harmful",
+        "confidence": 88
+      },
+      {
+        "word": "heartbreaking",
+        "confidence": 85
+      },
+      {
+        "word": "fear",
+        "confidence": 82
+      },
+      {
+        "word": "mournful",
+        "confidence": 78
+      },
+      {
+        "word": "solemn",
+        "confidence": 75
+      },
+      {
+        "word": "alarm",
+        "confidence": 70
+      }
+    ]
+  }
+}

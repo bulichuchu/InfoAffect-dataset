@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "essential",
+        "confidence": 95
+      },
+      {
+        "word": "connected",
+        "confidence": 88
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "dependable",
+        "confidence": 82
+      },
+      {
+        "word": "mixed",
+        "confidence": 75
+      },
+      {
+        "word": "reliable",
+        "confidence": 80
+      }
+    ]
+  }
+}

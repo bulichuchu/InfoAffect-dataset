@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 90
+      },
+      {
+        "word": "pressing",
+        "confidence": 85
+      },
+      {
+        "word": "weighty",
+        "confidence": 80
+      },
+      {
+        "word": "crisis",
+        "confidence": 75
+      },
+      {
+        "word": "overburdened",
+        "confidence": 70
+      },
+      {
+        "word": "struggle",
+        "confidence": 65
+      },
+      {
+        "word": "major",
+        "confidence": 60
+      },
+      {
+        "word": "issue",
+        "confidence": 55
+      }
+    ]
+  }
+}

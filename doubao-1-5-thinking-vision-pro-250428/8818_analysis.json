@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fear",
+        "confidence": 90
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "sad",
+        "confidence": 80
+      },
+      {
+        "word": "preventable",
+        "confidence": 75
+      },
+      {
+        "word": "reckless",
+        "confidence": 70
+      },
+      {
+        "word": "cautionary",
+        "confidence": 65
+      },
+      {
+        "word": "警示",
+        "confidence": 60
+      }
+    ]
+  }
+}

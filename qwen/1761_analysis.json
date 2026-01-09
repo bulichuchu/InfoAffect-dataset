@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "innovative",
+        "confidence": 85
+      },
+      {
+        "word": "disruptive",
+        "confidence": 82
+      },
+      {
+        "word": "success",
+        "confidence": 78
+      },
+      {
+        "word": "success",
+        "confidence": 75
+      },
+      {
+        "word": "energetic",
+        "confidence": 73
+      },
+      {
+        "word": "ominous",
+        "confidence": 68
+      },
+      {
+        "word": "transitional",
+        "confidence": 70
+      },
+      {
+        "word": "authoritative",
+        "confidence": 65
+      }
+    ]
+  }
+}

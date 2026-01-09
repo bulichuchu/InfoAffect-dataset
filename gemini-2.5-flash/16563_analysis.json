@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "statistical",
+        "confidence": 95
+      },
+      {
+        "word": "stalled",
+        "confidence": 90
+      },
+      {
+        "word": "discrepant",
+        "confidence": 88
+      },
+      {
+        "word": "unsubstantiated",
+        "confidence": 85
+      },
+      {
+        "word": "mixed",
+        "confidence": 80
+      },
+      {
+        "word": "frustrated",
+        "confidence": 70
+      }
+    ]
+  }
+}

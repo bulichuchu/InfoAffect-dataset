@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unequal",
+        "confidence": 90
+      },
+      {
+        "word": "inequality",
+        "confidence": 85
+      },
+      {
+        "word": "marginalized",
+        "confidence": 95
+      },
+      {
+        "word": "exacerbate",
+        "confidence": 70
+      },
+      {
+        "word": "declining",
+        "confidence": 80
+      },
+      {
+        "word": "greater",
+        "confidence": 75
+      },
+      {
+        "word": "impact",
+        "confidence": 85
+      },
+      {
+        "word": "gender inequality",
+        "confidence": 90
+      }
+    ]
+  }
+}

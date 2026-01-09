@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 90
+      },
+      {
+        "word": "polarized",
+        "confidence": 85
+      },
+      {
+        "word": "confused",
+        "confidence": 70
+      },
+      {
+        "word": "uncertain",
+        "confidence": 65
+      },
+      {
+        "word": "informed",
+        "confidence": 55
+      },
+      {
+        "word": "misled",
+        "confidence": 50
+      },
+      {
+        "word": "biased",
+        "confidence": 45
+      },
+      {
+        "word": "misinformed",
+        "confidence": 40
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 90
+      },
+      {
+        "word": "inequality",
+        "confidence": 85
+      },
+      {
+        "word": "disadvantaged",
+        "confidence": 80
+      },
+      {
+        "word": "unfair",
+        "confidence": 75
+      },
+      {
+        "word": "segregation",
+        "confidence": 70
+      },
+      {
+        "word": "opportunity",
+        "confidence": 65
+      },
+      {
+        "word": "inclusion",
+        "confidence": 60
+      },
+      {
+        "word": "lonely",
+        "confidence": 55
+      }
+    ]
+  }
+}

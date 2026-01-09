@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frustration",
+        "confidence": 85
+      },
+      {
+        "word": "inequality",
+        "confidence": 80
+      },
+      {
+        "word": "disappointment",
+        "confidence": 78
+      },
+      {
+        "word": "discontent",
+        "confidence": 75
+      },
+      {
+        "word": "criticism",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "saved",
+        "confidence": 95
+      },
+      {
+        "word": "lives",
+        "confidence": 90
+      },
+      {
+        "word": "averted",
+        "confidence": 85
+      },
+      {
+        "word": "deaths",
+        "confidence": 80
+      },
+      {
+        "word": "improved",
+        "confidence": 70
+      },
+      {
+        "word": "drastically",
+        "confidence": 65
+      },
+      {
+        "word": "cautioned",
+        "confidence": 55
+      },
+      {
+        "word": "distinct",
+        "confidence": 50
+      }
+    ]
+  }
+}

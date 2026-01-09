@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anticipated",
+        "confidence": 80
+      },
+      {
+        "word": "statistical",
+        "confidence": 90
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 75
+      },
+      {
+        "word": "joy",
+        "confidence": 70
+      },
+      {
+        "word": "reflective",
+        "confidence": 85
+      },
+      {
+        "word": "success",
+        "confidence": 65
+      }
+    ]
+  }
+}

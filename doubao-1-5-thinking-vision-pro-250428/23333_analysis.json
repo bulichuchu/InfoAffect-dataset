@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "epic",
+        "confidence": 90
+      },
+      {
+        "word": "spectacular",
+        "confidence": 85
+      },
+      {
+        "word": "staggering",
+        "confidence": 80
+      },
+      {
+        "word": "derail",
+        "confidence": 75
+      },
+      {
+        "word": "marred",
+        "confidence": 70
+      },
+      {
+        "word": "miscalculations",
+        "confidence": 65
+      },
+      {
+        "word": "bankruptcy",
+        "confidence": 60
+      },
+      {
+        "word": "overrun",
+        "confidence": 55
+      }
+    ]
+  }
+}

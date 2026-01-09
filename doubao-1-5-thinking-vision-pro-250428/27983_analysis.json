@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "ballooned",
+        "confidence": 90
+      },
+      {
+        "word": "increases",
+        "confidence": 85
+      },
+      {
+        "word": "hikes",
+        "confidence": 80
+      },
+      {
+        "word": "steady",
+        "confidence": 70
+      },
+      {
+        "word": "joy",
+        "confidence": 65
+      }
+    ]
+  }
+}

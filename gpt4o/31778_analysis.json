@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fear",
+        "confidence": 90
+      },
+      {
+        "word": "oppressive",
+        "confidence": 85
+      },
+      {
+        "word": "courageous",
+        "confidence": 80
+      },
+      {
+        "word": "reliable",
+        "confidence": 75
+      },
+      {
+        "word": "injustice",
+        "confidence": 88
+      },
+      {
+        "word": "persecution",
+        "confidence": 82
+      }
+    ]
+  }
+}

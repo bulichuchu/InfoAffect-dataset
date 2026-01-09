@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "conflictive",
+        "confidence": 90
+      },
+      {
+        "word": "anger",
+        "confidence": 85
+      },
+      {
+        "word": "protective",
+        "confidence": 80
+      },
+      {
+        "word": "barrier",
+        "confidence": 75
+      },
+      {
+        "word": "anger",
+        "confidence": 78
+      },
+      {
+        "word": "economical",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "easing",
+        "confidence": 92
+      },
+      {
+        "word": "relief",
+        "confidence": 90
+      },
+      {
+        "word": "calm",
+        "confidence": 88
+      },
+      {
+        "word": "anxiety",
+        "confidence": 85
+      },
+      {
+        "word": "normalization",
+        "confidence": 82
+      },
+      {
+        "word": "alarm",
+        "confidence": 78
+      },
+      {
+        "word": "concern",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 90
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 75
+      },
+      {
+        "word": "disappointed",
+        "confidence": 70
+      },
+      {
+        "word": "calm",
+        "confidence": 65
+      },
+      {
+        "word": "statistical",
+        "confidence": 85
+      },
+      {
+        "word": "melancholic",
+        "confidence": 60
+      },
+      {
+        "word": "anticipated",
+        "confidence": 55
+      },
+      {
+        "word": "statistical",
+        "confidence": 78
+      }
+    ]
+  }
+}

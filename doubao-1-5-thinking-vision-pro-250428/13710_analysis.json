@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "thriving",
+        "confidence": 90
+      },
+      {
+        "word": "strong",
+        "confidence": 85
+      },
+      {
+        "word": "success",
+        "confidence": 80
+      },
+      {
+        "word": "reliable",
+        "confidence": 75
+      },
+      {
+        "word": "upgrades",
+        "confidence": 70
+      },
+      {
+        "word": "target",
+        "confidence": 65
+      },
+      {
+        "word": "beast",
+        "confidence": 60
+      },
+      {
+        "word": "billionaire",
+        "confidence": 55
+      }
+    ]
+  }
+}

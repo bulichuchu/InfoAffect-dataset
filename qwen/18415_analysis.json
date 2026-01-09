@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "determined",
+        "confidence": 90
+      },
+      {
+        "word": "resolute",
+        "confidence": 85
+      },
+      {
+        "word": "sacrificial",
+        "confidence": 82
+      },
+      {
+        "word": "mixed",
+        "confidence": 78
+      },
+      {
+        "word": "unyielding",
+        "confidence": 75
+      },
+      {
+        "word": "fear",
+        "confidence": 68
+      },
+      {
+        "word": "polarized",
+        "confidence": 70
+      },
+      {
+        "word": "defiant",
+        "confidence": 73
+      }
+    ]
+  }
+}

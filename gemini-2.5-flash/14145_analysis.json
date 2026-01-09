@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "ironic",
+        "confidence": 85
+      },
+      {
+        "word": "amused",
+        "confidence": 78
+      },
+      {
+        "word": "uncertain",
+        "confidence": 70
+      },
+      {
+        "word": "joy",
+        "confidence": 65
+      },
+      {
+        "word": "detached",
+        "confidence": 60
+      },
+      {
+        "word": "observational",
+        "confidence": 58
+      }
+    ]
+  }
+}

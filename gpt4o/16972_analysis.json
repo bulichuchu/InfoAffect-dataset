@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "discrepancy",
+        "confidence": 85
+      },
+      {
+        "word": "concern",
+        "confidence": 80
+      },
+      {
+        "word": "inequity",
+        "confidence": 78
+      },
+      {
+        "word": "frustration",
+        "confidence": 70
+      },
+      {
+        "word": "neglect",
+        "confidence": 75
+      },
+      {
+        "word": "doubt",
+        "confidence": 72
+      },
+      {
+        "word": "alarm",
+        "confidence": 76
+      },
+      {
+        "word": "surprise",
+        "confidence": 68
+      }
+    ]
+  }
+}

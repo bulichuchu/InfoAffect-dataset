@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "failed",
+        "confidence": 90
+      },
+      {
+        "word": "over budget",
+        "confidence": 85
+      },
+      {
+        "word": "massively",
+        "confidence": 80
+      },
+      {
+        "word": "failed",
+        "confidence": 85
+      },
+      {
+        "word": "suffered",
+        "confidence": 80
+      },
+      {
+        "word": "soaring",
+        "confidence": 70
+      },
+      {
+        "word": "shelved",
+        "confidence": 75
+      },
+      {
+        "word": "spun out of control",
+        "confidence": 75
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "friendly",
+        "confidence": 90
+      },
+      {
+        "word": "leading",
+        "confidence": 85
+      },
+      {
+        "word": "excellent",
+        "confidence": 85
+      },
+      {
+        "word": "excellent",
+        "confidence": 85
+      },
+      {
+        "word": "world-class",
+        "confidence": 80
+      },
+      {
+        "word": "exemplary",
+        "confidence": 70
+      },
+      {
+        "word": "excellent",
+        "confidence": 65
+      },
+      {
+        "word": "notable",
+        "confidence": 60
+      }
+    ]
+  }
+}

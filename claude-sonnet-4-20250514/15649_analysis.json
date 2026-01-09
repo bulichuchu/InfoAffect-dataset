@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "inspirational",
+        "confidence": 90
+      },
+      {
+        "word": "peaceful",
+        "confidence": 85
+      },
+      {
+        "word": "respectful",
+        "confidence": 82
+      },
+      {
+        "word": "dignified",
+        "confidence": 80
+      },
+      {
+        "word": "joy",
+        "confidence": 75
+      },
+      {
+        "word": "reverent",
+        "confidence": 73
+      },
+      {
+        "word": "uplifting",
+        "confidence": 70
+      },
+      {
+        "word": "commemorative",
+        "confidence": 68
+      }
+    ]
+  }
+}

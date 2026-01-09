@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "record-breaking",
+        "confidence": 90
+      },
+      {
+        "word": "highest-grossing",
+        "confidence": 85
+      },
+      {
+        "word": "cash cow",
+        "confidence": 80
+      },
+      {
+        "word": "revenue record",
+        "confidence": 75
+      },
+      {
+        "word": "profitable",
+        "confidence": 70
+      },
+      {
+        "word": "success",
+        "confidence": 65
+      },
+      {
+        "word": "popular",
+        "confidence": 60
+      },
+      {
+        "word": "energetic",
+        "confidence": 55
+      }
+    ]
+  }
+}

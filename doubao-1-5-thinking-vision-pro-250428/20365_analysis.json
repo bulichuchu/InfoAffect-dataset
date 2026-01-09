@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surprise",
+        "confidence": 90
+      },
+      {
+        "word": "discovery",
+        "confidence": 85
+      },
+      {
+        "word": "excitement",
+        "confidence": 70
+      },
+      {
+        "word": "curiosity",
+        "confidence": 65
+      },
+      {
+        "word": "entertainment",
+        "confidence": 50
+      },
+      {
+        "word": "engagement",
+        "confidence": 45
+      },
+      {
+        "word": "interest",
+        "confidence": 40
+      },
+      {
+        "word": "fun",
+        "confidence": 35
+      }
+    ]
+  }
+}

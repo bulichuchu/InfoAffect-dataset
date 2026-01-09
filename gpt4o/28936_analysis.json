@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "reminiscent",
+        "confidence": 88
+      },
+      {
+        "word": "energetic",
+        "confidence": 85
+      },
+      {
+        "word": "unsettling",
+        "confidence": 83
+      },
+      {
+        "word": "mixed",
+        "confidence": 80
+      },
+      {
+        "word": "joy",
+        "confidence": 78
+      },
+      {
+        "word": "fear",
+        "confidence": 75
+      }
+    ]
+  }
+}

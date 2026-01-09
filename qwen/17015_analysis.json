@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "forgiving",
+        "confidence": 85
+      },
+      {
+        "word": "mixed",
+        "confidence": 82
+      },
+      {
+        "word": "disappointed",
+        "confidence": 78
+      },
+      {
+        "word": "alarm",
+        "confidence": 75
+      },
+      {
+        "word": "scandalous",
+        "confidence": 70
+      },
+      {
+        "word": "polarized",
+        "confidence": 73
+      },
+      {
+        "word": "judgmental",
+        "confidence": 68
+      },
+      {
+        "word": "perceived",
+        "confidence": 65
+      }
+    ]
+  }
+}

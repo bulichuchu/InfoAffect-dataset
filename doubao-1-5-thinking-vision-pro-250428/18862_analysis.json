@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "domination",
+        "confidence": 90
+      },
+      {
+        "word": "leadership",
+        "confidence": 85
+      },
+      {
+        "word": "advantage",
+        "confidence": 80
+      },
+      {
+        "word": "prestige",
+        "confidence": 75
+      },
+      {
+        "word": "success",
+        "confidence": 70
+      }
+    ]
+  }
+}

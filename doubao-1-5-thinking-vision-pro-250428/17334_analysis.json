@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 90
+      },
+      {
+        "word": "inequity",
+        "confidence": 85
+      },
+      {
+        "word": "injustice",
+        "confidence": 80
+      },
+      {
+        "word": "unfairness",
+        "confidence": 95
+      },
+      {
+        "word": "regulation",
+        "confidence": 70
+      },
+      {
+        "word": "uncertain",
+        "confidence": 65
+      },
+      {
+        "word": "doubt",
+        "confidence": 60
+      },
+      {
+        "word": "conflict",
+        "confidence": 50
+      }
+    ]
+  }
+}

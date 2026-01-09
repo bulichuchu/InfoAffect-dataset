@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "astonishing",
+        "confidence": 90
+      },
+      {
+        "word": "perceived",
+        "confidence": 85
+      },
+      {
+        "word": "intense",
+        "confidence": 85
+      },
+      {
+        "word": "harmful",
+        "confidence": 80
+      },
+      {
+        "word": "struggle",
+        "confidence": 78
+      },
+      {
+        "word": "sympathetic",
+        "confidence": 75
+      },
+      {
+        "word": "envious",
+        "confidence": 65
+      }
+    ]
+  }
+}

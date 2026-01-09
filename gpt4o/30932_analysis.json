@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "engaging",
+        "confidence": 85
+      },
+      {
+        "word": "popular",
+        "confidence": 80
+      },
+      {
+        "word": "trendy",
+        "confidence": 75
+      },
+      {
+        "word": "guilty-pleasure",
+        "confidence": 70
+      },
+      {
+        "word": "amused",
+        "confidence": 65
+      }
+    ]
+  }
+}

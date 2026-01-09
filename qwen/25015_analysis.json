@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "isolating",
+        "confidence": 90
+      },
+      {
+        "word": "discriminatory",
+        "confidence": 85
+      },
+      {
+        "word": "unequal",
+        "confidence": 82
+      },
+      {
+        "word": "harmful",
+        "confidence": 78
+      },
+      {
+        "word": "exclusionary",
+        "confidence": 75
+      },
+      {
+        "word": "systemic",
+        "confidence": 70
+      },
+      {
+        "word": "marginalizing",
+        "confidence": 73
+      },
+      {
+        "word": "empowering",
+        "confidence": 65
+      }
+    ]
+  }
+}

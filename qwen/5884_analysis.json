@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "joy",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 78
+      },
+      {
+        "word": "statistical",
+        "confidence": 90
+      },
+      {
+        "word": "effective",
+        "confidence": 88
+      },
+      {
+        "word": "contrasting",
+        "confidence": 82
+      },
+      {
+        "word": "normal",
+        "confidence": 75
+      },
+      {
+        "word": "data-driven",
+        "confidence": 85
+      },
+      {
+        "word": "balanced",
+        "confidence": 70
+      }
+    ]
+  }
+}

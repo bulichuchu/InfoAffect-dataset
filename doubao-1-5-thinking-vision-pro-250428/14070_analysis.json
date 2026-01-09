@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "slump",
+        "confidence": 90
+      },
+      {
+        "word": "standstill",
+        "confidence": 85
+      },
+      {
+        "word": "declining",
+        "confidence": 80
+      },
+      {
+        "word": "struggle",
+        "confidence": 70
+      },
+      {
+        "word": "uncertain",
+        "confidence": 65
+      },
+      {
+        "word": "modest",
+        "confidence": 55
+      },
+      {
+        "word": "alarm",
+        "confidence": 50
+      },
+      {
+        "word": "evolution",
+        "confidence": 45
+      }
+    ]
+  }
+}

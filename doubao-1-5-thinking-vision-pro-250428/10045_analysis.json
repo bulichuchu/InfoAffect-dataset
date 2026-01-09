@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "harmful",
+        "confidence": 90
+      },
+      {
+        "word": "spreading",
+        "confidence": 85
+      },
+      {
+        "word": "bad news",
+        "confidence": 80
+      },
+      {
+        "word": "small share",
+        "confidence": 70
+      },
+      {
+        "word": "potential for damage",
+        "confidence": 75
+      }
+    ]
+  }
+}

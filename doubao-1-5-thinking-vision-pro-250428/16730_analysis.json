@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "weakening",
+        "confidence": 90
+      },
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "contraction",
+        "confidence": 80
+      },
+      {
+        "word": "revised",
+        "confidence": 75
+      },
+      {
+        "word": "scaling back",
+        "confidence": 70
+      },
+      {
+        "word": "escalating",
+        "confidence": 65
+      },
+      {
+        "word": "risks",
+        "confidence": 60
+      },
+      {
+        "word": "alarm",
+        "confidence": 55
+      }
+    ]
+  }
+}

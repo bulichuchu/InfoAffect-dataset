@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 90
+      },
+      {
+        "word": "fear",
+        "confidence": 85
+      },
+      {
+        "word": "monopolistic",
+        "confidence": 83
+      },
+      {
+        "word": "persistent",
+        "confidence": 80
+      },
+      {
+        "word": "steady",
+        "confidence": 78
+      },
+      {
+        "word": "unchallenged",
+        "confidence": 76
+      }
+    ]
+  }
+}

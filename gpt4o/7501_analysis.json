@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 88
+      },
+      {
+        "word": "pressured",
+        "confidence": 82
+      },
+      {
+        "word": "influenced",
+        "confidence": 78
+      },
+      {
+        "word": "steadfast",
+        "confidence": 73
+      },
+      {
+        "word": "stabilizing",
+        "confidence": 70
+      },
+      {
+        "word": "contained",
+        "confidence": 67
+      }
+    ]
+  }
+}

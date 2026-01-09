@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unprepared",
+        "confidence": 90
+      },
+      {
+        "word": "financially vulnerable",
+        "confidence": 85
+      },
+      {
+        "word": "insecure",
+        "confidence": 80
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      },
+      {
+        "word": "precarious",
+        "confidence": 70
+      },
+      {
+        "word": "concerned",
+        "confidence": 65
+      },
+      {
+        "word": "fear",
+        "confidence": 60
+      },
+      {
+        "word": "worried",
+        "confidence": 55
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 90
+      },
+      {
+        "word": "slump",
+        "confidence": 85
+      },
+      {
+        "word": "uncertain",
+        "confidence": 80
+      },
+      {
+        "word": "excellent",
+        "confidence": 70
+      },
+      {
+        "word": "major",
+        "confidence": 65
+      },
+      {
+        "word": "progress",
+        "confidence": 60
+      },
+      {
+        "word": "gap",
+        "confidence": 55
+      }
+    ]
+  }
+}

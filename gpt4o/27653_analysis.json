@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "inclusive",
+        "confidence": 85
+      },
+      {
+        "word": "aware",
+        "confidence": 80
+      },
+      {
+        "word": "motivational",
+        "confidence": 78
+      },
+      {
+        "word": "informed",
+        "confidence": 76
+      },
+      {
+        "word": "balanced",
+        "confidence": 74
+      },
+      {
+        "word": "joy",
+        "confidence": 72
+      }
+    ]
+  }
+}

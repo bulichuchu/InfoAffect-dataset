@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 88
+      },
+      {
+        "word": "alarm",
+        "confidence": 85
+      },
+      {
+        "word": "anger",
+        "confidence": 80
+      },
+      {
+        "word": "resurgent",
+        "confidence": 75
+      },
+      {
+        "word": "deceptive",
+        "confidence": 72
+      },
+      {
+        "word": "worrying",
+        "confidence": 78
+      },
+      {
+        "word": "exploitative",
+        "confidence": 70
+      },
+      {
+        "word": "persistent",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "generous",
+        "confidence": 90
+      },
+      {
+        "word": "charitable",
+        "confidence": 85
+      },
+      {
+        "word": "generosity",
+        "confidence": 82
+      },
+      {
+        "word": "high",
+        "confidence": 78
+      },
+      {
+        "word": "donation",
+        "confidence": 75
+      },
+      {
+        "word": "highly",
+        "confidence": 70
+      },
+      {
+        "word": "practicing",
+        "confidence": 68
+      },
+      {
+        "word": "belief",
+        "confidence": 65
+      }
+    ]
+  }
+}

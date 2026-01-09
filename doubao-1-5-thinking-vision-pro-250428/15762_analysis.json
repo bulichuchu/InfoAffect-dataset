@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 90
+      },
+      {
+        "word": "formal",
+        "confidence": 85
+      },
+      {
+        "word": "statistical",
+        "confidence": 82
+      },
+      {
+        "word": "focused",
+        "confidence": 78
+      },
+      {
+        "word": "effective",
+        "confidence": 80
+      },
+      {
+        "word": "determined",
+        "confidence": 75
+      }
+    ]
+  }
+}

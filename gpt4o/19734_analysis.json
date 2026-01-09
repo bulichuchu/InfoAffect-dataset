@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "pressured",
+        "confidence": 85
+      },
+      {
+        "word": "demanding",
+        "confidence": 80
+      },
+      {
+        "word": "responsible",
+        "confidence": 78
+      },
+      {
+        "word": "struggle",
+        "confidence": 75
+      },
+      {
+        "word": "support",
+        "confidence": 70
+      },
+      {
+        "word": "inequality",
+        "confidence": 68
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "quiet",
+        "confidence": 90
+      },
+      {
+        "word": "discrepancy",
+        "confidence": 85
+      },
+      {
+        "word": "focused",
+        "confidence": 75
+      },
+      {
+        "word": "curiosity",
+        "confidence": 70
+      },
+      {
+        "word": "contrast",
+        "confidence": 80
+      }
+    ]
+  }
+}

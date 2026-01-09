@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 90
+      },
+      {
+        "word": "monopolized",
+        "confidence": 85
+      },
+      {
+        "word": "ruling",
+        "confidence": 80
+      },
+      {
+        "word": "penetration",
+        "confidence": 70
+      },
+      {
+        "word": "exclusive",
+        "confidence": 65
+      },
+      {
+        "word": "popular",
+        "confidence": 55
+      },
+      {
+        "word": "global",
+        "confidence": 50
+      },
+      {
+        "word": "real-time",
+        "confidence": 45
+      }
+    ]
+  }
+}

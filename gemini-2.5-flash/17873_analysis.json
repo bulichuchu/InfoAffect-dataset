@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transitional",
+        "confidence": 90
+      },
+      {
+        "word": "confused",
+        "confidence": 85
+      },
+      {
+        "word": "perplexing",
+        "confidence": 78
+      },
+      {
+        "word": "misunderstood",
+        "confidence": 75
+      },
+      {
+        "word": "enlightening",
+        "confidence": 70
+      }
+    ]
+  }
+}

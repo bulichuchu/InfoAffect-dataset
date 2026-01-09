@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "global",
+        "confidence": 90
+      },
+      {
+        "word": "extensive",
+        "confidence": 85
+      },
+      {
+        "word": "reliable",
+        "confidence": 80
+      },
+      {
+        "word": "widespread",
+        "confidence": 75
+      },
+      {
+        "word": "major",
+        "confidence": 70
+      }
+    ]
+  }
+}

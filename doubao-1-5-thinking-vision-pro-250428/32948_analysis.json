@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "urgency",
+        "confidence": 90
+      },
+      {
+        "word": "need",
+        "confidence": 85
+      },
+      {
+        "word": "controversy",
+        "confidence": 80
+      },
+      {
+        "word": "transitional",
+        "confidence": 70
+      },
+      {
+        "word": "increase",
+        "confidence": 65
+      },
+      {
+        "word": "stagnation",
+        "confidence": 60
+      },
+      {
+        "word": "rise",
+        "confidence": 55
+      },
+      {
+        "word": "push",
+        "confidence": 50
+      }
+    ]
+  }
+}

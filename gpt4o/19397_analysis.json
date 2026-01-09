@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "reliable",
+        "confidence": 95
+      },
+      {
+        "word": "reliable",
+        "confidence": 90
+      },
+      {
+        "word": "distrusted",
+        "confidence": 85
+      },
+      {
+        "word": "reliable",
+        "confidence": 88
+      },
+      {
+        "word": "uncertain",
+        "confidence": 80
+      }
+    ]
+  }
+}

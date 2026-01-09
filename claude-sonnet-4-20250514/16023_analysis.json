@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "obsessive",
+        "confidence": 88
+      },
+      {
+        "word": "compulsive",
+        "confidence": 85
+      },
+      {
+        "word": "addictive",
+        "confidence": 82
+      },
+      {
+        "word": "engaging",
+        "confidence": 78
+      },
+      {
+        "word": "immersive",
+        "confidence": 75
+      },
+      {
+        "word": "energetic",
+        "confidence": 72
+      },
+      {
+        "word": "alarm",
+        "confidence": 68
+      },
+      {
+        "word": "intense",
+        "confidence": 70
+      }
+    ]
+  }
+}

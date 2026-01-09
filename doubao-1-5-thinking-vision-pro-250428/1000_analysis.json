@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rise",
+        "confidence": 90
+      },
+      {
+        "word": "excellent",
+        "confidence": 85
+      },
+      {
+        "word": "slowdown",
+        "confidence": 70
+      },
+      {
+        "word": "weak",
+        "confidence": 65
+      },
+      {
+        "word": "losses",
+        "confidence": 75
+      },
+      {
+        "word": "biggest",
+        "confidence": 55
+      },
+      {
+        "word": "looser",
+        "confidence": 50
+      },
+      {
+        "word": "no gains",
+        "confidence": 45
+      }
+    ]
+  }
+}

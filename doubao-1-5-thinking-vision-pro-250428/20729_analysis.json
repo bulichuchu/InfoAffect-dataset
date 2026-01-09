@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "lukewarm",
+        "confidence": 90
+      },
+      {
+        "word": "uncertain",
+        "confidence": 85
+      },
+      {
+        "word": "rocky",
+        "confidence": 80
+      },
+      {
+        "word": "unimpressive",
+        "confidence": 75
+      },
+      {
+        "word": "inability",
+        "confidence": 70
+      },
+      {
+        "word": "steep",
+        "confidence": 65
+      },
+      {
+        "word": "cut",
+        "confidence": 60
+      },
+      {
+        "word": "lost",
+        "confidence": 55
+      }
+    ]
+  }
+}

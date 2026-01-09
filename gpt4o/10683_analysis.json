@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "lonely",
+        "confidence": 90
+      },
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "alarm",
+        "confidence": 82
+      },
+      {
+        "word": "symbolic",
+        "confidence": 78
+      },
+      {
+        "word": "struggle",
+        "confidence": 80
+      },
+      {
+        "word": "uneasy",
+        "confidence": 75
+      }
+    ]
+  }
+}

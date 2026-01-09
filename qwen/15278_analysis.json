@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "underwhelming",
+        "confidence": 80
+      },
+      {
+        "word": "transitional",
+        "confidence": 75
+      },
+      {
+        "word": "concerned",
+        "confidence": 70
+      },
+      {
+        "word": "frustrated",
+        "confidence": 65
+      },
+      {
+        "word": "indifferent",
+        "confidence": 60
+      },
+      {
+        "word": "normal",
+        "confidence": 55
+      },
+      {
+        "word": "curious",
+        "confidence": 50
+      }
+    ]
+  }
+}

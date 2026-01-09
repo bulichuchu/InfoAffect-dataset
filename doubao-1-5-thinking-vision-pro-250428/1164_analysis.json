@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "weak",
+        "confidence": 90
+      },
+      {
+        "word": "slow",
+        "confidence": 85
+      },
+      {
+        "word": "lagging",
+        "confidence": 80
+      },
+      {
+        "word": "negligible",
+        "confidence": 70
+      },
+      {
+        "word": "declining",
+        "confidence": 75
+      },
+      {
+        "word": "criticized",
+        "confidence": 65
+      },
+      {
+        "word": "unpopular",
+        "confidence": 55
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "loved",
+        "confidence": 95
+      },
+      {
+        "word": "joy",
+        "confidence": 90
+      },
+      {
+        "word": "favorable",
+        "confidence": 88
+      },
+      {
+        "word": "admiring",
+        "confidence": 82
+      },
+      {
+        "word": "heartwarming",
+        "confidence": 78
+      },
+      {
+        "word": "joy",
+        "confidence": 75
+      },
+      {
+        "word": "popular",
+        "confidence": 80
+      },
+      {
+        "word": "affectionate",
+        "confidence": 76
+      }
+    ]
+  }
+}

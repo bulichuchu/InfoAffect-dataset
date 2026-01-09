@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "disappointed",
+        "confidence": 90
+      },
+      {
+        "word": "unfair",
+        "confidence": 85
+      },
+      {
+        "word": "lagging",
+        "confidence": 80
+      },
+      {
+        "word": "jealous",
+        "confidence": 70
+      },
+      {
+        "word": "neglected",
+        "confidence": 65
+      },
+      {
+        "word": "yearning",
+        "confidence": 55
+      },
+      {
+        "word": "content",
+        "confidence": 40
+      },
+      {
+        "word": "normal",
+        "confidence": 30
+      }
+    ]
+  }
+}

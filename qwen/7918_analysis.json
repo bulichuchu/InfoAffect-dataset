@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "excited",
+        "confidence": 85
+      },
+      {
+        "word": "anticipated",
+        "confidence": 80
+      },
+      {
+        "word": "nostalgic",
+        "confidence": 75
+      },
+      {
+        "word": "entertained",
+        "confidence": 78
+      },
+      {
+        "word": "engaged",
+        "confidence": 72
+      },
+      {
+        "word": "joy",
+        "confidence": 70
+      },
+      {
+        "word": "practical",
+        "confidence": 65
+      },
+      {
+        "word": "familiar",
+        "confidence": 68
+      }
+    ]
+  }
+}

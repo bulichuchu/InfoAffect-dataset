@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "ironic",
+        "confidence": 90
+      },
+      {
+        "word": "embarrassing",
+        "confidence": 85
+      },
+      {
+        "word": "anger",
+        "confidence": 82
+      },
+      {
+        "word": "satirical",
+        "confidence": 78
+      },
+      {
+        "word": "amusing",
+        "confidence": 75
+      },
+      {
+        "word": "absurd",
+        "confidence": 72
+      },
+      {
+        "word": "alarm",
+        "confidence": 70
+      },
+      {
+        "word": "humorous",
+        "confidence": 68
+      }
+    ]
+  }
+}

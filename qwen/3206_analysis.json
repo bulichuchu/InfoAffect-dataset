@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 85
+      },
+      {
+        "word": "ironic",
+        "confidence": 80
+      },
+      {
+        "word": "declining",
+        "confidence": 78
+      },
+      {
+        "word": "success",
+        "confidence": 75
+      },
+      {
+        "word": "underappreciated",
+        "confidence": 72
+      },
+      {
+        "word": "reliable",
+        "confidence": 68
+      },
+      {
+        "word": "bittersweet",
+        "confidence": 65
+      },
+      {
+        "word": "notable",
+        "confidence": 70
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 90
+      },
+      {
+        "word": "unhygienic",
+        "confidence": 85
+      },
+      {
+        "word": "declining",
+        "confidence": 70
+      },
+      {
+        "word": "neglected",
+        "confidence": 75
+      },
+      {
+        "word": "unclean",
+        "confidence": 80
+      },
+      {
+        "word": "unsanitary",
+        "confidence": 85
+      },
+      {
+        "word": "struggle",
+        "confidence": 75
+      },
+      {
+        "word": "harmful",
+        "confidence": 70
+      }
+    ]
+  }
+}

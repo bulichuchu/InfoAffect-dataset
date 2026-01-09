@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 95
+      },
+      {
+        "word": "escalating",
+        "confidence": 90
+      },
+      {
+        "word": "conflictual",
+        "confidence": 88
+      },
+      {
+        "word": "unequal",
+        "confidence": 85
+      },
+      {
+        "word": "alarm",
+        "confidence": 80
+      },
+      {
+        "word": "volatile",
+        "confidence": 75
+      }
+    ]
+  }
+}

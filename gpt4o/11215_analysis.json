@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "limbo",
+        "confidence": 90
+      },
+      {
+        "word": "uncertain",
+        "confidence": 88
+      },
+      {
+        "word": "pending",
+        "confidence": 85
+      },
+      {
+        "word": "displacement",
+        "confidence": 80
+      },
+      {
+        "word": "persisting",
+        "confidence": 75
+      },
+      {
+        "word": "resolved",
+        "confidence": 70
+      },
+      {
+        "word": "unknown",
+        "confidence": 65
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "alarm",
+        "confidence": 90
+      },
+      {
+        "word": "transitional",
+        "confidence": 85
+      },
+      {
+        "word": "discrepancy",
+        "confidence": 80
+      },
+      {
+        "word": "highlight",
+        "confidence": 75
+      },
+      {
+        "word": "difference",
+        "confidence": 70
+      },
+      {
+        "word": "contrast",
+        "confidence": 65
+      },
+      {
+        "word": "variance",
+        "confidence": 60
+      }
+    ]
+  }
+}

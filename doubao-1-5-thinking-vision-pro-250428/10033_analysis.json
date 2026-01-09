@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "soaring",
+        "confidence": 90
+      },
+      {
+        "word": "colossal",
+        "confidence": 85
+      },
+      {
+        "word": "massive",
+        "confidence": 80
+      },
+      {
+        "word": "prolific",
+        "confidence": 70
+      },
+      {
+        "word": "soaring",
+        "confidence": 65
+      },
+      {
+        "word": "reliable",
+        "confidence": 55
+      },
+      {
+        "word": "dramatic",
+        "confidence": 50
+      },
+      {
+        "word": "remarkable",
+        "confidence": 45
+      }
+    ]
+  }
+}

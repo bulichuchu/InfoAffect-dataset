@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 90
+      },
+      {
+        "word": "polarized",
+        "confidence": 85
+      },
+      {
+        "word": "concerned",
+        "confidence": 78
+      },
+      {
+        "word": "mixed",
+        "confidence": 82
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      },
+      {
+        "word": "partisan",
+        "confidence": 80
+      },
+      {
+        "word": "anger",
+        "confidence": 70
+      },
+      {
+        "word": "defensive",
+        "confidence": 65
+      }
+    ]
+  }
+}

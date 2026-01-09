@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "curious",
+        "confidence": 85
+      },
+      {
+        "word": "contrasting",
+        "confidence": 80
+      },
+      {
+        "word": "observational",
+        "confidence": 75
+      },
+      {
+        "word": "intrigued",
+        "confidence": 72
+      },
+      {
+        "word": "cultural",
+        "confidence": 68
+      },
+      {
+        "word": "effective",
+        "confidence": 70
+      },
+      {
+        "word": "anticipated",
+        "confidence": 65
+      },
+      {
+        "word": "joy",
+        "confidence": 60
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "hot",
+        "confidence": 90
+      },
+      {
+        "word": "record",
+        "confidence": 85
+      },
+      {
+        "word": "excellent",
+        "confidence": 80
+      },
+      {
+        "word": "extreme",
+        "confidence": 75
+      },
+      {
+        "word": "climate",
+        "confidence": 70
+      },
+      {
+        "word": "alarm",
+        "confidence": 65
+      },
+      {
+        "word": "frequent",
+        "confidence": 60
+      },
+      {
+        "word": "anticipated",
+        "confidence": 55
+      }
+    ]
+  }
+}

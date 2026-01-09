@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 85
+      },
+      {
+        "word": "inconvenient",
+        "confidence": 82
+      },
+      {
+        "word": "struggle",
+        "confidence": 78
+      },
+      {
+        "word": "privileged",
+        "confidence": 75
+      },
+      {
+        "word": "mixed",
+        "confidence": 80
+      },
+      {
+        "word": "unaffordable",
+        "confidence": 83
+      },
+      {
+        "word": "innovation",
+        "confidence": 70
+      }
+    ]
+  }
+}

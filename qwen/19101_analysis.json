@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "resistant",
+        "confidence": 85
+      },
+      {
+        "word": "traditional",
+        "confidence": 80
+      },
+      {
+        "word": "stubborn",
+        "confidence": 75
+      },
+      {
+        "word": "reluctant",
+        "confidence": 78
+      },
+      {
+        "word": "persistent",
+        "confidence": 72
+      },
+      {
+        "word": "conservative",
+        "confidence": 70
+      },
+      {
+        "word": "transitional",
+        "confidence": 65
+      },
+      {
+        "word": "reliable",
+        "confidence": 73
+      }
+    ]
+  }
+}

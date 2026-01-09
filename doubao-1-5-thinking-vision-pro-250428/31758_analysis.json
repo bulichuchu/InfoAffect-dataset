@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transitional",
+        "confidence": 90
+      },
+      {
+        "word": "gap",
+        "confidence": 85
+      },
+      {
+        "word": "transitional",
+        "confidence": 80
+      },
+      {
+        "word": "increase",
+        "confidence": 70
+      },
+      {
+        "word": "peaked",
+        "confidence": 75
+      },
+      {
+        "word": "slump",
+        "confidence": 65
+      },
+      {
+        "word": "backlash",
+        "confidence": 70
+      },
+      {
+        "word": "polarization",
+        "confidence": 68
+      }
+    ]
+  }
+}

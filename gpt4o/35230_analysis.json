@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "unrest",
+        "confidence": 90
+      },
+      {
+        "word": "discontent",
+        "confidence": 85
+      },
+      {
+        "word": "anger",
+        "confidence": 80
+      },
+      {
+        "word": "frustration",
+        "confidence": 78
+      },
+      {
+        "word": "protest",
+        "confidence": 88
+      },
+      {
+        "word": "corruption",
+        "confidence": 82
+      },
+      {
+        "word": "empowerment",
+        "confidence": 75
+      }
+    ]
+  }
+}

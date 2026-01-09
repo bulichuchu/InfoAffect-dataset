@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "inspiring",
+        "confidence": 85
+      },
+      {
+        "word": "energetic",
+        "confidence": 82
+      },
+      {
+        "word": "engaging",
+        "confidence": 78
+      },
+      {
+        "word": "innovative",
+        "confidence": 75
+      },
+      {
+        "word": "joy",
+        "confidence": 70
+      },
+      {
+        "word": "motivating",
+        "confidence": 68
+      },
+      {
+        "word": "social",
+        "confidence": 65
+      },
+      {
+        "word": "trendy",
+        "confidence": 60
+      }
+    ]
+  }
+}

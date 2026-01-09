@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 88
+      },
+      {
+        "word": "transitional",
+        "confidence": 82
+      },
+      {
+        "word": "excessive",
+        "confidence": 79
+      },
+      {
+        "word": "rewarding",
+        "confidence": 75
+      },
+      {
+        "word": "disproportionate",
+        "confidence": 77
+      },
+      {
+        "word": "joy",
+        "confidence": 68
+      },
+      {
+        "word": "defiant",
+        "confidence": 70
+      },
+      {
+        "word": "unfair",
+        "confidence": 73
+      }
+    ]
+  }
+}

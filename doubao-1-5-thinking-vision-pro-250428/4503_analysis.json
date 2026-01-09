@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mistrustful",
+        "confidence": 90
+      },
+      {
+        "word": "uncertain",
+        "confidence": 85
+      },
+      {
+        "word": "fear",
+        "confidence": 80
+      },
+      {
+        "word": "fear",
+        "confidence": 70
+      },
+      {
+        "word": "indifferent",
+        "confidence": 65
+      },
+      {
+        "word": "joy",
+        "confidence": 50
+      },
+      {
+        "word": "excited",
+        "confidence": 45
+      },
+      {
+        "word": "inspired",
+        "confidence": 40
+      }
+    ]
+  }
+}

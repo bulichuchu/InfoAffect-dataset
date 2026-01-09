@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "thankful",
+        "confidence": 95
+      },
+      {
+        "word": "joy",
+        "confidence": 90
+      },
+      {
+        "word": "reflective",
+        "confidence": 85
+      },
+      {
+        "word": "practical",
+        "confidence": 82
+      },
+      {
+        "word": "abundant",
+        "confidence": 78
+      },
+      {
+        "word": "traditional",
+        "confidence": 75
+      }
+    ]
+  }
+}

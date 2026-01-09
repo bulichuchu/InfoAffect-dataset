@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "reliable",
+        "confidence": 90
+      },
+      {
+        "word": "distrust",
+        "confidence": 85
+      },
+      {
+        "word": "uncertain",
+        "confidence": 70
+      },
+      {
+        "word": "disagreement",
+        "confidence": 80
+      },
+      {
+        "word": "partisan",
+        "confidence": 75
+      },
+      {
+        "word": "conflict",
+        "confidence": 65
+      },
+      {
+        "word": "debate",
+        "confidence": 55
+      },
+      {
+        "word": "controversy",
+        "confidence": 50
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "fading",
+        "confidence": 90
+      },
+      {
+        "word": "pessimistic",
+        "confidence": 85
+      },
+      {
+        "word": "anticipated",
+        "confidence": 80
+      },
+      {
+        "word": "unlikely",
+        "confidence": 75
+      },
+      {
+        "word": "stir",
+        "confidence": 70
+      },
+      {
+        "word": "fighting",
+        "confidence": 65
+      },
+      {
+        "word": "scraps",
+        "confidence": 60
+      },
+      {
+        "word": "mood",
+        "confidence": 55
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "effective",
+        "confidence": 85
+      },
+      {
+        "word": "innovative",
+        "confidence": 80
+      },
+      {
+        "word": "pragmatic",
+        "confidence": 75
+      },
+      {
+        "word": "innovative",
+        "confidence": 78
+      },
+      {
+        "word": "convincing",
+        "confidence": 72
+      },
+      {
+        "word": "success",
+        "confidence": 76
+      },
+      {
+        "word": "rational",
+        "confidence": 70
+      },
+      {
+        "word": "persuasive",
+        "confidence": 68
+      }
+    ]
+  }
+}

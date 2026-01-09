@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "soaring",
+        "confidence": 90
+      },
+      {
+        "word": "alarm",
+        "confidence": 95
+      },
+      {
+        "word": "highly transmissible",
+        "confidence": 85
+      },
+      {
+        "word": "epidemic",
+        "confidence": 90
+      },
+      {
+        "word": "concentrated",
+        "confidence": 70
+      },
+      {
+        "word": "perceived",
+        "confidence": 65
+      },
+      {
+        "word": "recorded",
+        "confidence": 60
+      },
+      {
+        "word": "lives lost",
+        "confidence": 80
+      }
+    ]
+  }
+}

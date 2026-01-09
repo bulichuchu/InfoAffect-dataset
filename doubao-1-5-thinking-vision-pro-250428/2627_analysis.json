@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "transitional",
+        "confidence": 90
+      },
+      {
+        "word": "unexpected",
+        "confidence": 85
+      },
+      {
+        "word": "notable",
+        "confidence": 80
+      },
+      {
+        "word": "mixed",
+        "confidence": 75
+      },
+      {
+        "word": "mixed",
+        "confidence": 70
+      },
+      {
+        "word": "interesting",
+        "confidence": 65
+      },
+      {
+        "word": "engaging",
+        "confidence": 60
+      },
+      {
+        "word": "intriguing",
+        "confidence": 55
+      }
+    ]
+  }
+}

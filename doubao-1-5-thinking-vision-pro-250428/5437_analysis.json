@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "infested",
+        "confidence": 90
+      },
+      {
+        "word": "prevalent",
+        "confidence": 85
+      },
+      {
+        "word": "normal",
+        "confidence": 80
+      },
+      {
+        "word": "widespread",
+        "confidence": 75
+      },
+      {
+        "word": "struggle",
+        "confidence": 70
+      },
+      {
+        "word": "discomforting",
+        "confidence": 65
+      },
+      {
+        "word": "annoying",
+        "confidence": 60
+      },
+      {
+        "word": "unpleasant",
+        "confidence": 55
+      }
+    ]
+  }
+}

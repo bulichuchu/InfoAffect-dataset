@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "mixed",
+        "confidence": 90
+      },
+      {
+        "word": "inequality",
+        "confidence": 85
+      },
+      {
+        "word": "barrier",
+        "confidence": 95
+      },
+      {
+        "word": "limitation",
+        "confidence": 80
+      },
+      {
+        "word": "restriction",
+        "confidence": 75
+      },
+      {
+        "word": "difference",
+        "confidence": 70
+      },
+      {
+        "word": "struggle",
+        "confidence": 65
+      },
+      {
+        "word": "gap",
+        "confidence": 60
+      }
+    ]
+  }
+}

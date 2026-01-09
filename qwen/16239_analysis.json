@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 85
+      },
+      {
+        "word": "soaring",
+        "confidence": 80
+      },
+      {
+        "word": "success",
+        "confidence": 75
+      },
+      {
+        "word": "disruptive",
+        "confidence": 78
+      },
+      {
+        "word": "defiant",
+        "confidence": 82
+      },
+      {
+        "word": "empowering",
+        "confidence": 70
+      },
+      {
+        "word": "innovative",
+        "confidence": 73
+      },
+      {
+        "word": "dramatic",
+        "confidence": 76
+      }
+    ]
+  }
+}

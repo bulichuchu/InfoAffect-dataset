@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "statistical",
+        "confidence": 90
+      },
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "resigned",
+        "confidence": 80
+      },
+      {
+        "word": "realistic",
+        "confidence": 75
+      },
+      {
+        "word": "fear",
+        "confidence": 70
+      },
+      {
+        "word": "statistical",
+        "confidence": 88
+      },
+      {
+        "word": "definitive",
+        "confidence": 72
+      },
+      {
+        "word": "accepting",
+        "confidence": 78
+      }
+    ]
+  }
+}

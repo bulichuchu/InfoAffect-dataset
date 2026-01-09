@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "lonely",
+        "confidence": 90
+      },
+      {
+        "word": "concerned",
+        "confidence": 85
+      },
+      {
+        "word": "lonely",
+        "confidence": 80
+      },
+      {
+        "word": "fear",
+        "confidence": 78
+      },
+      {
+        "word": "disconnected",
+        "confidence": 75
+      },
+      {
+        "word": "sacrificing",
+        "confidence": 70
+      },
+      {
+        "word": "reserved",
+        "confidence": 65
+      }
+    ]
+  }
+}

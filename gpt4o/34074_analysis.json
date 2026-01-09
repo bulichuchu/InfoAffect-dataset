@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dependence",
+        "confidence": 90
+      },
+      {
+        "word": "reliable",
+        "confidence": 85
+      },
+      {
+        "word": "unseen",
+        "confidence": 80
+      },
+      {
+        "word": "essential",
+        "confidence": 78
+      },
+      {
+        "word": "vulnerable",
+        "confidence": 75
+      },
+      {
+        "word": "structural",
+        "confidence": 70
+      },
+      {
+        "word": "integral",
+        "confidence": 65
+      }
+    ]
+  }
+}

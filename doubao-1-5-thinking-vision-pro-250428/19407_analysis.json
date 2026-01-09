@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 90
+      },
+      {
+        "word": "discontent",
+        "confidence": 85
+      },
+      {
+        "word": "protest",
+        "confidence": 80
+      },
+      {
+        "word": "negotiation",
+        "confidence": 75
+      },
+      {
+        "word": "stalled",
+        "confidence": 70
+      },
+      {
+        "word": "grievance",
+        "confidence": 65
+      },
+      {
+        "word": "dispute",
+        "confidence": 60
+      },
+      {
+        "word": "confrontation",
+        "confidence": 55
+      }
+    ]
+  }
+}

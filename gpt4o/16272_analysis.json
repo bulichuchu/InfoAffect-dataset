@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "pride",
+        "confidence": 90
+      },
+      {
+        "word": "self-expression",
+        "confidence": 85
+      },
+      {
+        "word": "boastful",
+        "confidence": 82
+      },
+      {
+        "word": "personal",
+        "confidence": 78
+      },
+      {
+        "word": "casual",
+        "confidence": 72
+      },
+      {
+        "word": "nonchalant",
+        "confidence": 70
+      },
+      {
+        "word": "reserved",
+        "confidence": 65
+      }
+    ]
+  }
+}

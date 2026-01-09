@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "short",
+        "confidence": 90
+      },
+      {
+        "word": "unstable",
+        "confidence": 85
+      },
+      {
+        "word": "pending",
+        "confidence": 80
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      },
+      {
+        "word": "declining",
+        "confidence": 70
+      },
+      {
+        "word": "unpredictable",
+        "confidence": 65
+      },
+      {
+        "word": "turbulent",
+        "confidence": 60
+      }
+    ]
+  }
+}

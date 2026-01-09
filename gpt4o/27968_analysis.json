@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "concern",
+        "confidence": 85
+      },
+      {
+        "word": "notorious",
+        "confidence": 80
+      },
+      {
+        "word": "indulgence",
+        "confidence": 75
+      },
+      {
+        "word": "alarm",
+        "confidence": 78
+      },
+      {
+        "word": "heed",
+        "confidence": 70
+      },
+      {
+        "word": "adversity",
+        "confidence": 72
+      }
+    ]
+  }
+}

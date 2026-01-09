@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "discouraging",
+        "confidence": 88
+      },
+      {
+        "word": "anger",
+        "confidence": 82
+      },
+      {
+        "word": "concerned",
+        "confidence": 79
+      },
+      {
+        "word": "declining",
+        "confidence": 76
+      },
+      {
+        "word": "joy",
+        "confidence": 65
+      },
+      {
+        "word": "alarm",
+        "confidence": 70
+      },
+      {
+        "word": "alarm",
+        "confidence": 73
+      },
+      {
+        "word": "perceived",
+        "confidence": 77
+      }
+    ]
+  }
+}

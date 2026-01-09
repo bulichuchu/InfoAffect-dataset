@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frustration",
+        "confidence": 90
+      },
+      {
+        "word": "overworked",
+        "confidence": 88
+      },
+      {
+        "word": "overwhelmed",
+        "confidence": 85
+      },
+      {
+        "word": "pressured",
+        "confidence": 83
+      },
+      {
+        "word": "inequity",
+        "confidence": 80
+      },
+      {
+        "word": "stressed",
+        "confidence": 78
+      }
+    ]
+  }
+}

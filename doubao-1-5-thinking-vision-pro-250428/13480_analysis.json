@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "surpassing",
+        "confidence": 90
+      },
+      {
+        "word": "displacement",
+        "confidence": 85
+      },
+      {
+        "word": "declining",
+        "confidence": 80
+      },
+      {
+        "word": "fast-paced",
+        "confidence": 75
+      },
+      {
+        "word": "ubiquitous",
+        "confidence": 70
+      },
+      {
+        "word": "iconic",
+        "confidence": 65
+      },
+      {
+        "word": "fading",
+        "confidence": 60
+      },
+      {
+        "word": "transformation",
+        "confidence": 55
+      }
+    ]
+  }
+}

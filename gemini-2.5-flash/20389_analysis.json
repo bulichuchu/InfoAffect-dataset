@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "polarized",
+        "confidence": 90
+      },
+      {
+        "word": "mixed",
+        "confidence": 85
+      },
+      {
+        "word": "success",
+        "confidence": 75
+      },
+      {
+        "word": "statistical",
+        "confidence": 80
+      },
+      {
+        "word": "formal",
+        "confidence": 70
+      },
+      {
+        "word": "effective",
+        "confidence": 65
+      }
+    ]
+  }
+}

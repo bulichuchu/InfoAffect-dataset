@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 90
+      },
+      {
+        "word": "reliable",
+        "confidence": 80
+      },
+      {
+        "word": "doubt",
+        "confidence": 85
+      },
+      {
+        "word": "disapproval",
+        "confidence": 83
+      },
+      {
+        "word": "uncertain",
+        "confidence": 75
+      },
+      {
+        "word": "support",
+        "confidence": 70
+      }
+    ]
+  }
+}

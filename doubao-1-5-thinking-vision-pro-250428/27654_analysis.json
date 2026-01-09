@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "practical",
+        "confidence": 90
+      },
+      {
+        "word": "inefficient",
+        "confidence": 85
+      },
+      {
+        "word": "unaffordable",
+        "confidence": 80
+      },
+      {
+        "word": "disadvantaged",
+        "confidence": 70
+      },
+      {
+        "word": "sustainable",
+        "confidence": 65
+      },
+      {
+        "word": "reliable",
+        "confidence": 55
+      },
+      {
+        "word": "effective",
+        "confidence": 50
+      },
+      {
+        "word": "connected",
+        "confidence": 40
+      }
+    ]
+  }
+}

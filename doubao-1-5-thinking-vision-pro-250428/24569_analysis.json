@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "dismal",
+        "confidence": 90
+      },
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "relegated",
+        "confidence": 80
+      },
+      {
+        "word": "success",
+        "confidence": 70
+      },
+      {
+        "word": "exit",
+        "confidence": 65
+      },
+      {
+        "word": "effective",
+        "confidence": 50
+      },
+      {
+        "word": "rise",
+        "confidence": 45
+      },
+      {
+        "word": "shut down",
+        "confidence": 40
+      }
+    ]
+  }
+}

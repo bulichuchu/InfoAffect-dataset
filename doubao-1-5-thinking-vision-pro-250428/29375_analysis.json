@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "exceeds",
+        "confidence": 90
+      },
+      {
+        "word": "exceeded",
+        "confidence": 85
+      },
+      {
+        "word": "magnitude",
+        "confidence": 70
+      },
+      {
+        "word": "commitment",
+        "confidence": 65
+      },
+      {
+        "word": "support",
+        "confidence": 55
+      }
+    ]
+  }
+}

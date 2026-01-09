@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "relieved",
+        "confidence": 85
+      },
+      {
+        "word": "reliable",
+        "confidence": 80
+      },
+      {
+        "word": "effective",
+        "confidence": 75
+      },
+      {
+        "word": "anger",
+        "confidence": 70
+      },
+      {
+        "word": "defiant",
+        "confidence": 65
+      },
+      {
+        "word": "historic",
+        "confidence": 78
+      },
+      {
+        "word": "resolute",
+        "confidence": 68
+      },
+      {
+        "word": "geopolitical",
+        "confidence": 72
+      }
+    ]
+  }
+}

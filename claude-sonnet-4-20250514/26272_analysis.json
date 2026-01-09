@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "contemplative",
+        "confidence": 88
+      },
+      {
+        "word": "uncertain",
+        "confidence": 85
+      },
+      {
+        "word": "reflective",
+        "confidence": 82
+      },
+      {
+        "word": "alarm",
+        "confidence": 78
+      },
+      {
+        "word": "statistical",
+        "confidence": 75
+      },
+      {
+        "word": "introspective",
+        "confidence": 72
+      },
+      {
+        "word": "questioning",
+        "confidence": 70
+      },
+      {
+        "word": "pensive",
+        "confidence": 68
+      }
+    ]
+  }
+}

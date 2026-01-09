@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "struggle",
+        "confidence": 90
+      },
+      {
+        "word": "risk",
+        "confidence": 85
+      },
+      {
+        "word": "strain",
+        "confidence": 80
+      },
+      {
+        "word": "declining",
+        "confidence": 75
+      },
+      {
+        "word": "financially strained",
+        "confidence": 70
+      },
+      {
+        "word": "race",
+        "confidence": 65
+      },
+      {
+        "word": "struggle",
+        "confidence": 60
+      },
+      {
+        "word": "deprived",
+        "confidence": 55
+      }
+    ]
+  }
+}

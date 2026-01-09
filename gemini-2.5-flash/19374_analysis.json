@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "price-sensitive",
+        "confidence": 95
+      },
+      {
+        "word": "concerned",
+        "confidence": 90
+      },
+      {
+        "word": "value-conscious",
+        "confidence": 85
+      },
+      {
+        "word": "discontented",
+        "confidence": 80
+      },
+      {
+        "word": "wary",
+        "confidence": 70
+      },
+      {
+        "word": "unsettled",
+        "confidence": 65
+      }
+    ]
+  }
+}

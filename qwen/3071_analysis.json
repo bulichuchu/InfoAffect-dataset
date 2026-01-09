@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "excited",
+        "confidence": 85
+      },
+      {
+        "word": "festive",
+        "confidence": 80
+      },
+      {
+        "word": "gloomy",
+        "confidence": 75
+      },
+      {
+        "word": "contrasting",
+        "confidence": 78
+      },
+      {
+        "word": "disappointed",
+        "confidence": 70
+      },
+      {
+        "word": "anticipated",
+        "confidence": 72
+      },
+      {
+        "word": "fear",
+        "confidence": 65
+      },
+      {
+        "word": "anger",
+        "confidence": 73
+      }
+    ]
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "comfortable",
+        "confidence": 90
+      },
+      {
+        "word": "agreement",
+        "confidence": 85
+      },
+      {
+        "word": "exception",
+        "confidence": 80
+      },
+      {
+        "word": "testament",
+        "confidence": 75
+      },
+      {
+        "word": "mixed",
+        "confidence": 70
+      },
+      {
+        "word": "statistic",
+        "confidence": 65
+      },
+      {
+        "word": "surveyed",
+        "confidence": 60
+      },
+      {
+        "word": "insights",
+        "confidence": 55
+      }
+    ]
+  }
+}

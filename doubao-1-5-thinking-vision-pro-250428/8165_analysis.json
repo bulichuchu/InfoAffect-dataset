@@ -1,0 +1,34 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "profit",
+        "confidence": 90
+      },
+      {
+        "word": "lead",
+        "confidence": 85
+      },
+      {
+        "word": "hefty",
+        "confidence": 80
+      },
+      {
+        "word": "profiting",
+        "confidence": 75
+      },
+      {
+        "word": "all-out",
+        "confidence": 70
+      },
+      {
+        "word": "fighting",
+        "confidence": 65
+      },
+      {
+        "word": "war",
+        "confidence": 60
+      }
+    ]
+  }
+}

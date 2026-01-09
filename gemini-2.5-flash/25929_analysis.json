@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "frustration",
+        "confidence": 90
+      },
+      {
+        "word": "gridlock",
+        "confidence": 88
+      },
+      {
+        "word": "concern",
+        "confidence": 85
+      },
+      {
+        "word": "ineffectiveness",
+        "confidence": 82
+      },
+      {
+        "word": "obstruction",
+        "confidence": 80
+      },
+      {
+        "word": "disappointment",
+        "confidence": 75
+      }
+    ]
+  }
+}

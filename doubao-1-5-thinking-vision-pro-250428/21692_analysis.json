@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "declining",
+        "confidence": 90
+      },
+      {
+        "word": "declining",
+        "confidence": 85
+      },
+      {
+        "word": "resilience",
+        "confidence": 70
+      },
+      {
+        "word": "adapt",
+        "confidence": 65
+      },
+      {
+        "word": "recovery",
+        "confidence": 55
+      },
+      {
+        "word": "anticipate",
+        "confidence": 50
+      },
+      {
+        "word": "necessary",
+        "confidence": 45
+      },
+      {
+        "word": "reliable",
+        "confidence": 40
+      }
+    ]
+  }
+}

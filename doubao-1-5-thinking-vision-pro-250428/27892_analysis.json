@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "crisis",
+        "confidence": 90
+      },
+      {
+        "word": "disarray",
+        "confidence": 85
+      },
+      {
+        "word": "uncertain",
+        "confidence": 80
+      },
+      {
+        "word": "fear",
+        "confidence": 75
+      },
+      {
+        "word": "anxiety",
+        "confidence": 70
+      },
+      {
+        "word": "instability",
+        "confidence": 65
+      },
+      {
+        "word": "desperation",
+        "confidence": 55
+      },
+      {
+        "word": "chaos",
+        "confidence": 50
+      }
+    ]
+  }
+}

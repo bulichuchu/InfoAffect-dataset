@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "volatile",
+        "confidence": 90
+      },
+      {
+        "word": "uncertain",
+        "confidence": 85
+      },
+      {
+        "word": "dramatic",
+        "confidence": 80
+      },
+      {
+        "word": "rollercoaster",
+        "confidence": 75
+      },
+      {
+        "word": "instability",
+        "confidence": 70
+      },
+      {
+        "word": "turmoil",
+        "confidence": 65
+      },
+      {
+        "word": "harmful",
+        "confidence": 60
+      },
+      {
+        "word": "shaky",
+        "confidence": 55
+      }
+    ]
+  }
+}

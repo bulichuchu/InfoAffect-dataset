@@ -1,0 +1,26 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "connected",
+        "confidence": 90
+      },
+      {
+        "word": "trusting",
+        "confidence": 85
+      },
+      {
+        "word": "intimate",
+        "confidence": 80
+      },
+      {
+        "word": "transitional",
+        "confidence": 75
+      },
+      {
+        "word": "reliable",
+        "confidence": 70
+      }
+    ]
+  }
+}

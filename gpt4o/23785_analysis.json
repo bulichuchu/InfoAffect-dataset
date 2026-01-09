@@ -1,0 +1,30 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "adaptation",
+        "confidence": 90
+      },
+      {
+        "word": "reliable",
+        "confidence": 85
+      },
+      {
+        "word": "alarm",
+        "confidence": 80
+      },
+      {
+        "word": "limited",
+        "confidence": 75
+      },
+      {
+        "word": "adjusting",
+        "confidence": 78
+      },
+      {
+        "word": "sober",
+        "confidence": 70
+      }
+    ]
+  }
+}

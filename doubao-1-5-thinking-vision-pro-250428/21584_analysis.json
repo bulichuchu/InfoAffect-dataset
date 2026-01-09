@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "rise",
+        "confidence": 90
+      },
+      {
+        "word": "profitable",
+        "confidence": 85
+      },
+      {
+        "word": "remarkable",
+        "confidence": 80
+      },
+      {
+        "word": "dent",
+        "confidence": 75
+      },
+      {
+        "word": "hit",
+        "confidence": 70
+      },
+      {
+        "word": "harmful",
+        "confidence": 65
+      },
+      {
+        "word": "slowdown",
+        "confidence": 60
+      },
+      {
+        "word": "cost-cutting",
+        "confidence": 55
+      }
+    ]
+  }
+}

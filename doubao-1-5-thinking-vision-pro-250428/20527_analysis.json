@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "resistance",
+        "confidence": 90
+      },
+      {
+        "word": "afflicted",
+        "confidence": 85
+      },
+      {
+        "word": "vulnerable",
+        "confidence": 85
+      },
+      {
+        "word": "death rates",
+        "confidence": 80
+      },
+      {
+        "word": "drug-resistant",
+        "confidence": 80
+      },
+      {
+        "word": "unresponsive",
+        "confidence": 75
+      },
+      {
+        "word": "overuse",
+        "confidence": 70
+      },
+      {
+        "word": "incomplete",
+        "confidence": 65
+      }
+    ]
+  }
+}

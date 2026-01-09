@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "struggle",
+        "confidence": 90
+      },
+      {
+        "word": "struggle",
+        "confidence": 85
+      },
+      {
+        "word": "crisis",
+        "confidence": 95
+      },
+      {
+        "word": "weakness",
+        "confidence": 80
+      },
+      {
+        "word": "volatility",
+        "confidence": 70
+      },
+      {
+        "word": "resilience",
+        "confidence": 65
+      },
+      {
+        "word": "healthy",
+        "confidence": 55
+      },
+      {
+        "word": "success",
+        "confidence": 60
+      }
+    ]
+  }
+}

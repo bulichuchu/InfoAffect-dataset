@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "soaring",
+        "confidence": 90
+      },
+      {
+        "word": "increase",
+        "confidence": 85
+      },
+      {
+        "word": "rise",
+        "confidence": 85
+      },
+      {
+        "word": "dramatic",
+        "confidence": 70
+      },
+      {
+        "word": "declining",
+        "confidence": 65
+      },
+      {
+        "word": "uncertain",
+        "confidence": 50
+      },
+      {
+        "word": "questionable",
+        "confidence": 55
+      },
+      {
+        "word": "colloquial",
+        "confidence": 40
+      }
+    ]
+  }
+}

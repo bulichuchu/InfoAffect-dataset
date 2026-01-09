@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "anger",
+        "confidence": 85
+      },
+      {
+        "word": "relatable",
+        "confidence": 90
+      },
+      {
+        "word": "humorous",
+        "confidence": 75
+      },
+      {
+        "word": "confusing",
+        "confidence": 80
+      },
+      {
+        "word": "amusing",
+        "confidence": 70
+      },
+      {
+        "word": "effective",
+        "confidence": 78
+      },
+      {
+        "word": "joy",
+        "confidence": 65
+      },
+      {
+        "word": "nuisance",
+        "confidence": 72
+      }
+    ]
+  }
+}

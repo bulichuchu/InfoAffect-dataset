@@ -1,0 +1,38 @@
+{
+  "emotional_analysis": {
+    "affective_words": [
+      {
+        "word": "success",
+        "confidence": 90
+      },
+      {
+        "word": "anger",
+        "confidence": 85
+      },
+      {
+        "word": "mixed",
+        "confidence": 80
+      },
+      {
+        "word": "polarized",
+        "confidence": 78
+      },
+      {
+        "word": "effective",
+        "confidence": 75
+      },
+      {
+        "word": "contemptuous",
+        "confidence": 70
+      },
+      {
+        "word": "favorable",
+        "confidence": 65
+      },
+      {
+        "word": "fraught",
+        "confidence": 72
+      }
+    ]
+  }
+}
