@@ -16,4 +16,4 @@ We conducted a user study with two experiments to validate usability and assess 
 
 ---
 
-The complete infographics are available on Google Drive: [Google Drive Link](https://drive.google.com/file/d/1NopQsuJR0d8RTZ6rH8IP03b-vjbPYdR4/view?usp=drive_link)
+The complete infographics are available on Google Drive: [Google Drive Link](https://drive.google.com/file/d/104is1SArDGYMWGDGQtIgfLsexsgDHQPk/view?usp=sharing)
