@@ -1,6 +1,6 @@
 # InfoAffect Dataset
 
-Dataset repository for the paper **“InfoAffect: A Dataset for Affective Analysis of Infographics”**.  
+Dataset repository for the paper **“InfoAffect: Affective Annotations of Infographics in Information Spread”**.  
 This repo hosts the **corresponding dataset** presented in the paper.
 For more details, please refer to our paper on arXiv: [arXiv Link](https://arxiv.org/abs/2511.06404)
 
